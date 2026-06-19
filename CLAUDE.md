@@ -60,14 +60,13 @@ When the student asks a question about a term or concept from a lesson:
 - Wikipedia: `https://en.wikipedia.org/wiki/Topic`
 - Only include links you are certain exist — do not guess URLs
 
+## Curriculum
+The full lesson sequence is defined in `learning-plan.md`. **Always consult it before creating a new lesson** — it specifies the topic, goals, and key commands for every lesson across all 15 phases. Never invent a lesson topic; follow the plan in order.
+
 ## Lesson Index
 - Lesson 01: `lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
 - Lesson 02: `lessons/lesson-02-host-as-namespace.md` — The host is just another namespace ✓
-- Lesson 03: `lessons/lesson-03-build-namespaces.md` — Build two isolated namespaces
+- Lesson 03: `lessons/lesson-03-build-namespaces.md` — Build two isolated namespaces ✓
+- Lesson 04: `lessons/lesson-04-ip-addressing.md` — IP addressing fundamentals (addrs)
 
 *(Update this index as lessons are created)*
-
-## Progress Tracking
-- Current lesson: 01
-- Completed lessons: none yet
-- Completed phases: none yet
