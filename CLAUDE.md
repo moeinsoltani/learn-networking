@@ -8,12 +8,10 @@
 ## Teaching Methodology
 For each lesson:
 1. Create a lesson file at `lessons/lesson-NN-topic.md` before teaching
-2. The file contains: mental model, mechanics, lab commands with expected output, and checkpoint questions with blank answer fields
-3. Student reads the file, asks questions in chat if needed
-4. Student fills in their answers to checkpoint questions directly in the file
-5. Student reports back (pastes answers or says "done") — I read and correct
-6. Only move to the next lesson when checkpoints pass
-7. At the end of each Phase, give a written test covering all lessons in that phase
+2. The file contains: mental model, mechanics, lab commands with expected output, and checkpoint questions with hidden answers
+3. Student reads the file and asks questions in chat if needed
+4. Student moves to the next lesson at their own pace — no checkpoint gate
+5. At the end of each Phase, give a written test covering all lessons in that phase
 
 ## Site Theme
 - Theme: **Just the Docs** (dark color scheme) via `remote_theme: just-the-docs/just-the-docs@v0.10.0`
@@ -63,7 +61,7 @@ When the student asks a question about a term or concept from a lesson:
 - Only include links you are certain exist — do not guess URLs
 
 ## Lesson Index
-- Lesson 01: `lessons/lesson-01-namespaces-intro.md` — What a network namespace is
+- Lesson 01: `lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
 - Lesson 02: `lessons/lesson-02-host-as-namespace.md` — The host is just another namespace
 - Lesson 03: `lessons/lesson-03-build-namespaces.md` — Build two isolated namespaces
 

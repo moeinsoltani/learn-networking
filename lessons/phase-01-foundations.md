@@ -13,3 +13,4 @@ and the basic `ip` command suite.
 | # | Lesson | Status |
 |---|--------|--------|
 | 01 | [What a network namespace is](lesson-01-namespaces-intro) | In progress |
+| 02 | [The host is just another namespace](lesson-02-host-as-namespace) | In progress |
