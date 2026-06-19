@@ -1,0 +1,178 @@
+# Lesson 1: What a Network Namespace Is
+
+## Concept
+
+Imagine your Linux machine's networking as a single room. Every network interface
+(`eth0`, `lo`, etc.), every route, every firewall rule, every socket — all of it
+lives in that one room. Any process on the machine can see and use all of it.
+
+A **network namespace** is a second, completely separate room. It has its own
+interfaces, its own routing table, its own firewall rules, its own sockets.
+A process running inside that room sees only what is in that room — nothing from
+the original room, and nothing from any other room.
+
+```
+┌─────────────────────────────────────┐   ┌─────────────────────────────────┐
+│         Default namespace           │   │         Namespace: ns1          │
+│                                     │   │                                 │
+│  interfaces:  eth0, lo              │   │  interfaces:  lo (only)         │
+│  routes:      10.0.0.0/24 via eth0  │   │  routes:      (none)            │
+│  firewall:    (your iptables rules) │   │  firewall:    (empty)           │
+│  sockets:     nginx on :80          │   │  sockets:     (none)            │
+└─────────────────────────────────────┘   └─────────────────────────────────┘
+         different rooms — completely isolated
+```
+
+This is exactly how containers work. Docker gives each container its own network
+namespace. Inside the container, it looks like the container owns the whole machine's
+networking — but it is actually just looking at its own small room.
+
+---
+
+## What Is Isolated (per namespace)
+
+Each network namespace has its own independent copy of:
+
+| Thing | Example |
+|---|---|
+| Network interfaces | `eth0`, `lo`, `veth0` |
+| IP addresses | 10.0.0.1 on eth0 |
+| Routing table | `default via 10.0.0.1` |
+| ARP / neighbor table | which MAC owns 10.0.0.2 |
+| Firewall rules | nftables / iptables rulesets |
+| Sockets | which process is listening on :80 |
+
+If you bind a process to port 80 inside `ns1`, it does **not** conflict with
+a process listening on port 80 in the default namespace. They are in separate rooms.
+
+---
+
+## What Is NOT Isolated (shared with the host)
+
+Network namespaces only isolate networking. The following are still shared:
+
+- **The kernel itself** — same kernel, same kernel version
+- **The filesystem** — unless you also use a mount namespace (containers do both)
+- **Processes** — a process in ns1 is still visible in the host's process table
+  (unless you also use a PID namespace)
+- **CPU and memory** — no isolation at all unless you add cgroups
+
+This is why a "network namespace" alone does not make a container. Docker combines
+network namespaces with PID namespaces, mount namespaces, and cgroups.
+
+---
+
+## How It Works
+
+The kernel maintains a list of network namespaces. Every process has a pointer to
+one of them. When the process calls `socket()`, `bind()`, `sendmsg()`, or reads
+the routing table, the kernel uses that process's namespace — not some global state.
+
+When you create a new namespace with `ip netns add ns1`, the kernel:
+1. Allocates a new, empty networking context
+2. Gives it a loopback interface (`lo`) — but lo starts DOWN and has no IP
+
+When you run a command inside ns1 with `ip netns exec ns1 <command>`, the kernel
+temporarily switches that process's network namespace pointer to ns1 before running
+the command.
+
+---
+
+## Lab
+
+You need a Linux machine for this (your VM, not WSL2 for now).
+Open a terminal and run these commands. Lines starting with `$` are commands to run.
+Lines starting with `#` are comments explaining what you are about to see.
+
+```bash
+# See what namespaces exist right now (just the default one)
+$ ip netns list
+# (no output — the default namespace is not listed here)
+
+# Create a new namespace called ns1
+$ sudo ip netns add ns1
+
+# List again
+$ ip netns list
+ns1
+
+# Look inside ns1 — what interfaces does it have?
+$ sudo ip netns exec ns1 ip link show
+1: lo: <LOOPBACK> mtu 65536 qdisc noop state DOWN mode DEFAULT group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+
+# Notice: lo is DOWN and has no IP address. The namespace is empty.
+
+# Compare with the default namespace
+$ ip link show
+# You will see eth0 (or ens3 or similar), lo, and anything else on your VM
+
+# Look at the routing table inside ns1
+$ sudo ip netns exec ns1 ip route show
+# (no output — ns1 has no routes at all)
+
+# Compare with the default namespace routing table
+$ ip route show
+# You will see a default route and your local subnet routes
+
+# Clean up
+$ sudo ip netns delete ns1
+```
+
+**Expected result:** ns1 has only a DOWN loopback and zero routes.
+The default namespace has interfaces and routes. They do not see each other.
+
+---
+
+## Checkpoint
+
+Answer these questions in your own words. Write your answers below each question.
+Do not look them up — the goal is to check your understanding, not find the right words.
+
+**Q1. What exactly is isolated when you create a network namespace?**
+List at least four things.
+
+**Your answer:**
+
+
+---
+
+**Q2. A web server is listening on port 443 inside namespace `ns1`.
+Can another process on the host (default namespace) connect to it on 127.0.0.1:443?
+Why or why not?**
+
+**Your answer:**
+
+
+---
+
+**Q3. You move a process into namespace `ns1`. The process calls `open("/etc/hosts")`.
+Does it read the host's `/etc/hosts` or ns1's `/etc/hosts`?
+Explain why.**
+
+**Your answer:**
+
+
+---
+
+**Q4. A new namespace is created. What is the state of its loopback interface?
+Why does this matter?**
+
+**Your answer:**
+
+
+---
+
+## Homework
+
+Do this before Lesson 2.
+
+1. Create a namespace called `myns`
+2. Inside `myns`, bring up the loopback interface: `ip link set lo up`
+3. Check that lo now has an IP: `ip addr show lo` — you should see `127.0.0.1/8`
+4. Delete `myns`
+
+Write one sentence about what bringing `lo` up does and why it was not up by default.
+
+**Your answer:**
+
