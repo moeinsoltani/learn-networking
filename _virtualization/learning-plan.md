@@ -4,10 +4,9 @@ nav_order: 2
 ---
 
 <!--
-  Curriculum for the Linux Virtualization (QEMU/KVM) track. Lessons are NOT yet
-  implemented — this file is the plan only. Lessons will live in
-  _virtualization/lessons/ with phase parent pages, mirroring the networking
-  track. See CLAUDE.md for the file format and methodology.
+  Curriculum for the Linux Virtualization (QEMU/KVM) track. Each phase and lesson
+  heading links to its page under _virtualization/lessons/. See CLAUDE.md for the
+  file format and methodology.
 -->
 
 # Linux Virtualization Learning Plan — QEMU & KVM
@@ -22,9 +21,9 @@ reinforce each other.
 
 ---
 
-## Phase 1: Virtualization Foundations
+## [Phase 1: Virtualization Foundations](lessons/phase-01-foundations.html)
 
-### Lesson 1: What virtualization actually is
+### [Lesson 1: What virtualization actually is](lessons/lesson-01-what-virtualization-is.html)
 
 **Goal:** Build the core mental model before touching any tool.
 
@@ -39,7 +38,7 @@ reinforce each other.
 
 ---
 
-### Lesson 2: Hypervisor types and where KVM fits
+### [Lesson 2: Hypervisor types and where KVM fits](lessons/lesson-02-hypervisor-types.html)
 
 **Goal:** Place KVM/QEMU on the map of hypervisor designs.
 
@@ -53,7 +52,7 @@ reinforce each other.
 
 ---
 
-### Lesson 3: The QEMU + KVM division of labor
+### [Lesson 3: The QEMU + KVM division of labor](lessons/lesson-03-qemu-kvm-division.html)
 
 **Goal:** Understand the single most important relationship in this curriculum.
 
@@ -77,9 +76,9 @@ reinforce each other.
 
 ---
 
-## Phase 2: CPU & Hardware Virtualization
+## [Phase 2: CPU & Hardware Virtualization](lessons/phase-02-cpu-hardware-virt.html)
 
-### Lesson 4: Rings, privileged instructions, and trap-and-emulate
+### [Lesson 4: Rings, privileged instructions, and trap-and-emulate](lessons/lesson-04-rings-trap-emulate.html)
 
 **Goal:** Understand the classical technique and why plain x86 broke it.
 
@@ -93,7 +92,7 @@ reinforce each other.
 
 ---
 
-### Lesson 5: Hardware virtualization extensions (VT-x / AMD-V)
+### [Lesson 5: Hardware virtualization extensions (VT-x / AMD-V)](lessons/lesson-05-vtx-amdv.html)
 
 **Goal:** Understand the hardware feature that makes KVM possible.
 
@@ -108,7 +107,7 @@ reinforce each other.
 
 ---
 
-### Lesson 6: Memory virtualization — EPT / NPT (SLAT)
+### [Lesson 6: Memory virtualization — EPT / NPT (SLAT)](lessons/lesson-06-ept-npt-slat.html)
 
 **Goal:** Understand how guest physical memory maps to host physical memory.
 
@@ -123,7 +122,7 @@ reinforce each other.
 
 ---
 
-### Lesson 7: Checking and enabling virtualization on the host
+### [Lesson 7: Checking and enabling virtualization on the host](lessons/lesson-07-host-readiness.html)
 
 **Goal:** Get a host ready to run KVM.
 
@@ -140,9 +139,9 @@ reinforce each other.
 
 ---
 
-## Phase 3: KVM Internals
+## [Phase 3: KVM Internals](lessons/phase-03-kvm-internals.html)
 
-### Lesson 8: The /dev/kvm ioctl API
+### [Lesson 8: The /dev/kvm ioctl API](lessons/lesson-08-dev-kvm-ioctl.html)
 
 **Goal:** See that KVM is "just" a character device with an ioctl interface.
 
@@ -158,7 +157,7 @@ reinforce each other.
 
 ---
 
-### Lesson 9: KVM kernel modules and parameters
+### [Lesson 9: KVM kernel modules and parameters](lessons/lesson-09-kvm-modules-params.html)
 
 **Goal:** Know the modules and the knobs that matter.
 
@@ -172,7 +171,7 @@ reinforce each other.
 
 ---
 
-### Lesson 10: The VM-exit loop in depth
+### [Lesson 10: The VM-exit loop in depth](lessons/lesson-10-vm-exit-loop.html)
 
 **Goal:** Trace the most important control flow in the whole stack.
 
@@ -186,7 +185,7 @@ reinforce each other.
 
 ---
 
-### Lesson 11: Observing KVM at runtime
+### [Lesson 11: Observing KVM at runtime](lessons/lesson-11-observing-kvm.html)
 
 **Goal:** Make the invisible visible.
 
@@ -202,9 +201,9 @@ reinforce each other.
 
 ---
 
-## Phase 4: QEMU Fundamentals
+## [Phase 4: QEMU Fundamentals](lessons/phase-04-qemu-fundamentals.html)
 
-### Lesson 12: Anatomy of a QEMU command line
+### [Lesson 12: Anatomy of a QEMU command line](lessons/lesson-12-qemu-command-line.html)
 
 **Goal:** Boot your first VM and understand every flag.
 
@@ -227,7 +226,7 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-### Lesson 13: Machine types and accelerators
+### [Lesson 13: Machine types and accelerators](lessons/lesson-13-machine-types-accel.html)
 
 **Goal:** Understand the virtual motherboard and how guest code is executed.
 
@@ -241,7 +240,7 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-### Lesson 14: Firmware and the boot path
+### [Lesson 14: Firmware and the boot path](lessons/lesson-14-firmware-boot.html)
 
 **Goal:** Understand how the virtual machine starts executing.
 
@@ -258,7 +257,7 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-### Lesson 15: The QEMU monitor — HMP and QMP
+### [Lesson 15: The QEMU monitor — HMP and QMP](lessons/lesson-15-monitor-hmp-qmp.html)
 
 **Goal:** Learn to introspect and control a running VM.
 
@@ -274,7 +273,7 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-### Lesson 16: Display, console, and remote access
+### [Lesson 16: Display, console, and remote access](lessons/lesson-16-display-console.html)
 
 **Goal:** Get pixels and serial out of a VM.
 
@@ -288,9 +287,9 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-## Phase 5: CPU & Memory Configuration
+## [Phase 5: CPU & Memory Configuration](lessons/phase-05-cpu-memory.html)
 
-### Lesson 17: vCPU models and feature flags
+### [Lesson 17: vCPU models and feature flags](lessons/lesson-17-vcpu-models.html)
 
 **Goal:** Control what CPU the guest believes it has.
 
@@ -304,7 +303,7 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-### Lesson 18: CPU topology
+### [Lesson 18: CPU topology](lessons/lesson-18-cpu-topology.html)
 
 **Goal:** Present sockets/cores/threads sensibly to the guest.
 
@@ -318,7 +317,7 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-### Lesson 19: Guest memory backends and hugepages
+### [Lesson 19: Guest memory backends and hugepages](lessons/lesson-19-memory-hugepages.html)
 
 **Goal:** Control how guest RAM is backed on the host.
 
@@ -334,7 +333,7 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-### Lesson 20: Ballooning and KSM
+### [Lesson 20: Ballooning and KSM](lessons/lesson-20-balloon-ksm.html)
 
 **Goal:** Reclaim and deduplicate memory across guests.
 
@@ -348,7 +347,7 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-### Lesson 21: NUMA awareness
+### [Lesson 21: NUMA awareness](lessons/lesson-21-numa.html)
 
 **Goal:** Avoid the classic cross-node performance cliff.
 
@@ -362,9 +361,9 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-## Phase 6: Storage
+## [Phase 6: Storage](lessons/phase-06-storage.html)
 
-### Lesson 22: Disk image formats and qemu-img
+### [Lesson 22: Disk image formats and qemu-img](lessons/lesson-22-image-formats-qemu-img.html)
 
 **Goal:** Master the most-used QEMU tool after the emulator itself.
 
@@ -380,7 +379,7 @@ Boot a small Linux image; reach a login prompt over serial.
 
 ---
 
-### Lesson 23: qcow2 internals — backing files and copy-on-write
+### [Lesson 23: qcow2 internals — backing files and copy-on-write](lessons/lesson-23-qcow2-internals.html)
 
 **Goal:** Understand the format that powers templates, clones, and snapshots.
 
@@ -403,7 +402,7 @@ Build a base + two overlays; show that writes land in overlays and the base stay
 
 ---
 
-### Lesson 24: Block device models
+### [Lesson 24: Block device models](lessons/lesson-24-block-device-models.html)
 
 **Goal:** Connect images to the guest the right way.
 
@@ -417,7 +416,7 @@ Build a base + two overlays; show that writes land in overlays and the base stay
 
 ---
 
-### Lesson 25: Caching modes and AIO
+### [Lesson 25: Caching modes and AIO](lessons/lesson-25-caching-aio.html)
 
 **Goal:** Trade safety against speed deliberately, not accidentally.
 
@@ -431,7 +430,7 @@ Build a base + two overlays; show that writes land in overlays and the base stay
 
 ---
 
-### Lesson 26: Snapshots
+### [Lesson 26: Snapshots](lessons/lesson-26-snapshots.html)
 
 **Goal:** Capture and roll back VM state.
 
@@ -447,9 +446,9 @@ Build a base + two overlays; show that writes land in overlays and the base stay
 
 ---
 
-## Phase 7: VirtIO & Paravirtualization
+## [Phase 7: VirtIO & Paravirtualization](lessons/phase-07-virtio.html)
 
-### Lesson 27: The virtio standard
+### [Lesson 27: The virtio standard](lessons/lesson-27-virtio-standard.html)
 
 **Goal:** Understand the paravirtual device framework everything else builds on.
 
@@ -464,7 +463,7 @@ Build a base + two overlays; show that writes land in overlays and the base stay
 
 ---
 
-### Lesson 28: The core virtio devices
+### [Lesson 28: The core virtio devices](lessons/lesson-28-virtio-devices.html)
 
 **Goal:** Know the catalog and what each is for.
 
@@ -478,7 +477,7 @@ Build a base + two overlays; show that writes land in overlays and the base stay
 
 ---
 
-### Lesson 29: vhost — moving the datapath into the kernel
+### [Lesson 29: vhost — moving the datapath into the kernel](lessons/lesson-29-vhost.html)
 
 **Goal:** Understand the first big performance offload.
 
@@ -492,7 +491,7 @@ Build a base + two overlays; show that writes land in overlays and the base stay
 
 ---
 
-### Lesson 30: vhost-user, vsock, and shared-memory datapaths
+### [Lesson 30: vhost-user, vsock, and shared-memory datapaths](lessons/lesson-30-vhost-user-vsock.html)
 
 **Goal:** See where high-performance and host/guest comms go next.
 
@@ -506,12 +505,12 @@ Build a base + two overlays; show that writes land in overlays and the base stay
 
 ---
 
-## Phase 8: Networking for VMs
+## [Phase 8: Networking for VMs](lessons/phase-08-vm-networking.html)
 
 > This phase deliberately reuses the **networking curriculum** (`learning-plan.md`):
 > TAP (Lesson 14), bridges (Lesson 11), and libvirt networks (Phase 9 below).
 
-### Lesson 31: User-mode networking (SLIRP)
+### [Lesson 31: User-mode networking (SLIRP)](lessons/lesson-31-slirp.html)
 
 **Goal:** Understand the zero-config default and its limits.
 
@@ -527,7 +526,7 @@ Build a base + two overlays; show that writes land in overlays and the base stay
 
 ---
 
-### Lesson 32: TAP + bridge networking
+### [Lesson 32: TAP + bridge networking](lessons/lesson-32-tap-bridge.html)
 
 **Goal:** Put guests on a real L2 network — the production pattern.
 
@@ -549,7 +548,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 33: Accelerated networking — vhost-net and multiqueue
+### [Lesson 33: Accelerated networking — vhost-net and multiqueue](lessons/lesson-33-accelerated-net.html)
 
 **Goal:** Make virtio-net fast.
 
@@ -563,7 +562,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 34: macvtap and SR-IOV networking
+### [Lesson 34: macvtap and SR-IOV networking](lessons/lesson-34-macvtap-sriov.html)
 
 **Goal:** Know the lower-overhead alternatives to bridging.
 
@@ -577,9 +576,9 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-## Phase 9: Device Passthrough (VFIO & IOMMU)
+## [Phase 9: Device Passthrough (VFIO & IOMMU)](lessons/phase-09-passthrough.html)
 
-### Lesson 35: The IOMMU
+### [Lesson 35: The IOMMU](lessons/lesson-35-iommu.html)
 
 **Goal:** Understand the hardware that makes safe passthrough possible.
 
@@ -595,7 +594,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 36: VFIO PCI passthrough
+### [Lesson 36: VFIO PCI passthrough](lessons/lesson-36-vfio-pci.html)
 
 **Goal:** Assign a real PCI device to a guest.
 
@@ -611,7 +610,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 37: GPU passthrough
+### [Lesson 37: GPU passthrough](lessons/lesson-37-gpu-passthrough.html)
 
 **Goal:** Tackle the hardest, most popular passthrough case.
 
@@ -625,7 +624,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 38: SR-IOV and mediated devices
+### [Lesson 38: SR-IOV and mediated devices](lessons/lesson-38-sriov-mdev.html)
 
 **Goal:** Share one physical device among many guests.
 
@@ -639,9 +638,9 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-## Phase 10: libvirt — The Management Layer
+## [Phase 10: libvirt — The Management Layer](lessons/phase-10-libvirt.html)
 
-### Lesson 39: libvirt architecture and virsh
+### [Lesson 39: libvirt architecture and virsh](lessons/lesson-39-libvirt-virsh.html)
 
 **Goal:** Step up from raw QEMU to a managed, persistent API.
 
@@ -657,7 +656,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 40: The domain XML
+### [Lesson 40: The domain XML](lessons/lesson-40-domain-xml.html)
 
 **Goal:** Read and write the canonical VM definition.
 
@@ -671,7 +670,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 41: Storage pools and volumes
+### [Lesson 41: Storage pools and volumes](lessons/lesson-41-storage-pools.html)
 
 **Goal:** Let libvirt manage disk storage.
 
@@ -685,7 +684,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 42: libvirt virtual networks
+### [Lesson 42: libvirt virtual networks](lessons/lesson-42-libvirt-networks.html)
 
 **Goal:** Manage VM networking declaratively — bridging the two curricula.
 
@@ -701,7 +700,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 43: virt-install and the desktop tools
+### [Lesson 43: virt-install and the desktop tools](lessons/lesson-43-virt-install.html)
 
 **Goal:** Create and operate VMs efficiently.
 
@@ -717,9 +716,9 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-## Phase 11: Guest Images & Provisioning
+## [Phase 11: Guest Images & Provisioning](lessons/phase-11-images-provisioning.html)
 
-### Lesson 44: Cloud images and cloud-init
+### [Lesson 44: Cloud images and cloud-init](lessons/lesson-44-cloud-init.html)
 
 **Goal:** Stop installing OSes by hand.
 
@@ -735,7 +734,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 45: libguestfs — editing images without booting them
+### [Lesson 45: libguestfs — editing images without booting them](lessons/lesson-45-libguestfs.html)
 
 **Goal:** Manipulate guest disks offline.
 
@@ -751,7 +750,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 46: Templates and cloning
+### [Lesson 46: Templates and cloning](lessons/lesson-46-templates-cloning.html)
 
 **Goal:** Mass-produce VMs.
 
@@ -765,9 +764,9 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-## Phase 12: Snapshots, Backup & Live Migration
+## [Phase 12: Snapshots, Backup & Live Migration](lessons/phase-12-migration.html)
 
-### Lesson 47: Domain snapshots, checkpoints, and incremental backup
+### [Lesson 47: Domain snapshots, checkpoints, and incremental backup](lessons/lesson-47-backup-checkpoints.html)
 
 **Goal:** Protect and capture VM state at the management layer.
 
@@ -781,7 +780,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 48: Live migration mechanics
+### [Lesson 48: Live migration mechanics](lessons/lesson-48-migration-mechanics.html)
 
 **Goal:** Move a running VM between hosts with minimal downtime.
 
@@ -795,7 +794,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 49: Live migration in practice
+### [Lesson 49: Live migration in practice](lessons/lesson-49-migration-practice.html)
 
 **Goal:** Actually migrate something.
 
@@ -811,9 +810,9 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-## Phase 13: Performance Tuning & Observability
+## [Phase 13: Performance Tuning & Observability](lessons/phase-13-performance.html)
 
-### Lesson 50: CPU pinning and thread placement
+### [Lesson 50: CPU pinning and thread placement](lessons/lesson-50-cpu-pinning.html)
 
 **Goal:** Eliminate scheduling jitter for latency-sensitive guests.
 
@@ -827,7 +826,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 51: Memory and NUMA tuning in production
+### [Lesson 51: Memory and NUMA tuning in production](lessons/lesson-51-memory-numa-tuning.html)
 
 **Goal:** Apply Phase 5 knowledge for real workloads.
 
@@ -841,7 +840,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 52: Storage and I/O tuning
+### [Lesson 52: Storage and I/O tuning](lessons/lesson-52-storage-io-tuning.html)
 
 **Goal:** Get the disk subsystem out of the way.
 
@@ -855,7 +854,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 53: Observability — measuring a running VM
+### [Lesson 53: Observability — measuring a running VM](lessons/lesson-53-observability.html)
 
 **Goal:** Diagnose performance like the networking track diagnoses packets.
 
@@ -869,7 +868,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 54: tuned and host profiles
+### [Lesson 54: tuned and host profiles](lessons/lesson-54-tuned-profiles.html)
 
 **Goal:** Apply sane defaults quickly.
 
@@ -883,9 +882,9 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-## Phase 14: Nested Virtualization & Security
+## [Phase 14: Nested Virtualization & Security](lessons/phase-14-nested-security.html)
 
-### Lesson 55: Nested virtualization
+### [Lesson 55: Nested virtualization](lessons/lesson-55-nested-virt.html)
 
 **Goal:** Run KVM inside KVM (for labs, CI, and this very curriculum).
 
@@ -901,7 +900,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 56: sVirt — confining QEMU with MAC
+### [Lesson 56: sVirt — confining QEMU with MAC](lessons/lesson-56-svirt.html)
 
 **Goal:** Contain the blast radius if a QEMU process is compromised.
 
@@ -915,7 +914,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 57: QEMU hardening and sandboxing
+### [Lesson 57: QEMU hardening and sandboxing](lessons/lesson-57-qemu-hardening.html)
 
 **Goal:** Reduce QEMU's privileges and attack surface.
 
@@ -929,7 +928,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 58: Confidential computing
+### [Lesson 58: Confidential computing](lessons/lesson-58-confidential-computing.html)
 
 **Goal:** Understand memory encryption and attestation for VMs.
 
@@ -943,9 +942,9 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-## Phase 15: Lightweight VMs & the Ecosystem
+## [Phase 15: Lightweight VMs & the Ecosystem](lessons/phase-15-lightweight-ecosystem.html)
 
-### Lesson 59: microVMs
+### [Lesson 59: microVMs](lessons/lesson-59-microvms.html)
 
 **Goal:** Meet the stripped-down VMs behind serverless and sandboxing.
 
@@ -961,7 +960,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 60: VM-isolated containers and the VM-vs-container question
+### [Lesson 60: VM-isolated containers and the VM-vs-container question](lessons/lesson-60-kata-containers.html)
 
 **Goal:** Place virtualization next to containers honestly.
 
@@ -975,7 +974,7 @@ Bridge a guest onto the host LAN; confirm it gets a LAN IP and is reachable from
 
 ---
 
-### Lesson 61: Management platforms and where to go next
+### [Lesson 61: Management platforms and where to go next](lessons/lesson-61-platforms-next.html)
 
 **Goal:** See how everything composes at scale, and chart further study.
 

@@ -8,9 +8,9 @@ nav_exclude: false
 
 ---
 
-## Phase 1: Foundations — Namespaces & Basic IP Tools
+## [Phase 1: Foundations — Namespaces & Basic IP Tools](lessons/phase-01-foundations.html)
 
-### Lesson 1: What a network namespace is
+### [Lesson 1: What a network namespace is](lessons/lesson-01-namespaces-intro.html)
 
 **Goal:** Understand that a namespace is an independent networking universe.
 
@@ -23,7 +23,7 @@ nav_exclude: false
 
 ---
 
-### Lesson 2: The "host is just another namespace" model
+### [Lesson 2: The "host is just another namespace" model](lessons/lesson-02-host-as-namespace.html)
 
 **Goal:** Stop thinking of the host as special.
 
@@ -37,7 +37,7 @@ nav_exclude: false
 
 ---
 
-### Lesson 3: Build two isolated namespaces
+### [Lesson 3: Build two isolated namespaces](lessons/lesson-03-build-namespaces.html)
 
 **Goal:** Experience isolation directly.
 
@@ -55,7 +55,7 @@ Host | ns1 | ns2
 
 ---
 
-### Lesson 4: IP addressing fundamentals (addrs)
+### [Lesson 4: IP addressing fundamentals (addrs)](lessons/lesson-04-ip-addressing.html)
 
 **Goal:** Master `ip addr` and understand how IP addresses are assigned to interfaces.
 
@@ -72,7 +72,7 @@ Host | ns1 | ns2
 
 ---
 
-### Lesson 5: Neighbor tables & ARP (neigh)
+### [Lesson 5: Neighbor tables & ARP (neigh)](lessons/lesson-05-arp-neigh.html)
 
 **Goal:** Understand how L3 addresses are resolved to L2 MACs.
 
@@ -89,7 +89,7 @@ Host | ns1 | ns2
 
 ---
 
-### Lesson 6: tcpdump — your constant companion
+### [Lesson 6: tcpdump — your constant companion](lessons/lesson-06-tcpdump.html)
 
 **Goal:** Learn packet capture as a diagnostic tool you will use in every single lab that follows.
 
@@ -106,9 +106,9 @@ Host | ns1 | ns2
 
 ---
 
-## Phase 2: Virtual Interfaces
+## [Phase 2: Virtual Interfaces](lessons/phase-02-virtual-interfaces.html)
 
-### Lesson 7: veth pairs
+### [Lesson 7: veth pairs](lessons/lesson-07-veth-pairs.html)
 
 **Goal:** Understand the virtual Ethernet cable — the fundamental building block of all Linux virtual networking.
 
@@ -128,7 +128,7 @@ ns1 <----veth----> ns2
 
 ---
 
-### Lesson 8: Loopback interface
+### [Lesson 8: Loopback interface](lessons/lesson-08-loopback.html)
 
 **Goal:** Understand why every namespace needs its own loopback.
 
@@ -142,7 +142,7 @@ ns1 <----veth----> ns2
 
 ---
 
-### Lesson 9: Bond interfaces
+### [Lesson 9: Bond interfaces](lessons/lesson-09-bonding.html)
 
 **Goal:** Combine multiple links for redundancy or throughput.
 
@@ -156,7 +156,7 @@ ns1 <----veth----> ns2
 
 ---
 
-### Lesson 10: Dummy interfaces
+### [Lesson 10: Dummy interfaces](lessons/lesson-10-dummy.html)
 
 **Goal:** Create a virtual IP endpoint that exists only in software.
 
@@ -169,9 +169,9 @@ ns1 <----veth----> ns2
 
 ---
 
-## Phase 3: Layer-2 Networking
+## [Phase 3: Layer-2 Networking](lessons/phase-03-layer2.html)
 
-### Lesson 11: Linux bridges
+### [Lesson 11: Linux bridges](lessons/lesson-11-bridges.html)
 
 **Goal:** Build a software switch inside the kernel.
 
@@ -196,7 +196,7 @@ ns2
 
 ---
 
-### Lesson 12: VLAN interfaces
+### [Lesson 12: VLAN interfaces](lessons/lesson-12-vlans.html)
 
 **Goal:** Carry multiple isolated networks over one cable.
 
@@ -221,7 +221,7 @@ ns1 and ns3 can communicate. ns2 cannot reach them.
 
 ---
 
-### Lesson 13: MACVLAN
+### [Lesson 13: MACVLAN](lessons/lesson-13-macvlan.html)
 
 **Goal:** Give a namespace its own MAC address and presence on the physical LAN.
 
@@ -235,7 +235,7 @@ ns1 and ns3 can communicate. ns2 cannot reach them.
 
 ---
 
-### Lesson 14: TAP interfaces
+### [Lesson 14: TAP interfaces](lessons/lesson-14-tap.html)
 
 **Goal:** Understand interfaces that hand Ethernet frames to userspace (used by VMs).
 
@@ -249,9 +249,9 @@ ns1 and ns3 can communicate. ns2 cannot reach them.
 
 ---
 
-## Phase 4: Overlay Networks
+## [Phase 4: Overlay Networks](lessons/phase-04-overlay.html)
 
-### Lesson 15: VXLAN
+### [Lesson 15: VXLAN](lessons/lesson-15-vxlan.html)
 
 **Goal:** Stretch a Layer-2 network across a Layer-3 infrastructure.
 
@@ -275,9 +275,9 @@ Capture the outer UDP packet with tcpdump. Identify the VXLAN header.
 
 ---
 
-## Phase 5: Layer-3 — Routing
+## [Phase 5: Layer-3 — Routing](lessons/phase-05-routing.html)
 
-### Lesson 16: Routing fundamentals (routes)
+### [Lesson 16: Routing fundamentals (routes)](lessons/lesson-16-routing-fundamentals.html)
 
 **Goal:** Understand how the kernel decides where to send a packet.
 
@@ -295,7 +295,7 @@ Capture the outer UDP packet with tcpdump. Identify the VXLAN header.
 
 ---
 
-### Lesson 17: Routing between namespaces
+### [Lesson 17: Routing between namespaces](lessons/lesson-17-routing-namespaces.html)
 
 **Goal:** Use a namespace as a router.
 
@@ -314,7 +314,7 @@ ns1 (10.0.1.2/24) <--veth--> router-ns (10.0.1.1 / 10.0.2.1) <--veth--> ns2 (10.
 
 ---
 
-### Lesson 18: Policy routing & multiple routing tables
+### [Lesson 18: Policy routing & multiple routing tables](lessons/lesson-18-policy-routing.html)
 
 **Goal:** Route based on source address or firewall mark, not just destination.
 
@@ -328,9 +328,9 @@ ns1 (10.0.1.2/24) <--veth--> router-ns (10.0.1.1 / 10.0.2.1) <--veth--> ns2 (10.
 
 ---
 
-## Phase 6: Dynamic Routing — FRR
+## [Phase 6: Dynamic Routing — FRR](lessons/phase-06-frr.html)
 
-### Lesson 19: FRR introduction
+### [Lesson 19: FRR introduction](lessons/lesson-19-frr-intro.html)
 
 **Goal:** Replace static routes with a routing daemon that adapts to topology changes.
 
@@ -345,7 +345,7 @@ ns1 (10.0.1.2/24) <--veth--> router-ns (10.0.1.1 / 10.0.2.1) <--veth--> ns2 (10.
 
 ---
 
-### Lesson 20: OSPF with FRR
+### [Lesson 20: OSPF with FRR](lessons/lesson-20-ospf.html)
 
 **Goal:** Build a self-healing routed network inside namespaces.
 
@@ -369,7 +369,7 @@ Kill the link between router-a and router-b. Watch OSPF reconverge via router-c.
 
 ---
 
-### Lesson 21: BGP with FRR
+### [Lesson 21: BGP with FRR](lessons/lesson-21-bgp.html)
 
 **Goal:** Understand the protocol that connects autonomous systems.
 
@@ -389,9 +389,9 @@ AS 65001 (router-a) <--eBGP--> AS 65002 (router-b)
 
 ---
 
-## Phase 7: NAT, Conntrack & DHCP
+## [Phase 7: NAT, Conntrack & DHCP](lessons/phase-07-nat.html)
 
-### Lesson 22: NAT with nftables
+### [Lesson 22: NAT with nftables](lessons/lesson-22-nat.html)
 
 **Goal:** Recreate a home router in namespaces.
 
@@ -415,7 +415,7 @@ LAN namespace (192.168.100.x)
 
 ---
 
-### Lesson 23: Conntrack
+### [Lesson 23: Conntrack](lessons/lesson-23-conntrack.html)
 
 **Goal:** Understand the state machine that makes NAT and stateful firewalling possible.
 
@@ -431,7 +431,7 @@ LAN namespace (192.168.100.x)
 
 ---
 
-### Lesson 24: DHCP
+### [Lesson 24: DHCP](lessons/lesson-24-dhcp.html)
 
 **Goal:** Automate IP address assignment.
 
@@ -449,9 +449,9 @@ LAN namespace (192.168.100.x)
 
 ---
 
-## Phase 8: Firewalling — nftables
+## [Phase 8: Firewalling — nftables](lessons/phase-08-nftables.html)
 
-### Lesson 25: nftables architecture
+### [Lesson 25: nftables architecture](lessons/lesson-25-nftables-arch.html)
 
 **Goal:** Understand the structure of the modern Linux firewall.
 
@@ -467,7 +467,7 @@ LAN namespace (192.168.100.x)
 
 ---
 
-### Lesson 26: Packet filtering with nft
+### [Lesson 26: Packet filtering with nft](lessons/lesson-26-nft-filtering.html)
 
 **Goal:** Build a real stateful firewall.
 
@@ -484,7 +484,7 @@ LAN namespace (192.168.100.x)
 
 ---
 
-### Lesson 27: nftables sets and verdict maps
+### [Lesson 27: nftables sets and verdict maps](lessons/lesson-27-nft-sets.html)
 
 **Goal:** Write efficient multi-value rules without repeating yourself.
 
@@ -499,7 +499,7 @@ LAN namespace (192.168.100.x)
 
 ---
 
-### Lesson 28: nftables flowtable (connection offload)
+### [Lesson 28: nftables flowtable (connection offload)](lessons/lesson-28-flowtable.html)
 
 **Goal:** Bypass the full netfilter stack for established flows.
 
@@ -512,9 +512,9 @@ LAN namespace (192.168.100.x)
 
 ---
 
-## Phase 9: Traffic Control — tc, qdisc, Filters
+## [Phase 9: Traffic Control — tc, qdisc, Filters](lessons/phase-09-tc.html)
 
-### Lesson 29: Traffic control model
+### [Lesson 29: Traffic control model](lessons/lesson-29-tc-model.html)
 
 **Goal:** Understand how the kernel queues and schedules outbound packets.
 
@@ -529,7 +529,7 @@ LAN namespace (192.168.100.x)
 
 ---
 
-### Lesson 30: Classless qdiscs — shaping and emulation
+### [Lesson 30: Classless qdiscs — shaping and emulation](lessons/lesson-30-classless-qdisc.html)
 
 **Goal:** Rate-limit and emulate network conditions without classifying traffic.
 
@@ -546,7 +546,7 @@ LAN namespace (192.168.100.x)
 
 ---
 
-### Lesson 31: Classful qdiscs — HTB
+### [Lesson 31: Classful qdiscs — HTB](lessons/lesson-31-htb.html)
 
 **Goal:** Shape and prioritize different traffic flows independently.
 
@@ -570,7 +570,7 @@ root 1: (10mbit total)
 
 ---
 
-### Lesson 32: tc filters
+### [Lesson 32: tc filters](lessons/lesson-32-tc-filters.html)
 
 **Goal:** Classify packets into HTB classes so the right qdisc handles them.
 
@@ -589,7 +589,7 @@ root 1: (10mbit total)
 
 ---
 
-### Lesson 33: Bandwidth measurement
+### [Lesson 33: Bandwidth measurement](lessons/lesson-33-bandwidth.html)
 
 **Goal:** Measure real throughput in your lab topology.
 
@@ -606,9 +606,9 @@ root 1: (10mbit total)
 
 ---
 
-## Phase 10: Kernel Network Parameters — sysctl
+## [Phase 10: Kernel Network Parameters — sysctl](lessons/phase-10-sysctl.html)
 
-### Lesson 34: Network sysctl tunables
+### [Lesson 34: Network sysctl tunables](lessons/lesson-34-sysctl-tunables.html)
 
 **Goal:** Control kernel networking behavior at runtime without recompiling.
 
@@ -629,7 +629,7 @@ root 1: (10mbit total)
 
 ---
 
-### Lesson 35: sysctl persistence
+### [Lesson 35: sysctl persistence](lessons/lesson-35-sysctl-persistence.html)
 
 **Goal:** Make sysctl changes survive reboots.
 
@@ -643,9 +643,9 @@ root 1: (10mbit total)
 
 ---
 
-## Phase 11: eBPF & BPF Maps
+## [Phase 11: eBPF & BPF Maps](lessons/phase-11-ebpf.html)
 
-### Lesson 36: eBPF fundamentals
+### [Lesson 36: eBPF fundamentals](lessons/lesson-36-ebpf-fundamentals.html)
 
 **Goal:** Understand the programmable kernel dataplane.
 
@@ -660,7 +660,7 @@ root 1: (10mbit total)
 
 ---
 
-### Lesson 37: BPF maps
+### [Lesson 37: BPF maps](lessons/lesson-37-bpf-maps.html)
 
 **Goal:** Share state between eBPF programs and userspace (and between programs).
 
@@ -677,7 +677,7 @@ root 1: (10mbit total)
 
 ---
 
-### Lesson 38: XDP — Express Data Path
+### [Lesson 38: XDP — Express Data Path](lessons/lesson-38-xdp.html)
 
 **Goal:** Process packets at the earliest possible kernel hook, before skb allocation.
 
@@ -694,9 +694,9 @@ root 1: (10mbit total)
 
 ---
 
-## Phase 12: nftables + BPF Integration
+## [Phase 12: nftables + BPF Integration](lessons/phase-12-nftbpf.html)
 
-### Lesson 39: nftbpf — calling BPF programs from nftables
+### [Lesson 39: nftbpf — calling BPF programs from nftables](lessons/lesson-39-nftbpf.html)
 
 **Goal:** Combine nftables policy with BPF logic for cases neither can handle alone.
 
@@ -713,9 +713,9 @@ root 1: (10mbit total)
 
 ---
 
-## Phase 13: Configuration Persistence
+## [Phase 13: Configuration Persistence](lessons/phase-13-persistence.html)
 
-### Lesson 40: systemd-networkd
+### [Lesson 40: systemd-networkd](lessons/lesson-40-systemd-networkd.html)
 
 **Goal:** Persist the entire network configuration from all previous phases in a maintainable, declarative format.
 
@@ -733,7 +733,7 @@ root 1: (10mbit total)
 
 ---
 
-### Lesson 41: Other persistence approaches
+### [Lesson 41: Other persistence approaches](lessons/lesson-41-persistence-alternatives.html)
 
 **Goal:** Know what else exists and when to use it.
 
@@ -749,9 +749,9 @@ root 1: (10mbit total)
 
 ---
 
-## Phase 14: Container & Cloud Networking
+## [Phase 14: Container & Cloud Networking](lessons/phase-14-container-cloud.html)
 
-### Lesson 42: Docker networking from first principles
+### [Lesson 42: Docker networking from first principles](lessons/lesson-42-docker-networking.html)
 
 **Goal:** Build Docker's default bridge network manually without using Docker.
 
@@ -777,7 +777,7 @@ Then inspect a real Docker container: `docker network inspect bridge` and compar
 
 ---
 
-### Lesson 43: Kubernetes networking
+### [Lesson 43: Kubernetes networking](lessons/lesson-43-kubernetes-networking.html)
 
 **Topics:**
 - Pod networking model: every pod gets its own IP, no NAT between pods
@@ -791,7 +791,7 @@ Then inspect a real Docker container: `docker network inspect bridge` and compar
 
 ---
 
-### Lesson 44: VXLAN-based CNI (Flannel)
+### [Lesson 44: VXLAN-based CNI (Flannel)](lessons/lesson-44-flannel-vxlan.html)
 
 **Goal:** See VXLAN from Phase 4 operating in a real Kubernetes context.
 
@@ -805,9 +805,9 @@ Then inspect a real Docker container: `docker network inspect bridge` and compar
 
 ---
 
-## Phase 15: Troubleshooting & Diagnostics
+## [Phase 15: Troubleshooting & Diagnostics](lessons/phase-15-troubleshooting.html)
 
-### Lesson 45: tcpdump mastery
+### [Lesson 45: tcpdump mastery](lessons/lesson-45-tcpdump-mastery.html)
 
 **Goal:** Read network traffic at expert level.
 
@@ -825,7 +825,7 @@ Then inspect a real Docker container: `docker network inspect bridge` and compar
 
 ---
 
-### Lesson 46: Full diagnostic toolchain
+### [Lesson 46: Full diagnostic toolchain](lessons/lesson-46-diagnostic-toolchain.html)
 
 **Goal:** Develop a systematic process for diagnosing any networking failure.
 
@@ -851,7 +851,7 @@ Then inspect a real Docker container: `docker network inspect bridge` and compar
 
 ---
 
-### Lesson 47: Network debugging methodology
+### [Lesson 47: Network debugging methodology](lessons/lesson-47-debugging-methodology.html)
 
 **Goal:** Never guess. Work layer by layer.
 
