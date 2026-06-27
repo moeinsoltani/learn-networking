@@ -14,13 +14,13 @@ point-to-point tunnels into a self-configuring mesh. It builds on Lesson 14 (TUN
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 48 | [Tunneling fundamentals — GRE, IPIP, SIT, FOU](lesson-48-tunneling-fundamentals) | Planned |
-| 49 | [VPN cryptography building blocks](lesson-49-vpn-crypto) | Planned |
-| 50 | [IPsec and the kernel xfrm framework](lesson-50-ipsec-xfrm) | Planned |
-| 51 | [WireGuard fundamentals](lesson-51-wireguard-fundamentals) | Planned |
-| 52 | [WireGuard internals & userspace datapaths](lesson-52-wireguard-internals) | Planned |
-| 53 | [NAT traversal — STUN, ICE, UDP hole punching](lesson-53-nat-traversal) | Planned |
-| 54 | [Relays and fallback paths](lesson-54-relays) | Planned |
-| 55 | [Mesh VPNs and coordination/control planes](lesson-55-mesh-vpns) | Planned |
-| 56 | [TLS-based VPNs (OpenVPN)](lesson-56-tls-vpns) | Planned |
-| 57 | [Capstone — an encrypted mesh across NAT](lesson-57-vpn-capstone) | Planned |
+| 48 | [Tunneling fundamentals — GRE, IPIP, SIT, FOU](lesson-48-tunneling-fundamentals) | Ready |
+| 49 | [VPN cryptography building blocks](lesson-49-vpn-crypto) | Ready |
+| 50 | [IPsec and the kernel xfrm framework](lesson-50-ipsec-xfrm) | Ready |
+| 51 | [WireGuard fundamentals](lesson-51-wireguard-fundamentals) | Ready |
+| 52 | [WireGuard internals & userspace datapaths](lesson-52-wireguard-internals) | Ready |
+| 53 | [NAT traversal — STUN, ICE, UDP hole punching](lesson-53-nat-traversal) | Ready |
+| 54 | [Relays and fallback paths](lesson-54-relays) | Ready |
+| 55 | [Mesh VPNs and coordination/control planes](lesson-55-mesh-vpns) | Ready |
+| 56 | [TLS-based VPNs (OpenVPN)](lesson-56-tls-vpns) | Ready |
+| 57 | [Capstone — an encrypted mesh across NAT](lesson-57-vpn-capstone) | Ready |

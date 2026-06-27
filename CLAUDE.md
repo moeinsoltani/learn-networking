@@ -145,16 +145,16 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Lesson 45: `_networking/lessons/lesson-45-tcpdump-mastery.md` — tcpdump mastery ✓
 - Lesson 46: `_networking/lessons/lesson-46-diagnostic-toolchain.md` — Full diagnostic toolchain ✓
 - Lesson 47: `_networking/lessons/lesson-47-debugging-methodology.md` — Network debugging methodology ✓
-- Lesson 48: `_networking/lessons/lesson-48-tunneling-fundamentals.md` — Tunneling fundamentals (GRE/IPIP/SIT/FOU)
-- Lesson 49: `_networking/lessons/lesson-49-vpn-crypto.md` — VPN cryptography building blocks
-- Lesson 50: `_networking/lessons/lesson-50-ipsec-xfrm.md` — IPsec & the xfrm framework
-- Lesson 51: `_networking/lessons/lesson-51-wireguard-fundamentals.md` — WireGuard fundamentals
-- Lesson 52: `_networking/lessons/lesson-52-wireguard-internals.md` — WireGuard internals & userspace
-- Lesson 53: `_networking/lessons/lesson-53-nat-traversal.md` — NAT traversal (STUN/ICE/hole punching)
-- Lesson 54: `_networking/lessons/lesson-54-relays.md` — Relays and fallback paths
-- Lesson 55: `_networking/lessons/lesson-55-mesh-vpns.md` — Mesh VPNs & coordination planes
-- Lesson 56: `_networking/lessons/lesson-56-tls-vpns.md` — TLS-based VPNs (OpenVPN)
-- Lesson 57: `_networking/lessons/lesson-57-vpn-capstone.md` — Capstone: encrypted mesh across NAT
+- Lesson 48: `_networking/lessons/lesson-48-tunneling-fundamentals.md` — Tunneling fundamentals (GRE/IPIP/SIT/FOU) ✓
+- Lesson 49: `_networking/lessons/lesson-49-vpn-crypto.md` — VPN cryptography building blocks ✓
+- Lesson 50: `_networking/lessons/lesson-50-ipsec-xfrm.md` — IPsec & the xfrm framework ✓
+- Lesson 51: `_networking/lessons/lesson-51-wireguard-fundamentals.md` — WireGuard fundamentals ✓
+- Lesson 52: `_networking/lessons/lesson-52-wireguard-internals.md` — WireGuard internals & userspace ✓
+- Lesson 53: `_networking/lessons/lesson-53-nat-traversal.md` — NAT traversal (STUN/ICE/hole punching) ✓
+- Lesson 54: `_networking/lessons/lesson-54-relays.md` — Relays and fallback paths ✓
+- Lesson 55: `_networking/lessons/lesson-55-mesh-vpns.md` — Mesh VPNs & coordination planes ✓
+- Lesson 56: `_networking/lessons/lesson-56-tls-vpns.md` — TLS-based VPNs (OpenVPN) ✓
+- Lesson 57: `_networking/lessons/lesson-57-vpn-capstone.md` — Capstone: encrypted mesh across NAT ✓
 - Lesson 58: `_networking/lessons/lesson-58-bgp-scale.md` — Large-scale BGP (route reflectors)
 - Lesson 59: `_networking/lessons/lesson-59-evpn.md` — BGP EVPN & VXLAN fabrics
 - Lesson 60: `_networking/lessons/lesson-60-srv6.md` — Segment Routing & SRv6
