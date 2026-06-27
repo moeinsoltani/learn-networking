@@ -13,8 +13,8 @@ primitive guarantees* and *what it does not*.
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 1 | [Symmetric encryption & AEAD](lesson-01-symmetric-aead) | Planned |
-| 2 | [Hashing, MACs & password storage](lesson-02-hashing-macs) | Planned |
-| 3 | [Asymmetric crypto & Diffie-Hellman](lesson-03-asymmetric-dh) | Planned |
-| 4 | [Digital signatures](lesson-04-signatures) | Planned |
-| 5 | [Randomness & entropy](lesson-05-randomness) | Planned |
+| 1 | [Symmetric encryption & AEAD](lesson-01-symmetric-aead) | Ready |
+| 2 | [Hashing, MACs & password storage](lesson-02-hashing-macs) | Ready |
+| 3 | [Asymmetric crypto & Diffie-Hellman](lesson-03-asymmetric-dh) | Ready |
+| 4 | [Digital signatures](lesson-04-signatures) | Ready |
+| 5 | [Randomness & entropy](lesson-05-randomness) | Ready |
