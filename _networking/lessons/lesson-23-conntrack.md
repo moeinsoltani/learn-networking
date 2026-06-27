@@ -14,6 +14,11 @@ parent: "Phase 7: NAT & Conntrack"
 
 **Conntrack** (connection tracking) is the kernel subsystem that remembers the *flows* passing through the machine. It is the memory that makes both NAT (previous lesson) and stateful firewalling (next phase) possible. Without it, every packet would be judged in isolation; with it, the kernel knows "this packet belongs to a connection I already approved."
 
+{: .note }
+> **What does "kernel subsystem" mean?**
+> A *subsystem* is a self-contained component of the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) responsible for one area of functionality — the networking stack, the scheduler, the memory manager, and conntrack are all subsystems. Calling conntrack a subsystem just means it's a built-in part of the kernel that other features (NAT, the firewall) build on top of.
+> Don't confuse this with **WSL — "Windows Subsystem for Linux"** on your Windows 11 host. That's a *Windows* feature for running Linux; this is a piece *inside* the Linux kernel itself. Same word, unrelated thing.
+
 ```
    First packet (SYN) ──► conntrack creates an entry, state = NEW
    Reply (SYN-ACK)    ──► conntrack sees the flow confirmed, state = ESTABLISHED
@@ -24,11 +29,25 @@ parent: "Phase 7: NAT & Conntrack"
 
 Conntrack tracks every connection through the box (whether NATed or just forwarded/filtered), storing each flow's addresses, ports, protocol, and **state**.
 
+{: .note }
+> **What is a "connection"? Is it just TCP?**
+> A *connection* is a logical, two-way, ongoing exchange between two endpoints that carries **state**: it is set up, carries data, then torn down. [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) is the textbook [connection-oriented](https://en.wikipedia.org/wiki/Connection-oriented_communication) protocol (SYN handshake → data → FIN teardown), but not the only one — [SCTP](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol) is also connection-oriented, and [QUIC](https://en.wikipedia.org/wiki/QUIC) is connection-oriented but rides *on top of* UDP.
+> By contrast, **UDP and ICMP are [connectionless](https://en.wikipedia.org/wiki/Connectionless_communication)** — no handshake at all. conntrack still *tracks* them: it synthesizes a "flow" from the packet's addresses and ages it out by timeout (you explore this in the Homework). So conntrack's idea of a "connection" is **broader than TCP** — it's any flow it can identify and remember.
+
 ---
 
 ## How it works
 
 For each new flow, conntrack records a tuple in both directions (original and reply) and assigns it a **state**:
+
+{: .note }
+> **Why a tuple, and what does it look like?**
+> A *tuple* is the set of fields that **uniquely identifies a flow** — conntrack records it so that when a later packet arrives it can ask "do I already know this flow?" The standard **5-tuple** is `(protocol, source IP, destination IP, source port, destination port)` (see [network socket](https://en.wikipedia.org/wiki/Network_socket)). In `conntrack -L` it appears as two lines of the same entry:
+> ```
+> tcp 6 ESTABLISHED src=192.168.100.10 dst=10.0.0.2 sport=43210 dport=9000   ← original
+>                   src=10.0.0.2 dst=192.168.100.10 sport=9000 dport=43210   ← reply
+> ```
+> conntrack stores **both directions** so it can match return packets. The reply tuple is just the original with source/destination swapped — and that swap is exactly how a SYN-ACK gets recognized as belonging to (and thus ESTABLISHED for) the outbound SYN.
 
 | State | Meaning |
 |---|---|
@@ -150,6 +169,10 @@ $ sudo ip netns delete lan router net
 | netfilter conntrack | [Wikipedia — netfilter](https://en.wikipedia.org/wiki/Netfilter#Connection_tracking) |
 | `conntrack` tool | [man7.org — conntrack(8)](https://man7.org/linux/man-pages/man8/conntrack.8.html) |
 | TCP state machine | [Wikipedia — TCP state diagram](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Protocol_operation) |
+| Linux kernel & its subsystems | [Wikipedia — Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) |
+| Connection-oriented protocols | [Wikipedia — Connection-oriented communication](https://en.wikipedia.org/wiki/Connection-oriented_communication) |
+| Connectionless protocols (UDP, ICMP) | [Wikipedia — Connectionless communication](https://en.wikipedia.org/wiki/Connectionless_communication) |
+| The flow tuple (5-tuple) | [Wikipedia — Network socket](https://en.wikipedia.org/wiki/Network_socket) |
 
 ---
 

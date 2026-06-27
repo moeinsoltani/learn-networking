@@ -88,6 +88,21 @@ $ sudo ip netns exec server dnsmasq \
 # --dhcp-option=3: advertise 192.168.50.1 as the default gateway
 ```
 
+[dnsmasq](https://en.wikipedia.org/wiki/Dnsmasq) is a lightweight server that does *both* DNS forwarding and DHCP; here we use only its DHCP half. Each flag has a job ([dnsmasq(8)](https://man7.org/linux/man-pages/man8/dnsmasq.8.html)):
+
+| Flag | What it does |
+|---|---|
+| `--no-daemon` | Stay in the **foreground** instead of forking into the background, so you can watch its log live and `Ctrl-C` it. (The trailing `&` backgrounds it at the *shell* level — a separate thing from daemonizing.) |
+| `--interface=s-c` | Only **serve on** the `s-c` interface (the server's veth end), not every interface in the namespace. |
+| `--bind-interfaces` | Actually **bind the socket to that one interface** rather than dnsmasq's default of binding the wildcard (`0.0.0.0`) and filtering after. Lets multiple dnsmasq instances coexist (one per namespace) without fighting over the same socket. |
+| `--dhcp-range=192.168.50.100,192.168.50.150,1h` | The heart of it — this is what **turns on the DHCP server** and defines the **pool** (`.100`–`.150`) and **lease time** (`1h`). No `--dhcp-range`, no DHCP. |
+| `--dhcp-option=3,192.168.50.1` | Set **DHCP option 3 = router/default gateway**. This is where the client's `default via 192.168.50.1` route comes from. (Option numbers are standardized: 1 = subnet mask, 3 = router, 6 = DNS.) |
+| `--log-dhcp` | Verbose logging of every DHCP transaction (the whole DORA exchange), to correlate with your tcpdump capture. |
+
+{: .note }
+> **Where vs. what vs. extra**
+> Read the flags in three groups: `--interface`/`--bind-interfaces` control **where** dnsmasq listens; `--dhcp-range` defines **what** it gives out and for how long; `--dhcp-option` adds **extra** config (here, the gateway) layered onto each lease.
+
 ### Step 3 — Start a capture, then request a lease
 
 ```bash
@@ -148,6 +163,8 @@ $ sudo ip netns delete server client
 | DHCP | [Wikipedia — Dynamic Host Configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol) |
 | DHCP relay / helper | [Wikipedia — DHCP (relay agents)](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol#DHCP_relaying) |
 | dnsmasq | [Wikipedia — dnsmasq](https://en.wikipedia.org/wiki/Dnsmasq) |
+| dnsmasq options | [man7.org — dnsmasq(8)](https://man7.org/linux/man-pages/man8/dnsmasq.8.html) |
+| DHCP option numbers | [Wikipedia — DHCP options](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol#DHCP_options) |
 | `dhclient` | [man7.org — dhclient(8)](https://man7.org/linux/man-pages/man8/dhclient.8.html) |
 
 ---

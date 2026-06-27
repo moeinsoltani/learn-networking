@@ -41,6 +41,11 @@ The building blocks:
 
 - **Table** — a namespace/container for chains and sets, scoped to an **address family**.
 - **Chain** — an ordered list of rules. A *base chain* attaches to a hook with a type and priority; a *regular chain* is just a jump target.
+
+{: .note }
+> **Base chain vs. regular chain**
+> A **base chain** is wired into the packet's path: it names a `hook`, a `type`, and a `priority` (and an optional `policy`), and the **kernel runs it automatically** when a packet reaches that hook. It's the *entry point* into your ruleset — every base chain in this lesson (`input`, `forward`, `output`) is one.
+> A **regular chain** has *none* of `type`/`hook`/`priority`/`policy`. The kernel never calls it on its own — you reach it only with `jump` or `goto` from another chain. It's like a function: a reusable container of rules you call to keep big rulesets organized (e.g. one chain per service or zone). Example: `nft add chain inet filter ssh_rules` (no hook) then `... input tcp dport 22 jump ssh_rules`.
 - **Rule** — a match (e.g. `tcp dport 22`) plus a verdict (`accept`, `drop`, `jump`, etc.).
 - **Hook** — where in the path the base chain runs: `prerouting`, `input`, `forward`, `output`, `postrouting` (plus `ingress` for very early/XDP-like processing).
 - **Priority** — when multiple base chains share a hook, lower priority numbers run first. NAT and filter chains use conventional priorities so they interleave correctly.
@@ -53,7 +58,7 @@ The building blocks:
 | `ip6` | IPv6 only |
 | `inet` | Both IPv4 and IPv6 (the modern default — write rules once) |
 | `arp` | ARP packets |
-| `bridge` | Frames traversing a bridge (L2) |
+| `bridge` | Frames traversing a [bridge](lesson-11-bridges) (L2) |
 | `netdev` | Earliest ingress, per-interface (used for XDP-like filtering) |
 
 The flow a packet takes depends on its destination: **to this host** → prerouting → input; **through this host** → prerouting → forward → postrouting; **from this host** → output → postrouting. Knowing which hook a packet hits is the whole game — a rule in `input` never sees forwarded traffic, and vice versa.
@@ -103,6 +108,14 @@ $ sudo ip netns exec fw nft 'add chain inet filter output  { type filter hook ou
 ```
 
 Each base chain names a `hook` and a `priority`. `policy accept` is the default verdict if no rule matches.
+
+{: .note }
+> **The word "filter" appears twice — they mean different things**
+> In `add chain inet filter input { type filter hook input ... }`:
+> - The **first `filter`** is the **table name** — an arbitrary label you picked (it could be `myfirewall`). By convention the filtering table is just called `filter`.
+> - **`type filter`** is the **chain type** — a real keyword telling the kernel *what kind of work* this chain does. nftables has three chain types: **`filter`** (accept/drop/reject decisions — the common case), **`nat`** (address/port translation — Lesson 22), and **`route`** (re-trigger routing for locally-generated packets, like the old `mangle` OUTPUT). So `type filter` declares "this chain makes filtering verdicts."
+>
+> Only **base chains** have a `type`; regular chains don't.
 
 ### Step 3 — Inspect the structure
 
