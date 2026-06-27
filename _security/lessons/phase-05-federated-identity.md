@@ -12,10 +12,10 @@ services, and standing up a real identity provider.
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 28 | [OAuth 2.0 fundamentals](lesson-28-oauth2) | Planned |
-| 29 | [OAuth 2.0 flows & PKCE](lesson-29-oauth-flows) | Planned |
-| 30 | [OpenID Connect (OIDC)](lesson-30-oidc) | Planned |
-| 31 | [JWT deep dive](lesson-31-jwt) | Planned |
-| 32 | [SAML 2.0](lesson-32-saml) | Planned |
-| 33 | [SSO & session management](lesson-33-sso) | Planned |
-| 34 | [Identity providers in practice (Keycloak)](lesson-34-idp-keycloak) | Planned |
+| 28 | [OAuth 2.0 fundamentals](lesson-28-oauth2) | Ready |
+| 29 | [OAuth 2.0 flows & PKCE](lesson-29-oauth-flows) | Ready |
+| 30 | [OpenID Connect (OIDC)](lesson-30-oidc) | Ready |
+| 31 | [JWT deep dive](lesson-31-jwt) | Ready |
+| 32 | [SAML 2.0](lesson-32-saml) | Ready |
+| 33 | [SSO & session management](lesson-33-sso) | Ready |
+| 34 | [Identity providers in practice (Keycloak)](lesson-34-idp-keycloak) | Ready |
