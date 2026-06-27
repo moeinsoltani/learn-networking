@@ -12,7 +12,7 @@ bypass for the extreme cases, and multipath TCP. Deepens Phase 9 (tc) and Phase 
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 62 | [TCP internals — congestion control & flow dynamics](lesson-62-tcp-internals) | Planned |
-| 63 | [NIC offloads & multiqueue scaling](lesson-63-nic-offloads) | Planned |
-| 64 | [Kernel bypass — AF_XDP & DPDK](lesson-64-kernel-bypass) | Planned |
-| 65 | [Multipath TCP (MPTCP)](lesson-65-mptcp) | Planned |
+| 62 | [TCP internals — congestion control & flow dynamics](lesson-62-tcp-internals) | Ready |
+| 63 | [NIC offloads & multiqueue scaling](lesson-63-nic-offloads) | Ready |
+| 64 | [Kernel bypass — AF_XDP & DPDK](lesson-64-kernel-bypass) | Ready |
+| 65 | [Multipath TCP (MPTCP)](lesson-65-mptcp) | Ready |

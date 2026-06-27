@@ -159,10 +159,10 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Lesson 59: `_networking/lessons/lesson-59-evpn.md` — BGP EVPN & VXLAN fabrics ✓
 - Lesson 60: `_networking/lessons/lesson-60-srv6.md` — Segment Routing & SRv6 ✓
 - Lesson 61: `_networking/lessons/lesson-61-anycast.md` — Anycast ✓
-- Lesson 62: `_networking/lessons/lesson-62-tcp-internals.md` — TCP internals & congestion control
-- Lesson 63: `_networking/lessons/lesson-63-nic-offloads.md` — NIC offloads & multiqueue scaling
-- Lesson 64: `_networking/lessons/lesson-64-kernel-bypass.md` — Kernel bypass (AF_XDP/DPDK)
-- Lesson 65: `_networking/lessons/lesson-65-mptcp.md` — Multipath TCP (MPTCP)
+- Lesson 62: `_networking/lessons/lesson-62-tcp-internals.md` — TCP internals & congestion control ✓
+- Lesson 63: `_networking/lessons/lesson-63-nic-offloads.md` — NIC offloads & multiqueue scaling ✓
+- Lesson 64: `_networking/lessons/lesson-64-kernel-bypass.md` — Kernel bypass (AF_XDP/DPDK) ✓
+- Lesson 65: `_networking/lessons/lesson-65-mptcp.md` — Multipath TCP (MPTCP) ✓
 - Lesson 66: `_networking/lessons/lesson-66-dns.md` — DNS deep dive
 - Lesson 67: `_networking/lessons/lesson-67-ipvs.md` — Layer-4 load balancing (IPVS/LVS)
 - Lesson 68: `_networking/lessons/lesson-68-vrrp-keepalived.md` — High availability (VRRP/keepalived)
