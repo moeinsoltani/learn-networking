@@ -166,13 +166,13 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Lesson 66: `_networking/lessons/lesson-66-dns.md` — DNS deep dive ✓
 - Lesson 67: `_networking/lessons/lesson-67-ipvs.md` — Layer-4 load balancing (IPVS/LVS) ✓
 - Lesson 68: `_networking/lessons/lesson-68-vrrp-keepalived.md` — High availability (VRRP/keepalived) ✓
-- Lesson 69: `_networking/lessons/lesson-69-quic.md` — QUIC & HTTP/3
-- Lesson 70: `_networking/lessons/lesson-70-tls.md` — TLS at the packet level
-- Lesson 71: `_networking/lessons/lesson-71-multicast.md` — Multicast & IGMP
-- Lesson 72: `_networking/lessons/lesson-72-time-sync.md` — Time synchronization (NTP/PTP)
-- Lesson 73: `_networking/lessons/lesson-73-observability.md` — Network observability & telemetry
+- Lesson 69: `_networking/lessons/lesson-69-quic.md` — QUIC & HTTP/3 ✓
+- Lesson 70: `_networking/lessons/lesson-70-tls.md` — TLS at the packet level ✓
+- Lesson 71: `_networking/lessons/lesson-71-multicast.md` — Multicast & IGMP ✓
+- Lesson 72: `_networking/lessons/lesson-72-time-sync.md` — Time synchronization (NTP/PTP) ✓
+- Lesson 73: `_networking/lessons/lesson-73-observability.md` — Network observability & telemetry ✓
 
-*(Lessons 01–47 written ✓; Phases 16–20 / lessons 48–73 added to the plan and being written. Mark each ✓ as its file lands. Update this index if lessons change.)*
+*(Networking track complete — lessons 01–73 all written. Update this index if lessons change.)*
 
 ## Virtualization Lesson Index
 Phase parent pages live at `_virtualization/lessons/phase-NN-name.md`.
