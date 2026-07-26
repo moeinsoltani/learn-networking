@@ -37,6 +37,16 @@ visit.
 
 ### The common complications
 
+Most pregnancies are uncomplicated, and the point of this section is not to
+worry you but to make the vocabulary familiar, so that if one of these words is
+said in an appointment it lands as a manageable known thing rather than a shock.
+
+Notice one pattern as you read: several of the most serious complications have
+**no early symptoms at all**, which is precisely why the routine checks at every
+visit — blood pressure, urine, blood sugar — exist. They are looking for problems
+that are silent while they are still easy to manage. That is also why attending
+the checkups matters even when you feel completely well.
+
 | Complication | What it is / signs | How it's managed |
 |---|---|---|
 | **Gestational diabetes** | High blood sugar in pregnancy; usually **no symptoms** (found by a screening test ~24–28 wks) | Diet, monitoring, exercise; sometimes medication/insulin. Matters because it can make the baby large and affect delivery |
@@ -69,42 +79,21 @@ well. Knowledge here is for *understanding your care*, not for worry.
 > or feeling suddenly very unwell. Preeclampsia can be serious for mother and
 > baby — don't wait to report these.
 
----
+### Where to start
 
-## Lab — Plan Together
+Learn the **preeclampsia warning signs together**, so that both of you would
+recognise them: a severe headache that will not shift, changes in vision, sudden
+swelling of the face or hands, and pain high in the belly under the ribs. All of
+them mean report it urgently, not wait and see.
 
-**Exercise 1 — match the sign.** Match complication to clue: (a) found only by a
-sugar test around 24–28 weeks, often no symptoms; (b) severe headache + vision
-changes + sudden swelling; (c) an injection for Rh-negative mothers; (d) tiredness
-and paleness from low iron.
+The reason both partners should know this list is practical. The partner often
+notices sudden swelling, or a change in how she seems, before she does herself.
+Two people watching is meaningfully safer than one.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) → <strong>gestational diabetes</strong> (silent; found by screening); (b) →
-<strong>preeclampsia</strong> (report urgently); (c) → <strong>Rh incompatibility</strong>
-(anti-D / RhoGAM injection); (d) → <strong>anemia</strong> (iron). Note how (a) has
-<em>no symptoms</em> — which is exactly why routine testing matters.
-</details>
-
-**Exercise 2 — why the repetitive checks?** Your partner is tired of the
-"same old" blood-pressure and urine checks every visit. Explain, in 2–3 sentences,
-why they're so valuable.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Several of the most important complications — rising blood pressure and
-preeclampsia, gestational diabetes, anemia — often have <em>no symptoms</em> at
-first. The blood-pressure cuff, urine dip, and blood tests are how they're caught
-<em>early</em>, before they can harm you or the baby. The checks feel repetitive
-precisely because they're a routine safety net — and that's a good thing." Full
-marks for the insight that silent problems are caught by routine screening.
-</details>
+It is also worth understanding what the **routine checks** at each visit are for
+— blood pressure, urine, and blood sugar. They exist to catch exactly the
+problems that give no early symptoms. Knowing that makes them feel purposeful
+rather than tedious.
 
 ---
 
@@ -161,27 +150,6 @@ diabetes, anemia — have <strong>no obvious early symptoms</strong>. The routin
 blood-pressure, urine, and blood tests at each visit are how they're detected
 <strong>early</strong>, before they become serious. That's why skipping visits is
 risky.
-</details>
-
----
-
-## Homework
-
-Learn the **preeclampsia warning signs** together so *both* of you would recognise
-them (the partner may notice sudden swelling or a change before she does). Then note
-which routine checks happen at your visits (blood pressure, urine, blood sugar) so
-you understand what each is for.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is that both partners can recite the preeclampsia red flags
-(severe headache, vision changes, sudden swelling, upper-belly pain) and know they
-mean "report urgently," plus an understanding of the routine checks as a silent-
-problem safety net. Two people watching for warning signs is safer than one — and
-understanding the checks makes them feel purposeful rather than tedious.
 </details>
 
 ---

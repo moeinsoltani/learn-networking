@@ -88,45 +88,21 @@ later and not to assume unlimited time.
 > untreated illness is more dangerous to a pregnancy than a carefully chosen
 > medication. Let a professional make the swap.
 
----
+### Where to start
 
-## Lab — Plan Together
+The concrete first step is a list and a booking.
 
-**Exercise 1 — prep for the visit.** Make the list you'll bring to a preconception
-appointment: (a) every medicine/supplement each of you takes, (b) any chronic
-conditions, (c) key family/genetic history, (d) three questions you want answered.
+**Write down everything you both take** — prescription medications,
+over-the-counter remedies, supplements, herbal products — along with any chronic
+conditions either of you has. Include both partners; this is not only the
+carrying partner's business. Then **book a preconception appointment**, or set a
+date to book one, and bring the list with your questions.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A strong list is specific, e.g.: (a) "her: levothyroxine, a multivitamin; him:
-blood-pressure tablet, ibuprofen as needed"; (b) "her: underactive thyroid; him:
-mild hypertension"; (c) "his side: a cousin with cystic fibrosis; her side:
-diabetes"; (d) questions like "Which of our medicines need changing?", "Are my
-vaccines up to date?", "Given our history, do we need genetic carrier screening?"
-Bringing this turns a vague chat into a focused, high-value visit.
-</details>
-
-**Exercise 2 — spot the pre-pregnancy fix.** For each, is it best handled
-*before* or *during* pregnancy, and why? (a) Getting a chickenpox (varicella)
-vaccine; (b) switching a blood-pressure medicine known to be unsafe in pregnancy;
-(c) starting folic acid.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-All three are best <strong>before</strong>. (a) Varicella is a <strong>live
-vaccine</strong> that can't be given during pregnancy, and you wait ~1 month after
-— so it must be done beforehand. (b) An unsafe BP medicine should be
-<strong>switched before conceiving</strong> so the safe drug is already in place
-during the critical early weeks. (c) Folic acid needs to be working
-<strong>before</strong> conception to protect the baby's spine and brain in the
-first weeks. The theme: the early weeks are decisive, so act ahead of time.
-</details>
+Flag anything time-sensitive as you go, because some items need lead time: a live
+vaccine may require waiting a month before trying, and a medication that isn't
+recommended in pregnancy may need to be switched gradually rather than stopped.
+If either of you is due for a vaccine or a dental check, add that to the list too
+— dental work is easier before pregnancy than during it.
 
 ---
 
@@ -184,27 +160,6 @@ conception lowers the risk of birth defects that can arise in the first weeks;
 and are switched in advance; <strong>thyroid disorder</strong> — affects fertility
 and early brain development; <strong>epilepsy</strong> — some anti-seizure drugs
 are teratogenic and may be adjusted by a specialist beforehand.
-</details>
-
----
-
-## Homework
-
-Do the concrete first step: **write down every medication and supplement you both
-take and any chronic conditions**, and **book (or set a date to book) a
-preconception appointment.** If either of you is due for a vaccine or a dental
-check, note that too.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The list and the booking are the deliverable. A strong version captures both
-partners' medicines (including over-the-counter and herbal), conditions, and a
-question list — and identifies anything time-sensitive (a live vaccine that needs
-a month's wait, a medication that may need switching) so it can be sorted well
-before you start trying.
 </details>
 
 ---

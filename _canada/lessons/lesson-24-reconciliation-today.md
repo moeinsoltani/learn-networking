@@ -32,32 +32,24 @@ country's reckoning with Lesson 17's machinery — **residential schools,
 the Indian Act, the broken treaties** — a reckoning with a precise
 public timeline:
 
-```
-   THE RECKONING'S TIMELINE
+The reckoning has a timeline, and reading it in order shows something
+important: almost every step was forced from outside government, by Indigenous
+organizing or by the courts, rather than offered from within.
 
-   1969   White Paper proposes abolishing Indian status —
-          Indigenous opposition (the "Red Paper") kills it and
-          BIRTHS the modern political movement
-   1973–  Calder case: Aboriginal title EXISTS in law →
-          modern treaties begin (James Bay 1975; Nisga'a 2000)
-   1990   Elijah Harper (L.23); Oka Crisis — 78-day armed
-          standoff over a golf course on Mohawk burial land
-   1996   LAST residential school closes (Gordon's, SK);
-          Royal Commission (RCAP) reports
-   1999   NUNAVUT created — Inuit-majority territory
-   2006   Residential Schools Settlement — largest class
-          action in Canadian history
-   2008   PM Harper's APOLOGY in the Commons; TRC created
-   2015   TRC final report: "CULTURAL GENOCIDE";
-          94 CALLS TO ACTION
-   2016   Canada adopts UNDRIP (law in 2021)
-   2019   MMIWG inquiry reports (finding: genocide)
-   2021   215 unmarked graves indicated at Kamloops —
-          national convulsion; Sept 30 becomes the National
-          Day for Truth & Reconciliation (Orange Shirt Day);
-          Mary Simon first Indigenous Governor General
-   2022   Pope Francis in Canada: apology for the schools
-```
+| Year | What happened |
+|---|---|
+| **1969** | The **White Paper** proposes abolishing Indian status altogether. Indigenous opposition — the "Red Paper" — kills it, and in doing so *creates* the modern national political movement |
+| **1973–** | The **Calder** case establishes that Aboriginal title exists in Canadian law, opening the era of modern treaties (James Bay 1975; Nisga'a 2000) |
+| **1990** | Elijah Harper blocks Meech Lake (Lesson 23); the **Oka Crisis** — a 78-day armed standoff over a golf-course expansion onto Mohawk burial ground |
+| **1996** | The **last residential school closes** (Gordon's, Saskatchewan); the Royal Commission on Aboriginal Peoples reports |
+| **1999** | **Nunavut** is created — an Inuit-majority territory |
+| **2006** | The **Residential Schools Settlement**, the largest class action in Canadian history |
+| **2008** | Prime Minister Harper's **apology** in the House of Commons; the Truth and Reconciliation Commission is created |
+| **2015** | The **TRC final report**: the finding of "cultural genocide," and **94 Calls to Action** |
+| **2016** | Canada adopts **UNDRIP**, the UN Declaration on the Rights of Indigenous Peoples (given legal force in 2021) |
+| **2019** | The **MMIWG inquiry** reports on missing and murdered Indigenous women and girls, with a finding of genocide |
+| **2021** | Ground-penetrating radar indicates 215 unmarked graves at **Kamloops** — a national convulsion. September 30 becomes the **National Day for Truth and Reconciliation** (Orange Shirt Day); **Mary Simon** becomes the first Indigenous Governor General |
+| **2022** | **Pope Francis** travels to Canada and apologizes for the Church's role in the schools |
 
 The second arc is demographic: the Canada doing this reckoning is no
 longer Lesson 21's Canada. **Almost one in four Canadians is
@@ -107,7 +99,7 @@ other school sites) turned the TRC's documented history into a
 national emotional event: flags at half-mast for months, orange
 shirts everywhere, statues down — and a backlash discourse
 ("denialism" entered the Canadian vocabulary). September 30 now
-institutionalizes the memory annually (Lesson 18's homework
+institutionalizes the memory annually (Lesson 18
 principle: the asymmetric calendar, hardest case).
 
 ### The present tense, both columns
@@ -165,118 +157,6 @@ what Canada is" — is intact but no longer unexamined.
 > signed them. What's asked of citizens — old and new — is not
 > feeling bad but knowing the file and backing the repairs. This
 > course is, in part, that file.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — read three Calls to Action.** #43: adopt UNDRIP as
-the framework for reconciliation. #75–76: locate, commemorate, and
-protect residential-school burial sites, with families and
-communities leading. #80: a statutory National Day for Truth and
-Reconciliation. For each: what has happened (as of the mid-2020s),
-and what does its pace tell you?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-#43 — UNDRIP: endorsed 2016, federal implementing statute 2021
-(BC passed its own, 2019); the act requires aligning federal law
-with the Declaration over time via action plans. Status: framework
-adopted, alignment barely begun — the free-prior-and-informed-
-consent standard collides with resource-project politics
-(Lesson 39) and remains contested in application. Pace lesson:
-symbolic adoption is cheap; operationalizing consent is where the
-state's older reflexes resist. #75–76 — burial sites: the 2021–22
-ground-radar wave was these calls activating — federal funding
-flowed, communities lead investigations at dozens of sites;
-exhumations are rare by community choice; a federal special
-interlocutor reported (2024) recommending legal protections.
-Status: genuinely community-led, genuinely funded — and
-emotionally, the single most nation-moving item on the list. Pace
-lesson: the calls that required <em>witnessing</em> moved fastest;
-Canada is better at grieving than restructuring. #80 — Sept 30:
-legislated federally within months of Kamloops (2021) — a
-statutory holiday for federal workers; provinces split on
-observing it. Status: done, quickly, visibly. Pace lesson
-(pattern now unmistakable): commemoration > compensation >
-structural change, in speed and completeness — the exact ranking
-the TRC warned against, which is why survivors' organizations
-grade the decade "started, not finished."
-</details>
-
-**Exercise 2 — scenario (the newcomer's question).** A recently
-arrived colleague asks you quietly after a September 30 assembly:
-"I came here three years ago from another country's problems.
-Should I feel guilty about all this? What am I supposed to do?"
-Write the answer — honest about the past, clear on responsibility
-vs guilt, concrete on the "do."
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "No — guilt belongs to acts, and none of this was your act;
-nobody serious is asking you to feel it. But by becoming Canadian
-you joined an ongoing project with assets and liabilities, and
-this is the biggest liability: the country was partly built by
-breaking its agreements with the peoples who were here first, and
-the repair is still running. You're now what the Prairies call a
-treaty person — the treaties were signed on behalf of everyone who
-would ever come, including you and me. What membership asks is
-smaller and larger than guilt: know the actual history (the
-citizenship guide's few pages are a start, not a finish); when
-you vote, weigh whether governments keep moving on water, child
-welfare, and the Calls to Action; buy and hire Indigenous when
-the chance is real; and when someone at a dinner table says 'why
-don't they just get over it,' be the person who can explain,
-calmly, why a contract with no expiry date doesn't work that way.
-That last one matters most — the repair survives on an informed
-public, and you just became part of it. Honestly? Newcomers are
-often better at this than the old stock — you know from home what
-it looks like when a state gaslights its own history. Canada is
-trying to stop. Help it."
-</details>
-
-**Exercise 3 — hold both columns.** Using Column A and Column B,
-write the two-paragraph "state of reconciliation" brief you'd give
-a visiting journalist who has only heard one column (either one).
-The brief fails if either paragraph could have been written by an
-advocate; both must survive a fact-check by the other side.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Paragraph one — the change is real. In fifty years,
-Indigenous peoples went from a policy of abolition (1969's White
-Paper) to constitutional protection (s.35), from courtroom
-exclusion to a string of Supreme Court victories that have made
-treaty and title rights among the most consequential forces in
-Canadian resource law; modern treaties and self-government
-agreements now cover two-fifths of the landmass, Nunavut exists,
-an Inuk woman has held the GG's office, billions in
-court-ordered compensation are flowing, and the residential
-schools' history — denied for a century — is now taught, funded,
-and nationally mourned each September 30. No settler country has
-moved further, faster, on paper. Paragraph two — the gap is also
-real. The Indian Act of 1876 remains in force; a country that can
-build pipelines in three years took a decade-plus and missed
-public deadlines to get drinking water on reserves; Indigenous
-children are apprehended into care at rates exceeding the schools'
-peak; incarceration and MMIWG numbers document a present-tense
-crisis, not a historical one; and independent audits count the
-TRC's structural calls moving at a pace that would finish
-mid-century. The precise summary: Canada has decisively won the
-argument with its own past — and is still losing several
-arguments with its own present. Both sentences are true; the
-country's credibility rides on refusing to let the first one
-retire the second."
-</details>
 
 ---
 
@@ -362,59 +242,6 @@ shrinking national weight sharpens Quebec's language politics
 (Lesson 22); a re-founding-by-immigration country simultaneously
 reckoning with its original founding creates the civic question
 of Lesson 43 — how newcomers inherit both the pride and the file.
-</details>
-
----
-
-## Homework
-
-**Phase 4 synthesis.** The phase ran 1914→today: two wars, a
-depression, a boom, two referendums, a patriation, a reckoning.
-Write ~300 words on this prompt: **"In the 20th century Canada
-became independent of Britain; in the 21st it is becoming — what?"**
-Use at least four lessons' material; end with the question you
-most want Phase 5 (how the government actually works) to answer.
-Then take the phase self-test.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Model skeleton: The 20th-century arc had a clean grammar:
-subject (Canada), separation (from Empire — Vimy's signature,
-Westminster's statute, the flag, patriation), completed 1982. The
-21st-century becoming has no single counterpart noun, and strong
-essays pick and defend one: <em>a treaty federation finally
-performing its contracts</em> (Lessons 17, 24 — the century's
-defining legal project); <em>the first country whose majority is a
-sum of minorities</em> (Lessons 16, 21, 24 — the points system
-compounding into a demographic experiment no nation-state has
-run at this scale); <em>a permanently plural state that
-institutionalized its arguments instead of resolving them</em>
-(Lessons 22–23 — unsigned constitutions, dormant referendums,
-s.33 — ambiguity as architecture); or, cynically-honestly,
-<em>a real-estate market with a foreign policy</em> (Lessons 04,
-24's housing collision — to be adjudicated in Phase 7). The best
-essays notice the arcs interlock: the country reckoning with its
-first founding (reconciliation) while running its next one
-(immigration) is performing both of Lesson 10's bargains at once
-— accommodation of peoples already here, absorption of peoples
-arriving — and its 21st-century identity will be set by whether
-the two projects reinforce (new citizens adopting the treaty
-file, Exercise 2's hope) or compete (scarcity politics setting
-inheritors against arrivals). Phase 5 questions worth wanting
-answered: who actually has the power to move the slow files —
-PM? provinces? courts? — and where a citizen's lever is. Which
-is, conveniently, the next five lessons.
-<br><br>
-<strong>Phase 4 self-test:</strong> 1. Vimy and the conscription
-crisis — one line each. 2. Persons Case doctrine? 3. Sept 10,
-1939 — why the date matters. 4. Two home-front injustices +
-redress dates. 5. Douglas → Pearson: medicare's mechanism.
-6. Both referendums: results + one consequence each. 7. What
-s.33 and the missing signature each are. 8. TRC's finding, and
-the guilt/responsibility distinction. 6/8 to proceed.
 </details>
 
 ---

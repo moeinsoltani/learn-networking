@@ -77,42 +77,24 @@ help you think it through, especially with a family history.
 > completely reassuring diagnostic results. Try not to panic at a screening number
 > before you've spoken with your provider or a genetic counsellor.
 
----
+### Where to start
 
-## Lab — Plan Together
+Before any test is offered to you, have the conversation that makes the rest of
+them easier: **"what would we do with the information?"**
 
-**Exercise 1 — screening or diagnostic?** For each, say which it is: (a) NIPT
-blood test at 11 weeks; (b) amniocentesis; (c) the nuchal translucency scan; (d)
-CVS.
+Screening tests are only useful in proportion to what you would do with a result.
+Talking it through in advance lets you decide on purpose rather than being handed
+a choice in an appointment when you are anxious and unprepared. Write down which
+early tests you expect to want, which you expect to decline, and any questions to
+bring to your provider or a genetic counsellor.
 
-**Your answer:**
+A worked example of a shared position: "We'll have the dating scan and NIPT, we
+consider the anatomy scan a must, and we'll only think about invasive testing if
+a screen flags something." If either of you has a relevant family history, add
+the questions you would want a counsellor to answer.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) NIPT → <strong>screening</strong> (safe blood test, gives a risk/likelihood).
-(b) Amniocentesis → <strong>diagnostic</strong> (definitive, small procedure risk).
-(c) Nuchal translucency → <strong>screening</strong> (part of the combined
-first-trimester screen). (d) CVS → <strong>diagnostic</strong>. The pattern: blood
-tests and ultrasounds are screening; sampling fluid or placenta is diagnostic.
-</details>
-
-**Exercise 2 — the values conversation.** Before choosing tests, discuss as a
-couple: what would we do with the information, and would knowing help or harm our
-peace of mind? Write two or three sentences on where you both land.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-There's no correct destination — only an honest, shared one. Examples of thoughtful
-positions: "We'd want the safe screens so we can prepare and be informed, but we'd
-decline invasive tests unless a screen flagged something." Or: "Knowing wouldn't
-change anything for us and would only add worry, so we'll keep to the routine
-ultrasound." Full marks for reasoning together about what the information would
-<em>mean</em>, rather than defaulting to "all" or "none" without discussion.
-</details>
+There is no correct set of choices here — but there is a large difference between
+choices made together and choices made under pressure.
 
 ---
 
@@ -167,26 +149,6 @@ Chiefly: <strong>"Would this information change a decision we'd make, or help us
 prepare — and would knowing ease or increase our anxiety?"</strong> The right
 choice depends on what the results would <em>mean</em> to you; declining is a valid
 option, as is wanting the safe screens but not invasive tests.
-</details>
-
----
-
-## Homework
-
-Have the **"what would we do with the information?"** conversation together, and
-write down which early tests you think you'll want, which you'll decline, and any
-questions to bring to your provider or a genetic counsellor.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is a shared, informed position — for example, "we'll have the
-dating scan and NIPT, consider the anatomy scan a must, and decide about invasive
-testing only if a screen flags a concern," plus questions for a counsellor if you
-have a relevant family history. The value is deciding <em>together</em> and
-<em>on purpose</em>, rather than being surprised by choices in the appointment.
 </details>
 
 ---

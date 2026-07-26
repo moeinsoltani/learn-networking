@@ -34,35 +34,32 @@ reading today's Canada. Three instruments, built in one generation,
 formed the legal machinery applied to Indigenous peoples as the West
 was taken:
 
-```
-   THE MACHINERY, 1871–1996
+The first instrument was the **Numbered Treaties (1871–1921)** — eleven
+agreements covering the Prairies, northern Ontario, and portions of BC and the
+Northwest Territories. The Crown's written text had the land "ceded, released,
+surrendered" in exchange for reserves, small annual payments, schools, and
+hunting rights. The nations' understanding, carried in oral record, was
+something else entirely: sharing, kinship, and mutual aid — "as long as the
+sun shines" — and emphatically not the extinguishment of anything. That gap is
+the subject of most Canadian treaty litigation today.
 
-   THE NUMBERED TREATIES (1871–1921)
-   ├─ 11 treaties covering the Prairies, northern
-   │  Ontario, and pieces of BC/NWT
-   ├─ Crown's text: land "ceded, released, surrendered"
-   │  for reserves, annuities, schools, hunting rights
-   └─ Nations' understanding: sharing, kinship, aid —
-      "as long as the sun shines" — NOT extinguishment
-                    │
-   THE INDIAN ACT (1876, still in force)
-   ├─ defines who is a legal "Indian" (status)
-   ├─ reserves held by Crown; band councils under
-   │  ministerial oversight; agents & (til 1951)
-   │  the pass system in practice
-   ├─ banned potlatch & sun dance (1885–1951),
-   │  banned hiring lawyers for claims (1927–51)
-   └─ "enfranchisement": citizenship priced at
-      identity — vote, degree, or uniform = lose status
-      (federal vote without losing status: only 1960)
-                    │
-   RESIDENTIAL SCHOOLS (~1883–1996)
-   ├─ ~139 church-run, state-funded schools
-   ├─ ~150,000 children; attendance compelled
-   ├─ language & culture forbidden; families broken
-   ├─ documented deaths 3,200+; estimates 6,000+
-   └─ TRC (2015): "cultural genocide"
-```
+The second was the **Indian Act (1876)**, which is still in force. It gave the
+state the power to define who legally counts as an "Indian." It placed reserve
+land in the Crown's hands and band councils under a minister's oversight,
+administered locally by Indian agents and, in practice until 1951, by a pass
+system restricting movement off reserve. It banned the potlatch and the sun
+dance from 1885 to 1951, and from 1927 to 1951 it banned hiring lawyers to
+pursue land claims. And it offered "enfranchisement" — an exit in which full
+citizenship was priced at identity: take a university degree, a military
+uniform, or the vote, and lose your status. Not until **1960** could a status
+Indian vote federally without giving up being one.
+
+The third was the **residential school system (roughly 1883–1996)**: about 139
+church-run, state-funded schools through which some 150,000 children passed,
+attendance compelled by law. Their languages and cultures were forbidden and
+their families broken. Documented deaths exceed 3,200, with credible estimates
+running to 6,000 or more. The Truth and Reconciliation Commission's 2015
+verdict on the system was **"cultural genocide."**
 
 ![Map of the eleven Numbered Treaties, 1871–1921, covering the Prairies, northern Ontario, and the Mackenzie Valley, with the year each was signed](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Numbered-Treaties-Map.svg/960px-Numbered-Treaties-Map.svg.png)
 
@@ -158,6 +155,39 @@ status, reserves, and federal obligations — repeal without replacement
 the rights, and was defeated by Indigenous opposition. The Act persists
 as the cage nobody can simply open without dropping what's caged.
 
+### The Act read as a system design
+
+It helps to stop reading the Indian Act as a list of unpleasant rules and read
+it the way an engineer reads a blueprint, because five of its provisions
+interlock with unnerving precision.
+
+**Status defined by the state** means the administered population cannot
+control its own membership — and the sexist marriage rule (a woman marrying a
+non-status man lost status, a man's non-status wife gained it) made the
+category leak in one direction by design: assimilation by genealogy.
+**Inalienable reserve land** means no collateral, therefore no capital
+formation, therefore permanent economic dependency on the department.
+**Ministerial veto over band councils** removes the possibility of political
+self-correction from inside. **The ban on hiring lawyers for claims (1927–51)**
+removes correction from outside, closing the one channel — the state's own
+courts — through which colonized peoples have historically won.
+And **enfranchisement** made the only door out of the system one that required
+ceasing to exist as its subject.
+
+Put together, those five produce a closed loop: a population legally
+constructed as dependent, held in conditions that generate dependency, whose
+dependency is then cited to justify continued administration — with both exits
+wired so that using one destroys either the claimant or the claim.
+
+This is why the Truth and Reconciliation Commission's term is *cultural
+genocide* rather than simply discrimination. The system's target state is
+visible in its own blueprints, and it was zero Indians — reached by absorption
+rather than by massacre. It is also why "just repeal the Indian Act" is a
+naive prescription: the same loop that holds the control also holds the
+rights. The real exit, as Lesson 44 shows, is nation-by-nation replacement —
+modern treaties and self-government agreements that restore the wall the Act
+knocked out, which is consent.
+
 ### Residential schools: the assimilation engine
 
 From the 1880s (Davin Report, 1879: separate children from the
@@ -184,6 +214,33 @@ Treaties took the land; the Act managed the adults; the schools were
 aimed at ensuring there would be no next generation of the nations as
 nations.
 
+### "But wasn't that all settled 150 years ago?"
+
+You will meet this question, asked in good faith, and it deserves a clear
+answer.
+
+Treaties are not historical purchases. They are standing agreements between
+the Crown and nations, and they contain no expiry clause — the $5 annuity
+still paid out every year is the symbolic heartbeat of a contract both parties
+are still inside. "Settled" is precisely what they are not, because the two
+parties signed two different understandings on one piece of paper, and
+Canadian courts have ruled that the Indigenous understanding legally counts.
+
+What courts actually do with that gap follows a few settled doctrines: a
+treaty is read as the Indigenous party would reasonably have understood it at
+the time; ambiguities are resolved against the party that chose the words; oral
+terms are admissible and can be binding (the medicine-chest clause has been
+read toward an actual health obligation); and the honour of the Crown forbids
+sharp dealing, so a signature obtained through an unexplained clause cannot
+simply be banked.
+
+Which means the modern cases — the billion-dollar annuity rulings, the
+hunting-rights decisions, the health-care claims — are not treaties being
+*reopened*. They are a contract being enforced late. The shortest honest
+summary: Canada was built on the land side of those treaties having been
+delivered in full, while much of the payment side ran a century and a half
+behind. The litigation is the invoice.
+
 {: .note }
 > **"Live legal documents" — why this lesson is present tense**
 > Every element above is active law or active litigation: treaty
@@ -197,108 +254,6 @@ nations.
 > for First Nations the answer routes through this 1876 statute — and
 > when Lesson 44 shows nations negotiating modern treaties and
 > self-government, it is this machinery being dismantled bolt by bolt.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — two records of Treaty 6 (1876).** Crown text: *"...do
-hereby cede, release, surrender and yield up to the Government of the
-Dominion of Canada... all their rights, titles and privileges
-whatsoever, to the lands included..."* Cree oral record (as carried by
-Elders and corroborated by witness accounts of the negotiations):
-land shared to the depth of a plough for farming; kinship with the
-Queen's family; help in famine and pestilence; a medicine chest at the
-agent's house; nothing said aloud about surrendering everything
-forever. List the differences that matter, and explain what a court
-applying "the honour of the Crown" does with the gap.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Material differences: (1) <em>Totality</em> — written text transfers
-everything permanently; oral record shares specified use (agricultural
-depth) while retaining the land relationship. (2) <em>Nature of the
-agreement</em> — text is a conveyance (real-estate closing); oral
-record is a kinship covenant (ongoing mutual obligations — famine aid,
-medicine chest — that don't terminate at signing). (3) <em>Language of
-execution</em> — the text's operative verbs ("cede, release, surrender")
-existed in English legalese only; translation into Cree of concepts
-Cree law didn't contain was impossible in real time, and commissioners'
-own accounts show the sweet parts ("as long as the sun shines") were
-spoken aloud while the surrender boilerplate was not explained. What
-courts do: Supreme Court doctrine holds that treaties are read as the
-Indigenous party would reasonably have understood them at the time;
-ambiguities resolve against the drafter (who chose the words); oral
-terms are admissible and can be binding (the medicine-chest clause has
-been read as an actual health obligation); and the honour of the Crown
-bars sharp dealing — you cannot bank a signature obtained through an
-unexplained clause. Hence "live documents": the gap between the two
-records is not a historical curiosity; it is the active docket of
-Canadian treaty litigation, currently valued in the billions
-(Robinson annuities, 2024).
-</details>
-
-**Exercise 2 — the Act as system design.** Read these five provisions
-as one design: status defined by the state; reserves inalienable;
-band councils under ministerial veto; claims-lawyering banned
-(1927–51); enfranchisement as the exit. What system property does each
-create, and what is the emergent behaviour of the whole?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-State-defined status = the administered population cannot control its
-own membership (and the sexist marriage rule made the category leak
-by design — assimilation via genealogy). Inalienable reserve land =
-no collateral, no capital formation, permanent economic dependency on
-the department. Ministerial veto over councils = no political
-self-correction from inside. The lawyer ban = no external correction
-through the state's own courts — the one channel (Lesson 15's homework)
-that colonized peoples can win in. Enfranchisement = the only door out
-of the system requires ceasing to exist as its subject. Emergent
-behaviour: a closed loop — a population legally constructed as
-dependent, held in dependency-generating conditions, whose dependency
-then justifies continued administration ("they cannot manage their own
-affairs"), with both exits (courts, citizenship) wired to destroy the
-claimant or the claim. That's why the TRC's term is <em>cultural
-genocide</em> rather than mere discrimination: the system's target
-state, visible from its blueprints, was zero Indians — by absorption
-rather than massacre. And it's why "just repeal the Indian Act" is
-naive (the loop also contains the rights) — the actual exit, Lesson 44
-shows, is nation-by-nation replacement: modern treaties and
-self-government agreements that rebuild the fourth wall the Act
-removed: consent.
-</details>
-
-**Exercise 3 — scenario.** A thoughtful friend asks: "Why do treaty
-payments and 'treaty rights' still exist? It was 150 years ago — hasn't
-it all been settled?" Give the four-sentence answer using this lesson's
-frame.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Treaties aren't historical purchases — they're standing
-agreements between the Crown and nations, with no expiry clause; the
-$5 annuity still paid each year is the symbolic heartbeat of a contract
-both parties are still inside. 'Settled' is exactly what they aren't,
-because the two parties signed two different understandings — the
-written text says 'surrendered forever,' the negotiated record says
-'shared, with ongoing obligations' — and Canadian courts have ruled the
-Indigenous understanding legally counts. So the modern cases —
-billion-dollar annuity rulings, hunting-rights decisions, health-care
-claims — are just the contract being enforced late, not reopened. Short
-version: Canada is built on those treaties' land side having been
-delivered in full, while much of the payment side ran 150 years behind
-— the litigation is the invoice."
-</details>
 
 ---
 
@@ -384,61 +339,6 @@ heard ~6,750 witnesses and concluded the system constituted
 last school closed in 1996; the 2021 ground-penetrating-radar findings
 at former school sites returned the history to the centre of national
 life (Lesson 24).
-</details>
-
----
-
-## Homework
-
-**Phase 3 synthesis.** Phase 3 told one story twice: nation-building
-(responsible government → Confederation → railway → settlement) and
-dispossession (Rupert's Land → Riel → treaties → Indian Act → schools)
-— same years, same governments, often the same statutes. Write ~300
-words answering: **was the second story the price of the first, or its
-engine?** — i.e., could the Canada of 1905 have been built without the
-machinery of this lesson, and what would "differently" have required?
-Then take the phase self-test.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Strong answers engage both readings. <em>Price</em> reading: the
-builders' goal was a transcontinental state before American absorption;
-dispossession was instrumentally chosen as the cheapest fast path —
-implying a slower, treaty-honouring Canada was conceivable (the
-Proclamation and early treaty relationships supplied the legal
-template; New Zealand's contemporaneous Waitangi jurisprudence shows a
-same-era alternative grammar, however imperfect). What "differently"
-required: paying real price for land (Ottawa's entire 1870s budget
-problem was that it was land-rich and cash-poor — honest purchase may
-have been fiscally impossible at the chosen speed, which converts
-"impossible" into "we preferred the speed"); enforcing the treaties'
-food and agriculture promises (deliberately underfunded); and accepting
-Métis and First Nations as continuing polities — i.e., a
-multinational federation from the start, which Cartier had just proven
-was conceptually available (Quebec got exactly that deal — the
-comparison between s.93's ironclad minority-school guarantees and the
-treaties' unenforced school promises is the sharpest single indictment
-available). <em>Engine</em> reading: the National Policy's economics
-(Lesson 16's checkpoint) didn't merely tolerate clearing — it required
-it as step zero; the CPR's land grant, the homestead inventory, and the
-wheat economy were all denominated in acres that had to be emptied
-first, making dispossession not a cost line but the capitalization.
-Honest synthesis: engine for the land, price for the children — the
-treaties and even the Act had nation-building rationales however
-corrupted, but residential schools added nothing to railways or wheat;
-they were assimilation pursued for its own sake, which is why the TRC's
-verdict names the system, not just its abuses.
-<br><br>
-<strong>Phase 3 self-test:</strong> 1. Define responsible government;
-who won it first? 2. The three pressures of 1867? 3. Four original
-provinces and first PM? 4. Why did BC join, and what happened Nov 7,
-1885? 5. What did Riel's two resistances each achieve/cost? 6.
-Sifton's policy in one sentence? 7. Two understandings of the numbered
-treaties? 8. Three Indian Act provisions and the TRC's 2015 finding.
-6/8 to proceed to Phase 4.
 </details>
 
 ---

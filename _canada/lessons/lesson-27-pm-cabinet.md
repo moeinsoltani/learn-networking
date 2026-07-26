@@ -37,25 +37,26 @@ And yet, in practice, a **majority-government Canadian PM is among
 the most powerful executives in the democratic world** — more
 domestically unconstrained than a US president. Hold both truths:
 
-```
-   THE PM'S POWER — SOURCE AND SCALE
+Start with the oddity: **formally, the Prime Minister has nothing.** The office
+is not created by the Constitution Act, 1867; it exists by convention, and the
+constitution scarcely mentions it.
 
-   formally: nothing (an unmentioned convention)
-   actually: ─ commands a whipped Commons majority
-             ─ appoints: cabinet, senators, judges (incl.
-               SCC), GG, heads of Crown corps, ambassadors
-             ─ controls the government agenda & House time
-             ─ controls candidates (party nomination sign-off)
-             ─ advises dissolution (election timing, within
-               fixed-date law's loose grip)
-             ─ sits atop the PMO: the political nerve centre
+In practice the powers are enormous. The PM commands a whipped Commons
+majority, which in a majority parliament means the legislature does what the
+PM wants. The PM appoints the cabinet, the senators, the judges — including
+the Supreme Court — the Governor General, the heads of Crown corporations, and
+the ambassadors. The PM controls the government's agenda and the House's time,
+and controls who may run as a candidate, since party nomination papers require
+the leader's signature. The PM advises dissolution, and so effectively chooses
+the election date, within the loose grip of the fixed-date law. And the PM
+sits atop the Prime Minister's Office, the political nerve centre of the whole
+government.
 
-   the three brakes:
-   1. CONFIDENCE (lose the House, lose everything — L.12)
-   2. CAUCUS & PARTY (leaders who lose the room fall —
-      ask Thatcher; Canadian caucuses are tamer but not inert)
-   3. FEDERALISM & CHARTER (premiers and courts — L.29, 31)
-```
+Three things brake all of that. The first is **confidence**: lose the House
+and lose everything (Lesson 12). The second is **caucus and party** — leaders
+who lose the room fall, and while Canadian caucuses are tamer than British
+ones, they are not inert. The third is **federalism and the Charter**:
+premiers and courts, which Lessons 29 and 31 take up.
 
 The system's honest description: **elective near-dictatorship
 between elections, on a confidence leash** — with minority
@@ -166,115 +167,6 @@ of opportunism is its own check).
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — election night, hung parliament.** Result: Party A
-(incumbent government) 145 seats; Party B 158; Party C 30; Party D
-10; 172 needed for a majority. B's leader declares victory at
-midnight: "Canadians voted for change — I am the Prime Minister-
-designate." Is that claim correct? Walk the actual rules: who is PM
-on the morning after, what are the possible governments, and what
-decides?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The claim is premature-to-wrong. Morning after: <strong>A's leader
-is still PM</strong> — incumbency continues until resignation or
-dismissal, election notwithstanding; and with a hung House the
-incumbent holds the acknowledged right to meet Parliament and test
-confidence first. Possible governments: (1) B minority (the
-default if A resigns — B governs vote-by-vote); (2) A continuing
-via agreement with C and/or D (145+30 = 175 &gt; 172: viable — and
-constitutionally legitimate despite finishing "second"; votes in
-the House, not seat pluralities, confer power — King did exactly
-this in 1925); (3) formal coalitions (B+D, even A+C) —
-constitutional, politically fraught. What decides: whether A can
-actually assemble 172 reliable confidence votes; if yes, A may
-legitimately stay (expect B to scream illegitimacy — see 2008 —
-and expect the public-opinion battle to matter as much as the
-convention); if no, A resigns, the GG calls B, done — no GG
-discretion needed in the clear cases. Bonus point: "Prime
-Minister-designate" has no legal meaning whatsoever; Canadian
-transitions run on resignation letters, not concession speeches.
-The exercise's yield: internalize that <em>the House, not the
-electorate directly, hires the PM</em> — the electorate hires the
-House.
-</details>
-
-**Exercise 2 — read a mandate letter.** Find any recent ministerial
-mandate letter (published on the PM's website). Identify: three
-verbs the PM uses to instruct, one commitment with a measurable
-deliverable, one escape-hatch phrase — and what the document's
-*existence* (public, PM-authored) tells you about where policy
-originates.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Typical findings: verbs — "you will," "deliver," "work with the
-Minister of X to..." (note the org-chart embedded in the
-courtesies: "supported by," "in collaboration with" marks turf).
-Measurable item — e.g., a housing-units target, a child-care fee
-milestone, a dated program launch. Escape hatches — "as fiscal
-circumstances permit," "explore options for," "continue to make
-progress toward" (the verbs of the unfundable). What existence
-tells you: policy originates in the centre — the PM (in practice,
-PMO) writes each minister's job description, publicly, making the
-hierarchy explicit and the accountability trackable (journalists
-grade ministers against their letters); it's "court government"
-practiced transparently. Sharpest observation available: the
-letters read like OKRs from a CEO to VPs — which answers, better
-than any textbook, the question "is cabinet a board of directors
-or a management team?" Management team. The board is the Commons,
-and (Lesson 26) the board is whipped.
-</details>
-
-**Exercise 3 — the resignation calculus.** You're a cabinet
-minister. The budget includes a measure you privately opposed in
-cabinet and lost. A journalist asks you point-blank: "Do you
-support this measure?" Your options: (a) defend it fully; (b)
-"cabinet has decided and I support the government" (the formula);
-(c) hint at reservations; (d) resign. Explain what each choice
-does — to the government, to you — and what the conventions
-actually require.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Convention (cabinet solidarity) requires (a) or (b) or (d):
-you may defend, formally support, or leave — what you may not do
-is (c), stay while distancing (that's having the salary and the
-dissent simultaneously; leaks and hints are solidarity's slow
-poison and PMs shuffle hinters out). (a) defend fully: maximal
-team credit, maximal personal cost if the measure fails or
-violates your known record — you own it forever, on video. (b)
-the formula: technically compliant, universally decoded ("I lost
-in cabinet") — costs you intensity points with the PM, buys you a
-sliver of conscience-cover; sustainable occasionally, corrosive
-as a habit. (d) resign: the nuclear option that converts you from
-minister to storyline — enormous credibility purchase (Wilson-
-Raybould 2019: resignation made the scandal), zero further
-influence on the file, career reset to backbench-or-martyrdom.
-The honest calculus ministers run: is this measure a values
-breach or a judgment difference? Judgment differences are what
-solidarity exists to absorb — you lost a fair argument in the
-room, and governing requires that losers stay aboard (otherwise
-cabinet becomes 30 vetoes). Values breaches are what resignation
-exists for — and the system is healthiest when both happen
-occasionally: all-solidarity means careerism; all-resignation
-means no government. File under Lesson 22's King: knowing which
-hill is which is the whole job.
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -354,57 +246,6 @@ alternative is "the system did it"). Both conventions are fraying
 PMO, and resignation-for-departmental-failure is nearly extinct —
 but they remain the grammar of accountability: Question Period,
 scandals, and resignations only make sense inside them.
-</details>
-
----
-
-## Homework
-
-Savoie's thesis says Canadian government has become "court
-government" — power concentrated in the PM and a courtier PMO,
-with cabinet as focus group and Parliament as audience. Defend or
-attack the thesis in a paragraph using at least three concrete
-mechanisms from this lesson (mandate letters, nomination sign-off,
-House time control, PMO staffing, whipped votes, minority math,
-supply-and-confidence deals...) — then answer the design question:
-if you could add ONE structural check on a majority PM without
-breaking the confidence system, what would it be and what would it
-cost?
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Defence of Savoie (the easier brief): mandate letters make
-ministers executors of centrally written plans; nomination
-sign-off makes every MP's career a PMO dependency, which makes
-whipped votes near-automatic, which makes the Commons a ratifier;
-House time control means even debate's agenda is the centre's;
-add PMO comms discipline and the sum is a court — the interesting
-politics happens among unelected staff. Attack (the sportier
-brief): the thesis undercounts the leash — 2008's near-death,
-2019's Wilson-Raybould explosion (a "courtier" system couldn't be
-wounded by one minister's conscience), the 2022–24 supply deal
-(a minority PM buying survival with another party's platform),
-caucus removals provincially, and the empirical fact that
-"all-powerful" PMs keep failing to pass signature items
-(electoral reform promised-and-abandoned, pipelines bought
-because they couldn't be permitted politically). Strong answers
-note both are true at different clock speeds: courts govern
-day-to-day; leashes yank episodically. Design question — best
-single additions with costs: (1) secret-ballot caucus power to
-trigger leadership review (Reform Act with teeth) — cost:
-leaders govern scared, short-termism rises; (2) remove leader
-sign-off on nominations — cost: candidate-quality variance and
-single-issue capture of safe seats; (3) genuinely fixed election
-dates — cost: lame-duck periods and confidence-law tangles;
-(4) Commons control of its own calendar — cost: minority
-parliaments become ungovernable. Full marks for pricing your
-pick honestly; the meta-lesson of the whole phase is that every
-check is purchased with governability, and Canada's system
-consistently pays for governability first — by design, since
-1848.
 </details>
 
 ---

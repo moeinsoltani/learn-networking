@@ -45,6 +45,16 @@ being with them every hour.
 
 ### Childcare options
 
+Childcare varies enormously by country, region, and city — in cost, in
+availability, and in what the government subsidises — so treat what follows as a
+map of the *types* rather than a guide to prices.
+
+One piece of advice applies almost everywhere, though, and it is the reason to
+read this lesson well before you need it: **waiting lists are long, and often
+much longer than new parents expect.** In many cities, popular daycare places are
+allocated months ahead — sometimes during pregnancy. Applying early costs nothing
+and preserves your options; discovering the timeline late removes them.
+
 | Option | Notes |
 |---|---|
 | **Daycare / nursery** | Licensed group care; social, structured; watch **ratios**, cleanliness, and staff warmth; often **long waitlists — apply early** |
@@ -95,45 +105,26 @@ cheering for you. 💛
 > guilt, choose care you trust, and make your time together warm and present. That's
 > what your baby will feel.
 
----
+### Where to finish
 
-## Lab — Plan Together
+Two things close this course.
 
-**Exercise 1 — match the care.** Suggest a sensible option for each: (a) a family
-wanting one-on-one care in their own home and able to pay more; (b) a family wanting
-social, structured, licensed group care and planning ahead; (c) a family with willing,
-nearby grandparents.
+The first, if it applies to you, is a **childcare and return plan**: which option
+you will pursue, when you need to apply (waiting lists in many places are far
+longer than new parents expect), and the practical details — settling-in
+sessions, how feeding will work, what happens on sick days, and who does drop-off
+and pick-up.
 
-**Your answer:**
+The second is a short **reflection together**. Looking back over the whole
+course, name the **three things you feel most ready for**, and the **three you
+want to read more about or ask your provider**. That second list is the genuinely
+useful one: it turns forty lessons of general education into a short, personal
+agenda for your next appointment.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) A <strong>nanny / in-home carer</strong> (one-on-one, flexible, costlier —
-check references). (b) A <strong>daycare/nursery</strong> (social, structured,
-licensed — apply <em>early</em> for waitlists, and check ratios and warmth). (c)
-<strong>Family care</strong> (loving and low-cost — agree expectations clearly up
-front). There's no single best option; it depends on budget, values, availability,
-and gut feel about the specific place/person.
-</details>
-
-**Exercise 2 — the return-to-work plan.** Sketch a plan covering: childcare choice
-and start date, a settling-in period, the feeding plan, a sick-day backup, and the
-drop-off/pick-up split.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A strong plan names the care option and when it starts, uses a <strong>settling-in
-period</strong> (short visits building up), sorts <strong>feeding</strong> (pumped
-milk/bottles or formula packed and labelled), agrees a <strong>sick-day backup</strong>
-(who stays home, or a backup carer) <em>before</em> it's needed, and splits
-<strong>drop-off/pick-up</strong> with buffer time. Bonus: acknowledging the emotions
-and planning warm reconnection time after work. Planning the practicalities calms
-the transition for everyone.
-</details>
+However your real journey unfolds — and it will not follow any course exactly —
+you have prepared thoughtfully, and you have prepared *together*. That, far more
+than any checklist, is what gives a child a wonderful start. Congratulations, and
+all our warmest wishes to your growing family. 💛
 
 ---
 
@@ -189,33 +180,6 @@ Any two: a <strong>settling-in period</strong> (gradual visits); a <strong>feedi
 plan</strong> (pumped milk/bottles or formula packed); a <strong>sick-day backup
 plan</strong> (childcare means frequent illnesses); and <strong>drop-off/pick-up
 logistics</strong>. Sorting these in advance smooths the transition.
-</details>
-
----
-
-## Homework — Final Project
-
-Two parts to close the course:
-
-1. **A childcare & return plan** (if it applies to you): the option you'll pursue,
-   when to apply, and the settling-in/feeding/sick-day/logistics details.
-2. **A short reflection together:** looking back over this whole course, what are
-   the **three things you feel most ready for**, and the **three you want to learn
-   more about or ask your provider**? That list is your personalised next step.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-There's no graded answer — finishing the reflection <em>is</em> the graduation. A
-strong close pairs a concrete childcare/return plan with an honest inventory: the
-areas you feel confident about, and the handful you'll read more on or raise with
-your doctor or midwife. That turns this whole course into a living, personal to-do
-list. However your real journey unfolds, you've prepared thoughtfully and
-<em>together</em> — and that, more than any checklist, is what gives a child a
-wonderful start. Congratulations, and all our warmest wishes to your growing
-family. 💛
 </details>
 
 ---

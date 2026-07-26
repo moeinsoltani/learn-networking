@@ -35,31 +35,17 @@ French–English seam (conscription), and ended with Canada signing the
 Treaty of Versailles *as itself* — an autonomous signature bought with
 those casualties.
 
-```
-   CANADA'S WWI ARC
+The arc of those four years is worth having in order, because almost every
+Canadian war memorial refers to one of its moments.
 
-   1914  war by Empire membership; 33,000 volunteers
-         sail in the first convoy (largest force to
-         cross the Atlantic to that date)
-   1915  YPRES: first German gas attack in the west —
-         the Canadians hold. "In Flanders Fields"
-         written by Guelph's John McCrae
-   1916  the SOMME; Beaumont-Hamel (July 1) —
-         Newfoundland's regiment destroyed in 30 min:
-         (Newfoundland is a separate dominion — its
-         July 1 is Memorial Day first, Canada Day never quite)
-   1917  VIMY RIDGE (April 9–12): all four Canadian
-         divisions attack together for the first time —
-         and take the "impregnable" ridge
-         │
-         CONSCRIPTION CRISIS: volunteers dry up;
-         Borden imposes the draft; Quebec erupts
-   1918  the HUNDRED DAYS: the Canadian Corps as
-         shock troops — Amiens to Mons; Armistice
-         Nov 11 — Remembrance Day, the poppy
-   1919  Versailles: Canada signs separately, joins
-         the League of Nations as a member state
-```
+| Year | What happened |
+|---|---|
+| **1914** | War arrives through Empire membership. 33,000 volunteers sail in the first convoy — the largest force to cross the Atlantic to that date |
+| **1915** | **Ypres**: the first German gas attack on the Western Front, and the Canadians hold the line. John McCrae, a doctor from Guelph, writes *In Flanders Fields* |
+| **1916** | The **Somme**; and at **Beaumont-Hamel** on July 1, Newfoundland's regiment is destroyed in about thirty minutes. Newfoundland was then a separate dominion — which is why July 1 there is Memorial Day first and Canada Day never quite |
+| **1917** | **Vimy Ridge** (April 9–12): all four Canadian divisions attack together for the first time and take a ridge thought impregnable. Then the **conscription crisis**: volunteers dry up, Borden imposes the draft, and Quebec erupts |
+| **1918** | The **Hundred Days**: the Canadian Corps used as shock troops from Amiens to Mons. Armistice on November 11 — Remembrance Day, and the poppy |
+| **1919** | **Versailles**: Canada signs the treaty separately and joins the League of Nations in its own right |
 
 Two stories, then — the one carved on monuments (**Vimy: "the birth of
 a nation"**) and the one that split the country (**conscription: two
@@ -144,6 +130,46 @@ national scale. The Liberal party would own Quebec for two
 generations on this memory, and Lesson 20's Mackenzie King would
 tie himself in knots to avoid repeating it.
 
+### Two patriots, one impossible year
+
+The clearest way to feel what 1917 did to Canada is to put two texts side by
+side. Both men were called patriots; both were called traitors.
+
+**John McCrae**, in *In Flanders Fields* (1915):
+
+> "To you from failing hands we throw / The torch; be yours to hold it high. /
+> If ye break faith with us who die / We shall not sleep, though poppies grow /
+> In Flanders fields."
+
+**Henri Bourassa**, in 1917:
+
+> "All Canadians who want to fight conscription… must have the courage to say
+> and repeat everywhere: NO CONSCRIPTION!… Canada has done enough."
+
+Stated fairly, McCrae's argument — written before conscription was an issue,
+but received in 1917 as an argument for it — is that the dead constitute an
+obligation: abandoning the war breaks faith with men who died believing their
+sacrifice would be completed. It is solidarity running backward in time.
+Bourassa's is that obligations run first to Canada itself — a young country
+bleeding out its farms and factories in an imperial war it never chose — and
+that "enough" is a sovereign judgement Canada was entitled to make. Forcing
+French Canada into England's war at bayonet-point, he argued, would wound the
+country worse than Germany could. That is solidarity running across the living
+federation.
+
+Canada in 1917 could not hold both, because the war state demanded a single
+answer: one draft law, one election. Majority rule then converted a legitimate
+disagreement into domination — and 62 seats to 3 is what domination looks like
+in a seat count.
+
+Today's Canada does hold both, in one curriculum, including this lesson.
+Peacetime allows plural memory, and Remembrance Day's deliberately mournful
+register is itself a kind of compromise: it grieves the dead without
+re-litigating whether the torch had to be caught. Whether that would survive
+the next moment demanding a single national answer is a fair question to leave
+open. Lesson 22's referendums are the closest test run since, and the country
+held — barely.
+
 {: .note }
 > **Remembrance, decoded**
 > November 11, 11 a.m.: two minutes' silence (Armistice, 1918). The
@@ -155,102 +181,6 @@ tie himself in knots to avoid repeating it.
 > new to Canada: wear the poppy if you wish, stand for the silence,
 > and know that the day is kept deliberately un-triumphant — mourning,
 > not victory, is the register.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — hold both texts.** Text A — McCrae, 1915: *"To you from
-failing hands we throw / The torch; be yours to hold it high. / If ye
-break faith with us who die / We shall not sleep, though poppies grow /
-In Flanders fields."* Text B — Henri Bourassa, 1917: *"All Canadians
-who want to fight conscription... must have the courage to say and
-repeat everywhere: NO CONSCRIPTION!... Canada has done enough."*
-Both were called patriotism; both were called betrayal. State each
-man's actual argument charitably, then explain why 1917 Canada could
-not hold both — and whether today's Canada can.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-McCrae's argument (as received in 1917 — he wrote before conscription
-was an issue): the dead constitute an obligation; abandoning the war
-breaks faith with men who died believing their sacrifice would be
-completed. It is an ethics of solidarity backward in time. Bourassa's:
-obligations run first to Canada itself — a young country bleeding out
-its farms and factories for an imperial war it never chose; 'enough'
-is a sovereign judgment Canada was entitled to make, and forcing
-French Canada at bayonet-point into England's war would wound the
-country worse than Germany could. An ethics of solidarity across the
-living federation. 1917 couldn't hold both because the war state
-demanded a single answer — one draft law, one election — and majority
-rule converted a legitimate disagreement into domination (62-to-3 is
-what domination looks like in seat counts). Today's Canada holds
-Vimy and the crisis in one curriculum — this lesson — because
-peacetime allows plural memory: Remembrance Day's register (mourning,
-not glory) is itself the compromise, grieving the dead without
-re-litigating whether the torch had to be caught. Whether it would
-survive the next existential single-answer moment is a fair question
-to leave open — Lesson 22 (the referendums) is the closest test run
-since, and it held, barely.
-</details>
-
-**Exercise 2 — citizenship rapid round.** (1) What happened at Vimy
-Ridge and why does it matter? (2) What is Remembrance Day and why the
-poppy? (3) Who was John McCrae? (4) What was the 1917 conscription
-crisis? (5) When did most Canadian women first get the federal vote?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(1) April 9–12, 1917: all four divisions of the Canadian Corps,
-fighting together for the first time, captured Vimy Ridge — a German
-position that had defeated previous Allied assaults; remembered as a
-founding moment of national identity ("birth of a nation"), at the
-cost of ~3,600 dead. (2) November 11 — the 1918 Armistice — honouring
-Canada's war dead with two minutes' silence at 11 a.m.; the poppy
-comes from the battlefield flower of McCrae's poem. (3) A Canadian
-army doctor and artillery officer from Guelph, Ontario who wrote "In
-Flanders Fields" after the 1915 gas battles at Ypres; he died of
-illness in France, 1918. (4) The 1917 crisis over compulsory military
-service: Borden's Military Service Act, the Union government and
-khaki election, Quebec's near-total opposition, and the 1918 Quebec
-City riots — the war's deepest domestic wound. (5) 1918 (most women
-21+; some had voted in 1917 under the Wartime Elections Act;
-Indigenous women and men, and Asian Canadians, waited decades more —
-Lesson 19).
-</details>
-
-**Exercise 3 — scenario.** A colleague from Europe asks why Canada's
-WWI memory is so prominent — "you weren't invaded; it wasn't your
-war." Answer in five sentences, using the casualty arithmetic, Vimy,
-Versailles, and the crisis.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Proportion is the answer: a country of under eight million
-sent six hundred twenty thousand and lost sixty-one thousand dead —
-scale it to today and you're burying three hundred thousand; there
-was no street in English Canada without a telegram. It became 'our
-war' in the fighting itself: at Vimy in 1917 the four Canadian
-divisions attacked together and took a ridge two armies had failed
-on, and Canadians date the country's psychological independence to
-that morning. The receipt was legal too — Canada signed the Treaty of
-Versailles separately and entered the League of Nations as a member,
-the first formal international personality it ever had. But the
-memory is double-edged: the same war forced conscription in 1917 and
-split French from English Canada so badly that troops fired on
-Canadian crowds in Quebec City. So the prominence isn't nostalgia —
-the war is where Canada got both its autonomy and its deepest
-domestic scar, and Remembrance Day's mourning tone carries both."
-</details>
 
 ---
 
@@ -332,48 +262,6 @@ gerrymander of citizenship — a reminder that the franchise's history
 is policy, not just progress. (Full universality was decades away:
 Asian Canadians voted federally only from 1947–48, status Indians
 without conditions only from 1960.)
-</details>
-
----
-
-## Homework
-
-Newfoundland — not yet part of Canada — sent its regiment to the
-Somme: at Beaumont-Hamel, July 1, 1916, ~800 went over the top;
-roughly 68 answered roll call next morning. July 1 is therefore
-**Memorial Day** in Newfoundland and Labrador, observed in the
-morning before any Canada Day celebration. Write a paragraph on what
-it means for a federation to contain a province whose deepest day of
-mourning is the country's national birthday — and what this teaches
-about how federations should handle asymmetric memory. (Connect to at
-least one other case from this course.)
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Points a strong answer makes: Beaumont-Hamel happened to a sovereign
-dominion (Newfoundland didn't join Canada until 1949 — Lesson 21), so
-its grief predates and outranks the federation's holiday — July 1
-means the regiment first, Confederation second, and Newfoundlanders
-observe both in sequence: mourning at dawn, fireworks at night. The
-federation's wisdom here is that it never demanded a merger of
-meanings: no one legislated that Memorial Day yield to Canada Day, and
-the two-part day works precisely because the asymmetry is honoured
-rather than harmonized. The general principle: federations survive
-plural memory by letting constituent peoples keep their own calendars
-of grief — uniformity of celebration is the thing that breaks.
-Course connections (any): Quebec's June 24 Saint-Jean-Baptiste
-outshining July 1 in that province (Lessons 22, 45) — tolerated for
-the same reason; Remembrance Day's mourning register as the country's
-agreed common denominator (this lesson); the September 30 National
-Day for Truth and Reconciliation as the newest asymmetric observance —
-a day on which the state itself is the mourned-against party
-(Lesson 24) — testing the same principle at higher difficulty. The
-transferable insight: in any composite institution, forcing shared
-symbols is cheaper than earning them, and worth exactly what it
-costs.
 </details>
 
 ---

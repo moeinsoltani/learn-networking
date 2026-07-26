@@ -32,13 +32,21 @@ you have a **plan and some support** — not that every box is ticked.
 
 Readiness has three parts, and it helps to check each one:
 
-```
-  RELATIONSHIP        PRACTICAL           EMOTIONAL
-  are we a team?      can we manage?      do we both want this?
-  shared vision,      money, time,        genuinely, not from
-  communication,      housing, leave,     pressure — the
-  handling conflict   support network     "two-yes" rule
-```
+"Are we ready?" is really three separate questions, and it is worth pulling
+them apart, because couples often answer one confidently and assume they have
+answered all three.
+
+The **relationship** question is *are we a team?* — do you share a rough vision
+of the life you want, can you communicate honestly, and can you handle conflict
+without it becoming damage. A baby does not create these skills; it tests the
+ones you have.
+
+The **practical** question is *can we manage?* — money, time, housing, parental
+leave, and the support network within reach of your front door.
+
+The **emotional** question is *do we both want this?* — genuinely, and not out
+of pressure from family, friends, or a sense of being on a schedule. This is the
+"two-yes" rule: one enthusiastic yes and one reluctant one is not a yes.
 
 The single most important thing you can do before a baby is **strengthen your
 relationship and get on the same page** — because a newborn *amplifies* whatever
@@ -99,45 +107,18 @@ lifelines.
 > - *"We must be able to afford everything first."* → Aim to *manage*, not to
 >   afford perfection.
 
----
+### Where to start
 
-## Lab — Plan Together
+Pick **one** conversation from the honest-conversations list above — money, the
+division of labour, careers, or values — and have it this week, unhurried, with
+phones away.
 
-**Exercise 1 — the readiness check.** As a couple, rate yourselves 1–5 on each:
-relationship/teamwork, communication, finances-manageable, time/career plan,
-support network, and "we both genuinely want this." Which is your **lowest**, and
-what's one thing you could do about it this month?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-There's no passing score — the value is honesty and a next step. A strong answer
-picks the lowest area and names a concrete action, e.g.: "Support network is our
-weakest (we're new to the city) → we'll join a prenatal class and reconnect with
-two local friends." Or: "Division of labour worries me → we'll write down who does
-what in a typical week." The insight to reach: you don't need all 5s; you need a
-plan for your weakest area and a genuine shared yes.
-</details>
-
-**Exercise 2 — the mental-load talk.** List five recurring "invisible" tasks a
-baby will add (e.g. tracking vaccine appointments, restocking diapers, noticing
-when formula is low). Decide, for each, **who will own it** — not just help with
-it.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Strong answers assign genuine ownership, e.g.: "Vaccine/checkup scheduling → me;
-diaper &amp; formula restock → you; laundry cycle → me; thank-you notes &amp;
-visitors → you; the baby's 'what's next' calendar → shared weekly check-in." The
-key idea: sharing the <em>mental load</em> means one person truly <em>owns</em> a
-task (remembers it without being reminded), not just does it when asked. Splitting
-this before the baby arrives prevents a very common source of resentment.
-</details>
+Afterwards it helps to note three things: what you agreed on, what you disagreed
+on, and one thing you learned about your partner. Disagreement is not a bad
+result. Differences are normal, and much better surfaced now than discovered at
+3 a.m. with a newborn. The real goal is not to agree on everything; it is to
+prove to yourselves that the two of you can talk about hard things as a team.
+That skill will matter more than any single answer you arrive at.
 
 ---
 
@@ -194,26 +175,6 @@ and the mental load</strong>; <strong>careers</strong> (whose flexes, who takes
 leave); <strong>parenting values</strong> (discipline, faith/culture, screens,
 education); <strong>how many children and roughly when</strong>; and the
 <strong>"what ifs"</strong> (a hard pregnancy, a loss, a child with extra needs).
-</details>
-
----
-
-## Homework
-
-Have **one** unhurried conversation this week from the "honest conversations"
-list — money, division of labour, careers, or values. Write down what you agreed,
-what you disagreed on, and one thing you learned about your partner.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Completing the conversation is the win. A strong reflection notes a point of
-agreement, an honest point of difference (differences are normal and fine to
-surface early), and something new you learned — because the real goal isn't to
-agree on everything, it's to prove to yourselves that you can <em>talk about hard
-things as a team</em>. That skill matters more than any single answer.
 </details>
 
 ---

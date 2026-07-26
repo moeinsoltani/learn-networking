@@ -35,6 +35,16 @@ now means you build a trusting relationship before the big day.
 
 ### Who: your provider options
 
+Two decisions sit inside "choosing your care," and it helps to separate them:
+**who** looks after you, and **where** you plan to give birth. They are related
+but not the same, and in many places the same midwife can support a birth in
+three different settings.
+
+The main factor determining what is available to you is **risk level**. A
+low-risk pregnancy usually opens the full range of options; a higher-risk one
+narrows it toward obstetric-led hospital care, which is a clinical judgement
+rather than a verdict on anyone's preferences.
+
 | Provider | Best suited to | Notes |
 |---|---|---|
 | **Midwife** | Low-risk pregnancies | Often more continuity and time; natural-birth oriented; can attend home, birth-centre, or hospital births (varies by region); refers to an OB if complications arise |
@@ -73,43 +83,22 @@ fit is someone whose philosophy matches yours **and** who you can reach and trus
 > positive birth experiences. It's optional, and one of many ways to feel
 > supported.
 
----
+### Where to start
 
-## Lab — Plan Together
+Three decisions, in order.
 
-**Exercise 1 — match the care.** For each, suggest a sensible provider/setting:
-(a) a healthy low-risk first pregnancy wanting continuity and a natural birth;
-(b) a pregnancy with twins and high blood pressure; (c) a couple wanting extra
-hands-on labour support beyond their medical team.
+Find out what is **available and covered where you live** — midwifery programs,
+birth centres, home-birth options, hospitals. Coverage and availability vary
+enormously by region and by country, and assumptions carried over from somewhere
+else are a common source of late surprises.
 
-**Your answer:**
+Then decide the **type of care** that fits your risk level and your preferences,
+and arrange it. Act in good time: midwifery programs and birth centres in many
+places fill up early in the pregnancy, and the choice can quietly close if you
+wait.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) A <strong>midwife</strong> (birth centre or hospital), which offers continuity
-and a natural-birth focus for low-risk pregnancies. (b) An <strong>obstetrician,
-hospital-based</strong> — twins plus high blood pressure is higher-risk and needs
-full medical resources. (c) Keep their medical provider <em>and</em> add a
-<strong>doula</strong> for continuous non-medical support. The deciding factor is
-risk level plus personal preference.
-</details>
-
-**Exercise 2 — your questions.** Write three questions you'd ask a prospective
-provider to decide if they're the right fit.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Strong questions probe fit and logistics, e.g.: "Will the same provider be at my
-birth, or whoever is on call?"; "What's your typical approach to pain relief and
-interventions like induction?"; "If I need to transfer from a birth centre/home,
-what's the plan?"; "How do I reach you between visits with a concern?" The goal is
-to learn both their <em>philosophy</em> (does it match yours?) and the practical
-reality of their care.
-</details>
+And if the idea of a **doula** appeals to you — continuous, non-clinical support
+through labour — look into local options now rather than in the third trimester.
 
 ---
 
@@ -166,26 +155,6 @@ approach to <strong>pain relief and intervention</strong>?"; "What's the
 <strong>transfer plan</strong> if something changes?"; "How do I <strong>reach
 you</strong> with concerns?" You're checking both philosophy fit and practical
 access.
-</details>
-
----
-
-## Homework
-
-Find out what's **available and covered** where you live (midwife programs, birth
-centres, home-birth options, hospitals), decide the **type of care** that fits your
-risk level and preferences, and — if you haven't — arrange care. If a **doula**
-appeals to you, look into local options.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is a concrete plan: the provider type and birth setting you're
-pursuing, why it fits your risk level and preferences, and the next step to secure
-it (many midwife programs and birth centres fill up early, so it's worth acting in
-good time). Knowing what your region covers avoids surprises.
 </details>
 
 ---

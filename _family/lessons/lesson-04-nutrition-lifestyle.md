@@ -92,41 +92,20 @@ genuine, shared contribution — not a spectator role.
 > 4. Non-carrying partner: protect **sperm health** (diet, no smoking, avoid heat).
 > These four, begun ~3 months ahead, are most of what "preparing your body" means.
 
----
+### Where to start
 
-## Lab — Plan Together
+One step here is genuinely time-sensitive, so do it today rather than after more
+reading: **the carrying partner should start a prenatal vitamin containing
+0.4 mg of folic acid** — or, if there are risk factors that might call for a
+higher dose, write down the question to ask a provider. Folic acid protects the
+baby's developing spine and brain in the very earliest weeks, often before anyone
+knows they are pregnant, which is exactly why starting before you conceive is
+what matters. It is one of the highest-impact, lowest-effort things in this
+entire course.
 
-**Exercise 1 — your before-pregnancy habit plan.** Each of you: pick **two habits
-to start** and **one to stop**, from this lesson. Make them specific and doable.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Strong plans are concrete and shared, e.g. — Carrying partner: "start a daily
-prenatal vitamin with folic acid; start a 20-minute walk after dinner; stop my
-evening glass of wine." Non-carrying partner: "start cooking two more vegetable
-meals a week; start going to bed by 11; stop vaping." The point is that
-<em>both</em> people change something — preparation is a team effort, and the
-non-carrying partner's habits genuinely affect conception.
-</details>
-
-**Exercise 2 — dose check.** Who needs to think about a *higher* folic acid dose,
-and what should they do about it? Give two example situations.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-People in higher-risk situations may need more than the standard 0.4 mg — for
-example, <strong>a previous pregnancy affected by a neural-tube defect</strong>,
-<strong>diabetes</strong>, <strong>certain epilepsy medications</strong>, or
-<strong>higher body weight</strong>. What to do: <strong>ask a provider</strong> —
-they may prescribe 1 mg up to ~4–5 mg. The rule is that higher doses are
-<em>only on medical advice</em>, not self-selected.
-</details>
+Then each of you pick **one habit change** from this lesson — not five — and tell
+the other what it is. Changes made together, with someone to notice and cheer,
+stick far better than changes made privately.
 
 ---
 
@@ -183,27 +162,6 @@ Because <strong>sperm take about 3 months to mature</strong>, so the non-carryin
 partner's diet, weight, smoking/alcohol, and heat exposure <em>now</em> affect the
 quality of the sperm at conception. Preparing the body is a two-person job, not the
 carrying partner's alone.
-</details>
-
----
-
-## Homework
-
-Start the single most time-sensitive step **today**: the carrying partner begins a
-**prenatal vitamin / 0.4 mg folic acid** (or notes to ask a provider about a
-higher dose if higher-risk). Then each of you commits to **one habit change** from
-your Lab plan and tells the other, so you can cheer each other on.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is action, not analysis: folic acid started (or a provider question noted),
-and each partner naming one concrete change with the other as witness. Starting
-folic acid early is one of the highest-impact, lowest-effort things in this entire
-course — and making the habit changes <em>together</em> makes them far more likely
-to stick.
 </details>
 
 ---

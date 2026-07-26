@@ -69,40 +69,21 @@ it doesn't mean anything is wrong.
 > and handle the outside world (texts, visitors) so the new parents can just *be*
 > with the baby. It's one of the most meaningful hours you'll ever spend.
 
----
+### Where to start
 
-## Lab — Plan Together
+Add your **golden-hour wishes** to the birth plan, briefly: immediate
+skin-to-skin, delayed cord clamping, who cuts the cord, the first feed, and
+keeping the room calm and dim.
 
-**Exercise 1 — why skin-to-skin?** List three concrete benefits of skin-to-skin
-contact in the first hour.
+Then agree the **partner's role** for that hour specifically. It has three parts:
+protect the calm, enable skin-to-skin — including doing it themselves, on their
+own chest, if the mother cannot right away — and handle photos, phones, and the
+outside world so that nobody else's excitement intrudes on the first hour.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Any three: it helps <strong>regulate the baby's temperature, heart rate, and
-breathing</strong>; it <strong>calms and soothes</strong> the baby (and parent);
-it <strong>supports breastfeeding</strong> (babies often seek the breast and latch
-during this time); and it promotes <strong>bonding</strong>. It's both emotionally
-lovely and physiologically helpful.
-</details>
-
-**Exercise 2 — the plan changed.** A C-section means the mother can't hold the baby
-skin-to-skin immediately. What can the couple do, and what should they know?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The <strong>partner can do skin-to-skin</strong> right away (the benefits apply from
-either parent's chest), and the mother can do it as soon as she's able — often still
-in the operating room or shortly after. They should know that a <strong>delayed
-golden hour is not a lost one</strong>: bonding and breastfeeding can still get a
-great start a bit later. Requesting skin-to-skin in the OR is often possible — worth
-noting in the birth plan.
-</details>
+Hold all of it flexibly. If mother or baby needs care first, that comes first,
+and the hour can happen a little later. But writing the wishes down is what lets
+you claim the hour at all; without a plan it tends to get swallowed by the
+busyness that follows a birth.
 
 ---
 
@@ -160,27 +141,6 @@ and weeks, which is normal (though persistent low mood is worth mentioning to a
 provider). If a C-section or complications delay the golden hour, the
 <strong>partner can do skin-to-skin</strong> and the mother can later — a
 <strong>delayed golden hour is not a lost one</strong>.
-</details>
-
----
-
-## Homework
-
-Add your **golden-hour wishes** to your birth plan (immediate skin-to-skin, delayed
-cord clamping, who cuts the cord, first feed, keeping the room calm), and agree the
-**partner's role** for that hour — including doing skin-to-skin themselves if the
-mother can't right away.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong output is a short set of golden-hour preferences on the birth plan plus a
-clear partner role: protect the calm, enable skin-to-skin (from either parent),
-handle photos and the outside world, and know that these wishes are held flexibly
-if mother or baby needs care first. Planning this hour helps you claim it amid the
-busyness right after birth.
 </details>
 
 ---

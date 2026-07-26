@@ -38,24 +38,21 @@ Head Tax, the continuous-journey rule, and outright exclusion.
 Hold both machines in view at once; they were operated by the same
 department:
 
-```
-   THE DOOR, 1896–1914 (and beyond)
+**The door stood wide open** for British and American farmers, and — more
+surprisingly to the Canada of the day — for Ukrainians, Poles, Germans,
+Scandinavians, and Doukhobors: Clifford Sifton's "stalwart peasants in
+sheep-skin coats." What waited on the other side was land, and a great deal of
+it. Under the Dominion Lands Act of 1872, a settler could claim 160 acres for a
+$10 fee and three years of residence and improvement.
 
-   WIDE OPEN FOR:                      CLOSED / TOLLED FOR:
-   ──────────────                      ────────────────────
-   British & American farmers          Chinese (Head Tax $50→$500;
-   Ukrainians, Poles, Germans,           Exclusion Act 1923–47)
-   Scandinavians, Doukhobors —         South Asians (continuous-
-   Sifton's "stalwart peasants           journey rule 1908;
-   in sheep-skin coats"                  Komagata Maru 1914)
-        │                              Black Americans (deterred
-        ▼                                by "climate unsuitability"
-   160 ACRES FREE                        doctrine; Order-in-Council
-   (Dominion Lands Act, 1872:            drafted 1911)
-   $10 fee + 3 years'                  Jews fleeing Nazism ("None
-   improvements)                         is too many," 1930s–40s —
-                                         Lesson 20)
-```
+**The same door was closed or tolled** for others, and the instruments were
+specific. Chinese immigrants paid a Head Tax that climbed from $50 to $500,
+and after 1923 were excluded almost entirely until 1947. South Asians were
+stopped by the continuous-journey rule of 1908, tested and enforced against
+the *Komagata Maru* in 1914. Black Americans were turned away by a
+"climate unsuitability" doctrine, complete with an Order-in-Council drafted in
+1911. And in the 1930s and 40s, Jews fleeing Nazism met the policy summarized
+in the phrase "None is too many" (Lesson 20).
 
 The pattern to extract — it will recur in every immigration debate
 through Lesson 43: **Canada's immigration generosity has always been
@@ -121,7 +118,7 @@ bet paying off in endurance.
 
 - **Chinese:** Head Tax $50 (1885) → $100 (1900) → **$500 (1903)**; then
   the **Chinese Immigration Act, 1923** ("Exclusion Act") — near-total
-  ban until 1947. Apology and redress: 2006 (Lesson 14's lab).
+  ban until 1947. Apology and redress: 2006 (Lesson 14).
 - **South Asians (British subjects, note):** the **continuous-journey
   regulation (1908)** — entry only by uninterrupted voyage from the
   country of birth, at a time when no direct India–Canada steamship
@@ -147,100 +144,6 @@ bet paying off in endurance.
 > and today's debates, the analytical question you'll carry from this
 > lesson is: what is the *current* selection actually selecting for,
 > and which of today's neutral instruments will require an apology?
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — read the poster.** A classic 1900s Immigration Branch
-poster: golden wheat to the horizon, a tidy frame farmhouse, text
-"CANADA WEST: The Last Best West — 160 Acre Farms in Western Canada
-FREE." List (a) three things it promises, (b) three things it hides,
-(c) who it is addressed to — and who, by omission, it is not.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Promises: free land in ownership-scale quantity (160 acres — a
-European peasant's fantasy); proven agricultural abundance (the wheat is
-always ripe); an established, orderly society (the farmhouse is always
-frame-built, never sod). (b) Hides: the climate — no poster shows
-January, the single most material fact (Lesson 03); the labour curve —
-the pictured farm is the <em>end state</em> of a decade that ~half of
-homesteaders didn't complete; and the land's provenance — treaties,
-scrip, and cleared title (Lessons 15, 17) are nowhere; the West is
-presented as empty by nature rather than emptied by policy. (c)
-Addressed to: literate European and American farm families — printed in
-English, German, Ukrainian, Norwegian and more, distributed where
-Sifton's agents worked. Not addressed to — and this is legible precisely
-from the distribution list — the Chinese labourers already in Canada
-paying the Head Tax, South Asians, Black American farmers (who saw the
-same posters in Oklahoma and were turned back by the climate doctrine
-when they answered). Advertising is a selection instrument too: the
-poster is the open half of the door, and its language list is the
-guest list.
-</details>
-
-**Exercise 2 — scenario.** Your Prairie-raised colleague is named
-Kowalchuk; the team's Slack debates why the Prairies are "so Ukrainian
-and German." Give the three-beat historical answer — policy, geography,
-chain migration — in five sentences.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Around 1900, Canada's immigration minister Clifford Sifton
-deliberately recruited eastern European peasant farmers — his 'stalwart
-peasants in sheep-skin coats' — betting they'd endure prairie
-homesteading better than city-bound Britons, and he advertised free
-160-acre farms across Galicia and the German-speaking world in their own
-languages. The parkland belt they settled resembled the steppe they
-left, and settlers clustered in ethnic blocs — a Ukrainian district
-here, a Mennonite one there — because surviving −40° winters is easier
-next to people who share your church and your language. Each successful
-family then pulled relatives over (chain migration), so the blocs
-compounded for two generations. That's why rural Saskatchewan phone
-books read like Kyiv's and why the skyline feature of the parkland is
-an onion dome. Names like Kowalchuk on a Canadian team aren't diversity
-recent-style — they're the founding stock of a third of the country."
-</details>
-
-**Exercise 3 — the Komagata Maru as system test.** The passengers were
-British subjects, many army veterans, challenging a British dominion's
-entry rule inside the British Empire. Explain why the
-continuous-journey regulation was engineered as it was (rather than an
-honest racial ban), what the incident revealed, and why the apology
-came in 2016 from a Vancouver-area PM.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Engineering: an explicit "no Indians" statute was diplomatically
-impossible — India was the Empire's centrepiece, its soldiers Britain's
-army, and London formally insisted on subjects' free movement; a
-shipping technicality achieved the ban while letting every official
-truthfully say no racial law existed. It's the purest specimen of the
-lesson's pattern: neutral instrument, racial function, deniability by
-design. What the incident revealed: when 376 people met the
-technicality's terms as nearly as physically possible, the system
-dropped the pretence — two months of blockade, courts upholding the
-regulation, a naval escort out — proving the rule's content was never
-'continuous journey' but 'not you.' The Punjabi-Canadian community
-(which had organized the charter and the legal fight from Vancouver's
-gurdwaras) preserved the memory for a century. The 2016 formal apology
-in the House of Commons landed where the history lived: metro Vancouver
-is home to one of the world's largest Sikh diasporas — by then
-represented in cabinet itself, several ministers being descendants of
-the community the Maru was turned away from. The apology's real
-content, worth stating: not 'the rule was misapplied' but 'the rule
-worked exactly as designed, and the design was the wrong.'
-</details>
 
 ---
 
@@ -323,46 +226,6 @@ and moved it, and Sifton's machine filled it. Settlement wasn't the
 sequel to dispossession; it was its purpose — the National Policy's
 three parts (tariff, railway, immigration) assumed the clearing as
 step zero.
-</details>
-
----
-
-## Homework
-
-Find (online) the passenger origins of a Prairie town's founding
-generation — or simply take Gimli, Manitoba (Icelandic), Vegreville,
-Alberta (Ukrainian), and Esterhazy, Saskatchewan (Hungarian). Write a
-paragraph on what a *bloc settlement* strategy trades away versus a
-dispersal strategy — for the settlers, for the state, and for the
-country a century later — and where you've seen the same trade-off in
-modern immigration debates.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The trade: bloc settlement maximizes <em>survival and retention</em> —
-mutual aid through killer winters, church/language institutions from
-year one, credit and marriage networks — at the price of slower
-linguistic/civic integration and a century of "are they really
-Canadian?" anxiety from the majority (Ukrainians were interned as enemy
-aliens in WWI, a fact this course files under Lesson 18's ledger).
-Dispersal maximizes assimilation speed and minimizes majority anxiety,
-at the price of isolation-driven failure — exactly why Sifton tolerated
-blocs: an abandoned homestead helped nobody's statistics. For the state,
-blocs are also legible (one agent, one language, one district); for the
-country a century on, the verdict is nearly unanimous — the blocs
-produced not enclaves but the Prairie mainstream itself (a Ukrainian-
-Canadian GG, premiers named Romanow and Schreyer), suggesting the
-integration fear mostly measures time horizon. Modern rhyme: every
-debate about immigrant neighbourhood concentration — Brampton,
-Richmond, Markham — reruns Sifton vs his critics with the nouns
-swapped; the Prairie precedent says concentration is a launch
-configuration, not a terminal state, provided institutions (schools,
-franchise, intermarriage) stay open. Full marks for noticing the
-asymmetry: nobody ever called British bloc settlement — i.e., most of
-early Ontario — a bloc.
 </details>
 
 ---

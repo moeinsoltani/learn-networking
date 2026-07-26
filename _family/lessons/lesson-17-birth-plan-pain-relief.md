@@ -52,6 +52,16 @@ matters to us — we understand things may change."
 
 ### Pain relief — the menu
 
+It is worth understanding the whole menu before labour, because that is when you
+can actually weigh it up. In labour itself, the person best placed to decide is
+in pain and the partner is usually anxious — a poor moment to learn what an
+epidural involves for the first time.
+
+The options run roughly from least to most medical, and they are not a ladder you
+are obliged to climb in order or a test of endurance. Many people use several
+across a labour. Choosing an epidural early is not a failure, and declining one
+is not heroism; they are simply different tools.
+
 | Option | What it is |
 |---|---|
 | **Movement, positions, water** | Staying mobile, upright, or in a warm bath/shower eases many labours |
@@ -79,42 +89,22 @@ provider should explain the *why* and get your consent.
 > unpredictable, and adapting to keep mother and baby safe is exactly what a good
 > plan is *for*. A "successful birth" is a healthy one, however it happens.
 
----
+### Where to start
 
-## Lab — Plan Together
+Draft a **one-page birth plan** together. One page is the specification, not a
+suggestion: a short, prioritised sheet that a busy midwife can absorb at a glance
+is far more useful than three pages nobody reads.
 
-**Exercise 1 — draft the essentials.** Write your top **five** birth-plan
-preferences (e.g. "freedom to move," "would like to try water first," "skin-to-skin
-immediately," "partner cuts the cord," "open to an epidural if I want one").
+Before you write it, read through the pain-relief options together, so that both
+of you understand the menu **before** labour. In the moment, weighing options is
+much harder — the person in labour is in no state to research, and the partner is
+usually anxious.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A strong short plan covers a few categories: an <em>environment</em> wish
-(movement, calm room), a <em>pain-relief</em> stance (what to try first, and
-openness to change), a <em>position/water</em> preference, an <em>immediate-after</em>
-wish (skin-to-skin, delayed cord clamping, first feed), and <em>who does what</em>
-(partner's role). The best plans are short, prioritised, and end with "we're flexible
-if our provider advises otherwise." Full marks for clear preferences held loosely.
-</details>
-
-**Exercise 2 — pain-relief myths.** Your partner worries that wanting an epidural
-"means giving up" or that going without "is the only natural way." Respond kindly.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "There's <em>no medal</em> either way. An epidural is a safe, effective
-choice millions make, and choosing it isn't giving up — it's using good medicine.
-Equally, wanting to go without is valid. The only thing that matters is that you and
-the baby come through safely and you feel supported; how you manage the pain is
-your call, and you can change your mind in the moment." Full marks for removing the
-guilt/pressure from <em>both</em> directions.
-</details>
+End the plan with a line acknowledging that you will stay flexible if your
+provider advises otherwise. That sentence does real work: it frames the document
+as a **communication tool rather than a contract**, which is exactly what it
+should be, and it protects you from feeling that a change of course was a
+failure.
 
 ---
 
@@ -168,26 +158,6 @@ Because <strong>birth is unpredictable</strong>, and these are safe tools to kee
 mother and baby healthy. A "successful birth" is a <strong>healthy</strong> one,
 however it happens — adapting the plan is exactly what a good, flexible plan is for,
 not a personal shortcoming.
-</details>
-
----
-
-## Homework
-
-Draft a **one-page birth plan** together (keep it short and prioritised), then read
-about the pain-relief options so you both understand them **before** labour — when
-it's much harder to weigh choices. End the plan with a line acknowledging you'll
-stay flexible if your provider advises otherwise.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong homework output is a short, clear preferences sheet you can hand to your
-birth team, plus a shared understanding of the pain-relief menu so no option is a
-mystery in the moment. The closing "we're flexible" line matters — it sets the right
-mindset and makes the plan a communication tool, not a contract.
 </details>
 
 ---

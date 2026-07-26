@@ -33,28 +33,26 @@ the system: a traffic stop, an arrest, a jury summons, a dispute
 with a landlord or contractor. Start with the policing map, which
 is genuinely odd:
 
-```
-   WHO POLICES CANADA
+Policing in Canada is arranged in a way that surprises almost everyone,
+including Canadians.
 
-   RCMP (federal)  ─ federal crimes everywhere (organized
-   "the Mounties"    crime, national security)…
-                   ─ …AND contract policing: the RCMP *is*
-                     the provincial police in 8 provinces
-                     & all territories, and the local police
-                     in hundreds of towns (a unique
-                     federal-as-local arrangement)
-   PROVINCIAL      ─ only Ontario (OPP), Quebec (SQ), and
-   POLICE            Newfoundland (RNC, partial) run their own
-   MUNICIPAL       ─ big cities run their own forces
-   POLICE            (Toronto PS, SPVM, VPD…)
-   INDIGENOUS      ─ First Nations police services under
-   POLICING          federal-provincial agreements (chronically
-                     underfunded — a live file)
+The **RCMP** — the Mounties — handle federal crimes everywhere: organized
+crime, national security, and the like. But they also do something no other
+national police force does. Under contract, the RCMP *is* the provincial
+police force in eight provinces and all three territories, and the local
+police in hundreds of towns. The same red-serge federal force is, in most of
+the country, your local cop.
 
-   → the officer at your window could answer to any of
-     three governments; the law they enforce (Criminal
-     Code) is the same everywhere (L.29)
-```
+Only three provinces run their own **provincial police**: Ontario (the OPP),
+Quebec (the SQ), and Newfoundland (the RNC, partially). Big cities run their
+own **municipal** forces — Toronto Police Service, Montreal's SPVM,
+Vancouver's VPD. And **Indigenous police services** operate on First Nations
+under federal-provincial agreements; they are chronically underfunded, and
+that is a live political file rather than a historical one.
+
+The upshot: the officer at your car window could answer to any of three
+different governments — but the law being enforced, the Criminal Code, is
+identical across the country, because criminal law is federal (Lesson 29).
 
 And one framing honesty, carried from Lessons 17 and 24: the
 system's fairness is real *and unevenly distributed* — Indigenous
@@ -96,8 +94,7 @@ lurid than American, same economics) → if trial: provincial court
 (judge alone) for most; serious indictable offences offer
 elections up to superior court with judge-and-jury → sentencing
 with *Gladue* (Lesson 30) where applicable → appeal rights.
-Timeline discipline: *Jordan*'s 18/30-month ceilings (Lesson 30's
-homework). Legal aid: provincial plans cover the poorest facing
+Timeline discipline: *Jordan*'s 18/30-month ceilings (Lesson 30). Legal aid: provincial plans cover the poorest facing
 jail — thresholds so low that the working poor routinely
 self-represent, which is the access-to-justice crisis in one
 clause.
@@ -164,137 +161,6 @@ dependency.
 > 1990s (Manitoba's Aboriginal Justice Inquiry) — the system's
 > own paperwork concedes it. Carry both truths; either alone
 > is propaganda.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — the traffic stop + the arrest.** Two scenes,
-write your script for each: (a) pulled over while driving — what
-must you provide, what may you decline? (b) arrested outside a
-bar for something you didn't do — first three sentences you say,
-and the three mistakes people make.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Driving is a licensed activity: provide licence,
-registration, insurance on demand; sobriety screening is
-mandatory when demanded (refusal is itself a crime — and since
-2018 police may demand a roadside breath sample without
-suspicion); beyond that you may decline to answer questions
-("where are you coming from?" has no compelled answer) —
-politely: "Am I free to go, officer?" is the status-checking
-sentence. Passengers generally needn't identify at all absent
-specific grounds. (b) The three sentences: "I want to speak to
-a lawyer." "I have nothing to say until then." — and to the
-duty-counsel line: everything, honestly. The three mistakes:
-(1) explaining — innocence feels like a story worth telling at
-1 a.m.; every criminal lawyer's wall says the same thing:
-statements convict the innocent via inconsistency, not guilt
-via confession; (2) assuming consultation ends it — in Canada
-police may resume questioning after your call (no lawyer in
-the room, L.33 above); the right is to counsel's <em>advice</em>,
-and the advice will be "say nothing" — your job is to keep
-applying it for hours if needed; (3) resisting or arguing
-jurisdiction/legality on the street — the street is not the
-venue; contest everything later through counsel, s.24(2), and
-oversight bodies; the sidewalk argument only generates new
-charges. Bonus point: ask for the officers' names/badges and
-write everything down at first opportunity — memory is
-evidence.
-</details>
-
-**Exercise 2 — the jury summons walk-through.** The envelope
-arrives: Superior Court, criminal trial, eight weeks away. Your
-manager groans about a project deadline. Walk it through: your
-legal obligations, your employer's, what selection day looks
-like, valid vs invalid excusals, what serving actually involves
-— and make the case to your manager for why this matters (two
-sentences minimum, course-grade).
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Obligations: respond by the deadline and appear — ignoring a
-summons is an offence; your employer must grant the leave and
-cannot fire or penalize you for it (employment-standards
-protection), though in most provinces needn't pay you (the
-honest budget note: juror per-diems are meagre; some employers
-top up — ask HR). Selection day: hundreds in a hall; panels
-drawn by lot; each candidate faces the parties — challenge
-for cause where impartiality is genuinely in question, judicial
-stand-asides, but no more peremptory vetoes (abolished 2019
-post-Boushie, so selection is faster and less vibe-based than
-American TV suggests). Valid excusals/deferrals: booked travel,
-medical hardship, self-employment catastrophe, prior service,
-caregiving — deferral (new date) is granted liberally; "my
-manager has a deadline" is not a category. Serving: trials
-mostly run days-to-weeks (the months-long saga is rare);
-you're forbidden to research the case or discuss it — and the
-deliberation-secrecy rule is permanent (s.649). The case to
-the manager: "This is the one government function performed
-entirely by citizens — the state trusts twelve of us with
-someone's liberty, and the whole Phase-5 machine (independent
-courts, presumption of innocence) is theatre without people
-actually showing up to sit in the box. The project will
-survive two weeks; the system genuinely doesn't survive
-everyone having a deadline."
-</details>
-
-**Exercise 3 — route and reality-check three disputes.**
-(a) Your landlord enters your apartment without notice,
-repeatedly, and shrugs at complaints. (b) A dealership sold
-your elderly neighbour a $4,000 warranty she was told was
-"mandatory." (c) A colleague reports their teenager was
-carded (street-checked) twice this month, they believe
-racially. For each: the venue, the realistic remedy, the
-realistic friction.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Venue: provincial landlord–tenant tribunal (LTB/TAL/RTB…);
-entry rules are statutory (24-hour written notice, specified
-purposes) and repeated breach draws orders and modest
-compensation (rent abatement). Friction: backlogs — months in
-some provinces — and the remedy won't be dramatic; but the
-paper trail (document every entry, written complaints) does
-double duty if you later face a retaliatory eviction. (b)
-Venue: small claims (contract/misrepresentation) — $4,000 is
-squarely inside every cap — plus the provincial consumer-
-protection regulator, whose statutes often make "mandatory
-warranty" claims void or reversible with penalties (and cooling
--off/unfair-practice rules do real work). Realistic remedy:
-refund, sometimes with the regulator's letter alone. Friction:
-the neighbour must act (limitation periods run — usually two
-years); collection if the dealer stalls; and the emotional tax
-that makes elder-targeting profitable — offer to help with the
-forms; that's the actual mechanism of consumer law working.
-(c) Venue(s): the police service's civilian complaints process
-+ the provincial human-rights tribunal (racial profiling in
-services is squarely a code ground — Ontario's tribunal and
-commissions have built a real jurisprudence; several provinces
-now regulate or ban arbitrary street checks outright).
-Realistic remedy: individual compensation is possible but slow;
-the documented complaint contributes to the pattern evidence
-that has actually changed carding policy in Toronto and
-elsewhere. Friction: the honest one from the two-truths note —
-process fatigue is the system's filter, and racialized
-complainants know it; which is why the civic-league answer
-(complaint + records + community organizations + the police
-services board's public meetings, L.36) outperforms the
-lone-file answer. Meta-lesson across all three: Canadian
-justice's front doors are tribunals and paperwork, the
-remedies are modest and real, and documentation is the
-citizen's actual superpower.
-</details>
 
 ---
 
@@ -382,51 +248,6 @@ and through ordinary legislation rather than constitutional
 change; and the driver here was Lesson 24's larger file —
 Indigenous confidence in justice — of which jury composition
 was one visible, fixable fragment.
-</details>
-
----
-
-## Homework
-
-Sit in a courtroom for an hour — they're public (provincial
-court criminal lists are the accessible ones; check in with the
-clerk, sit quietly, phones off). Alternatively, read one full
-day's docket coverage from a court reporter. Write two
-paragraphs: what the room actually looked like (pace, who was
-there, what proportion resolved vs adjourned) versus courtroom
-drama expectations; and where you saw this course's themes —
-duty counsel triage, Gladue mentions, self-represented
-litigants, interpreter use, the two-truths file — in the flesh.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Expected observations: the overwhelming impression is
-<em>administrative</em> — a conveyor of two-minute appearances,
-adjournments, counsel jockeying dates with the clerk; perhaps
-one matter in ten involves anything resembling argument, and
-nobody shouts "objection" all morning (Canadian courts are
-procedurally sedate; the drama is American TV's export, not
-ours). The gallery holds anxious families, duty counsel
-working a stack of files triage-style, and a visible
-overrepresentation that the two-truths note predicted —
-writing it down after seeing it lands differently than reading
-it. Theme-sightings to report: interpreters (courts run in
-both official languages by right, and in dozens more by
-service — Lesson 42's rights in action); Gladue raised in a
-bail or sentencing submission, usually in one practiced
-sentence; self-represented accused being patiently, painfully
-walked through elections by a judge doing legal aid's missing
-work from the bench; and Jordan's ghost in every scheduling
-negotiation ("we're inside the ceiling, Your Honour").
-Strongest closing insight available: the system's decency
-lives in its boredom — rights observed as routine, not
-drama — and its crisis lives in the volume: justice done in
-two-minute increments is justice rationed, which is the
-access-to-justice file (Lesson 30) made visible in one
-morning.
 </details>
 
 ---

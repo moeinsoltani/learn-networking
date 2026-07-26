@@ -73,40 +73,21 @@ provider yet, Lesson 16 covers OB vs. midwife and where to give birth.
 > the first visit**. You don't need to panic-buy anything — the early weeks are
 > about health habits, not baby gear.
 
----
+### Where to start
 
-## Lab — Plan Together
+If you are at this stage, **book the first prenatal visit** now — waiting lists
+can be long in some places, and that first appointment covers a great deal of
+ground.
 
-**Exercise 1 — due-date math.** Your last period began on **March 1**. Estimate
-the due date using the 40-week rule, and say how many weeks pregnant you'd be on
-**April 12**.
+Then start a shared **questions list** on your phone that both of you can add to
+as things occur to you. This sounds trivial and is not: the booking visit moves
+quickly, covers history, dates, tests, and options all at once, and it is
+remarkably easy to walk out having forgotten the one thing you actually wanted to
+ask. Go together if you can, and bring the list.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Due date ≈ <strong>December 6</strong> (March 1 + 1 year − 3 months + 7 days =
-Dec 8 by strict Naegele; ~40 weeks lands early December — a scan will refine it).
-On April 12 you'd be about <strong>6 weeks pregnant</strong> (counting from March
-1). Note the quirk: dating from the LMP means you're "6 weeks pregnant" only ~4
-weeks after conception. The exact date is confirmed by the dating scan.
-</details>
-
-**Exercise 2 — first-visit prep.** List four things to bring or prepare for the
-booking visit.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Good items: (1) your <strong>medication and supplement list</strong> (both
-partners); (2) <strong>family and genetic history</strong>; (3) the date of your
-<strong>last period</strong>; (4) a written list of <strong>questions</strong>
-(screening choices, what's safe, warning signs). Bonus: your partner, if possible —
-it's a lot of information to absorb together.
-</details>
+If you are reading ahead rather than pregnant yet, the useful version of this is
+to work out how you would calculate a due date, and to jot down what you would
+want to ask at that first appointment.
 
 ---
 
@@ -160,26 +141,6 @@ Any three: a detailed <strong>history</strong>, <strong>blood pressure/weight/ur
 checks, <strong>blood tests</strong> (blood type &amp; Rh, anemia, immunity,
 infections), a discussion of <strong>screening options</strong>, and advice on
 nutrition/supplements and what to avoid.
-</details>
-
----
-
-## Homework
-
-If you're at this stage: **book the first prenatal visit** and start a running
-**questions list** on your phone that both of you add to. If you're planning ahead:
-write down how you'd calculate your due date and what you'd want to ask at that
-first appointment.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is a booked visit (or a clear plan to book) plus a shared,
-growing question list — because the booking visit covers a huge amount and it's
-easy to forget what you meant to ask. Adding questions as they occur to you, and
-attending together, gets the most out of it.
 </details>
 
 ---

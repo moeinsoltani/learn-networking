@@ -33,27 +33,24 @@ conventions hold because people show up. This lesson is the showing-up
 manual. Every Canadian (and every resident — most participation
 doesn't require citizenship) holds a **three-level toolkit**:
 
-```
-   YOUR LEVERS, BY LEVEL (L.29's map, personalized)
+Lesson 29's map of who does what becomes much more useful once you turn it
+into a list of people you can actually contact.
 
-   FEDERAL      your MP            immigration, taxes, EI,
-   (vote if     (riding office     criminal law, foreign
-   citizen)     does casework!)    affairs, First Nations
+| Level | Your representative | What they can help with |
+|---|---|---|
+| **Federal** | Your **MP** — and note that a riding office does real casework, especially on immigration files | Immigration, taxes, EI, criminal law, foreign affairs, First Nations matters |
+| **Provincial** | Your **MPP, MLA, or MNA** (the title varies by province) | Health care, schools, housing law, licences, employment standards |
+| **Municipal** | Your **councillor**, the mayor, and your school trustee | Zoning, transit, the police board, parks, permits |
 
-   PROVINCIAL   your MPP/MLA/      health care, schools,
-   (vote if     MNA (name varies   housing law, licences,
-   citizen)     by province)       employment standards
-
-   MUNICIPAL    your councillor    zoning, transit, police
-   (vote if     + mayor + school   board, parks, permits —
-   citizen*)    trustee            the level that answers
-                                   EMAILS and changes FASTEST
-
-   NO CITIZENSHIP NEEDED: contacting any of the above,
-   deputations at city hall, public consultations, school
-   councils, party membership (most parties!), volunteering,
-   protests, petitions, community boards, unions
-```
+Two practical observations. First, **the municipal level answers emails and
+changes fastest** — it is the least glamorous tier and by far the most
+responsive, and a single well-argued deputation at a city committee can
+genuinely change an outcome. Second, **voting requires citizenship, but almost
+nothing else does.** Contacting any of the representatives above, speaking at
+city hall, joining public consultations, sitting on a school council, holding
+a party membership (most Canadian parties accept non-citizens), volunteering,
+protesting, signing petitions, joining a community board or a union — all of
+it is open to permanent residents from the day they arrive.
 
 The central, verifiable claim: **contacting representatives works
 far more often than cynics believe** — not because politicians are
@@ -163,123 +160,6 @@ Lesson 03's climate making neighbourliness compulsory).
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — find your three (the license-plate exercise).**
-Identify by name: your MP (federal riding), your provincial
-member (and what they're called in your province), your
-municipal councillor (and ward). For each, find one live issue
-they're currently working on (their sites/socials/local news).
-If outside Canada, do it for a chosen city — say, Halifax.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Method check (the answer is the method): MP via the Parliament
-of Canada's "find your MP" by postal code; provincial member
-via your legislature's equivalent (and the title test: MPP in
-Ontario, MLA in most provinces, MNA in Quebec, MHA in
-Newfoundland and Labrador — knowing yours is the point);
-councillor via the city's ward lookup. Live-issue evidence:
-an MP's private member's bill or committee membership
-(LEGISinfo, Lesson 26's lab); a provincial member's question
-period clips or local file (a hospital, a highway); a
-councillor's motions (city agendas are public and searchable).
-Full marks = three names, three titles, three live issues —
-and the meta-observation most students report: the municipal
-issue affects your street this month, the provincial one your
-services this year, the federal one the news — inversely to
-the attention each receives (the turnout ladder's paradox,
-confirmed by your own findings).
-</details>
-
-**Exercise 2 — write the email.** Something in your city
-genuinely annoys you (a dangerous intersection, a transit gap,
-a permit absurdity, library hours). Write the actual email to
-the correct official: right level (Lesson 29's routing),
-constituent-identified, one issue, specific ask, under 200
-words, response requested. Then check against the model's
-anatomy.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model (intersection version): "Subject: Request: pedestrian
-signal at Elm & 5th — Dear Councillor [Name], I live in your
-ward at [street], and I'm writing about the Elm/5th
-intersection, where I cross with my kids daily. In the past
-year there have been [two collisions/near-misses I've
-witnessed]; the crossing serves [school/seniors' centre], and
-there is no signal or crossing guard. My specific request:
-that you ask Transportation staff to conduct a pedestrian
-crossover assessment for this intersection and share the
-result — and if it qualifies, to fund it from the ward's
-traffic-calming allocation. I'd appreciate a reply indicating
-whether you'll take this up. Thank you for your work —
-[Name, address, phone]." The anatomy that makes it work:
-constituent status established (they represent you, and staff
-sort mail by ward); ONE issue (multi-issue letters get filed,
-not actioned); a specific, feasible ask naming the actual
-process (assessments and allocations exist — five minutes of
-site search finds your city's version); personal stake and
-concrete evidence (form letters are counted; stories are
-quoted in council); a requested response (creates a file and
-a follow-up hook); civility (staff triage tone ruthlessly).
-Common failures: sending transit complaints to MPs (routing —
-Lesson 29 exists for this), venting without an ask, and
-never following up (the second email, three weeks later,
-referencing the first, is where most wins actually happen).
-</details>
-
-**Exercise 3 — the leverage audit.** Rank these actions by
-realistic influence-per-hour for an ordinary resident, and
-justify your top and bottom: (a) voting federally; (b) a
-deputation at a city-council committee; (c) sharing political
-posts online; (d) joining a party and voting in a nomination
-contest; (e) an individually written letter to your provincial
-member; (f) volunteering monthly with a settlement agency or
-food bank.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Defensible model ranking: (d) &gt; (b) &gt; (e) &gt; (f) &gt; (a) &gt; (c).
-Top — the nomination vote (d): safe seats are decided at
-nomination, contests are won by dozens or hundreds of votes,
-membership costs $15, and almost nobody participates — the
-highest ratio of decision-weight to effort in the system
-(you may literally be choosing the MP; the general election
-just ratifies the riding's habit). Deputation (b) close
-second: five minutes on the record before the people voting
-next week, in a room where five residents constitute public
-opinion. The letter (e): the twelve-letters asymmetry —
-individually written, correctly routed, with an ask.
-Volunteering (f): modest policy leverage but the highest
-community-outcome-per-hour and the compounding personal
-returns (network, references, belonging — for newcomers,
-arguably rank it higher and be right). Voting (a): essential
-and honourable — but shared with millions, hence low
-marginal leverage per ballot (raise it by voting municipally,
-where turnout collapse multiplies your weight). Bottom —
-posting (c): near-zero transmission to any decision-maker,
-negative returns on discourse quality, and the great modern
-substitute trap: it <em>feels</em> like participation
-precisely because it costs nothing, which is the tell.
-Honest caveat to the whole ranking: influence isn't the only
-metric — voting's value is partly constitutive (the culture
-Phase 5 depends on), and the correct civic portfolio is
-diversified: vote always, then spend your scarce activist
-hours high on this list.
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -356,57 +236,6 @@ standing as a candidate — plus jury duty, the compelled civic
 service that arrives with the oath (Lessons 32–33). The
 practical implication: civic life can begin on arrival day;
 newcomers who use the menu reach citizenship already fluent.
-</details>
-
----
-
-## Homework
-
-**Phase 6 synthesis + the capstone act.** Do one real thing
-from the engagement ladder this month — send the Exercise 2
-email, attend one consultation or council meeting, join one
-organization, book one volunteer shift — and write a paragraph
-reporting: what you did, what response you got (or await), and
-what it taught you about the machine Phases 5–6 described.
-Then the synthesis paragraph: Phase 6 covered citizenship,
-justice, the safety net, taxes, and participation — name the
-single design principle you saw recurring, with three
-instances. Take the self-test.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The act: graded on doneness, not outcome — the standard report
-is "I emailed; I got a staffer's acknowledgment in four days
-and a substantive reply in three weeks" or "I deputed;
-council noted it; the file moved one increment" — which is
-itself the lesson: the machine is responsive at retail scale,
-slow at wholesale, and staffed by humans who notice civility
-(multiple lessons predicted exactly this texture). The
-recurring principle — strongest candidate: <strong>the system
-delivers through participation it cannot compel</strong> —
-instances: benefits delivered via voluntarily filed tax
-returns (L.35: non-filers lose billions they're owed);
-justice staffed by summoned-but-culturally-willing jurors and
-kept honest by complaint processes only the persistent use
-(L.33); the safety net's gaps filled by work benefits,
-volunteer clinics, and food banks (L.34); conventions
-enforced by public attention (L.31's s.33 pricing); and this
-lesson's whole ladder. Alternative principles earning full
-marks: "the return/form as the citizen–state interface," or
-"residence, not citizenship, is the operative membership."
-<br><br>
-<strong>Phase 6 self-test:</strong> 1. Naturalization
-requirements, five parts. 2. The 2021 oath addition and its
-source. 3. Your s.10 arrest script. 4. Jury service: who,
-what's forbidden forever, what changed 2019. 5. Medicare's
-five principles and four gaps. 6. OAS vs CPP vs GIS in a
-sentence each. 7. Marginal brackets: kill the myth in two
-sentences. 8. Equalization: who literally pays? 9. The
-casework secret. 10. Your three representatives' names —
-from memory. 8/10 to proceed to Phase 7: The Economy.
 </details>
 
 ---

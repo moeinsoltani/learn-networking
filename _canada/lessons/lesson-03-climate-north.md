@@ -23,6 +23,12 @@ parent: "Phase 1: The Land"
 > - **internal waters** vs **international strait** — waters fully controlled by one country vs a sea passage all ships may legally use; the heart of the Northwest Passage dispute.
 > - **Inuit** (IN-oo-it) — the Indigenous people of the Arctic; **Inuvik** (ih-NOO-vik) — a town in the western Arctic.
 > - **nordicity** (nor-DISS-ih-tee) — a Canadian scholars' word for "how northern" a place really is (remoteness + climate, not just latitude).
+> - **utilidor** (yoo-TIL-ih-door) — an insulated above-ground pipe casing carrying water and sewage in places where you cannot bury pipes in frozen ground.
+> - **sealift** — the once-a-year summer barge delivery of fuel, vehicles, and building materials to Arctic communities, possible only while the sea ice is open.
+> - **ice road** — a winter-only road driven directly over frozen lakes, rivers, or muskeg; it melts every spring.
+> - **hamlet** — the official name for a small incorporated community in the territories.
+> - **Canadian Rangers** — part-time army reservists who provide a military presence across the North, drawn largely from Inuit and other northern communities.
+> - **Gulf Stream** / **Labrador Current** — the warm Atlantic current flowing north-east past Newfoundland and the cold one flowing south past it; their meeting is why Atlantic Canada is so foggy and stormy.
 
 ## Concept
 
@@ -33,29 +39,52 @@ Antarctica. Second: **"the North" is not just a direction in Canada — it's an
 idea**, close to the core of national identity ("the True North strong and
 free"), yet home to barely 0.3% of the population.
 
-```
-   CLIMATE, ROUGHLY, WEST → EAST ALONG THE SOUTH:
+The mental model to hold is a grid with two directions. Travelling **west to
+east** along the inhabited southern strip, you pass through four quite
+different climates, and the rule governing them is simple: **oceans moderate,
+the interior swings.** Vancouver, on the Pacific, has winters around +5°C and
+rarely sees snow. Winnipeg, a thousand kilometres from any ocean, routinely
+hits −20°C in winter and +30°C in summer. Toronto sits in between with four
+genuine seasons, and the Atlantic provinces are back under maritime influence —
+milder than you would expect for their latitude, but foggy and battered by
+storms.
 
-   Pacific coast     Prairies          Ontario/Quebec      Atlantic
-   ─────────────     ────────          ──────────────      ────────
-   mild, wet         extreme, dry      humid continental   maritime,
-   (Vancouver:       (Winnipeg:        (Toronto: −5 to     stormy
-   winters ~+5°C,    −20°C common,     +27°C swings;       (fog, nor'easters,
-   rarely snow)      +30°C summers,    real winter,        freeze–thaw)
-                     chinooks in AB)   real summer)
+Travelling **south to north**, from anywhere, the sequence is the same
+everywhere: farmland gives way to boreal forest, the forest thins and stops at
+the treeline, the treeline gives way to tundra, and the far islands are
+effectively polar desert. Everything gets colder and drier as you go, until
+trees give up entirely and the ground itself stays frozen year-round — that
+frozen ground is **permafrost**, and it is the single most important physical
+fact about northern Canada.
 
-   AND SOUTH → NORTH, ANYWHERE:
-   farmland → boreal forest → treeline → tundra → polar desert
-```
-
-The mental model: Canada's climate is a grid — **oceans moderate the edges,
-the interior swings wildly, and everything gets colder and drier as you go
-north** until trees give up entirely (the treeline) and the ground itself
-stays frozen (permafrost).
+Put the two directions together and you can place any Canadian city:
+distance from an ocean tells you how *extreme* its weather is; distance north
+tells you how *cold*. Latitude alone will mislead you, which is the point of
+the ranking below.
 
 ---
 
 ## Going Deeper
+
+### A ranking that surprises everyone
+
+Rank five Canadian cities by average January temperature and you will get the
+rule wrong if you rank them by latitude:
+
+| City | Average January | Why |
+|---|---|---|
+| **Victoria, BC** | about **+5°C** | Pacific current; roses survive the winter |
+| **St. John's, NL** | about **−4°C** | Further north than Toronto, but the Atlantic keeps it mild — it just gets buried in snow and fog |
+| **Toronto, ON** | about **−4 to −6°C** | Great Lakes soften it slightly; otherwise continental |
+| **Winnipeg, MB** | about **−16°C** | No ocean for a thousand kilometres in any direction |
+| **Iqaluit, NU** | about **−27°C** | Arctic, and the sea beside it is frozen solid |
+
+Two entries do the teaching. **St. John's is further north than Toronto and
+milder in January**, because an ocean sits next to it. And **Winnipeg**, a
+city of 800,000 people, has Januarys that most of Siberia would recognize,
+because nothing stands between it and the continental interior. This is the
+rule stated once more, in the form worth remembering: *latitude matters less
+than distance from the sea.*
 
 ### The climate bands that matter
 
@@ -93,6 +122,33 @@ stays frozen (permafrost).
    ground*, not an obstacle. Its retreat is remaking northern life — and
    northern geopolitics.
 
+### What permafrost does to a building budget
+
+It is worth making permafrost concrete, because it explains why almost
+everything in the North costs several times what it costs in the south.
+Imagine building the same small health centre in Ottawa and in a northern
+hamlet. Three things change completely.
+
+**The foundation.** You cannot pour an ordinary basement, because the heat
+leaking out of the building would melt the permafrost underneath it and the
+whole structure would sink and buckle. Northern buildings therefore stand on
+piles or adjustable steel jacks with an open air gap beneath, so the cold air
+keeps the ground frozen — and someone has to come back and *re-level* the
+building as the ground shifts, more often now than a generation ago.
+
+**The pipes.** Burying water and sewer lines in permanently frozen ground is
+often impossible. Communities instead run insulated above-ground conduits
+called **utilidors**, or simply truck water in and sewage out, forever. That
+is a permanent operating cost that Ottawa never pays.
+
+**The delivery.** Materials arrive either by **sealift** — the annual summer
+barge, once the sea ice opens — or over a winter **ice road** that exists only
+while the ground is frozen hard enough to drive on. Miss the window and the
+project waits a full year.
+
+The general lesson: in the North, climate is not a background condition, it is
+a line item in every budget.
+
 ### Arctic sovereignty — why Canada cares so much
 
 Canada claims the waters of the Arctic Archipelago — including the fabled
@@ -115,81 +171,6 @@ Phase 2 and Lesson 44).
 > sense than balmy Whitehorse. Most of the "provincial norths" — northern
 > Quebec, Ontario, and the Prairie provinces — share the North's isolation
 > without its territorial governments.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — the January ranking.** Rank these five cities from *mildest*
-to *coldest* average January: **Winnipeg, Victoria, Toronto, Iqaluit,
-St. John's**. Then check — two of them surprise almost everyone.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Mildest → coldest: <strong>Victoria</strong> (~ +5°C, roses in winter),
-<strong>St. John's</strong> (~ −4°C — the ocean keeps it surprisingly mild,
-it just gets buried in snow and fog), <strong>Toronto</strong> (~ −4 to −6°C),
-<strong>Winnipeg</strong> (~ −16°C, colder than Iqaluit's latitude would ever
-suggest possible for a big city), <strong>Iqaluit</strong> (~ −27°C). The two
-surprises: St. John's — further north than Toronto but milder in January,
-because oceans moderate; and Winnipeg — a city of 800,000 with Januarys most
-of Siberia would recognize, because the continental interior has no ocean to
-soften anything. The rule you've just derived: <em>latitude matters less than
-distance from the sea.</em>
-</details>
-
-**Exercise 2 — scenario.** Your team's group chat asks: "Why does Canada spend
-money patrolling frozen islands nobody lives on?" Write a five-sentence answer
-covering the legal dispute, the melting ice, and the Inuit dimension.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Canada claims the waters between its Arctic islands — including the
-Northwest Passage — as internal waters, but the US and others say it's an
-international strait anyone may transit. While the Passage was frozen solid,
-the argument didn't matter; now the ice is retreating and real shipping (and
-mining, and rival militaries) are arriving. Sovereignty claims only hold up if
-you actually exercise them, so Canada patrols, builds, and administers up
-there to make its claim a fact on the ground rather than a line in a legal
-brief. And the islands aren't 'empty' — Inuit have lived there for millennia,
-which is actually one of Canada's strongest legal arguments: the claim rests
-partly on continuous Inuit use and occupation. That's why the Canadian Rangers,
-who provide the military presence across the North, are largely drawn from
-Inuit and other northern communities." Bonus mark for noting the irony that
-the state once forcibly relocated Inuit families partly to bolster this very
-sovereignty — a dark chapter acknowledged and apologized for.
-</details>
-
-**Exercise 3 — permafrost problem.** You're advising a fictional northern
-hamlet on a new health centre. Name three ways permafrost (and its thaw)
-changes how you build and budget, compared to building the same centre in
-Ottawa.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(1) <strong>Foundations:</strong> you can't pour a normal basement — heat from
-the building would melt the permafrost and the structure would sink and
-buckle, so you build on piles/screw-jacks with an air gap, and now must plan
-for <em>re-levelling</em> as thaw accelerates. (2) <strong>Utilities:</strong>
-buried water and sewer pipes are often impossible; many communities use
-above-ground insulated "utilidors" or trucked water/sewage — a permanent
-operating cost Ottawa never pays. (3) <strong>Logistics and timeline:</strong>
-materials arrive by summer sealift or winter ice road — miss the window and
-your project waits a year; costs run several times southern equivalents.
-(Also acceptable: climate-margin engineering, since thaw projections are
-uncertain; higher energy costs for heating; and hiring/housing constraints.)
-The meta-lesson: in the North, climate is a line item in <em>every</em>
-budget.
-</details>
 
 ---
 
@@ -259,40 +240,6 @@ which it has full control; the US (and others) consider it an
 <em>international strait</em> with a right of transit. Canada supports its
 claim by pointing to, among other things, millennia of Inuit use and
 occupation of the region.
-</details>
-
----
-
-## Homework
-
-The national anthem calls Canada "the True North strong and free"; the $2.9
-million people of the Toronto region will mostly never visit the territories.
-Write a paragraph on this tension: why does a country whose people cluster at
-the US border build so much identity around a North most citizens never see?
-Give at least two distinct reasons (historic, cultural, strategic, or
-psychological).
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Strong answers usually find three threads. <strong>Differentiation:</strong>
-the North is the clearest thing Canada has that the United States doesn't —
-in a country anxious about being distinguishable from its neighbour
-(Lesson 11, Lesson 47), "we are a northern people" is an identity claim no
-American can copy. <strong>Romance and myth-making:</strong> the fur trade,
-the Mounties, the Group of Seven's Shield paintings, the Franklin obsession —
-Canadian art and story were built on wilderness imagery, so the North functions
-the way the frontier West functions in American myth: the place the nation
-imagines itself, not the place it lives. <strong>Strategy and legitimacy:</strong>
-sovereignty claims and resource wealth make the North a real national
-interest, and invoking it ("strong and free") converts a strategic claim into
-an emotional one. The honest coda worth writing: the gap between symbolic
-North (celebrated) and actual North (underfunded, majority-Indigenous, with
-food prices double the south's) is one of the sharpest hypocrisy critiques in
-Canadian life — and being able to name it is part of understanding the
-country.
 </details>
 
 ---

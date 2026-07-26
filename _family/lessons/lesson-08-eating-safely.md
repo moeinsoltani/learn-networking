@@ -42,6 +42,17 @@ provider whether you need extra iron or vitamin D.
 
 ### Foods and substances to avoid
 
+The list below looks long, but the logic behind it is short. Almost every item
+is there for one of two reasons: it may carry **bacteria or parasites** that a
+pregnant immune system handles less well (listeria, salmonella, toxoplasmosis),
+or it may contain something that **reaches the baby** and shouldn't (alcohol,
+high levels of mercury, too much caffeine or vitamin A).
+
+Learning the two reasons is more useful than memorising the list, because it lets
+you reason about a food nobody has told you about. And it is worth repeating that
+what remains is most food: this is a short list of exclusions, not a restrictive
+diet.
+
 | Avoid | Why |
 |---|---|
 | **Raw/undercooked meat, poultry, eggs, fish** (incl. sushi with raw fish) | Bacteria and parasites (salmonella, toxoplasmosis) |
@@ -76,42 +87,25 @@ safe. Focus on *nourishing* eating rather than a number on the scale.
 > two" really means eating **twice as *well*, not twice as *much*** — quality
 > and key nutrients over quantity.
 
----
+### Where to start
 
-## Lab — Plan Together
+The most useful exercise here is to plan **one ordinary day of eating** together
+— breakfast, lunch, dinner, and snacks — that covers the key nutrients and avoids
+the risky foods.
 
-**Exercise 1 — safe or avoid?** Sort these: (a) a tuna-and-swordfish platter; (b)
-grilled salmon; (c) a soft unpasteurised brie; (d) a well-cooked chicken breast;
-(e) a glass of wine "just one won't hurt"; (f) three strong coffees in a day.
+A day might look like oatmeal with fruit alongside the prenatal vitamin; a salmon
+salad with well-washed vegetables; a lentil and vegetable dinner; and snacks of
+pasteurised yogurt, nuts, and fruit. No alcohol, at most one coffee, and nothing
+raw or unpasteurised.
 
-**Your answer:**
+Write it out once and you will notice the real point of this lesson: **safe
+eating in pregnancy is generous, not restrictive.** It is mostly just normal
+healthy food, with a short list of exclusions. The anxiety around it is usually
+much larger than the actual limitation.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Avoid:</strong> (a) high-mercury fish (swordfish; limit tuna); (c)
-unpasteurised soft cheese (listeria); (e) alcohol — no known safe amount; (f) too
-much caffeine (three coffees likely exceeds ~200 mg — cut down). <strong>Safe /
-encouraged:</strong> (b) salmon (low-mercury, great DHA); (d) thoroughly cooked
-chicken. The pattern: cook it well, skip unpasteurised and high-mercury items, zero
-alcohol, and keep caffeine modest.
-</details>
-
-**Exercise 2 — the litter box.** Why is cat litter singled out in pregnancy, and
-what's the practical fix?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Cat feces can carry <strong>toxoplasmosis</strong>, an infection that's risky in
-pregnancy. The practical fix: the <strong>non-pregnant partner changes the
-litter</strong> (daily), or if the pregnant person must, she wears
-<strong>gloves and washes hands</strong> thoroughly. The same care (gloves,
-handwashing) applies to gardening in soil. You don't have to rehome the cat — just
-avoid the feces.
-</details>
+And if it applies to you, settle one small logistical matter now: the
+non-pregnant partner takes over the **cat litter** and wears gloves for
+gardening, because of the toxoplasmosis risk described above.
 
 ---
 
@@ -166,26 +160,6 @@ brain); <strong>unpasteurised soft cheeses / deli meats / pâté</strong> (liste
 <strong>vitamin D</strong>, <strong>iodine</strong>, and <strong>omega-3 (DHA)</strong>.
 A prenatal vitamin covers much of this; ask your provider about extra iron or
 vitamin D if needed.
-</details>
-
----
-
-## Homework
-
-Plan **one safe, nourishing day of eating** together (breakfast, lunch, dinner,
-snacks) that hits the key nutrients and avoids the risky foods — and agree who
-handles the **cat litter / gardening** from now on if that applies to you.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong day might be: oatmeal with fruit and a prenatal vitamin; a salmon salad
-with well-washed veg; a lentil-and-vegetable dinner; snacks of yogurt (pasteurised),
-nuts, and fruit — no alcohol, one coffee at most, nothing raw or unpasteurised. And
-the non-pregnant partner takes over litter duty. The point is to see that "safe
-eating" is generous and easy, not restrictive — mostly normal healthy food.
 </details>
 
 ---

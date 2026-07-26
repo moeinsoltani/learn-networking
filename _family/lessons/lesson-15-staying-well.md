@@ -80,42 +80,21 @@ without fixing, and watch for signs she might not name herself.
 > check-ins. Consistency beats intensity — a daily walk is worth more than an
 > occasional hard workout.
 
----
+### Where to start
 
-## Lab — Plan Together
+Build a **weekly wellness routine** that is modest enough to actually happen. The
+principle here is consistency over intensity, so a good routine looks
+unimpressive on paper.
 
-**Exercise 1 — safe or adjust?** For a healthy 25-week pregnancy: (a) a daily brisk
-30-minute walk; (b) a downhill skiing weekend; (c) swimming laps; (d) hot yoga in a
-heated room; (e) pelvic-floor (Kegel) exercises.
+Something like: a twenty- to thirty-minute walk most days; pelvic-floor exercises
+attached to an existing habit, such as after brushing your teeth; a sleep setup
+that supports side-sleeping, with a pillow between the knees; and one weekly
+**mental-health check-in** that the partner leads and actually asks about.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Safe/encouraged:</strong> (a) walking, (c) swimming, (e) pelvic-floor
-exercises. <strong>Avoid/adjust:</strong> (b) skiing (fall risk) and (d) hot yoga
-(overheating). The pattern: moderate, low-fall-risk, non-overheating activity is
-great; anything with a real fall risk or that overheats you is out. The talk test
-(can you chat while doing it?) is a handy guide.
-</details>
-
-**Exercise 2 — the mental-health check-in.** Design a simple weekly check-in the
-partner can do. What might they ask, and what's the goal?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A good check-in is low-key and regular, e.g. weekly: "How are you feeling <em>in
-yourself</em> this week — not just physically?", "What's been heaviest on your
-mind?", "Is there anything I can take off your plate?" The goal is to <strong>listen,
-not fix</strong>, and to notice early if worry or low mood is becoming persistent —
-so you can encourage her to tell the provider. Naming perinatal mental health as
-normal makes it easier to raise. Partners should watch for signs she may not
-mention herself.
-</details>
+Write it down and try it for a week before adjusting. The walk and the Kegels
+protect the body through the home stretch; the deliberate check-in protects
+something just as important, and it works best when it is a standing appointment
+rather than something that happens only when things are already hard.
 
 ---
 
@@ -173,27 +152,6 @@ Yes — <strong>anxiety and depression can occur during pregnancy</strong>
 (perinatal mental health), not only after birth. Don't dismiss persistent low mood
 or overwhelming worry as "just hormones"; <strong>tell your provider</strong> — it's
 common and treatable. Partners should check in and watch for signs.
-</details>
-
----
-
-## Homework
-
-Build a simple **weekly wellness routine** together — a realistic movement plan (a
-daily walk counts), pelvic-floor exercises, a sleep setup (side-sleeping, pillows),
-and a weekly **mental-health check-in** the partner leads. Write it down and try it
-for a week.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong routine is modest and repeatable, e.g.: "20–30 min walk most days; Kegels
-after brushing teeth; side-sleeping with a pillow between the knees; Sunday-evening
-feelings check-in." The aim is <em>consistency over intensity</em> — small daily
-habits, plus a deliberate space to talk about how she's really doing, protect both
-body and mind through the home stretch.
 </details>
 
 ---

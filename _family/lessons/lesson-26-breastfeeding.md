@@ -85,45 +85,25 @@ snacks, handle everything else, encourage, and help find/arrange lactation suppo
 > always the priority. If it isn't working despite help, formula or combination
 > feeding (Lesson 27) is a good, healthy choice — not a failure.
 
----
+### Where to start
 
-## Lab — Plan Together
+Do one thing before the baby arrives: **find your local breastfeeding support**
+— a lactation consultant, a clinic, or a helpline — and save the contact in your
+phone.
 
-**Exercise 1 — enough milk?** Which of these tell you a breastfed baby is getting
-enough: (a) lots of wet and dirty diapers; (b) the baby fusses and wants to feed
-often in the evening; (c) steady weight gain after the first two weeks; (d) the
-breast feels "empty"?
+That sounds like a small administrative task and it is the single highest-value
+preparation in this lesson. A great many parents hit trouble in the first week,
+and the difference between "help is one call away" and "I don't know who to ask
+and I'm crying at 4 a.m." is enormous. Early problems are usually fixable, and
+usually fixable quickly, by someone who knows what they are looking at.
 
-**Your answer:**
+Agree the **partner's support plan** too: snacks and water within reach of wherever
+she feeds, chores absorbed, visitors managed, and the phone call to the lactation
+consultant *made by the partner* if she is too depleted to make it.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Reliable signs: (a) plenty of <strong>wet/dirty diapers</strong> and (c)
-<strong>steady weight gain</strong> — these are how you actually know. (b) Evening
-fussiness/frequent feeding is <strong>normal cluster feeding</strong>, <em>not</em>
-proof of low supply. (d) A soft/"empty" breast is <strong>not</strong> a reliable
-measure — supply adjusts and you can't judge intake by feel. So: judge by output and
-growth, not by feelings of fullness.
-</details>
-
-**Exercise 2 — troubleshoot.** Breastfeeding is sharply painful and the nipples are
-cracked at day 5. What's the likely cause, what should they do, and what's the
-partner's role?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The likely cause is a <strong>shallow latch</strong> (pain and damage usually mean
-latch, not "just how it is"). They should <strong>get help early</strong> — a
-lactation consultant or provider can fix the latch, which usually resolves the pain —
-and use comfort measures meanwhile. The <strong>partner</strong> helps by arranging
-that support, handling chores and other tasks, bringing water/snacks, and
-encouraging her to seek help rather than suffer through. Sharp pain is a signal to
-get support, not a rite of passage.
-</details>
+And read this lesson together, so the expectations are shared and realistic:
+breastfeeding is a learned skill, it is often hard at first, support usually
+works — and a fed baby is the goal.
 
 ---
 
@@ -178,27 +158,6 @@ early (a lactation consultant can usually fix it); pain is a signal, not somethi
 endure. <strong>Mastitis</strong> is a painful, red, hot breast inflammation with
 flu-like symptoms/fever — <strong>contact a provider promptly</strong> (it's treatable,
 often while continuing to feed).
-</details>
-
----
-
-## Homework
-
-Before the baby arrives, **find your local breastfeeding support** (a lactation
-consultant, clinic, or helpline) and save the contact — so if the early days are
-hard, help is one call away. Agree the **partner's support plan** (snacks, water,
-chores, arranging help) and read this lesson together so expectations are realistic:
-it's a skill, it's often hard at first, and support works.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is having support lined up <em>before</em> you need it (many parents struggle
-in week one and don't know who to call), a clear partner role, and realistic
-expectations that reduce panic. Knowing that early difficulty is common and fixable —
-and that "fed is the goal" — takes enormous pressure off those first tender days.
 </details>
 
 ---

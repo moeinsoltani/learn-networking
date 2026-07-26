@@ -66,40 +66,21 @@ severe abdominal pain. "Easier" doesn't mean "switch off."
 > for prenatal classes, and — if you like — begin planning the nursery. Do the
 > tiring tasks now, while you feel good.
 
----
+### Where to start
 
-## Lab — Plan Together
+Use the energy while you have it. The second trimester is, for most people, the
+best stretch of the pregnancy, and preparation done now is preparation you will
+not be scrambling through while exhausted in the third.
 
-**Exercise 1 — what does the anatomy scan check?** List four things the ~20-week
-scan looks at (beyond "is it a boy or girl?").
+Pick **one** concrete task to start: book prenatal classes, research your birth
+setting, or begin on the nursery. One, not five.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Any four: the baby's <strong>organs</strong> (heart, brain, kidneys, etc.); the
-<strong>spine</strong> and limbs; overall <strong>growth/measurements</strong>; the
-<strong>placenta's position</strong>; the <strong>amount of amniotic fluid</strong>;
-and confirming the <strong>number of babies</strong> and due date. Sex is often
-visible too, but the scan's main purpose is a detailed <em>health check</em>.
-</details>
-
-**Exercise 2 — normal or call?** (a) sharp pulling pains in the lower belly when
-you stand quickly at 18 weeks; (b) a dark line appearing down the belly; (c)
-gushing fluid and cramping at 22 weeks.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Normal</strong> — classic <em>round ligament pain</em> from stretching.
-(b) <strong>Normal</strong> — the <em>linea nigra</em>, which fades after birth.
-(c) <strong>Call/seek care</strong> — leaking fluid with cramping this early could
-signal a problem and needs assessment. Aches and skin changes are expected; fluid,
-bleeding, or severe pain are not.
-</details>
+And if you are having the anatomy scan, decide together whether you want to
+**find out the baby's sex** or be surprised. There is genuinely no right answer —
+some couples love the surprise, others prefer the time to plan and picture — and
+you can simply ask the sonographer not to tell you. What matters is agreeing
+beforehand, because it is an awkward thing to discover you disagree about while
+lying on the table.
 
 ---
 
@@ -153,26 +134,6 @@ Any two: <strong>round ligament pain</strong> (sharp lower-belly pulls from
 stretching), the <strong>linea nigra</strong> (dark belly line) and stretch marks,
 a stuffy nose or tender gums (extra blood flow), backache, and returning appetite/
 energy. All are normal.
-</details>
-
----
-
-## Homework
-
-Use the energy boost: pick **one preparation task** to start this trimester (book
-prenatal classes, research your birth setting, or begin the nursery), and — if
-you're having the anatomy scan — decide together whether you want to **find out the
-baby's sex** or be surprised.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is starting one concrete prep task while you have the energy, plus a shared
-decision on the sex question (there's no right answer — some love the surprise,
-some prefer to plan; you can ask the sonographer not to tell you). Front-loading
-preparation now means less scramble in the tiring third trimester.
 </details>
 
 ---

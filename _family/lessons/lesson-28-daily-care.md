@@ -82,40 +82,19 @@ Skin-to-skin, gentle rocking, and talking are all part of care, not just cleanin
 > the things that actually signal trouble — spreading redness or pus at the cord, a
 > severe or blistering rash, or the Lesson 30 red flags.
 
----
+### Where to start
 
-## Lab — Plan Together
+Practise the basics early, and practise them **both**: a diaper change, supporting
+the head, the sponge-bath routine, dressing a floppy newborn. Awkwardness on the
+first few attempts is universal and passes quickly.
 
-**Exercise 1 — care task or worry?** For each, say "normal care / no worry" or
-"call the provider": (a) flaky scalp patches (cradle cap); (b) redness spreading
-from the cord base with pus; (c) baby acne on the cheeks; (d) a diaper rash that's
-blistering and worsening despite changes.
+Learn the **cord-care signs** together as well — what healing looks like versus
+the redness, swelling, smell, or discharge that means call someone.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Normal / no worry:</strong> (a) cradle cap and (c) baby acne — both common
-and self-resolving. <strong>Call the provider:</strong> (b) spreading redness + pus
-at the cord suggests <strong>infection</strong>, and (d) a <strong>blistering,
-worsening rash</strong> needs assessment. The pattern: harmless skin things resolve
-on their own; spreading redness, pus, or severe/worsening rashes get checked.
-</details>
-
-**Exercise 2 — bath safety.** List four safety rules for bathing a newborn.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Any four: use <strong>warm (not hot) water</strong> and test it first; <strong>always
-support the head and neck</strong>; <strong>never leave the baby alone</strong> in or
-near water even briefly; keep baths <strong>short</strong> and only <strong>2–3 times
-a week</strong>; and use <strong>sponge baths until the cord falls off</strong>. The
-non-negotiable one: never leave a baby unattended near water.
-</details>
+Then agree how you will split daily care so it does not silently default to one
+person. This matters more than it sounds: when one parent becomes the sole
+expert, the other cannot take over, and the expert never gets to rest. Two
+confident caregivers is the actual goal here, not one very practised one.
 
 ---
 
@@ -168,26 +147,6 @@ falls off on its own in ~1–3 weeks. Call the provider for signs of
 <br>
 Any two: <strong>cradle cap</strong> (flaky scalp patches), <strong>baby acne</strong>,
 and <strong>dry/peeling skin</strong> — all common, harmless, and self-resolving.
-</details>
-
----
-
-## Homework
-
-Practise the daily-care basics before or early on — a diaper change, supporting the
-head, a sponge bath routine — so both partners are comfortable and can **share** the
-tasks. Learn the cord-infection signs together, and agree how you'll split daily
-care so it doesn't all fall on one person.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is two confident, capable caregivers who can each diaper, bathe, and dress
-the baby, know the harmless-vs-worrying skin/cord signs, and split the work. Shared
-competence here matters enormously — it prevents one parent becoming the sole
-"expert" and lets the other genuinely rest.
 </details>
 
 ---

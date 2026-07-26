@@ -32,31 +32,31 @@ your cereal box, your tax forms, your court hearing, your air-traffic
 control, on demand, in either. Individuals owe nothing; the
 *government* owes everything twice.
 
-```
-   WHO IS OFFICIALLY WHAT
+Start with who is officially what, because it is less uniform than people
+assume. **Canada as a country is officially bilingual**, under the Official
+Languages Act of 1969 — the product of Pearson's Royal Commission on
+Bilingualism and Biculturalism, legislated under Trudeau, renewed in 1988 and
+modernized in 2023. **Quebec is officially French**, under Bill 101
+(Lesson 22). **New Brunswick is the only officially bilingual province**, and
+constitutionally so — the Acadians of Lesson 08 secured that. The other twelve
+provinces and territories are English in practice, with French services
+provided by policy or statute in patches, as under Ontario's French Language
+Services Act.
 
-   CANADA (federal)   officially bilingual — Official
-                      Languages Act 1969 (Pearson's
-                      B&B Commission → Trudeau), renewed
-                      1988, modernized 2023
-   QUEBEC             officially FRENCH (Bill 101, L.22)
-   NEW BRUNSWICK      the only officially bilingual
-                      PROVINCE (constitutionalized —
-                      the Acadians, L.08, secured it)
-   the other 12       English de facto; French services
-                      by policy/statute in patches
-                      (Ontario's French Services Act...)
+Then the human numbers, which tell a more interesting story than the legal
+map:
 
-   THE HUMAN NUMBERS (2020s censuses, rounded)
-   mother-tongue French      ~21% (falling as share)
-   French–English bilinguals ~18% nationally —
-     but ~45% IN Quebec vs ~7–12% outside:
-     bilingualism is mostly a francophone skill
-   francophones OUTSIDE Quebec ~1M: Acadians (NB ~30%
-     of the province), Franco-Ontarians (~500–600k),
-     St. Boniface (Winnipeg), pockets everywhere
-   anglophones IN Quebec ~1M (Montreal-centred)
-```
+| Measure | Roughly |
+|---|---|
+| Mother-tongue French speakers | ~21% of Canadians, and falling as a share |
+| French–English bilinguals | ~18% nationally — but **~45% inside Quebec** versus 7–12% outside it |
+| Francophones outside Quebec | About one million: Acadians (~30% of New Brunswick), Franco-Ontarians (500–600,000), St. Boniface in Winnipeg, and pockets everywhere |
+| Anglophones inside Quebec | About one million, concentrated in Montreal |
+
+Look hard at the bilingualism row, because it carries the lesson's real point:
+**bilingualism in Canada is mostly a francophone skill.** The burden of
+learning the other language falls overwhelmingly on French speakers, and a
+great deal of the politics in this lesson follows from that asymmetry.
 
 The design's logic, from the whole course: 1774's bargain
 (Lesson 10) → Confederation's s.133 (Lesson 13) → the Quiet
@@ -104,8 +104,7 @@ outside federal jurisdiction to serve anyone in anything.
   bilingual (Manitoba Act, 1870), abolished French illegally in
   1890, and had a century of laws invalidated by the Supreme
   Court in 1985 when the bill came due: the course's tidiest
-  proof that constitutional promises don't expire (Lesson 15's
-  homework, provincial edition).
+  proof that constitutional promises don't expire (Lesson 15, provincial edition).
 - Plus Franco-Albertans, Fransaskois, Franco-Ténois... each
   with flag, festival, and school board — the "French fact"
   is national, thin, and tenacious.
@@ -160,127 +159,6 @@ answer, available to you now).
 > standard; calling it broken French in Montreal is the
 > linguistic equivalent of calling American English broken
 > British. It goes poorly.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — the cereal box.** A visiting friend turns the
-Corn Flakes box around: "Why is EVERYTHING in French? Do people
-here even speak it?" Give the full four-layer answer: the legal
-layer, the historical layer (three dates), the demographic
-honest layer, and the principle layer — in six sentences.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Legally: federal law requires consumer packaging and
-all federal services in both official languages — the box is
-the visible edge of a state that must function twice. The
-history in three dates: 1774, Britain chose to let conquered
-French Canada keep its language and institutions rather than
-assimilate it (the bargain the country is built on); 1867,
-Confederation wrote French into Parliament and the courts; 1969,
-after Quebec's Quiet Revolution made the old anglo-dominant
-bargain untenable, the Official Languages Act made the whole
-federal state bilingual. Demographically, honestly: about a
-fifth of Canadians are mother-tongue francophones —
-overwhelmingly in Quebec, with a million more from New
-Brunswick's Acadians to Manitoba — but most English Canadians
-speak little French; the box is bilingual so the STATE never
-forces a citizen to be. And that's the principle: the box
-isn't claiming everyone speaks both — it's the daily,
-slightly absurd, entirely serious reminder that this country
-exists because two peoples agreed neither would have to
-become the other. Every Canadian breakfast table gets a small
-constitutional document with the cereal."
-</details>
-
-**Exercise 2 — map the francophonies.** From memory: name four
-francophone communities outside Quebec with their locations,
-one historical fact each (from this course), and why lumping
-them all into "Quebec French" offends each differently.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(1) Acadians — Maritimes, centred in northern/eastern New
-Brunswick (~30% of NB): descendants of the 1755 deportation's
-survivors and returnees (L.08); their weight made NB the only
-officially bilingual province. Offence at lumping: they
-predate Quebec's identity entirely — a separate people with
-their own flag, day (Aug 15), and history of surviving
-Britain's harshest act; calling them Québécois erases le
-Grand Dérangement. (2) Franco-Ontarians — eastern/northern
-Ontario, 500k+: Regulation 17 (1912) banned their schools and
-poisoned WWI-era national unity (L.18); a century of rebuilding
-through s.23 (L.31). Offence: their survival was AGAINST
-assimilation pressures Quebec never faced at that intensity —
-their francophonie is an act of will, not a majority's
-comfort. (3) Franco-Manitobans (St. Boniface, Winnipeg) —
-Riel's community (L.15): Manitoba was FOUNDED bilingual
-(1870), stripped illegally in 1890, vindicated by the Supreme
-Court in 1985. Offence: they are the constitutional proof-case
-that French rights outside Quebec are law, not courtesy —
-and they paid a century for it. (4) Fransaskois /
-Franco-Albertans / Franco-Ténois — Prairie and northern
-pockets from the fur-trade and settlement eras (L.09/16).
-Offence: their communities descend from voyageurs and Métis
-networks older than the province of Quebec's modern identity
-— the French fact's deepest western roots. Common thread:
-each is a distinct survival story, and "Quebec French" hands
-all four's histories to a province they're not in.
-</details>
-
-**Exercise 3 — the asymmetry debate.** The 2023 Act
-modernization tilted federal policy from symmetric
-bilingualism ("two equal languages") toward asymmetric
-protection ("French is the endangered one — defend it
-specifically, including supporting Quebec's framework").
-Argue both sides honestly — the symmetric traditionalist and
-the asymmetric realist — and identify which course-long
-pattern this shift instantiates.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Symmetric case: the 1969 settlement's genius was neutrality —
-the federal state serves both communities identically,
-belonging to neither; asymmetry breaks the compact's
-architecture (anglo-Quebecers — a genuine minority with
-shrinking institutions — lose their equal claim on federal
-protection precisely when Quebec's language laws press them
-hardest, L.22/31's Bill 96-with-s.33 file), converts the
-referee into a player, and concedes officially what
-federal governments spent fifty years denying: that the two
-languages have different statuses. Asymmetric case: symmetry
-between a continental majority language and a 2% island was
-always a polite fiction — English needs no defence in North
-America and French is eroding on every census; treating
-unequal situations identically is its own bias (the s.15
-equality jurisprudence's core insight, L.31, applied to
-languages); and the realist notes the policy merely
-formalizes practice — s.23 was always asymmetric in effect,
-Quebec's selection powers exist (L.23's Meech gain), and
-pretending the referee was ever neutral fooled no one in
-either language. The pattern instantiated: Canada's standing
-method of converting symmetric constitutional text into
-asymmetric practical accommodation — QPP (L.21), immigration
-selection (L.23), "nation within a united Canada" (L.22),
-now languages: formal equality maintained on parchment,
-managed asymmetry delivered in policy, nothing amended
-(L.23's frozen constitution rule), everything adjusted.
-Full marks for noticing the anglo-Quebec minority is the
-genuine hard case both frameworks handle badly — the
-course's recurring lesson that every Canadian settlement
-produces a new minority at its seam.
-</details>
 
 ---
 
@@ -366,54 +244,10 @@ statutes was invalid (temporarily preserved to avoid chaos,
 then re-enacted bilingually). Proof delivered: constitutional
 promises to minorities don't lapse through violation,
 majority preference, or time — the same doctrine carrying
-the treaties (Lesson 17's live documents) and MMF (Lesson
-15's homework): in Canadian law, the bill always eventually
+the treaties (Lesson 17's live documents) and the MMF
+ruling (Lesson 15): in Canadian law, the bill always eventually
 arrives, and the Riel-era promises produced two of its
 canonical deliveries.
-</details>
-
----
-
-## Homework
-
-Your own language audit: for one week, log every encounter
-with the French fact in your anglophone-Canadian life (or
-English fact, if in Quebec): packaging, federal
-correspondence, announcements, anthem verses, colleagues'
-names, immersion-parent conversations, French-service
-signage. Write a paragraph on the seam's texture — where the
-two solitudes actually touch daily — and one paragraph
-answering: has this course changed what the cereal box
-means to you? (Be honest; "no" with reasons beats "yes"
-with piety.)
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Typical audit findings: the seam is thin, constant, and
-almost entirely institutional — packaging, ATMs, airline
-safety demos, CRA letters, the anthem's French verse at the
-game (mumbled), "Service in English or French?" at Service
-Canada — plus one or two human touches: a Franco-Ontarian
-colleague's accent nobody asks about, the neighbour's
-immersion-lottery saga. The honest texture observation:
-outside NB, Montreal, and Ottawa, the two societies mostly
-run parallel and the state is the only place they touch —
-Lévesque's sociology verified at your own kitchen table.
-Strong second paragraphs go either way: "Yes, changed — the
-box now reads as 1774's bargain surviving in laminate; I
-see a constitutional artifact where I saw packaging
-regulation" (the course's intended effect, stated without
-piety if it's true); or "No — and that's the finding: the
-design's success is precisely that it demands nothing of
-me, so it registers as wallpaper; a settlement that
-survives by being ignorable may be the highest Canadian
-achievement, and the most fragile" — which earns full marks
-for turning the null result into the phase's actual theme:
-Canadian identity as infrastructure you only notice when
-someone proposes removing it.
 </details>
 
 ---

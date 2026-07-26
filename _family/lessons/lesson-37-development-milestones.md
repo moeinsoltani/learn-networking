@@ -37,6 +37,16 @@ times. Milestones are for **noticing progress and catching genuine concerns earl
 
 ### Rough first-year milestones (ranges, not deadlines)
 
+Read the ages below as wide ranges, not appointments. Healthy babies reach these
+points at genuinely different times and often in different orders — plenty of
+babies skip crawling entirely and go straight to pulling up, and it means nothing.
+
+The useful thing to watch is not whether your baby hits a date but whether they
+are **steadily gaining new skills over time**. Loss of a skill already acquired
+is the exception, and that one is worth raising with a provider promptly. And if
+your baby was born prematurely, use their **corrected age** — counted from the
+due date rather than the birth date — for the whole first couple of years.
+
 | Around | Often can… |
 |---|---|
 | **6–8 weeks** | Give a first **social smile**; start cooing |
@@ -85,41 +95,26 @@ difference**, and often the answer is simple reassurance.
 > steady progress, celebrate it, raise genuine concerns with your provider, and
 > ignore the comparison games. Every baby has their own timetable.
 
----
+### Where to start
 
-## Lab — Plan Together
+Rather than working through a milestone checklist and worrying at it, commit to
+the things that actually drive development — the "nutrients," which are
+unglamorous and free.
 
-**Exercise 1 — milestone match.** Roughly when might a baby: (a) give a first social
-smile; (b) sit without support; (c) use a pincer grasp; (d) say a first word?
+Talk, read, and sing to your baby every day, well before they can understand a
+word of it. Do tummy time and floor play. Respond warmly and fairly promptly to
+their cues, which is how a baby learns that the world is reliable. And keep
+screens minimal in the first year; there is no version of them that beats your
+face.
 
-**Your answer:**
+Then learn the handful of **red flags** in this lesson, so that you would raise a
+genuine concern with a provider rather than either missing it or worrying about
+everything.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Approximate ranges: (a) social smile ~<strong>6–8 weeks</strong>; (b) sitting
-unsupported ~<strong>6–8 months</strong>; (c) pincer grasp ~<strong>9–12 months</strong>;
-(d) a first word ~<strong>12 months</strong> (often later — still normal). Emphasis on
-<em>approximate</em> — these are wide windows, not deadlines.
-</details>
-
-**Exercise 2 — normal variation or worth asking?** Sort: (a) a healthy baby who
-sits at 8 months and crawls at 10; (b) a baby who was babbling but has stopped and
-lost skills; (c) a baby not walking at 12 months; (d) a baby who doesn't respond to
-sounds or make eye contact.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Normal variation:</strong> (a) sitting/crawling within normal windows; (c)
-not walking at 12 months (many walk later — fine). <strong>Worth asking a provider:</strong>
-(b) <strong>losing/regressing skills</strong>, and (d) <strong>not responding to
-sounds or making eye contact</strong>. The rule: broad timing differences are normal;
-losing skills or missing social/hearing responses deserves a conversation (usually
-reassurance, sometimes helpful early support).
-</details>
+With those two things in place — rich daily interaction and knowing the real
+warning signs — you can stop measuring. Babies hit milestones in their own order
+and at their own pace, and comparison with other people's babies is a reliable
+source of misery and a very poor source of information.
 
 ---
 
@@ -175,28 +170,6 @@ or making eye contact</strong>; <strong>not meeting many milestones</strong> or 
 persistent lag; not babbling/gesturing by the expected times; or very stiff/very
 floppy tone. Raising these early allows helpful support if needed (often it's just
 reassurance).
-</details>
-
----
-
-## Homework
-
-Rather than a milestone checklist to stress over, commit to the **development
-"nutrients"**: talk, read, and sing to your baby daily, do tummy time and floor play,
-respond warmly to their cues, and keep screens minimal. Learn the **red flags** so
-you'd raise a genuine concern — then relax and enjoy watching your baby grow at their
-own pace.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is a daily habit of rich interaction (talking, reading, singing, play,
-responsiveness) plus knowing the handful of red flags. That combination gives your
-baby the best developmental support while freeing you from milestone anxiety and
-comparison. Steady progress and a happy, engaged baby — watched by attentive
-parents — is exactly what you're aiming for.
 </details>
 
 ---

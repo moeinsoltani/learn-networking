@@ -35,26 +35,22 @@ And here is the concept that unlocks the whole system:
 **The Crown holds nearly all the power, and exercises almost none of
 it.**
 
-```
-   THE CANADIAN STATE, FORMALLY
+Formally, almost every power of the Canadian state belongs to **the Crown** —
+"His Majesty in right of Canada." The Crown holds executive power, commands
+the armed forces, gives assent to every law, summons and dissolves Parliament,
+and appoints the Prime Minister. On paper, it is an alarming amount of
+authority for one unelected office.
 
-   THE CROWN ("His Majesty in right of Canada")
-   owns: executive power, command of forces, assent
-   to every law, summoning/dissolving Parliament,
-   appointing the PM...
-        │
-        │  ...ALL exercised on the ADVICE of
-        ▼     ministers who hold the Commons'
-   GOVERNOR GENERAL        confidence (Lesson 12's
-   (the Crown's stand-in)   1848 rule — still the
-        │                   whole game)
-        ▼
-   PM + CABINET  ◄── the people who actually decide
-        │
-   things happen: laws signed, wars declared,
-   parliaments dissolved — in the Crown's name,
-   at the government's direction
-```
+The catch is in three words: *on the advice of*. Every one of those powers is
+exercised on the advice of ministers who hold the confidence of the House of
+Commons — Lesson 12's rule of 1848, which is still the whole game. The Crown's
+stand-in in Canada is the **Governor General**, who acts on that advice; the
+advice comes from the **Prime Minister and Cabinet**, who are the people
+actually deciding.
+
+So things happen — laws are signed, wars declared, parliaments dissolved — *in
+the Crown's name* and *at the government's direction*. Learning to hold those
+two clauses together is most of what this lesson is for.
 
 Why keep the costume? Because the Crown solves a real design problem:
 **someone must embody the state itself, above party** — so that the
@@ -153,112 +149,6 @@ on the twenty.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — sort the powers.** Sort into "theoretical (never
-exercised personally)" vs "actually exercised with real discretion":
-(a) refusing royal assent to a bill; (b) choosing the PM after a
-hung election; (c) declaring war; (d) granting dissolution mid-term;
-(e) appointing senators; (f) refusing a dissolution request;
-(g) dismissing a PM.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Theoretical: (a) assent — never refused federally in Canadian
-history (a lieutenant governor last reserved a bill provincially in
-1961, to national astonishment); (c) war — the Crown's name, the
-cabinet's decision (Lesson 20's September 10 vote was Parliament's
-politics, the declaration formally the King's); (e) senators — GG
-appoints, but exclusively on PM's advice (Lesson 26's whole
-problem); (g) dismissal — live in Australia (1975), never used
-federally in Canada; the ultimate deterrent-ambiguity power.
-Real discretion: (b) hung parliaments — genuine judgment about who
-can command confidence, exercised within tight conventions
-(incumbent gets first try; Lesson 27's lab); (d)/(f) dissolution —
-normally automatic, but King–Byng establishes refusal is
-<em>possible</em> early in a parliament when an alternative
-government exists; 2008's prorogation is the modern cousin.
-Scoring insight: the discretionary set is exactly the set where
-the confidence rule gives no unique answer — the GG is the
-tie-breaking algorithm of last resort, and the system's health is
-measured by how rarely the algorithm runs.
-</details>
-
-**Exercise 2 — scenario (the American question).** Your American
-colleague: "So King Charles can just overrule your Parliament?
-That's insane for a democracy." Give the accurate four-sentence
-answer, including one thing the Crown genuinely does that a US
-president can't.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Opposite, actually — the King can't overrule anything: every
-Crown power is exercised only on the advice of ministers who hold
-the elected House's confidence, and royal assent hasn't been refused
-in Canadian federal history; functionally, our head of state has
-less personal policy power than your president's veto pen. The
-design point is separation of <em>state</em> from <em>government</em>:
-the Crown embodies the country so the prime minister can be just a
-politician — fireable any afternoon by a confidence vote, no
-impeachment drama required (Lesson 27). What the Crown genuinely
-does that your system can't: it gives the state a non-partisan
-referee for the edge cases — who forms the government when an
-election is a mess — so those calls aren't made by whoever already
-holds power; your equivalent moments (2000, 2020) go to courts and
-brinksmanship. And one more thing: Canada's treaties with First
-Nations run nation-to-Crown, a continuous legal person since 1763 —
-the monarchy is, among other things, the counterparty of record to
-the country's oldest contracts."
-</details>
-
-**Exercise 3 — King–Byng replay.** It's the near future: a minority
-PM, eight months after an election, loses a confidence vote on a
-corruption scandal and requests dissolution. The opposition leader
-writes to the GG claiming she can govern with a signed support
-agreement from two other parties totalling a Commons majority. You
-are the GG's constitutional advisor: memo (5–7 sentences) on
-options, the King–Byng precedent's guidance, and your
-recommendation.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model memo: "Your Excellency has two lawful options: grant
-dissolution (an election eight months after the last), or invite
-the opposition leader to form a government and test the House's
-confidence. The governing conventions: a PM who has lost confidence
-is entitled to <em>request</em> dissolution but not to receive it
-automatically; refusal is constitutionally available where (1) the
-parliament is young, and (2) a viable alternative government exists
-— both conditions present here, per King–Byng (1926) and the
-scholarly consensus that Byng's refusal was correct even though
-the politics burned him. The signed multi-party agreement
-distinguishes this case from 1926's fatal weakness (Meighen's
-support was never secured — his government fell in days): viability
-here is documented, not conjectural. Recommendation: invite the
-opposition leader, conditional on the agreement's publication, and
-state publicly that the decision applies settled convention —
-sparing voters a redundant election is the convention's purpose,
-and the scandal context makes granting the incumbent an escape-
-hatch election particularly corrosive. Risk note: expect the
-King–Byng playbook in response — the outgoing PM campaigning
-against 'unelected interference' at the next opportunity; the
-office's protection is scrupulous proceduralism and silence
-thereafter. The deeper principle for the file: the reserve power
-exists precisely so that losing the House's confidence has
-consequences a PM cannot unilaterally outrun."
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -343,50 +233,6 @@ new problems Canada's neighbours demonstrate daily. Net: high
 constitutional price, contested consent, negligible functional
 payoff — so the status quo persists on inertia that is itself a
 considered Canadian choice.
-</details>
-
----
-
-## Homework
-
-The Crown is Canada's oldest continuous institution — the same
-legal person that issued the 1763 Proclamation, signed the numbered
-treaties, assented to the Quebec Act, and appears in the 2021
-appointment of an Inuk Governor General. Write a paragraph arguing
-either (a) this continuity is a genuine asset for reconciliation
-(the counterparty still exists and can be held to its word), or
-(b) it's a legal fiction that lets the actual responsible party —
-the government of the day — hide behind ermine. Then write one
-sentence conceding the best point of the side you didn't take.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Strong (a): The honour of the Crown doctrine (Lessons 15, 17) only
-has teeth because the Crown is one continuous person across
-centuries — Manitoba Métis Federation succeeded in 2013 against
-promises made in 1870 precisely because no statute of limitations
-runs against the Crown's honour and no change of government resets
-the counterparty; First Nations negotiators consistently invoke the
-Crown relationship as the stable ground beneath transient
-ministries, and Mary Simon's appointment closes a circle the
-institution itself keeps legible. Strong (b): "The Crown" signed
-nothing — ministers did, and the fiction lets each government
-treat breaches as a predecessor's file while claiming the
-relationship's dignity; treaties were honoured or broken by
-cabinets responding to voters, and reconciliation advances when
-<em>governments</em> are sued, ordered, and embarrassed — the
-ermine adds ceremony, not accountability (the Queen never answered
-for the pass system; departments did, eventually, in court).
-Concessions: from (a) — it is true that Crown continuity has
-historically served as cover for governmental discontinuity of
-responsibility; from (b) — it is true that the continuous-person
-doctrine is the specific legal hook on which every major treaty
-victory has hung, and no plaintiff would trade it away. Either
-paragraph earns full marks by using at least two concrete cases
-from earlier lessons rather than abstractions.
 </details>
 
 ---

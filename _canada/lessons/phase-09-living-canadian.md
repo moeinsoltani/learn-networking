@@ -20,9 +20,10 @@ unwritten rules, the daily textures, the winter, the food, the hockey,
 the words. It comes *after* the Lesson 47 capstone deliberately: first
 the exam, then the life.
 
-Every lesson keeps the track's format — source & scenario labs with
-hidden model answers, factual checkpoints (now culture-flavoured), and
-homework you can do in an actual Canadian week.
+Every lesson keeps the track's format: a "Words to know" box, the concept
+explained in plain prose, a deeper section, further reading, and factual
+checkpoints with hidden answers — now culture-flavoured rather than
+constitutional.
 
 | # | Lesson | Status |
 |---|--------|--------|

@@ -31,33 +31,26 @@ sharing a border, a language, and a couch with the world's loudest
 culture industry had to *choose* between absorption and
 deliberate cultural machinery. It chose machinery:
 
-```
-   THE CULTURAL DEFENCE SYSTEM (build dates)
+Canadian cultural policy is best understood as a **defence system**, built
+piece by piece against the gravitational pull of American media. Each piece
+has a date and a reason.
 
-   CBC/Radio-Canada   1936 (L.19) — public broadcasting
-                      born explicitly to counter US radio;
-                      Hockey Night in Canada its cathedral
-   NFB                1939 — the documentary tradition
-                      (Obomsawin, L.44)
-   Massey Commission  1951 — "the state or the States":
-                      the founding cultural-policy report
-   Canada Council     1957 — arts funding (the Massey
-                      recommendation)
-   CanCon rules       1971 — the CRTC's radio/TV Canadian-
-                      content quotas: the reason the
-                      radio plays The Tragically Hip
-   the streaming fight 2023's Online Streaming Act —
-                      CanCon logic vs Netflix/Spotify:
-                      the 1951 question, re-asked
+| Built | What it is |
+|---|---|
+| **1936** | **CBC / Radio-Canada** — public broadcasting created explicitly to counter American radio (Lesson 19). *Hockey Night in Canada* became its cathedral |
+| **1939** | The **National Film Board**, and with it Canada's documentary tradition (Alanis Obomsawin, Lesson 44) |
+| **1951** | The **Massey Commission** — the founding cultural-policy report, which framed the choice as "the state or the States" |
+| **1957** | The **Canada Council for the Arts**, funding artists directly, as Massey had recommended |
+| **1971** | **CanCon rules** — the CRTC's Canadian-content quotas for radio and television. This is the reason the radio plays The Tragically Hip |
+| **2023** | The **Online Streaming Act** — CanCon logic applied to Netflix and Spotify, which is the 1951 question asked again about a new pipe |
 
-   AND THE ICE (the other shared church):
-   hockey — 1972 Summit Series (the cold-war
-   passion play), Gretzky, the Habs–Leafs schism,
-   women's Olympic dynasty, Sidney's golden goal
-   (2010), the McDavid era's beautiful agony:
-   no Canadian team has won the Cup since 1993 —
-   a national koan
-```
+And then there is the ice, which functions as the country's other shared
+church. The touchstones a Canadian assumes you know: the **1972 Summit
+Series** against the Soviets, played as a cold-war passion play; Gretzky; the
+Canadiens–Leafs schism that runs through families; the women's Olympic
+dynasty; Sidney Crosby's golden goal in 2010; and the beautiful agony of the
+McDavid era — **no Canadian team has won the Stanley Cup since 1993**, a fact
+that functions less like a statistic than like a national koan.
 
 Two honest frames to carry: the machinery *worked* (a
 recognizable Canadian culture exists and exports — from Anne of
@@ -174,141 +167,6 @@ machinery and a border, not an audience.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — the cultural-literacy match-up.** Match each
-name to why it matters in one line: Paul Henderson · Alice
-Munro · The Tragically Hip · Maurice Richard · Alanis
-Obomsawin · Drake · Denys Arcand · the Guess Who · Hayley
-Wickenheiser · Mordecai Richler. (Course-lesson citations
-earn bonus marks.)
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Henderson — the 1972 Summit Series winning goal, English
-Canada's shared "where were you" second (this lesson).
-Munro — the 2013 Nobel: the short story's global master,
-small-town Ontario as universal literature. The Hip —
-"Canada's band": CanCon's canonical product, the 2016
-farewell watched by a third of the nation; Downie's Secret
-Path linking the arena to reconciliation (L.24/44).
-Richard — the Canadiens' fire; the 1955 riot over his
-suspension as francophone grievance's dress rehearsal
-(L.22's prologue). Obomsawin — the NFB's documentary
-conscience; *Kanehsatake* filmed from behind the Oka
-barricades (L.24/44). Drake — Toronto's global pop
-dominance, achieved entirely outside the protection
-machinery: the anti-CanCon exhibit (this lesson's irony
-file). Arcand — Quebec cinema's Oscar (*Barbarian
-Invasions*): the parallel star system exporting (L.42's
-wall, opened). The Guess Who — "American Woman," 1970:
-the pre-CanCon proof Canadians could top US charts, and
-the quota era's house band. Wickenheiser — the women's
-dynasty's cornerstone (first woman to score in men's pro
-league; now a surgeon and NHL executive — the overachiever
-even by this list's standards). Richler — Montreal's
-anglo satirist (*Duddy Kravitz*, *Barney's Version*),
-gleefully savaging both solitudes from the seam (L.42's
-anglo-Quebec minority, in letters). 8+ with citations =
-dinner-party-certified.
-</details>
-
-**Exercise 2 — scenario: the Olympic final.** Your
-distributed team's Slack goes silent mid-morning; a
-colleague abroad DMs: "Everyone's gone — something about
-hockey?" It's Canada–US, Olympic gold-medal game. Explain
-in six sentences what is happening and why it matters this
-much — using 1972, the women's rivalry, and the koan.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "It's the Olympic hockey final against the US, and
-you should assume Canadian productivity is a rounding error
-until the handshakes. Hockey is the closest thing English
-Canada has to a shared church — the reference event is the
-1972 Summit Series against the Soviets, when the entire
-country literally stopped for the final game and a
-last-minute goal became our collective 'where were you'
-moment; every Canada–US final is that liturgy re-run
-against the neighbour we measure ourselves by (a country
-this course would call the elephant). If it's the women's
-final, know that Canada–US women's hockey is the sport's
-best rivalry and Canada's team is a dynasty — this game is
-expected gold, which is worse for the nerves, not better.
-There's also a standing national wound: no Canadian club
-team has won the professional championship since 1993,
-so international golds carry the entire repressed
-theology. When it ends: victory means the anthem sung at
-desks and an unproductive but joyous afternoon; defeat
-means genuine, comic-but-not-really mourning and
-unusually gentle code reviews. Either way, normal service
-resumes tomorrow, and you've just witnessed the most
-reliable ritual Canadian culture owns."
-</details>
-
-**Exercise 3 — the CanCon trial, streaming era.** The
-Online Streaming Act extends CanCon logic to Netflix,
-Spotify, and YouTube — mandated Canadian-content funding
-and discoverability. Prosecute and defend using the full
-evidence file (the Hip vs Drake exhibits; Massey's premise;
-Quebec's wall; the algorithm era's differences), then rule.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Prosecution: the machinery's premise died with the dial —
-quotas made sense when three broadcasters owned scarce
-shelf space; algorithms have infinite shelves, and Canadian
-artists now win globally by being GOOD ON THE PLATFORMS
-(Drake, The Weeknd, Bieber, Shawn Mendes: the biggest
-Canadian cultural exports ever, zero quota assistance);
-discoverability mandates risk making "Canadian" a
-skip-button category (forced-feed resentment), the
-certification system (MAPL points) rewards industrial
-checklists over cultural content (a US star recording in
-Toronto can qualify while a Canadian's diaspora story shot
-abroad might not), and the compliance costs land on the
-platforms' smallest creators — the YouTube generation the
-Act claims to help, who built audiences precisely by
-ignoring the national frame. Defence: Massey's premise
-never died — it moved into the algorithm: the feed IS the
-new scarce shelf (attention, not bandwidth, is the
-bottleneck), and its owners are foreign monopolies with
-zero stake in Canadian storytelling; the machinery's
-track record is the country's actual culture (the
-Hip-to-Munro ecosystem was BUILT, not born — pre-1971
-radio proves the counterfactual); Drake disproves nothing —
-pop's global winners never needed help; the machinery
-exists for the mid-list where national culture actually
-lives (the drama about Regina, the Cree-language series,
-the téléroman — L.44's renaissance and Quebec's system
-both run on the funding side of exactly this Act); and
-sovereignty over cultural policy is the 1951/1988
-question (L.38's culture exemption was fought for) —
-declining to regulate the platforms is choosing the
-States, in Massey's exact terms. Ruling (any honest one):
-split the instrument — the FUNDING half (platform
-contributions to Canadian production) inherits the
-machinery's proven logic; the DISCOVERABILITY half
-(algorithm mandates) fails the evidence test and risks
-the backlash; and the deepest finding is the course
-pattern: this is the 1951 question re-asked in each
-technology generation — the state or the States — and
-Canada's consistent answer (machinery, adjusted,
-imperfect, renewed) is less a policy than a national
-habit; expect the 2040s edition.
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -403,47 +261,6 @@ any shelf space. The comparison cuts both ways in debate:
 proof that walls work (Quebec's confidence), and proof
 that anglo-Canada's walls are fighting language-gravity
 that Quebec never faced (the CanCon skeptic's rejoinder).
-</details>
-
----
-
-## Homework
-
-Your cultural onboarding sprint, self-designed: pick ONE
-item from each column and consume it this month — a Hip
-album or the 2016 farewell concert / a Munro story
-collection or *The Handmaid's Tale* / one Obomsawin or
-Arcand or Villeneuve film / one téléroman or *Kim's
-Convenience* season / one full Hockey Night broadcast or
-women's international. Write a paragraph afterward: which
-artifact taught you the most COUNTRY per hour, and which
-course lesson it secretly was.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Any honest report earns marks; model observations of the
-type expected: "The Hip's farewell concert taught the most
-country-per-hour: three hours of a dying man singing
-small-town place names to a weeping third of the
-population, with the Prime Minister crying in a Hip
-t-shirt — it was Lesson 45's authenticity-by-practice
-thesis performed live (a bar band sanctified by thirty
-years of national repetition), Lesson 24 walking onstage
-when Downie spent his final months on residential-school
-memory, and Lesson 47's question answered by
-demonstration: whatever a Canadian is, forty thousand of
-them singing 'Ahead by a Century' at once is the closest
-observable instance." Equally strong: Munro as Lesson 04
-(the small-town Ontario the population map abandoned,
-preserved in amber); *Kanehsatake* as Lesson 24 with a
-camera; a téléroman as Lesson 42's wall experienced from
-inside (subtitles as passport); Hockey Night as Lesson 45's
-liturgy with commercials. The graded skill: connecting
-artifact to architecture — culture as the course's
-material, consumed on purpose.
 </details>
 
 ---

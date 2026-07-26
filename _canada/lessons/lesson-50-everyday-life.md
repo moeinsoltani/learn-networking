@@ -33,22 +33,27 @@ price tag is lying by 13%, that milk comes in bags in Ontario, or
 that the country runs on a coin called a loonie. This lesson is the
 missing manual for the Canadian errand.
 
-```
-   A SATURDAY, ANNOTATED
+The fastest way to see how much of this course shows up in ordinary life is to
+walk through a suburban Saturday and annotate it.
 
-   09:00  Timmies drive-thru — "large double-double" (L.45's
-          liturgy, ordered correctly in four words)
-   10:00  Canadian Tire — the everything-store national institution
-          (car stuff, hockey tape, BBQs, and its own funny money)
-   11:00  grocery run — bilingual boxes (L.42), milk in BAGS (ON),
-          bring your own bins, tap to pay
-   12:30  LCBO/SAQ/private store (province decides how you buy
-          wine — L.29 in retail form)
-   14:00  the bank that is one of five banks (L.40)
-   15:00  hockey practice drop-off (L.48/53)
-   18:00  checkout total is NEVER the shelf price (tax added after)
-          tip screen suggests 18% and everyone mildly resents it
-```
+It starts around **9 a.m.** at the Tim Hortons drive-thru, ordering "a large
+double-double" — four words that constitute a small liturgy (Lesson 45), and
+which you will be expected to produce without hesitation. At **10** comes
+Canadian Tire, the national everything-store: car parts, hockey tape,
+barbecues, and its own famous funny money. At **11**, the grocery run, where
+you will notice bilingual packaging (Lesson 42), milk sold **in bags** if you
+are in Ontario, the bins you brought yourself, and tap-to-pay everywhere.
+
+Around **12:30** you buy wine — and *where* you buy it depends entirely on
+your province: the LCBO in Ontario, the SAQ in Quebec, private stores in
+Alberta. That is Lesson 29's federalism, in retail form. At **2 p.m.**, the
+bank, which is one of five banks (Lesson 40). At **3**, hockey practice
+drop-off (Lessons 48 and 53).
+
+And at **6 p.m.**, two small shocks that every newcomer registers: the
+checkout total is **never** the shelf price, because sales tax is added at the
+till rather than displayed; and the payment terminal will suggest an 18% tip,
+which everyone in the country mildly resents and most people pay anyway.
 
 The through-line: everyday Canada is **regulated, regionalized, and
 quietly weird** — and the weirdness (bag milk, coin names, two
@@ -156,98 +161,6 @@ you pass. ("Klick" = kilometre; "it's about twenty klicks" — L.54.)
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — the receipt forensics.** A menu burger is $18.00 in
-Toronto. Reconstruct the plausible card total with 18% tip (tipped
-pre-tax, as natives do), naming each line — then explain to a
-just-landed friend why the menu "lied," and the one province where
-the lie is smallest.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-$18.00 burger + HST 13% (Ontario's harmonized GST+PST, L.35) =
-$20.34; tip 18% on the PRE-tax $18.00 = $3.24 (tipping pre-tax
-is the traditional native calculation, though tablets often
-compute post-tax — noticing that IS a Canadian hobby); total ≈
-$23.58, or ~31% over menu. Why the menu "lies": Canadian retail
-convention displays pre-tax prices — tax appears at the till
-(unlike VAT-inclusive Europe), a transparency-of-taxation norm
-that doubles as a national arithmetic drill. Smallest lie:
-Alberta — GST only (5%), no provincial sales tax; the $18
-burger totals ~$18.90 before tip, and Albertans mention this
-(L.29/35/39 — the no-PST identity is real).
-</details>
-
-**Exercise 2 — the settling-in shopping list.** A newcomer friend
-has an apartment, a job, and a Canadian winter eight weeks out.
-Build their top-ten first-purchases list with one-line justifications
-from this phase's lessons.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model list: (1) proper winter coat rated to real cold — L.51's
-survival infrastructure, bought before the first cold snap, not
-during; (2) insulated waterproof boots — sidewalk slush is the
-enemy; (3) toque, gloves, scarf — L.54 for the word, L.51 for
-the physics; (4) window scraper + snow brush (car owners) or
-transit card (everyone else); (5) shoe tray for the door —
-L.49's shoes-off protocol has hardware; (6) provincial health
-card application, week one — L.34/50, processing takes weeks;
-(7) a milk pitcher if Ontario/Quebec — bag-milk compliance,
-this lesson; (8) layers and wool socks — the actual winter
-secret (L.51: dress like an onion, not a hero); (9) a slow
-cooker or big pot — soup/stew season is six months long and
-potluck invitations are coming (L.49/52); (10) skates, used,
-from Canadian Tire or Play It Again — L.45's "the attempt is
-the citizenship," L.53's social infrastructure. Grading: full
-marks for any list that puts COLD-rated gear before aesthetics
-and includes the health card — the two errors newcomers
-actually make (fashion coats in January; discovering the
-health-card processing lag while sick).
-</details>
-
-**Exercise 3 — the mash-up test.** Write one natural Canadian
-sentence each using: (a) weather, (b) a road trip, (c) your own
-height/weight, (d) a recipe, (e) a deli order — using the CORRECT
-measurement system for each — then state the rule a machine could
-follow.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) "It's minus twelve but feels like minus twenty with the
-windchill" (°C, plus the windchill clause — L.51's grammar).
-(b) "Kingston's about 260 klicks from Toronto — two and a half
-hours if the 401's behaving" (km + highway-number-with-'the',
-L.54). (c) "I'm five-ten, about a hundred and seventy pounds"
-(imperial for bodies, always). (d) "Preheat to 375 and add two
-cups of flour" (°F ovens, cup measures — inherited American
-kitchenware). (e) "Half a pound of the smoked turkey, please"
-(deli counters run imperial though the scale prints grams).
-Machine rule: OFFICIAL/OUTDOOR/GOVERNMENT domains are metric
-(weather, roads, fuel, printed labels — the 1970s conversion's
-reach); BODY/KITCHEN/HOUSE domains are imperial (self-
-description, recipes, real estate, lumber — domains where
-conversion required replacing private habits and hardware, so
-it never completed). Canadians run the split unconsciously;
-running it correctly is among the fastest ways to sound raised
-here — and EXPLAINING it, as you just did, is something most
-natives can't do. (L.21's metrication, filed under "boldly
-begun, quietly abandoned halfway," a recurring national
-pattern.)
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -323,45 +236,6 @@ beloved absurdity. "Large double-double, box of Timbits" — a
 large coffee with two creams and two sugars plus assorted
 donut holes, at Tim Hortons: the full folk-liturgy order
 (L.45), executed in native word order.
-</details>
-
----
-
-## Homework
-
-Run the Saturday from this lesson's Concept diagram as an actual
-field exercise (adapt to your city): a Tim's order in native
-syntax, one Canadian Tire browse, one grocery run cataloguing
-five bilingual labels (L.42) and the tax gap on your receipt, and
-one deli order in pounds. Write a half-page on the two moments
-that felt most foreign and the one that felt most like home —
-then file the receipt where you'll find it in a year, as evidence
-of when all this needed a manual.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-No single right answer — grading criteria instead: the Tim's
-order succeeds if delivered without pausing ("large
-double-double, please" — four words, no article errors, the
-English track's L.02 in the wild); the receipt analysis should
-name the exact tax line (HST 13% ON / GST+PST / GST 5% AB) and
-compute the menu-vs-paid gap; the bilingual-label catalogue
-should notice L.42's point that the French is not decoration
-but law (and that cereal boxes are where most anglophone
-Canadians accidentally learned their French); the deli order
-tests the measurement mash-up under mild social pressure.
-Common findings for the reflection: the foreign moments cluster
-around the tip tablet (percentage anxiety with an audience) and
-bag milk (pure disbelief); the felt-like-home moment is
-usually the checkout small talk or the door-hold chain (L.49)
-— the protocols internalize fastest because they're rehearsed
-dozens of times daily. The year-later receipt is the real
-assignment: this phase's material stops being visible once
-learned, exactly like the natives' version — keep one artifact
-from when it was still strange.
 </details>
 
 ---

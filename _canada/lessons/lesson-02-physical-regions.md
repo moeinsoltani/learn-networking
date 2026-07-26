@@ -56,6 +56,24 @@ and everything from Confederation politics to house prices follows from that.
 
 ### The seven regions, and what each one *meant*
 
+The seven regions are worth learning as a story rather than a list, because
+each one hands its inhabitants a single, obvious way to make a living, and
+that living then shapes the province's politics.
+
+Three of them are essentially **unusable**: the Canadian Shield is bare rock,
+the Hudson Bay Lowlands are bog, and the Arctic Archipelago is tundra and sea
+ice. Together they are most of Canada's map and almost none of its population.
+Two more are **difficult but valuable**: the Appalachian region of the east has
+poor soil but magnificent harbours, so its people turned to the sea; the
+Western Cordillera is too vertical to farm but heavy with forest, minerals, and
+salmon. That leaves two **generous** regions: the Interior Plains, flat and
+fertile enough to grow grain and, as it turned out, sitting on oil; and the
+small Great Lakes–St. Lawrence Lowlands, which has the best soil, the mildest
+weather, and a navigable route to the ocean all at once.
+
+Read the table with that grouping in mind — the last column is the one that
+explains modern Canada.
+
 | Region | Where | Land | Human consequence |
 |---|---|---|---|
 | **Canadian Shield** | Horseshoe around Hudson Bay: most of QC, ON's north, MB/SK/NT edges, Labrador | Ancient igneous rock, thin soil, endless lakes and boreal forest | Nearly useless for farming → almost empty; spectacularly rich in **minerals** (nickel, gold, copper, uranium) and **hydro** → mining towns (Sudbury, Timmins) and dams |
@@ -96,72 +114,22 @@ within minutes (Phase 8).
 > with a Lowlands ribbon along the river. When a Canadian says "up north,"
 > they usually mean "where the Shield starts," not the Arctic.
 
----
+### Why the cities sit in a line
 
-## Lab — Source & Scenario
+Visitors often assume Canada's big cities hug the American border out of some
+economic pull towards the United States. The regions explain it better than
+that. Half the country is Shield — rock and forest. The Arctic and the Hudson
+Bay Lowlands are tundra and bog. The Cordillera is wall after wall of
+mountains. Once you subtract all of it, only two areas comfortably support
+large cities, and both of them happen to lie along the southern edge: the
+Lowlands corridor, which strung Windsor, Toronto, Ottawa, Montreal and Quebec
+City along one water route, and the Interior Plains, whose farm towns grew
+into Winnipeg, Regina, Saskatoon, Calgary and Edmonton.
 
-**Exercise 1 — region → consequence matching.** Cover the table above. Match
-each region to its signature economy: (a) Shield, (b) GL–St. Lawrence
-Lowlands, (c) Appalachian, (d) Interior Plains, (e) Cordillera →
-(1) grain and oil, (2) fishing and ports, (3) mining and hydro, (4) forestry
-and salmon, (5) manufacturing, finance, and most of the people.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-a–3, b–5, c–2, d–1, e–4. If you can also say <em>why</em> in one clause each —
-Shield: minerals exposed and soil scraped away by glaciers; Lowlands: best
-soil + climate + the water highway; Appalachian: poor soil but great harbours
-pushed life seaward; Plains: fertile grassland over hydrocarbon basins;
-Cordillera: too vertical to farm but forested and salmon-rich — you've
-extracted everything this lesson has to offer.
-</details>
-
-**Exercise 2 — the paradox paragraph.** In 4–6 sentences, explain to a friend
-why almost nobody lives in the region that covers half of Canada.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Half of Canada sits on the Canadian Shield — a plate of
-billion-year-old rock wrapped around Hudson Bay. During the ice ages, glaciers
-scraped it down to bare stone and carried its soil south, so almost nothing
-can be farmed there; what's left is rock, boreal forest, and a couple of
-million lakes. You can't feed a population on that, so people never settled it
-in numbers — but you <em>can</em> mine it and dam its rivers, which is why the
-Shield's few towns exist for nickel, gold, or hydroelectricity. Meanwhile the
-soil the glaciers stole helped make southern Ontario superb farmland, which is
-where everyone actually lives. So the Shield is Canada's treasury, not its
-home." The key causal chain to include: glaciers → no soil → no farming → no
-settlement, <em>but</em> exposed minerals + wild rivers → mining and hydro.
-</details>
-
-**Exercise 3 — scenario.** A pen-pal asks: "Why are Canada's big cities all in
-a line near the bottom of the map instead of spread out like America's?"
-Answer using at least three regions by name.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Because most of Canada's land can't support big cities. The Canadian
-Shield — half the country — is bare rock and forest; the Arctic and Hudson Bay
-Lowlands are tundra and bog; the Cordillera is wall after wall of mountains.
-That leaves two generous places: the Great Lakes–St. Lawrence Lowlands, a
-small fertile strip with a natural shipping route (hence Toronto, Montreal,
-Ottawa in a line along it), and the Interior Plains, which got farm towns that
-grew into Winnipeg, Calgary, and Edmonton. The US, by contrast, is fertile and
-temperate across most of its width, so its cities could spread. Canada's
-cities aren't near the US border because Canadians love America — the border
-just happens to run through the only comfortable latitude." This answer earns
-full marks by inverting the usual assumption: the cities aren't hugging the
-border; the border runs through the habitable zone.
-</details>
+The United States, fertile and temperate across most of its width, could let
+its cities spread in every direction. Canada could not. So it is more accurate
+to say that **the border runs through the habitable zone** than that the cities
+crowd the border.
 
 ---
 
@@ -227,35 +195,6 @@ in eastern Canada; (3) the natural water highway of the St. Lawrence and Great
 Lakes, which made it the corridor for trade, immigration, and industry. Dense
 population then compounds politically: more people → more parliamentary seats →
 more attention (Phase 5's federalism lessons pick up the grievance).
-</details>
-
----
-
-## Homework
-
-Pick any **three** Canadian cities *not* named in this lesson. For each,
-identify its physical region and write one sentence on how the region explains
-what the city does for a living. (Try one Atlantic, one Prairie, one BC or
-territorial city for spread.)
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Sample strong answers: <strong>Moncton, NB</strong> (Appalachian) — poor
-farmland but a strategic crossroads location made it Atlantic Canada's
-transport and logistics hub. <strong>Saskatoon, SK</strong> (Interior Plains) —
-sits amid wheat and canola country and above the world's richest potash
-deposits, so it lives on agriculture and mining services.
-<strong>Prince George, BC</strong> (Cordillera) — a forestry town at the
-junction of mountain valleys, living from lumber and as a service centre for
-the northern interior. Other good picks: Sudbury, ON (Shield — nickel, from a
-meteorite-impact deposit); Churchill, MB (Hudson Bay Lowlands — Canada's only
-Arctic seaport and polar-bear tourism); Yellowknife, NT (Shield's northern
-edge — gold, then diamonds); Kitchener–Waterloo, ON (Lowlands — farm belt
-turned manufacturing turned tech). Full marks if each sentence contains a
-causal "because," not just a label.
 </details>
 
 ---

@@ -42,6 +42,16 @@ meals for heartburn, resting your feet, and staying gently active.
 
 ### Braxton Hicks vs. real labour
 
+Practice contractions — **Braxton Hicks** — are common in the third trimester,
+and telling them apart from the real thing is one of the most common sources of
+late-pregnancy anxiety and unnecessary hospital trips.
+
+The distinction comes down to one word: **pattern**. Practice contractions
+wander. Real labour organises itself — the contractions become regular, get
+closer together, last longer, and grow stronger, and they keep doing so whatever
+you do. A useful home test is to change what you are doing: practice contractions
+often settle if you move, rest, or drink water. Real labour does not care.
+
 | | Braxton Hicks ("practice") | Real labour |
 |---|---|---|
 | **Pattern** | Irregular, unpredictable | Regular, and get **closer together** |
@@ -78,41 +88,22 @@ gadgets — trust the pattern and call if it changes.
 > **same day** if movements drop. These two habits catch the most important
 > third-trimester problems early.
 
----
+### Where to start
 
-## Lab — Plan Together
+Two practical things belong to this trimester.
 
-**Exercise 1 — practice or real?** Contractions that are irregular, mild, and stop
-when she rests at 33 weeks — versus contractions that are regular, getting stronger
-and closer together at 39 weeks. Which is which, and what should each prompt?
+First, settle the **"go to hospital / call" plan** while you are calm: who
+drives, where the bag is, and both the provider's and the hospital's numbers
+saved in both your phones. Logistics decided now are logistics you do not have
+to improvise at 3 a.m.
 
-**Your answer:**
+Second, start noticing the **baby's daily movement pattern**. You are not
+counting to hit a target; you are learning what normal looks like for this baby,
+so that a genuine change would stand out to you. A drop in movement is one of the
+signs worth acting on rather than waiting out.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The first (irregular, mild, ease with rest) are likely <strong>Braxton Hicks</strong>
-— but because it's <em>before 37 weeks</em>, if they become regular or you're unsure,
-<strong>call</strong> to rule out preterm labour. The second (regular, building,
-closer together) sounds like <strong>real labour</strong> at term — time them and
-follow your provider's guidance on when to go in (Lesson 20). Key tell: real labour
-is regular and intensifies; practice contractions are irregular and fade.
-</details>
-
-**Exercise 2 — movement matters.** At 34 weeks, the baby has been much quieter than
-usual all day. What should you do, and why is this taken seriously?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Call your provider the same day</strong> (don't wait until tomorrow). A
-clear drop from the baby's <em>normal</em> movement pattern can be an early sign
-that the baby needs checking, and prompt assessment (often just monitoring) is
-important. Providers would always rather check and reassure than have you wait —
-reduced movement is never something to "sleep on."
-</details>
+Then look at what is still unfinished — bag packed, car seat installed, birth
+plan drafted — and make the earliest of them this week's task.
 
 ---
 
@@ -166,27 +157,6 @@ don't wait.
 <strong>37 weeks</strong> is when "term" begins. Regular contractions or labour
 signs <strong>before 37 weeks</strong> may be <strong>preterm labour</strong> and
 should prompt a call to your provider.
-</details>
-
----
-
-## Homework
-
-Two practical steps: agree on the **"go to hospital / call" plan** (who drives,
-the bag, the phone numbers) and start a simple habit of **noticing the baby's daily
-movement pattern** so you'd spot a change. Note anything still on your to-do list
-for the birth (bag, car seat, birth plan).
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong answer has a concrete plan (driver, packed bag by the door, provider and
-hospital numbers saved) and a movement-awareness habit. Having the logistics settled
-now removes panic later, and knowing the baby's normal activity means you'd notice —
-and act on — a drop. Anything unfinished (car seat installed, bag packed) becomes
-this week's task.
 </details>
 
 ---

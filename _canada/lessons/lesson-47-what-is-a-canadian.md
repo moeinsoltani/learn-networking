@@ -31,42 +31,37 @@ yours to finish. First, the candidate answers Canadians
 themselves have offered — each true, each insufficient, each
 traceable to lessons you've taken:
 
-```
-   THE CANDIDATE ANSWERS (with their file numbers)
+Seven answers are actually in circulation, and each one is defensible, each
+one is incomplete, and each traces back to a lesson you have already done.
 
-   "NOT AMERICAN"        the founding negative (L.11's
-                         Loyalists, 1812; L.38's elephant)
-                         — true, durable, and parasitic:
-                         an identity that needs its rival
+**"Not American."** The founding negative — Lesson 11's Loyalists and the War
+of 1812, Lesson 38's elephant. It is true and remarkably durable, and it is
+also parasitic: an identity that requires its rival to keep existing.
 
-   THE MOSAIC            L.43's official story — true as
-                         posture, exaggerated as sociology,
-                         and silent on the founding pillars
+**The mosaic.** Lesson 43's official story. True as a posture, exaggerated as
+sociology, and conspicuously silent about the two founding pillars it sits on
+— the French fact and the treaties.
 
-   PEACE, ORDER & GOOD   the constitutional temperament
-   GOVERNMENT            (L.13) vs life-liberty-happiness:
-                         deference, order, insurance over
-                         upside (L.41's columns) — the
-                         deepest true one, least marketable
+**Peace, order, and good government.** The constitutional temperament of
+Lesson 13, set against "life, liberty, and the pursuit of happiness":
+deference, order, and a preference for insurance over upside (Lesson 41's
+columns). This is probably the truest answer on the list, and the least
+marketable.
 
-   LA SURVIVANCE         Quebec's answer (L.08/10/22):
-                         a nation is what refuses to stop
-                         existing — the answer English
-                         Canada borrowed without noticing
+**La survivance.** Quebec's answer (Lessons 08, 10, 22): a nation is whatever
+refuses to stop existing. English Canada borrowed this one without ever
+noticing that it had.
 
-   THE NORTH             the anthem's claim, the 0.3%
-                         reality (L.03) — myth doing
-                         real work
+**The North.** The anthem's claim, against the reality that 0.3% of Canadians
+live there (Lesson 03). A clear case of a myth doing real work.
 
-   THE TREATY COUNTRY    the oldest and newest answer
-                         (L.10/17/24/32): Canada as a
-                         relationship still being honoured
-                         into existence
+**The treaty country.** Both the oldest answer and the newest (Lessons 10, 17,
+24, 32): Canada as a relationship that is still being honoured into existence,
+rather than a thing already finished.
 
-   POLITENESS/SORRY      the folk answer (L.45) — a real
-                         behavioral pattern (accommodation
-                         as habit) mistaken for niceness
-```
+**Politeness — "sorry."** The folk answer (Lesson 45). Underneath it is a real
+behavioural pattern, accommodation as a reflex, that outsiders regularly
+mistake for mere niceness.
 
 And the thesis this course has been assembling since Lesson 10,
 now stated plainly: **Canada is not a completed identity but a
@@ -148,85 +143,17 @@ your essay exists to make.
 
 {: .note }
 > **How to finish this course**
-> 1. Write the capstone essay (Lab, below) — before
-> reading the model. 2. Take the cumulative exam (Homework)
-> — it is a full citizenship-test superset; 15/20 passes
-> the real thing's threshold, but you're expected to
-> clear 17. 3. Then do the one thing no lesson can:
+> 1. Work the Checkpoint below, in writing, before
+> revealing the answers. 2. Take the **Final Exam** at the
+> end of this lesson — forty questions covering all nine
+> phases. It is a superset of the real citizenship test;
+> 15 out of any 20 clears that test's threshold, but you
+> should be aiming to clear 17. 3. Then do the one thing no lesson can:
 > have the conversation. Find a Canadian — old-stock,
 > new-oath, Québécois, Cree, Newfoundlander — and ask
 > them this lesson's question. You now know enough to
 > hear their answer properly, which was the course's
 > actual goal all along.
-
----
-
-## Lab — The Capstone Essay
-
-**Write "What is a Canadian?" — 500 words.** Constraints:
-draw on at least **five** lessons by name or content; engage
-at least **one** regional or national counterweight honestly;
-take a position (the course's method-thesis, a candidate
-answer defended, or your own) — hedging to a survey is the
-one failing grade. Write it *before* opening the model.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model essay (yours should disagree somewhere — that's the
-tradition): "A Canadian is a member of a country that
-decided, in 1774, not to decide — and has been governing
-by that genius ever since. Britain, holding a conquered
-French society, chose accommodation over erasure
-(Lesson 10), and the choice became an architecture:
-federalism so Quebec could exist (Lesson 13), two anthems
-in one tune (Lesson 45), a constitution that binds a
-province that never signed it (Lesson 23), treaties whose
-performance is still being litigated into good faith
-(Lessons 17, 24). Every rival answer to this question is
-a fragment of that architecture: 'not American' is the
-method seen from the border — the counter-revolution's
-descendants (Lesson 11) preferring peace, order, and good
-government to self-evident truths; the mosaic (Lesson 43)
-is the method applied to newcomers — join the negotiation,
-keep your name; even 'sorry' is the method in miniature,
-a society lubricated by pre-emptive accommodation
-(Lesson 45's Apology Acts being the giveaway that it's
-structural). I must be honest about the counterweights.
-The Cree of Eeyou Istchee were not accommodated; they
-were administered (Lesson 17), and their present
-negotiation (Lesson 44) is less the method's triumph than
-its overdue extension to the people it was practiced ON
-for a century — a Canadian is, whether they know it or
-not, a party to treaties their state spent generations
-breaking, and the citizenship oath now says so out loud
-(Lesson 32). And Alberta would remind me that perpetual
-renegotiation looks, from the paying end, like perpetual
-extraction (Lesson 35). So my definition sharpens: a
-Canadian is someone who holds membership in an
-UNFINISHED agreement — and whose citizenship consists,
-concretely, in keeping the agreement's arguments alive
-rather than winning them. The evidence is that this is
-learnable, because I am learning it: the country's
-deepest institutions — the confidence convention
-(Lesson 12), the notwithstanding clause's political
-pricing (Lesson 31), equalization's eternal formula
-fights (Lesson 35) — all assume citizens who show up to
-the argument, and the country's failures — the water
-advisories, the 54,288-vote near-death — are what
-happens when showing up flags. A Canadian, finally, is
-not a culture. It is a practice: reading both sides of
-the cereal box (Lesson 42), standing for two poems in
-one tune, filing the tax return that is also a benefits
-application (Lesson 35), answering the jury summons
-(Lesson 33), and re-choosing, each ordinary civic day, a
-country whose entire history says it exists only as
-long as it keeps being chosen. 152 years of evidence
-suggest the practice holds. It has never once suggested
-the practice is finished."
-</details>
 
 ---
 
@@ -333,7 +260,7 @@ with each of the counterweights in the room.
 
 ---
 
-## Homework — The Cumulative Final Exam
+## Final Exam — Forty Questions
 
 **Forty questions, all phases; write your answers, then
 check. 30+ = course complete with distinction; 15/20 on any

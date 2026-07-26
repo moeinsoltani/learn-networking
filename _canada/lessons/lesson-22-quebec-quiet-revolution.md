@@ -33,33 +33,22 @@ state-building nationalism, a near-victorious independence movement,
 and — twice — a referendum on leaving Canada, the second lost by
 **54,288 votes**.
 
-```
-   THE ARC, 1936–1995
+The arc runs sixty years, and it moves in one direction: from a nationalism of
+*survival* to a nationalism of *statehood*, and then back to an uneasy truce.
 
-   1936–59  DUPLESSIS: "la Grande Noirceur" — Church + patronage
-            + resource giveaways; survival nationalism, rural
-            and Catholic (la survivance, L.08/10)
-   1960     Lesage Liberals: "Il faut que ça change" —
-            THE QUIET REVOLUTION: state replaces Church
-            (education, health); Hydro-Québec nationalized
-            ("Maîtres chez nous" — masters in our own house);
-            francophone managerial class built via the state
-   1963–70  FLQ bombs (the violent fringe)
-   1967     de Gaulle's balcony (L.21); Lévesque leaves the
-            Liberals → founds the PARTI QUÉBÉCOIS (1968)
-   1970     OCTOBER CRISIS: FLQ kidnaps Cross & Laporte;
-            Laporte murdered; Trudeau invokes WAR MEASURES
-            ACT — troops in Montreal, 400+ detained
-   1976     PQ WINS power; 1977 BILL 101 (Charter of the
-            French Language)
-   1980     REFERENDUM 1 (sovereignty-association):
-            NO 59.6 / YES 40.4 — Trudeau promises renewal
-   1982     patriation WITHOUT Quebec's signature (→ L.23)
-   1990–92  Meech Lake dies; Charlottetown rejected
-   1995     REFERENDUM 2: NO 50.58 / YES 49.42
-   2000s–   sovereignty dormant-not-dead; "nation within
-            a united Canada" motion (2006)
-```
+| Years | What happened |
+|---|---|
+| **1936–59** | **Duplessis** — remembered in Quebec as *la Grande Noirceur*, "the Great Darkness": Church authority, patronage, and resources sold cheap to outside investors. Nationalism here means *survival* — rural, Catholic, defensive (the *la survivance* of Lessons 08 and 10) |
+| **1960** | The **Lesage Liberals** win on the slogan *"Il faut que ça change"* — and the **Quiet Revolution** begins. The state takes over education and health from the Church; Hydro-Québec is nationalized under the banner *"Maîtres chez nous"* (masters in our own house); and a francophone managerial class is deliberately built through the public sector |
+| **1963–70** | **FLQ** bombings — the violent fringe of the movement |
+| **1967** | De Gaulle's balcony speech (Lesson 21); **René Lévesque** leaves the Liberals and founds the **Parti Québécois** in 1968 |
+| **1970** | The **October Crisis**: the FLQ kidnaps James Cross and Pierre Laporte, and murders Laporte; Trudeau invokes the **War Measures Act** — troops in Montreal, more than 400 detained without charge |
+| **1976–77** | The **PQ wins power**; the next year brings **Bill 101**, the Charter of the French Language |
+| **1980** | **First referendum** on sovereignty-association: **No 59.6%, Yes 40.4%** — Trudeau promises constitutional renewal |
+| **1982** | Patriation of the constitution **without Quebec's signature** (Lesson 23) |
+| **1990–92** | The **Meech Lake Accord** dies; the **Charlottetown Accord** is rejected |
+| **1995** | **Second referendum**: **No 50.58%, Yes 49.42%** |
+| **2000s–** | Sovereignty dormant but not dead; Parliament recognizes the Québécois as "a nation within a united Canada" (2006) |
 
 Two men, schoolmates-in-spirit and total opposites, personify the era:
 **René Lévesque** (chain-smoking journalist, the Quiet Revolution
@@ -178,117 +167,6 @@ Canada's answer to date: apparently yes, by never making it answer.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — the 1995 question, verbatim.** *"Do you agree that
-Québec should become sovereign, after having made a formal offer to
-Canada for a new economic and political partnership, within the scope
-of the Bill respecting the future of Québec and of the agreement
-signed on June 12, 1995?"* Assess: is this a clear question? What
-work is each clause doing? What would you have voted, and what's the
-strongest argument for the other side?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Clarity assessment: it is <em>not</em> clear, by design. "Sovereign"
-is never glossed as "an independent country" (polls after the vote
-found a meaningful share of Yes voters believing they'd keep Canadian
-MPs, passports, or the dollar-by-right); "after having made a formal
-offer... partnership" front-loads reassurance — you're voting for a
-<em>negotiation posture</em>, not (apparently) a rupture; the
-references to a Bill and a June 12 agreement bury the operative
-content in documents most voters never read. Each clause converts the
-frightening noun into a soft process. This is precisely what the
-Clarity Act (2000) was written to prohibit: it requires a question
-"clearly" about ceasing to be part of Canada, no partnership
-sweeteners attached. Your vote: either is defensible — the exercise
-grades the steelman. Strongest Yes case: a nation of eight million
-that is a permanent linguistic 2% of the continent can only guarantee
-its language, immigration integration, and cultural policy with the
-full toolkit of statehood; every renewal promise (1980) had ended in
-1982's imposed constitution and Meech's humiliation (Lesson 23) —
-partnership was offered and refused, so the polite exit is the honest
-one. Strongest No case: the entire prospectus (dollar, association,
-seamless transition) depended on a counterparty — rest-of-Canada —
-that had stated it would not play the assumed role, making Yes a vote
-for the poster, not the outcome; and the province's own minorities
-(anglos, allophones, and notably the Cree of northern Quebec, who
-held their own referendum — 96% to stay in Canada, with their
-territory) demonstrated the seceding logic recurses: if Canada is
-divisible, so is Quebec. That last point — secession's fractal
-problem — is the analytically deepest thing either side said in 1995.
-</details>
-
-**Exercise 2 — scenario (Bill 101 at the office).** A Toronto
-colleague calls Bill 101 "language police nonsense — imagine being
-fined for an English sign." Steelman the Quebec view first (four
-sentences minimum), then give your own view in one.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Steelman: "Picture eight million francophones as a 2% island in a
-360-million-person English sea, one generation removed from an
-economy where their language stopped at the foreman's office and
-immigrants rationally anglicized — Montreal was drifting toward an
-English-majority future within visible decades. No Church remained
-to carry the culture (the Quiet Revolution dissolved that), so the
-state took the job: 101 makes French the default of work, school,
-and the street — not by banning English (it's everywhere; anglos
-have constitutionally protected schools and hospitals) but by
-ensuring French is the language newcomers integrate <em>into</em>.
-Judge it by its results: French is secure, Montreal integrates its
-immigrants in French, and support for outright independence
-<em>fell</em> as linguistic security rose — 101 may be the single
-policy that most kept Quebec in Canada. Every nation-state does
-this — France, Germany, Japan legislate language constantly — Quebec
-just does it while being second-guessed by a country that never had
-to." Own view (one sentence, any honest version): e.g., "Persuaded
-on schooling and workplace, still uneasy where it touches individual
-expression — sign rules and the s.33 override — which is the exact
-individual-vs-collective line Canada has never finished drawing
-(Lessons 23, 31)."
-</details>
-
-**Exercise 3 — Lévesque vs Trudeau, in their own logic.** Complete
-each man's syllogism honestly: Trudeau: "French Canadians will only
-be secure when ___"; Lévesque: "French Canadians will only be secure
-when ___." Then identify what each was *right* about, as verified by
-the subsequent fifty years.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Trudeau: "...when they are full and equal owners of the
-<em>whole</em> country — French power in Ottawa, bilingual federal
-institutions coast to coast, individual rights entrenched beyond any
-legislature's reach — so that a francophone needs no wall because
-every door in Canada opens in French." Lévesque: "...when they are a
-normal majority in a state of their own — because minorities survive
-at the majority's pleasure, and dignity means never again negotiating
-your existence; association yes, subordination never." Verified for
-Trudeau: French power in Ottawa became routine (multiple francophone
-PMs; bilingual institutions; the Charter) — and sovereignty support
-softened partly because federal Canada visibly made room. Verified
-for Lévesque: the security that actually stabilized French in Quebec
-came from <em>Quebec state power</em> — Bill 101, Quebec's own
-immigration selection (a Meech-era gain that survived Meech's death),
-QPP-style asymmetry — not from coast-to-coast bilingualism (which
-plateaued; Lesson 42's honest scorecard). The synthesis Canada
-actually lives: Trudeau's constitutional frame with Lévesque's
-policy content inside it — both men would be annoyed, which is how
-you know it's the true equilibrium.
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -370,53 +248,6 @@ majority required, negotiation obligatory on a clear Yes);
 Parizeau's "money and ethnic votes" remark discrediting the
 movement's civic image; and a long sovereignty winter — support
 cycling in the 30s, the question unresolved but unasked since.
-</details>
-
----
-
-## Homework
-
-"À la prochaine fois" vs. the Cree counter-referendum: in 1995, the
-Cree of northern Quebec voted 96% to remain in Canada *with their
-lands* — territory covering most of Quebec's north and its hydro
-heart (Lesson 05). Write a paragraph on secession's recursion
-problem — if Canada is divisible by referendum, is Quebec? — covering
-the legal (whose borders? whose consent?), the practical
-(Hydro-Québec's dams sit on whose treaty lands?), and what the
-Secession Reference actually said about it. This is the course's
-three threads — Quebec, Indigenous nations, federalism — braided into
-one question; braid them.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The recursion, stated: every argument for Quebec's exit (distinct
-nation, democratic majority on its territory, right to determine its
-future) is available — stronger, older — to the Cree, Inuit, and
-Innu of the north: nations before Canada existed, with their own
-1995 referendums (Cree 96%, Inuit 95% to stay), on lands they never
-ceded to <em>Quebec</em> (the James Bay agreement, 1975, was signed
-with both Canada and Quebec — its obligations don't obviously
-survive a unilateral departure by one signatory). Practical bite:
-Lesson 05's geography is destiny — the dams that make sovereignty
-economically plausible sit on those lands; a Quebec that left with
-its 1867/1912 boundary-extension territories intact would be
-carrying nations out of Canada against their expressed will, exactly
-its own complaint against 1982. The Secession Reference (1998)
-handled this with deliberate care: no unilateral secession under
-Canadian or international law; a clear Yes obliges all parties to
-negotiate — and the Court listed the interests those negotiations
-must address, explicitly including borders ("no absolute guarantee
-of territorial integrity" for a seceding Quebec) and the rights of
-Indigenous peoples; i.e., the law's answer to the recursion is
-"everything is on the table, for everyone, at once." The honest
-paragraph ends where the Court left it: divisibility is not a
-weapon either side can hold safely — which may be the deepest
-practical argument for the Canadian habit (Lessons 13, 21) of
-renegotiating forever rather than ever finalizing. À la prochaine
-fois, indeed.
 </details>
 
 ---

@@ -48,6 +48,16 @@ start of your "village," Lesson 35).
 
 ### The hospital bag (pack by ~36 weeks)
 
+Pack by about 36 weeks and leave the bag somewhere obvious, because the whole
+point is that nobody should be assembling it during early labour.
+
+Three things people consistently under-pack, so pack them deliberately: **snacks
+and a long phone charger** (hospital stays run longer than expected and outlets
+are never near the bed), **something comfortable to go home in** for the birthing
+parent — you will still look pregnant, so bring the loose clothes — and a bag
+for the **partner**, who is often the one who ends up with nothing to eat at
+2 a.m.
+
 | For the birthing parent | For the baby | For the partner |
 |---|---|---|
 | ID, health card, paperwork, birth plan | Going-home outfit + a spare | Snacks, water, phone + **charger** |
@@ -72,43 +82,19 @@ you're away. Save the provider and hospital **numbers** in both phones.
 > from an anxious bystander into an effective support person and advocate — one of
 > the best gifts you can give the birthing parent.
 
----
+### Where to start
 
-## Lab — Plan Together
+Four tangible jobs, ideally finished by around 36 weeks.
 
-**Exercise 1 — pack the bag.** Without re-reading the table, list **eight** things
-across the three categories (parent, baby, partner) that should go in the hospital
-bag.
+**Sign up for a prenatal class**, if you have not. **Pack the hospital bag**
+using the checklist above and leave it by the door — not in a cupboard. **Install
+the car seat**, and get the installation checked if a free inspection service
+exists near you. And **confirm the labour-day logistics**: who drives, who is
+called, what happens to pets or older children.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Strong picks include: <em>Parent</em> — ID/health card &amp; paperwork, birth plan,
-comfy clothes, toiletries, maternity pads, nursing bra, going-home outfit, snacks.
-<em>Baby</em> — going-home outfit, sleepers, a swaddle/blanket, and the
-<strong>installed car seat</strong>. <em>Partner</em> — phone charger, snacks/water,
-change of clothes, list of people to notify. The two most-forgotten essentials:
-the <strong>phone charger</strong> and the <strong>car seat installed ahead of
-time</strong>.
-</details>
-
-**Exercise 2 — the logistics.** Write your "labour has started" logistics: who
-drives, the route, the backup, and the plan for pets/older kids.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A complete plan names a <strong>primary driver</strong> and a <strong>backup</strong>
-(in case the partner is away or it's the middle of the night), the <strong>route</strong>
-(and an alternate if traffic), where the <strong>bag</strong> lives, who cares for
-<strong>pets or older children</strong>, and the <strong>saved phone numbers</strong>.
-Sorting this now means that when labour starts you can focus on each other, not on
-logistics.
-</details>
+Every one of these feels optional right up until labour starts at 3 a.m. Doing
+them early is what allows the birth itself to be about meeting your baby rather
+than about last-minute panic.
 
 ---
 
@@ -163,25 +149,6 @@ The <strong>route to hospital</strong>, <strong>who drives</strong> (plus a
 <strong>backup driver</strong>), where the <strong>bag</strong> is, care for
 <strong>pets or older children</strong>, and <strong>saved provider/hospital
 numbers</strong> in both phones.
-</details>
-
----
-
-## Homework
-
-Two tasks: **sign up for a prenatal class** (if you haven't) and **pack the hospital
-bag** using the checklist, leaving it by the door. While you're at it, install the
-**car seat** and confirm your labour-day logistics plan.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is tangible: a class booked, a bag packed and waiting, the car seat
-installed, and a logistics plan agreed. These are the tasks that feel optional until
-labour starts at 3 a.m. — doing them by ~36 weeks means the birth itself can be
-about welcoming your baby, not last-minute panic.
 </details>
 
 ---

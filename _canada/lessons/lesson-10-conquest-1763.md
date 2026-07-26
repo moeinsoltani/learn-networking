@@ -36,24 +36,21 @@ system. That bargain — *you may remain different, inside our state* — is
 the founding transaction of Canada. Federalism, bilingualism,
 "distinct society," multiculturalism itself: all are descendants of 1774.
 
-```
-   THE HINGE, 1754–1774
+Twenty years carry the whole hinge. A world war between Britain and France
+reaches North America; Quebec falls; France signs the colony away; Britain
+then issues two documents that are still argued about in Canadian courtrooms
+today. Here is the sequence:
 
-   1754–63  Seven Years' War (the French & Indian War
-            to Americans) — Britain vs France, worldwide
-   1755     Acadian deportation begins (Lesson 08)
-   1759     PLAINS OF ABRAHAM: Wolfe def. Montcalm at
-            Quebec; both generals die
-   1760     Montreal falls; New France capitulates
-   1763     TREATY OF PARIS: France cedes Canada, keeps
-            Guadeloupe (sugar > snow)
-   1763     ROYAL PROCLAMATION: British rule organized;
-            Indigenous lands west of the mountains
-            RESERVED — the Magna Carta of Native rights
-   1763–66  Pontiac's War forces Britain to honour it
-   1774     QUEBEC ACT: the bargain with the Canadiens
-            (and one of America's "Intolerable Acts")
-```
+| Year | Event |
+|---|---|
+| 1754–63 | The **Seven Years' War** — Britain against France, worldwide; Americans call its North American theatre the French and Indian War |
+| 1755 | The **Acadian deportation** begins (Lesson 08) |
+| 1759 | **Plains of Abraham**: Wolfe defeats Montcalm outside Quebec; both generals die |
+| 1760 | Montreal falls; New France capitulates |
+| 1763 | **Treaty of Paris** — France cedes Canada and keeps the sugar island of Guadeloupe instead |
+| 1763 | **Royal Proclamation** — British rule organized, and Indigenous lands west of the mountains formally reserved |
+| 1763–66 | **Pontiac's War** forces Britain to actually honour that reservation |
+| 1774 | **Quebec Act** — the bargain with the Canadiens, and one of America's "Intolerable Acts" |
 
 One era's two foundational documents — the **Royal Proclamation** for
 Indigenous rights, the **Quebec Act** for French survival — are both still
@@ -109,6 +106,40 @@ modern land claim (Lesson 44). Canadians call it the "Indian Magna Carta";
 American colonists called it an outrage against their westward speculation —
 count it among the causes of their revolution.
 
+### Reading the Proclamation's key sentence
+
+The Proclamation's central clause is worth reading in the original, slowly,
+because Canadian land law has been arguing with it for 260 years:
+
+> "And whereas it is just and reasonable, and essential to our Interest, and
+> the Security of our Colonies, that the several Nations or Tribes of Indians
+> with whom We are connected… should not be molested or disturbed in the
+> Possession of such Parts of Our Dominions and Territories as, not having
+> been ceded to or purchased by Us, are reserved to them… as their Hunting
+> Grounds."
+
+Three things are packed into that sentence.
+
+**What it concedes** is large: un-ceded land *belongs to the nations living on
+it*. Indigenous possession is the legal default, and only a voluntary, public
+cession to the Crown can end it. That is the root of Aboriginal title in
+Canadian law.
+
+**Why it says so** is stated frankly, and in two registers: the arrangement is
+"just and reasonable" — morality — *and* "essential to our Interest, and the
+Security of our Colonies" — realpolitik. Pontiac's War was burning as this was
+being drafted, and peace with the interior nations was far cheaper than
+garrisoning against them. Principle and prudence co-signed the document.
+
+**What it contradicts** is itself. The same sentence calls the land "Our
+Dominions" — asserting Crown sovereignty — while reserving it "to them" —
+conceding Indigenous possession. Sovereignty is claimed over peoples who were
+never conquered and never consulted, and possession is granted underneath it.
+Canadian law has been negotiating that exact contradiction ever since:
+*sovereignty plus unextinguished title* is the formula behind the treaties,
+behind *Delgamuukw*, and behind every modern land claim. One sentence, and
+two and a half centuries of litigation.
+
 ### 1774: The Quebec Act — the bargain
 
 Assimilation wasn't working: the anglophone merchants arriving in Montreal
@@ -136,6 +167,53 @@ government on their flank. The same law: Canada's founding accommodation,
 America's casus belli. You will rarely find the two countries'
 political cultures diverging more legibly.
 
+### Why Quebec is "still on about 1759"
+
+English Canadians sometimes ask why a battle fought in 1759 still carries a
+charge in Quebec. The fair answer has three layers, and it is worth having
+ready, because you will meet the question.
+
+**What was lost** was not just a battle. A society lost its capital, its
+elites, and its trajectory in a single year. After 1760, business, government,
+and eventually industry were run over the Canadiens' heads and in English —
+and that economic subordination was not a memory but a measurable fact right
+up to the 1960s (Lesson 22).
+
+**What the bargain preserved** was nearly everything else. Britain chose
+accommodation, and the Quebec Act kept the machinery of a French-language
+world intact: civil law, the Catholic Church, the seigneuries. That choice is
+why roughly eight million francophones live in Quebec today, rather than a
+Louisiana-style remnant speaking a heritage language.
+
+**Why it stays present tense** is the part outsiders miss. Survival-by-bargain
+is a *condition*, not an event. Every generation since has had to renegotiate
+the terms — Confederation, the conscription crises, Bill 101, two referendums,
+a constitution patriated in 1982 without Quebec's signature. So 1759 is not
+the memory of a battle; it is the opening entry in a file that is still open.
+When you hear a language-law argument on the news, you are hearing clause
+renegotiation in a 250-year-old settlement.
+
+### What 1774 still holds up
+
+Three features of present-day Canada descend in a straight line from the
+Quebec Act. Quebec's **Civil Code** governs private law there because 1774
+restored the civil-law tradition — which is also why three seats on the
+Supreme Court are reserved for civil-law jurists (Lesson 30). The
+institutional standing of **Catholic French Canada** — the parish structure,
+Church-run education lasting until the 1960s, and the constitutional
+protection of denominational schools that followed — begins here. And
+**Quebec's standing as a collective** rather than merely a region begins here
+too: the Act treated the Canadiens as a community holding rights together,
+which is the template for every "distinct society" claim since.
+
+There is also a broader habit the Act prefigures. Canada's default method for
+handling difference is to **accommodate it in law rather than erase it** —
+group rights running alongside individual ones, from 1774 through
+Confederation's minority-school guarantees to official bilingualism and
+multiculturalism (Lessons 42–43). The United States answered pluralism with
+the melting pot; Canada's founding act of statecraft was a carve-out. Both
+countries have been remarkably true to their opening moves.
+
 {: .note }
 > **Was it a bargain or a defeat? Both, and Quebec remembers both.**
 > In Quebec the Conquest is *la Conquête* — the foundational trauma; a
@@ -144,95 +222,6 @@ political cultures diverging more legibly.
 > Quebec Act preserved what assimilation would have erased. Both are right:
 > the Canadiens lost an empire and kept a society. "Je me souviens"
 > (Lesson 08) remembers *this*, above all.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — primary source.** From the Royal Proclamation, 1763: *"And
-whereas it is just and reasonable, and essential to our Interest, and the
-Security of our Colonies, that the several Nations or Tribes of Indians with
-whom We are connected... should not be molested or disturbed in the
-Possession of such Parts of Our Dominions and Territories as, not having
-been ceded to or purchased by Us, are reserved to them... as their Hunting
-Grounds."* Extract: (a) what it concedes, (b) its two justifications, (c)
-the contradiction inside "Our Dominions... reserved to them."
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) It concedes that un-ceded land <em>belongs to the nations on it</em> —
-Indigenous possession is the legal default, and only voluntary, public
-cession to the Crown can end it. That's the root of Aboriginal title in
-Canadian law. (b) The justifications given are "just and reasonable"
-(morality) <em>and</em> "essential to our Interest, and the Security of our
-Colonies" (realpolitik — Pontiac's War was burning as this was drafted;
-peace with the interior nations was cheaper than garrisoning it). Honest
-reading: principle and prudence co-signed. (c) The contradiction: the same
-sentence calls the land "Our Dominions" (Crown sovereignty) yet "reserved to
-them" (Indigenous possession) — sovereignty claimed over peoples never
-conquered or consulted, possession conceded beneath it. Canadian law has
-been negotiating that exact contradiction ever since: <em>sovereignty +
-unextinguished title</em> is the formula behind treaties, Delgamuukw, and
-every modern claim. One sentence, 260 years of litigation.
-</details>
-
-**Exercise 2 — scenario.** A Quebec colleague mentions "la Conquête" with an
-edge; an Ontario colleague later asks you, "Why are they still on about
-1759?" Give the Ontario colleague a fair, three-part answer: what was lost,
-what the bargain preserved, and why it stays present-tense.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Three layers. What was lost: not just a battle — a whole society's
-capital, elites, and trajectory; after 1760, business, government, and
-eventually industry were run over the Canadiens' heads in English, and that
-economic subordination lasted, measurably, until the 1960s. What the bargain
-preserved: Britain chose accommodation — the 1774 Quebec Act kept the
-language's world intact (civil law, Catholicism, the seigneuries), which is
-why eight million francophones exist there today instead of a Louisiana-style
-remnant. Why it's present tense: because survival-by-bargain is a
-<em>condition</em>, not an event — every generation since has had to
-renegotiate the terms (Confederation, conscription, Bill 101, two
-referendums, 1982's constitution signed without Quebec), so 1759 isn't a
-memory of a battle, it's the opening entry in a still-active file. When your
-colleague hears a language-law debate, they're hearing clause renegotiation
-in a 250-year-old settlement." Fair to both: no martyrology, no "get over
-it."
-</details>
-
-**Exercise 3 — connect 1774 to today.** Name three things visible in
-present-day Canada that descend in a straight line from the Quebec Act, and
-one thing about *Canadian political culture generally* that the Act
-prefigures.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Direct descendants: (1) Quebec's <strong>Civil Code</strong> — private law
-in Quebec runs on the civil-law tradition restored in 1774, which is why the
-Supreme Court reserves three Quebec seats for civil-law jurists (Lesson 30);
-(2) the legal and institutional standing of <strong>Catholic French
-Canada</strong> — parish structure, Church-run education lasting to the
-1960s, and the constitutional protection of denominational schools that
-followed; (3) <strong>Quebec's territorial and political weight</strong> —
-the Act treated the Canadiens as a corporate community with collective
-rights, the template for "distinct society" claims ever since. The
-political-culture prefigurement: Canada's default method — <em>accommodate
-difference through law rather than erase it</em> — group rights alongside
-individual ones, running from 1774 through Confederation's minority-schools
-guarantees to official bilingualism and multiculturalism (Lessons 42–43).
-The U.S. answered pluralism with the melting pot; Canada's founding act of
-statecraft was a carve-out. Both countries have been true to their opening
-moves.
-</details>
 
 ---
 
@@ -307,44 +296,6 @@ government and established Catholicism planted on their border, plus their
 western land speculation blocked — helping push the colonies to revolution.
 The same statute is a founding accommodation in one national story and a
 tyranny in the other.
-</details>
-
----
-
-## Homework
-
-Counterfactual essay (a paragraph or two): suppose Britain in 1763 had
-enforced full assimilation — English law only, no Catholic office-holders,
-anglophone settlement prioritized in the valley. Trace plausible
-consequences through (a) the American Revolution, (b) whether anything
-called Canada exists in 1867, and (c) the character of whatever state holds
-the St. Lawrence today. Then state what the exercise reveals about how much
-of "Canada" is downstream of the 1774 bargain.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A disciplined version: (a) An assimilationist Quebec in 1775 has no bought-in
-clerical elite preaching loyalty and a peasantry with nothing to lose —
-the American invasion plausibly finds allies instead of shrugs, and Quebec
-becomes the fourteenth colony (the Continental Congress invited it twice);
-Britain then has no St. Lawrence base, and the Loyalist refuge of Lesson 11
-has nowhere to go. (b) Without a British Quebec there is no Upper/Lower
-Canada, no French–English deadlock for Confederation to solve — 1867's
-architecture (federalism as the price of two peoples in one state) loses its
-reason to exist; British North America is reduced to the Maritimes and the
-HBC's map, likely absorbed piecemeal by the U.S. through the 19th century.
-(c) The St. Lawrence today is most plausibly American, its francophones a
-Louisiana-scale cultural remnant — surviving in folklore and surnames, not
-as a nine-million-strong society with a National Assembly. What the exercise
-reveals: nearly everything distinctive about Canada — a second founding
-people with collective rights, federalism, the accommodation habit, even
-the country's separate existence from the U.S. — routes through Carleton's
-wager that tolerance was cheaper than force. Counterfactuals aren't proofs,
-but this one is unusually tight: remove the 1774 bargain and you don't get a
-different Canada, you struggle to get a Canada at all.
 </details>
 
 ---

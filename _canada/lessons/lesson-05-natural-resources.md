@@ -35,17 +35,24 @@ Innis). Each era of Canadian development was organized around one dominant raw
 export — a "staple" — and each staple built the infrastructure, cities, and
 politics of its era:
 
-```
-   STAPLE          ERA            WHAT IT BUILT
-   ──────          ───            ─────────────
-   cod          1500s–1700s    Atlantic outports, Newfoundland
-   fur          1600s–1800s    Montreal, the canoe routes, the West's map
-   timber       1800s          Ottawa Valley, shipyards
-   wheat        1880s–1930s    the Prairies, Winnipeg, the railway
-   minerals     1900s–         Sudbury, the Shield towns, Yellowknife
-   oil & gas    1947–          Calgary's towers, modern Alberta
-   hydro        1900s–         Hydro-Québec, Niagara, BC's dams
-```
+You can lay Canadian history out as a succession of these staples, one handing
+over to the next, and each leaving behind the towns and transport links it
+needed. Cod came first and built the Atlantic outports. Fur followed and drew
+the canoe routes that became the map of the West, with Montreal at their hub.
+Timber built the Ottawa Valley and the shipyards; wheat built the Prairies,
+Winnipeg, and the railway that served them; minerals built Sudbury and the
+Shield towns; oil built modern Alberta; and hydroelectricity built
+Hydro-Québec and the dams of BC and Manitoba. Roughly:
+
+| Staple | Era | What it built |
+|---|---|---|
+| Cod | 1500s–1700s | Atlantic outports, Newfoundland |
+| Fur | 1600s–1800s | Montreal, the canoe routes, the map of the West |
+| Timber | 1800s | The Ottawa Valley, shipyards |
+| Wheat | 1880s–1930s | The Prairies, Winnipeg, the railway |
+| Minerals | 1900s– | Sudbury, the Shield towns, Yellowknife |
+| Oil & gas | 1947– | Calgary's towers, modern Alberta |
+| Hydro | 1900s– | Hydro-Québec, Niagara, BC's dams |
 
 The anxiety that comes with it also has a famous phrase: being mere **"hewers
 of wood and drawers of water"** — a country that ships raw material out and
@@ -59,6 +66,19 @@ politics in disguise.
 ## Going Deeper
 
 ### The resource map, by province
+
+The useful way to hold this is one signature resource per region, because in
+Canada a province's resource is usually also its politics. Alberta means oil.
+Saskatchewan means potash, uranium, and wheat. Quebec, Manitoba, BC, and
+Labrador mean hydroelectricity. The Shield — Ontario's north, Quebec's
+Abitibi, northern Manitoba — means hard-rock mining: nickel, gold, copper. The
+Northwest Territories mean diamonds. British Columbia means forestry and
+salmon. The Atlantic means fish, and the Prairies mean grain.
+
+Learn those pairings and a great deal of later material becomes predictable:
+you will know in advance which province objects to a carbon tax, which one
+worries about softwood tariffs, and which one treats its electricity utility
+as a national symbol. The table fills in the specifics.
 
 | Resource | Where | The essentials |
 |---|---|---|
@@ -91,6 +111,54 @@ towers empty out. This boom–bust cycle, and the envy/resentment it cycles
 through Confederation (equalization! — Lesson 35), is a permanent feature of
 Canadian politics.
 
+Follow one price move through the country and you can see why it causes so
+much friction. Suppose oil falls from $90 a barrel to $45 and stays there.
+**Alberta** loses its royalties — the province's cut of every barrel, which it
+is entitled to because provinces own their resources — and because Alberta
+has historically used resource revenue to fund unusually low taxes, its budget
+swings from surplus to deep deficit within a year; layoffs follow in Fort
+McMurray and Calgary, then in housing and everything downstream. An **Ontario
+manufacturer**, meanwhile, mostly *wins*: energy is cheaper, and the Canadian
+dollar tends to fall along with oil (Lesson 40), which makes Ontario's exports
+more competitive in the United States. **Ottawa** loses some tax revenue and
+gains a political problem — a province in recession, asking loudly why it is
+still paying into equalization.
+
+That opposite exposure — a resource West and a manufacturing East that
+benefit from opposite prices — is not a passing quarrel. It is built into
+Confederation, and it will reappear in Lessons 35, 38 and 39.
+
+### The cod collapse, Canada's cautionary tale
+
+No single event explains resource Canada better than the cod moratorium of
+1992, and it is worth sitting with for a moment because every later resource
+argument in this course is haunted by it.
+
+For roughly five hundred years, the Grand Banks off Newfoundland were one of
+the richest fishing grounds on the planet, and hundreds of small coastal
+communities — outports — existed for no other reason. In July 1992 the federal
+government closed the fishery. It was the largest single layoff in Canadian
+history, around 30,000 people directly, in a province of barely half a
+million. The stocks never recovered, and the moratorium has never really
+ended.
+
+Three lessons come out of it. The first is about **dependence**: when a region
+has exactly one industry, the end of that industry is not a recession, it is a
+rupture — mass out-migration, and towns that simply ceased to exist. The
+second is about **political time**: scientists had warned for years that the
+stocks were collapsing, but cutting quotas meant immediate, visible job losses
+in real electoral districts, weighed against invisible future fish. Governments
+kept choosing the visible present. The third is about the word **renewable**:
+cod are renewable only above the population threshold at which the stock can
+rebuild itself. Industrial trawling pushed the biomass below that line, and
+thirty years on the ecosystem has *reorganized* — crab and shrimp moved into
+the niche — rather than recovered. "Renewable" describes a flow that is being
+managed carefully, not a property of the fish.
+
+Which is why, whenever Canadians argue about salmon quotas, forest cuts, or
+the end-game of the oil sands, somebody eventually asks the only question that
+matters: *is this another cod?*
+
 {: .note }
 > **"Hewers of wood and drawers of water"**
 > The phrase is biblical (Joshua 9:21 — describing servants), and Canadians
@@ -99,84 +167,6 @@ Canadian politics.
 > Canadian scale *is* high technology (oil-sands engineering, precision
 > agriculture, remote mining), and resources still pay for a lot of the
 > welfare state. You'll adjudicate this properly in Lessons 37–39.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — the matching chain.** Cover the table. Match resource →
-province → a city or place that depends on it: oil sands, potash, hydro
-mega-dams, nickel, diamonds, salmon, lobster.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Oil sands → Alberta → Fort McMurray (Calgary for head offices). Potash →
-Saskatchewan → Saskatoon (mining belt around it). Hydro mega-dams → Quebec →
-James Bay region / Hydro-Québec (also acceptable: Churchill Falls NL,
-Manitoba's Nelson River, BC's Peace River). Nickel → Ontario → Sudbury.
-Diamonds → Northwest Territories → Yellowknife. Salmon → British Columbia →
-coastal communities/Vancouver. Lobster → the Maritimes → South Shore Nova
-Scotia / PEI ports. If you got 5+ chains, the resource map is in your head —
-which means provincial politics is about to make much more sense.
-</details>
-
-**Exercise 2 — scenario.** Oil drops from $90 to $45 a barrel and stays
-there. Walk the consequences through: (a) Alberta's provincial budget, (b) an
-Ontario manufacturer, (c) the federal government. Why does the same price
-move Alberta's budget so much more than Ontario's?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Alberta:</strong> royalties (the province's cut of each barrel,
-possible because provinces own resources) collapse, and because Alberta
-funds unusually low taxes with resource revenue, the budget swings from
-surplus to deep deficit; layoffs hit Fort McMurray and Calgary, then housing
-and everything downstream. (b) <strong>Ontario manufacturer:</strong> mostly
-<em>wins</em> — cheaper energy and, typically, a weaker Canadian dollar
-(Lesson 40: the loonie tracks oil), which makes exports to the US more
-competitive. This opposite exposure — resource West vs manufacturing East —
-is one of Confederation's built-in tensions. (c) <strong>Ottawa:</strong>
-loses some tax revenue and gains a political headache: Alberta in recession
-while asking why it still pays into equalization (Lesson 35). Alberta moves
-more than Ontario because a large share of its government revenue and
-employment is priced in a commodity it cannot influence; Ontario's diversified
-economy has no single lever that big. That's the staples rollercoaster in one
-scenario.
-</details>
-
-**Exercise 3 — parable analysis.** The 1992 cod moratorium: a fishery that
-had run for ~500 years was closed overnight and has never fully recovered.
-What does this single event teach about (a) resource dependence, (b) the
-limits of political courage, and (c) why "renewable" doesn't mean
-"inexhaustible"?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Whole regions — hundreds of Newfoundland outports — had exactly one
-industry, so its end was not a recession but a civilizational rupture: the
-largest single layoff in Canadian history (~30,000 directly), mass outmigration,
-and towns that simply ceased. Staple dependence means the resource's fate
-<em>is</em> the region's fate. (b) Scientists warned of collapsing stocks for
-years, but quotas stayed high because cutting them meant immediate, visible
-job losses in many electoral ridings against invisible future fish — a perfect
-case study of political time horizons vs ecological ones. (c) Cod are
-renewable only above the population threshold where the stock can rebuild;
-industrial trawling pushed the biomass below it, and thirty years later the
-ecosystem has reorganized (crab and shrimp took the niche) rather than
-recovered. "Renewable" is a property of a <em>managed</em> flow, not of the
-resource itself. The cod collapse is why every modern Canadian resource debate
-— salmon, forests, even the oil sands' end-game — is haunted by one question:
-is this another cod?
-</details>
 
 ---
 
@@ -251,48 +241,6 @@ staples economy stays a subordinate one: exporting raw value, importing
 finished goods, vulnerable to price swings it doesn't control, and never
 building enough of its own industrial and technological base. Phase 7 weighs
 how true that still is.
-</details>
-
----
-
-## Homework
-
-**Phase 1 synthesis (also serves as your phase review).** Write ~300 words
-titled "The geography lecture I'd give a new Canadian in five minutes,"
-weaving together: the 13 pieces, one physical-region fact, the population
-ribbon, one climate/North fact, and one resource fact — connected causally,
-not listed. Then take the Phase 1 test below.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A model skeleton (yours should differ in words, not in connective tissue):
-"Canada is the second-biggest country on Earth with the population of
-California, split into ten provinces and three territories. Half of it is the
-Canadian Shield — glacier-scraped rock that can't be farmed — so nearly
-everyone lives in a thin southern ribbon, and more than half of us in the one
-short stretch from Quebec City to Windsor, where the soil is deep and the
-St. Lawrence gave ships a road inland. That's also why Ottawa, Toronto and
-Montreal hold the political weight, and why the West grumbles. Go north and
-the trees eventually quit (the treeline) and the ground itself stays frozen
-(permafrost) — the North is 40% of the country, home to 0.3% of the people,
-mostly Indigenous, and central to our anthem if not our budgets. What the
-empty land lacks in people it holds in wealth: Alberta's oil sands, Quebec's
-rivers turned into Hydro-Québec's electricity, Saskatchewan's potash, the
-Shield's nickel and gold, BC's forests. Provinces own those resources, which
-is why resource booms and busts are provincial dramas and federal fights. Put
-it together and you get the Canadian pattern: enormous land, narrow home,
-wealth from the empty parts, politics from the crowded ones."
-<br><br>
-<strong>Phase 1 self-test</strong> (answer from memory, then check against
-Lessons 01–05): 1. List the 13 capitals. 2. Which region holds most
-Canadians and why? 3. Why is Winnipeg colder than St. John's? 4. State the
-two-thirds/100 km fact. 5. Who owns natural resources, and name one
-consequence. 6. What are the Northwest Passage dispute's two positions?
-7. Name Canada's three largest metros in order. 8. What collapsed in 1992
-and what's the lesson? If you scored 6/8 or better, move to Phase 2.
 </details>
 
 ---

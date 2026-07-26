@@ -85,43 +85,25 @@ functioning.
 > enough family beats a "perfect sleeper" achieved through stress. Keep safe sleep,
 > build gentle routines, be patient, and take comparison off the table.
 
----
+### Where to start
 
-## Lab — Plan Together
+Begin by resetting expectations together, out loud: **frequent night waking is
+normal** in the first year, and "sleeping through" is not a scorecard, a
+parenting grade, or a measure of anything. A great deal of the misery around
+infant sleep comes from comparison with other people's accounts, which are
+frequently optimistic.
 
-**Exercise 1 — realistic or a myth?** True or false: (a) a healthy 4-month-old
-"should" sleep 12 hours straight; (b) night wakings are normal in the first year;
-(c) a consistent bedtime routine helps signal sleep; (d) a baby who wakes at night
-means the parents did something wrong.
+Then build a simple, consistent **bedtime routine** you can actually sustain —
+short, calm, and the same order every night. Predictability is what does the
+work; elaborateness does not.
 
-**Your answer:**
+Revisit your **night-shift plan** from Lesson 35 so that the *parents'* sleep is
+also being protected, not just the baby's. And keep the **safe-sleep rules**
+running all year, not only in the newborn weeks.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>False/myth</strong> — many 4-month-olds wake overnight; expecting 12
-straight hours sets you up for disappointment. (b) <strong>True</strong> — night
-wakings are normal well into the first year. (c) <strong>True</strong> — routines
-cue sleep. (d) <strong>False</strong> — normal waking isn't a parenting failure. The
-theme: expect wakings, use gentle routines, and drop the guilt and comparison.
-</details>
-
-**Exercise 2 — design a bedtime routine.** Sketch a simple, calming ~30-minute
-bedtime routine for an older baby, and say why each step helps.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A good routine is short, consistent, and calming, e.g.: <strong>warm bath</strong>
-(winds down) → <strong>into pajamas + dim lights</strong> (signals night) →
-<strong>feed</strong> (comfort, not necessarily to sleep) → <strong>book or song in
-a quiet voice</strong> (predictable cue) → <strong>into the crib drowsy but awake</strong>
-(learning to settle). It works because babies thrive on <strong>predictable cues</strong>
-that say "sleep is coming," and calm/dim steps distinguish night from day. Consistency
-matters more than the exact steps.
-</details>
+Gentle routine, patience, safe sleep, and some self-compassion will carry a
+family through the first year considerably better than chasing a perfect sleeper
+will.
 
 ---
 
@@ -176,27 +158,6 @@ No — it's <strong>optional and personal</strong>. Some families use sleep-trai
 methods (from gentle/gradual to brief cry-based) from around <strong>4–6 months</strong>
 to help a baby fall asleep independently, but responsive, gentle approaches are
 equally valid. There's no single right answer — do what fits your baby and values.
-</details>
-
----
-
-## Homework
-
-Reset expectations together — agree that **frequent night waking is normal** and
-that "sleeping through" isn't a scorecard — then create a simple, consistent
-**bedtime routine** you can start using. Revisit your **night-shift plan** (Lesson
-35) so the parents get enough sleep too, and keep **safe-sleep rules** all year.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is realistic, shared expectations (wakings are normal; no comparison), a
-calming bedtime routine, and a plan that protects the parents' sleep as well as the
-baby's. That combination — gentle routine, patience, safe sleep, and self-compassion —
-gets families through the first year far better than chasing a "perfect sleeper"
-through stress.
 </details>
 
 ---

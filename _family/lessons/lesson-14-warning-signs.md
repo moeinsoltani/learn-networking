@@ -74,43 +74,20 @@ Never let embarrassment delay a call.
 > the partner may notice a change (confusion, sudden swelling) before she does.
 > Two people watching is safer than one.
 
----
+### Where to start
 
-## Lab — Plan Together
+This lesson converts directly into three small actions, and they are worth doing
+today rather than "sometime."
 
-**Exercise 1 — triage.** For each, "reassure — mention next visit" or "call
-now"? (a) mild ankle swelling by evening at 30 weeks; (b) a gush of fluid at 32
-weeks; (c) the baby much quieter than normal all afternoon at 35 weeks; (d) a
-severe headache with flashing lights and puffy hands.
+**Both of you** save the provider's number and the hospital's number in your
+phones. Then put the warning-signs list somewhere you will both see it — a phone
+note, the fridge door. And finally, say the rule out loud to each other so it
+becomes the household default: **when in doubt, call.**
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Reassure</strong> — mild end-of-day ankle swelling is common (but
-<em>sudden</em> or severe swelling would be different). (b) <strong>Call now</strong>
-— possible waters breaking / preterm; note the time. (c) <strong>Call now</strong>
-— decreased movement; same-day assessment. (d) <strong>Call now / urgent</strong>
-— classic preeclampsia signs. Three of four are "call" — when the signs are on the
-red-flag list, don't wait.
-</details>
-
-**Exercise 2 — do a movement check.** Describe the steps you'd take if you thought
-the baby was moving less than usual at 34 weeks.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Steps: (1) eat/drink something and <strong>lie on your side</strong> somewhere
-quiet; (2) focus and <strong>count the baby's movements</strong>, comparing to its
-normal pattern; (3) if it's still much less active than usual, <strong>call your
-provider the same day</strong> — don't wait, and don't rely on a home doppler. The
-principle: reduced movement is checked promptly, and calling is always the right
-call.
-</details>
+The point of doing this in advance is that a worrying symptom rarely arrives at a
+convenient hour. At 2 a.m. you do not want to be hunting for a number, or
+debating whether it is "worth bothering anyone." You want the plan already made
+and the permission already given.
 
 ---
 
@@ -167,26 +144,6 @@ The golden rule is <strong>"when in doubt, call."</strong> Maternity units are
 staffed and <em>expect</em> these calls; a call that turns out to be nothing is a
 <strong>success, not a false alarm</strong>. Embarrassment should never delay
 checking on you or the baby.
-</details>
-
----
-
-## Homework
-
-**Both of you:** save the provider's and hospital's numbers in your phones now,
-and write the warning-signs list somewhere you'll both see it (a note, the fridge).
-Then say the "when in doubt, call" rule out loud to each other so it's the family
-default.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is practical readiness: numbers saved, the red-flag list posted
-where both partners see it, and a shared agreement that calling is always okay.
-When a worrying symptom appears at 2 a.m., you don't want to be searching for a
-number or debating whether it's "worth it" — you want the plan already in place.
 </details>
 
 ---

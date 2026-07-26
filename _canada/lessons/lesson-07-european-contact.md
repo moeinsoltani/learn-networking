@@ -27,24 +27,25 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 Three separate European "arrivals," centuries apart, and none of them a
 discovery — every landing was on someone's coast, watched by someone's eyes:
 
-```
-   ~1000 CE    NORSE          L'Anse aux Meadows, NL
-               (Vikings)      A real settlement — the first confirmed
-                              European presence in the Americas.
-                              Stayed a few years, clashed with locals,
-                              left. A footnote that led nowhere.
+The first was the **Norse**, around the year 1000. They built a real
+settlement at L'Anse aux Meadows on the northern tip of Newfoundland — the
+first confirmed European presence anywhere in the Americas — stayed a few
+years, clashed with the local people, and left. It led nowhere.
 
-   1497        JOHN CABOT     Newfoundland coast, for England.
-               (Zuan Caboto)  Found something better than gold: COD.
-                              For a century, Europe's "Canada" was a
-                              summer fishing station.
+The second was **John Cabot** in 1497, sailing for England, who reached the
+Newfoundland coast and found something more immediately useful than gold:
+cod. For the next hundred years, Europe's "Canada" was essentially a summer
+fishing station.
 
-   1534–42     JACQUES        Gulf of St. Lawrence & the river,
-               CARTIER        for France. Kidnapped chiefs' sons,
-                              overwintered disastrously, gave the
-                              country its name — from "kanata"
-                              (Iroquoian: "village").
-```
+The third was **Jacques Cartier**, sailing for France between 1534 and 1542,
+who explored the Gulf of St. Lawrence and the river itself, kidnapped a
+chief's two sons, overwintered disastrously, and — by writing down a word he
+had misunderstood — gave the country its name.
+
+That last gap is the one most people miss: **111 years separate Cabot's
+landfall from the first permanent colony** at Quebec in 1608. A full century
+of fishing, trading, and epidemics happened before anyone settled. Canada was
+a workplace long before it was a home.
 
 The mental model for this whole era: **Europe didn't come to settle; it came
 to extract** — first fish, then furs. Permanent colonies (next lesson) were
@@ -113,6 +114,35 @@ people (war, disease, dispersal; historians still debate the mix). The
 "empty" riverbank Champlain would settle (Lesson 08) was recently emptied —
 a microcosm of the demographic catastrophe unfolding across the continent.
 
+### Reading a colonial document: the cross at Gaspé
+
+The Gaspé cross of 1534 is worth slowing down on, because it teaches you how
+to read every colonial source that follows. Here is Cartier's own journal,
+describing what happened after his men planted a thirty-foot cross bearing the
+arms of the King of France. Donnacona, he wrote,
+
+> "pointed to the land all around us, as if to say that all the land was his,
+> and that we ought not to have set up the cross without his leave."
+
+The French then explained, by signs, that the cross was "merely a landmark and
+guidepost."
+
+Both sides understood the situation perfectly. Erecting a cross with the royal
+arms was a recognized European legal ritual — an act of claiming territory for
+a Christian monarch under the **Doctrine of Discovery**. Donnacona read it
+correctly as a property claim and lodged what amounts to a formal diplomatic
+protest: this land has an owner, and you did not ask. The French then lied
+about their own act to defuse the confrontation, while recording the truth in
+the journal meant for their King.
+
+Notice what this means for the historical record. We possess *only* Cartier's
+account — the colonizer's own minutes of his own misconduct — and even that
+one-sided document preserves the objection. This is the habit to build for
+every colonial source in this course: read them the way a lawyer reads the
+other side's file. Hostile documents still preserve the evidence of
+resistance, and the sentence "we told them it was just a guidepost" tells you
+that they knew exactly what they were doing.
+
 ### Contact as exchange — in both directions
 
 The **Columbian Exchange** ran through Canada too: eastward went corn,
@@ -135,76 +165,6 @@ work no European army could have.
 > compresses into a fairy tale. The legal fiction built on it — the
 > "Doctrine of Discovery" — was formally repudiated by Canada in 2023, and
 > is why the word choice carries weight (Lesson 24).
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — read Cartier against himself.** Cartier, Gaspé, 1534 (from
-his journal): after erecting the cross, Donnacona "pointed to the land all
-around us, as if to say that all the land was his, and that we ought not to
-have set up the cross without his leave." Cartier's men then told him (by
-signs) the cross was "merely a landmark and guidepost." What was each side
-actually doing, and which side's account do we possess?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Cartier was performing a European legal ritual — erecting a cross with the
-royal arms was a recognized act of claiming territory for a Christian
-monarch under the Doctrine of Discovery. Donnacona read it correctly as a
-property claim and lodged, in effect, a formal diplomatic protest: the land
-has an owner, and permission was neither sought nor given. The French then
-lied about their own act to defuse the confrontation ("just a navigation
-marker") — while recording the truth in the journal for the King. We possess
-<em>only</em> Cartier's account — the colonizer's minutes of his own
-misconduct — and even that one-sided record preserves the objection. That's
-the methodological lesson for all colonial sources: read them the way a
-lawyer reads the other side's file — even hostile documents preserve the
-evidence of resistance, and "we told them it was just a guidepost" tells you
-they knew exactly what they were doing.
-</details>
-
-**Exercise 2 — timeline drill.** Order these from memory, with approximate
-dates: Cartier names Canada · Norse at L'Anse aux Meadows · Champlain founds
-Quebec · Cabot reaches Newfoundland · the St. Lawrence Iroquoians disappear.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Norse at L'Anse aux Meadows (~1000) → Cabot reaches Newfoundland (1497) →
-Cartier's voyages and the name "Canada" (1534–42) → St. Lawrence Iroquoians
-disappear (sometime between 1542 and 1603 — gone when the French returned) →
-Champlain founds Quebec (1608, next lesson). The 111-year gap between Cabot
-and Quebec is the point people miss: a whole century of contact — fishing,
-trading, epidemics — happened <em>before</em> any permanent colony. Canada
-was a workplace long before it was a settlement.
-</details>
-
-**Exercise 3 — scenario.** A quiz-night teammate insists "Columbus discovered
-America in 1492, case closed." You have 30 seconds and a friendly audience.
-Give the three-beat correction using tonight's material.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Three problems with that. First, people had already been here twelve
-thousand years — you can't discover a continent with millions of inhabitants,
-complete with cities and confederacies. Second, even for Europeans, the Norse
-beat him by five hundred years — there's an excavated Viking site in
-Newfoundland, L'Anse aux Meadows, you can visit. Third, Columbus never
-touched North America proper — for Canada the relevant names are Cabot in
-1497 chasing cod, and Cartier in 1534, who asked what the place was called,
-heard the Iroquoian word for 'village' — <em>kanata</em> — and accidentally
-named a country. So: not discovered, twice pre-empted, and named by a
-misunderstanding. Very Canadian, honestly." Lands the facts, keeps the smile.
-</details>
 
 ---
 
@@ -275,43 +235,6 @@ otherwise have dwarfed the tiny European footholds (Quebec in 1608: 28 men;
 Lesson 08). Europeans rarely won by strength what epidemics hadn't already
 weakened — which is why "the land was empty" claims invert cause and effect:
 where land stood empty, it had usually been emptied.
-</details>
-
----
-
-## Homework
-
-The "faux diamonds" episode: Cartier's 1542 cargo of Canadian "gold and
-diamonds" proved worthless, and France abandoned Canada for 60 years. Write a
-paragraph arguing that this humiliation was, in hindsight, *formative* for
-what Canada became — comparing what France sought (Spanish-style treasure)
-with what Canada's actual staples (fish, fur) built instead. Speculate: how
-might North American history differ if the St. Lawrence valley *had* held
-gold?
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong answer notices that the absence of treasure set Canada's entire
-colonial character. Gold economies (Spanish America) meant conquest,
-mass forced labour, and dense colonization to control mines. Fish-and-fur
-economies meant the opposite: tiny European populations (you don't need
-colonists, you need <em>partners</em>), dependence on Indigenous hunters,
-guides, and trade networks, and therefore two centuries of alliance-making,
-intermarriage (the Métis), and treaty diplomacy instead of outright conquest
-— the relatively (only relatively) negotiated character of Canadian
-colonization flows substantially from its unglamorous staples. It also kept
-France's attention elsewhere, leaving New France chronically underpopulated
-(Lesson 08) — which sealed its military fate in 1759 but also preserved
-Indigenous power longer than in the south. Had the valley held gold: expect a
-Spanish-style rush — massive immigration, early catastrophic conflict,
-possibly no fur-trade partnership era, no Métis nation, and a
-St. Lawrence civilization looking more like Mexico's colonial core than the
-farm colony of Lesson 08. "Nothing shiny" may be the most consequential
-geological fact in Canadian history — the land forced Europe to trade with
-its peoples rather than simply plunder past them.
 </details>
 
 ---

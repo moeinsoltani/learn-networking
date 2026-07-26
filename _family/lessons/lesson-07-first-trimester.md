@@ -44,6 +44,16 @@ medications — the foundations are being laid.
 
 ### Common symptoms (all normal)
 
+Almost everything the first trimester does to a body is caused by the enormous
+hormonal shift underway, and almost all of it eases in the second trimester. It
+helps to know that the symptoms below are *expected* rather than warning signs —
+and that most of them have something practical that genuinely helps.
+
+Two notes before the list. Nausea is the famous one, and "morning sickness" is a
+misleading name: it can arrive at any hour. And fatigue in these weeks is not
+ordinary tiredness — it is a heaviness that surprises people who have never
+experienced it, and it is not a sign of weakness or poor fitness.
+
 | Symptom | What helps |
 |---|---|
 | **Nausea / "morning" sickness** | Small, frequent bland snacks; eat before getting up; ginger; stay hydrated; ask about vitamin B6 |
@@ -78,42 +88,22 @@ they'd have support if something went wrong. Decide together.
 > down (a "safe foods only" week is fine), and lean on your partner. It almost
 > always gets easier in the second trimester.
 
----
+### Where to start
 
-## Lab — Plan Together
+Two things are worth agreeing on early in this trimester.
 
-**Exercise 1 — the nausea toolkit.** Build a five-item plan for coping with
-morning sickness that the non-carrying partner can help stock and support.
+First, name **two concrete supports** the non-carrying partner will take on — not
+vague willingness, but specific jobs. "I'll do all the cooking so the smells
+don't set off your nausea" and "I'll take over the morning routine so you can
+sleep another hour" are the kind of thing that actually helps. Keeping snacks
+stocked, taking over chores, and protecting rest are the highest-value moves in
+these weeks.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A strong toolkit: (1) plain crackers/dry toast by the bed to eat <em>before</em>
-getting up; (2) small snacks every 1–2 hours to avoid an empty stomach; (3) ginger
-(tea, candies) and cold water sipped often; (4) keeping strong-smelling foods out
-of the way; (5) asking the provider about vitamin B6. The partner's role: keep the
-snacks stocked, take over cooking smells, and never dismiss it as "just a bit of
-nausea." Flag it if she can't keep fluids down — that's a medical issue, not a
-toughness test.
-</details>
-
-**Exercise 2 — normal or call?** Sort: (a) tired and queasy most mornings at 8
-weeks; (b) vomiting everything for 2 days, can't keep water down; (c) mild breast
-soreness; (d) heavy bleeding with cramping.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Normal</strong> — classic early symptoms. (b) <strong>Call</strong> —
-possible hyperemesis; dehydration needs treatment. (c) <strong>Normal</strong>.
-(d) <strong>Call/seek care</strong> — bleeding with cramping needs assessment
-(Lesson 10). The rule: fatigue, nausea, and tenderness are expected; inability to
-keep fluids down, bleeding, or severe pain warrant a call.
-</details>
+Second, talk through **when and how you'll share the news**. Some couples wait
+until after about twelve weeks, when the risk of miscarriage drops; others tell a
+few trusted people early precisely so they would have support if something went
+wrong. There is no wrong answer here. The value is in deciding it together, in
+advance, rather than being caught off guard when someone asks.
 
 ---
 
@@ -168,26 +158,6 @@ When vomiting is so <strong>severe and persistent</strong> that you <strong>can'
 keep fluids or food down</strong> or you're losing weight — this may be
 <strong>hyperemesis gravidarum</strong>, which is treatable and shouldn't just be
 endured. (Also call for bleeding, severe/one-sided pain, or fever.)
-</details>
-
----
-
-## Homework
-
-Agree on **two supports** the non-carrying partner will provide this trimester
-(e.g. "I'll do all the cooking so smells don't trigger nausea" and "I'll take over
-the morning routine so you can rest"), and talk through **when and how you'll
-share the news** with family and friends.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong answer names concrete supports (cooking, chores, letting her rest, keeping
-snacks stocked) and reaches a shared decision on announcing — whether to wait past
-~12 weeks or tell a few trusted people early for support. There's no wrong choice
-on timing; the value is deciding it together rather than being caught off guard.
 </details>
 
 ---

@@ -88,6 +88,10 @@ Then immediately after front matter:
 
 Model answers must always be written — never leave a checkpoint or homework without one.
 
+> **Exception — the `canada` and `family` tracks have NO Lab and NO Homework.**
+> Their shape is `Concept → Going Deeper → Further Reading → Checkpoint`. See
+> "Reading-first tracks" below before writing or editing a lesson in either.
+
 ### Lab variants for the non-terminal tracks
 The `leadership`, `english`, `canada`, `nature`, and `family` tracks keep the same
 hidden-answer format, but their **Lab** is not terminal commands. Two section-name
@@ -102,11 +106,10 @@ immediately after the H1, before Concept. The Lab specifics:
 - **English** — a rewrite drill: broken/blunt source messages, `**Your rewrite:**`
   fields, hidden model rewrites with the reasoning. Every English lesson also ends
   with a **Phrase Bank** table (before Further Reading) of same-day-usable lines.
-- **Canada** — a source & scenario exercise: a short primary-source excerpt, map,
-  or data table embedded in the lesson, plus a realistic scenario ("explain to a
-  newcomer friend…"), with `**Your answer:**` fields and hidden model answers.
-  Checkpoints are citizenship-test-style factual questions so the track doubles
-  as citizenship-test prep.
+- **Canada** and **Family** — **no Lab and no Homework section at all** (removed
+  2026-07-26 at the student's request; see "Reading-first tracks" below).
+  Canada's checkpoints remain citizenship-test-style factual questions so the
+  track doubles as citizenship-test prep.
 - **Nature (Trees & Birds)** — a **Lab — Look & Identify**: photo-and-scenario
   exercises where the student reads or is shown a tree/bird/scene and identifies
   it or explains it to a friend (`**Your answer:**` / `**Your response:**` fields,
@@ -119,6 +122,36 @@ immediately after the H1, before Concept. The Lab specifics:
   Encyclopedia at thecanadianencyclopedia.ca, canada.ca, Wikipedia; for Nature:
   Wikipedia species pages, Merlin/iNaturalist/eBird, the ABA code of ethics)
   instead of man pages; only link URLs certain to exist.
+
+### Reading-first tracks: canada and family (2026-07-26)
+The student read Canada Lesson 06 and asked for these tracks to read as a
+**flowing explanation**, not as an exercise workbook. Both tracks were reworked
+accordingly, and new/edited lessons in them **must follow these rules**:
+
+- **Section order is `Concept → Going Deeper → Further Reading → Checkpoint`.**
+  There is **no Lab and no Homework** — do not reintroduce them. (Canada Lesson
+  47 additionally keeps a `## Final Exam — Forty Questions` after its Checkpoint;
+  Family lessons close Going Deeper with a `### Where to start` subsection of
+  practical, do-this-now guidance addressed to both partners.)
+- **Never put prose in a fenced code block.** ASCII boxes holding what is really
+  a list or a comparison must be written as prose or a real markdown table.
+  Genuine diagrams (a flow with arrows) may stay, but must be introduced by a
+  sentence saying what they show. Only one survives in Canada: the fur-trade
+  supply chain in Lesson 09.
+- **Every table needs a lead-in.** Teach the idea in prose first, state the
+  pattern the table illustrates, and defer only the *details* to the table. A
+  `### Heading` immediately followed by `| Column |` is exactly the thing the
+  student objected to.
+- **Define every unusual word in the "Words to know" box**, including ordinary
+  English words a non-native reader may not know (boreal, prairie, obsidian) and
+  every proper name used in the body (Haida, Dene, Blackfoot — the box must cover
+  *all* of them, not a sample).
+- **Explain jargon where it first appears**, not 60 lines later. Where an
+  outdated or loaded term appears in a quoted legal text (e.g. "Indian" in
+  s.35), a `{: .note }` callout at that point must explain why the word is there
+  and what to say instead.
+- Primary sources (a treaty clause, a speech, a journal entry) are **quoted and
+  read inside the lesson** as narrative, not set as an exercise.
 
 ## Handling Student Questions
 When the student asks a question about a term or concept from a lesson:
@@ -400,7 +433,9 @@ citizenship-test-style checkpoints (see Lab variants). Mark each ✓ as its file
 lessons change. History phases 2–4 are chronological and come before institutions (Phase 5)
 by design. Lesson 47 ends with a cumulative 40-question citizenship-style final exam;
 Phase 9 deliberately follows the capstone — the lived-culture "epilogue" phase. Geographic
-content uses real Wikimedia Commons images, not ASCII maps.)*
+content uses real Wikimedia Commons images, not ASCII maps. **Reworked 2026-07-26** into
+the reading-first format: Lab and Homework removed track-wide, ASCII prose-boxes converted
+to prose/tables, every table given a lead-in — see "Reading-first tracks" above.)*
 
 Canada-track vocabulary convention (student is a non-native English speaker): every lesson
 opens with a `{: .note }` **"Words to know"** callout immediately after the `# Lesson NN` H1,
@@ -455,9 +490,16 @@ exercises (see Lab variants). Non-terminal, text-only (no images). Mark each ✓
 - Phase 8 — The First Year: 36 starting-solids ✓, 37 development-milestones ✓, 38 sleep-first-year ✓, 39 health-safety ✓, 40 back-to-work-childcare ✓
 
 *(Family & Parenthood track complete — lessons 01–40 across 8 phases. Lesson 01 is a
-whole-journey overview; the rest go deep. Update this index if lessons change.)*
+whole-journey overview; the rest go deep. Update this index if lessons change. **Reworked
+2026-07-26** into the reading-first format: Lab and Homework removed, their practical
+content folded into a closing `### Where to start` subsection of Going Deeper — see
+"Reading-first tracks" above.)*
 
 Family-track conventions:
+- **`### Where to start`:** every lesson ends its Going Deeper with this subsection — the
+  concrete things to *do* at this stage (book the appointment, pack the bag, install the
+  car seat, agree the night-feed plan, say the hard thing out loud), addressed to both
+  partners. It replaces the old Homework task; keep it on any new lesson.
 - **Safety framing is mandatory:** every lesson opens with an `{: .important }` "general
   education, not medical advice — when in doubt, call" disclaimer, and health red flags use
   `{: .warning }` boxes. This is health-adjacent content — keep advice mainstream and

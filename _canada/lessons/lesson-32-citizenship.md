@@ -30,30 +30,31 @@ Canadian citizenship is young as a legal thing: before the
 subjects" — Canada was the first Commonwealth country to create its
 own citizenship. Today it operates on two doors and one ceremony:
 
-```
-   BECOMING CANADIAN
+There are two doors into Canadian citizenship, and they work quite
+differently.
 
-   DOOR 1: BIRTH                 DOOR 2: NATURALIZATION
-   ─────────────                 ──────────────────────
-   jus soli: born ON             1. permanent residence
-   Canadian soil = citizen          (the years-long part:
-   (near-unconditional —            Express Entry, family
-   diplomatic children the          sponsorship, refugee
-   main exception)                  protection — L.41/43)
-   jus sanguinis: born           2. 1,095 days physically
-   abroad TO a Canadian             present in the 5 years
-   parent = citizen —               before applying
-   FIRST GENERATION only         3. tax filings; language
-   (the 2009 limit; under           (CLB 4, EN or FR,
-   litigation/reform)               ages 18–54)
-                                 4. THE TEST (ages 18–54):
-                                    20 questions, 15 to
-                                    pass, from Discover
-                                    Canada — i.e., THIS
-                                    COURSE, compressed
-                                 5. THE OATH — the moment
-                                    it becomes legal fact
-```
+**The first door is birth.** Canada follows *jus soli* — "right of soil":
+anyone born on Canadian soil is a citizen, almost unconditionally, with the
+children of foreign diplomats being the main exception. It also recognizes
+*jus sanguinis* — "right of blood": a child born abroad to a Canadian parent
+is a citizen, but **only in the first generation**. That limit dates from 2009
+and has been under litigation and reform since.
+
+**The second door is naturalization**, and it is a sequence rather than an
+event:
+
+1. **Become a permanent resident** first. This is the years-long part, and it
+   happens through one of several streams — Express Entry, family sponsorship,
+   refugee protection (Lessons 41 and 43).
+2. **Be physically present in Canada for 1,095 days** — three years — within
+   the five years before you apply.
+3. **File your taxes**, and demonstrate **language ability** (Canadian
+   Language Benchmark 4, in English or French) if you are between 18 and 54.
+4. **Pass the test**, if you are between 18 and 54: twenty questions, fifteen
+   correct to pass, drawn from the government's *Discover Canada* guide — which
+   is to say, from roughly the material in this course, compressed.
+5. **Take the oath.** This is the moment citizenship becomes a legal fact, not
+   the approval letter that precedes it.
 
 The oath: *"I swear (or affirm) that I will be faithful and bear
 true allegiance to His Majesty King Charles the Third, King of
@@ -143,132 +144,6 @@ stage-manages belonging the way it stage-manages little else
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — the mock test.** Twenty citizenship-style questions
-drawn from Phases 1–5 (write answers, then check; 15+ = pass):
-1. Three oceans? 2. Ten provinces + capitals (any five). 3. First
-peoples: three constitutional groups? 4. Champlain founded what,
-when? 5. The Quebec Act preserved…? 6. Confederation: date, first
-four provinces, first PM? 7. Louis Riel — who, and why does
-Manitoba honour him? 8. Last Spike — what and when? 9. Vimy Ridge
-— what and why remembered? 10. Statute of Westminster changed…?
-11. Tommy Douglas is credited with…? 12. Current flag: year and
-what it replaced? 13. Both Quebec referendum results? 14. 1982
-added which three big things? 15. Head of state vs head of
-government? 16. Three parts of Parliament? 17. How does a
-government fall? 18. Who runs federal elections? 19. Health care:
-which level of government? 20. September 30 is…?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-1. Atlantic, Pacific, Arctic. 2. See Lesson 01's table (Victoria,
-Edmonton, Regina, Winnipeg, Toronto, Quebec City, Fredericton,
-Halifax, Charlottetown, St. John's). 3. First Nations, Inuit,
-Métis. 4. Quebec City, 1608. 5. French civil law, Catholic
-religion, seigneurial system (1774). 6. July 1, 1867; ON, QC, NS,
-NB; Sir John A. Macdonald. 7. Métis leader of the Red River and
-North-West resistances; negotiated Manitoba's creation, 1870;
-executed 1885, now recognized as the province's founder.
-8. Completion of the CPR at Craigellachie, BC — Nov 7, 1885.
-9. April 1917: all four Canadian divisions took the ridge
-together — remembered as a nation-defining achievement (~3,600
-dead). 10. Made Canada legislatively independent (1931).
-11. Medicare — pioneered in Saskatchewan, nationalized 1966–68.
-12. 1965; the Red Ensign. 13. 1980: No 59.6%; 1995: No 50.58%.
-14. Amending formula, the Charter, s.35 Indigenous rights.
-15. King (represented by GG) vs Prime Minister. 16. Crown,
-Senate, House of Commons. 17. Losing the Commons' confidence
-(budget/confidence votes) or general election defeat.
-18. Elections Canada. 19. Provincial (federal transfers with
-conditions). 20. National Day for Truth and Reconciliation
-(Orange Shirt Day). Score 15+ and you'd pass the real thing —
-which draws from exactly this material.
-</details>
-
-**Exercise 2 — scenario: the oath objection.** A friend about to
-naturalize says: "I love Canada, but I can't swear loyalty to some
-British king. I'm thinking of skipping citizenship over this."
-Give the four-part answer: what the oath legally means, what the
-courts said, the affirm option and the 2021 addition, and the
-practical stakes of skipping.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "First, what you'd actually be swearing: Canadian courts
-have ruled — in a case brought by people with exactly your
-objection — that the oath to the 'King of Canada' is symbolic
-allegiance to our constitutional system, which happens to be
-personified by the Crown (Lesson 25's whole design), not personal
-loyalty to a British family; the Ontario Court of Appeal upheld
-it on precisely that reading, and republican new citizens swear
-it daily while keeping their opinions. Second, you can
-<em>affirm</em> instead of swear — no religion, no ceremony-
-theatrics — and you'll also be affirming something you may like
-better: since 2021 the oath explicitly includes faithfully
-observing the Constitution 'which recognizes and affirms the
-Aboriginal and treaty rights of First Nations, Inuit and Métis
-peoples' — you'd be joining the treaty relationship, which is
-arguably the oath's real content now. Third, the stakes of
-skipping: no vote at any level, no Canadian passport, no
-deportation immunity, no full mobility rights, no passing
-citizenship to kids born abroad — you'd be governed permanently
-by rules you can never vote on, over one sentence of symbolism
-the courts have already drained of its literal meaning. Fourth,
-the pragmatic framing: the monarchy question is Canada's to
-settle by its own constitutional politics someday (good luck,
-Lesson 25), and citizens get a say in that too — non-citizens
-don't. Swear the sentence, keep the opinion; that combination is
-extremely Canadian."
-</details>
-
-**Exercise 3 — PR vs citizen: the decision matrix.** Your
-colleague, a PR for six years, asks whether citizenship is worth
-the paperwork: "I already have healthcare and a job." Build the
-honest matrix: what changes, what doesn't, the risks of staying
-PR-forever, and the one scenario where waiting makes sense.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-What doesn't change: healthcare, work rights, most Charter
-protections, taxes (residence-based either way), CPP/EI/benefits.
-What changes: vote and candidacy at all three levels (the only
-lever on the governments running your hospital, school, and
-rent rules — Lesson 29); passport + consular protection;
-absolute security of status — PRs can lose status by residency
-shortfall (730 days/5 years) or serious criminality
-(deportation applies to PRs, not citizens); clearance-gated
-jobs; citizenship for future kids born abroad. Risks of
-PR-forever: the residency-obligation trap for people whose
-careers require long postings abroad (the exact people who
-think they don't need citizenship); rule changes — immigration
-law amends easily (Lesson 16's history says selection criteria
-are politics), while citizenship, once granted, is nearly
-irrevocable (fraud aside); and the compounding one — decades of
-paying taxes under governments you can't vote out. When waiting
-makes sense: essentially one scenario — if your origin country
-punishes dual citizenship (loss of nationality, property or
-inheritance rights, exit-visa issues) and that cost currently
-outweighs the above; then the calculus is genuinely personal.
-Otherwise the matrix is lopsided, which the ~85% uptake rate
-(note above) suggests most PRs eventually compute. Closing
-line for the colleague: 'You've done the 1,095 hard days
-already — the remaining distance is a study guide you'd
-enjoy and one sentence about a king who can't overrule a
-parking ticket.'
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -347,44 +222,6 @@ formally enters Canada through an acknowledgment the country's
 founding documents took 250 years to make. The oath now
 contains, in one sentence, this course's whole arc: Crown,
 Constitution, and treaties, joined.
-</details>
-
----
-
-## Homework
-
-Attend a citizenship ceremony (they're public — IRCC lists them,
-and courts/museums host; online ones stream). Or interview
-someone who has taken the oath. Write a paragraph: what
-surprised you (the demographics, the emotion, the staging, the
-judge's speech), and one paragraph connecting what you saw to
-any two earlier lessons.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Common surprises worth writing about: the emotional weight —
-people weep, and not discreetly; the demographic sweep (a
-single ceremony's forty new citizens routinely span
-twenty-plus countries — Lesson 24's demographic re-founding,
-visible in one room); the informality-with-gravity mix (RCMP
-red serge and dad jokes from the citizenship judge); the
-judge's speech almost always containing both "you don't have
-to stop being who you were" (Lesson 43's mosaic thesis,
-stated as official doctrine) and, since 2021, the treaty
-acknowledgment (Lesson 32's own material, performed). Strong
-connections: to Lesson 16 — contrast the ceremony's
-welcome-machinery with the Head Tax certificate: the same
-state, the same function (border of membership), inverted
-values, and the apologies of Lessons 14/16/20 as the hinge
-between them; to Lesson 21 — the flag on the stage is the
-1965 committee compromise now carrying all this weight,
-proof of the homework rule that symbols acquire meaning
-through accumulated ceremony; to Phase 5's synthesis — the
-whole event is convention and culture, not law: nothing
-legally requires the warmth, and the warmth is the policy.
 </details>
 
 ---

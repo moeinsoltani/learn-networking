@@ -40,17 +40,22 @@ detailed lesson later — think of this as the overview you'll come back to.*
 
 Having a baby is one journey in **three stages**, and each has a different job:
 
-```
-   BEFORE                 DURING                  AFTER
- (preconception)        (pregnancy)            (postpartum)
-      │                     │                       │
-  prepare bodies       grow the baby           recover + care for
-  & life; fix          safely; monitor         newborn; protect
-  risks early          mother & baby           mother's body & mind
-      │                     │                       │
-   ~3 months            ~40 weeks              first weeks–months
-   ahead of time        (3 trimesters)         ("4th trimester")
-```
+The whole journey divides into three stages, and it helps to know from the
+start what each one is *for*.
+
+**Before — preconception**, roughly three months ahead of trying. The work here
+is preparing your bodies and your life: starting folic acid, checking vaccines
+and medications, getting any ongoing health conditions well controlled, and
+sorting out the risks that are easiest to fix early.
+
+**During — pregnancy**, about forty weeks, in three trimesters. The work is
+growing the baby safely and keeping watch: regular checkups, eating and avoiding
+wisely, and knowing the warning signs that mean "call someone now."
+
+**After — postpartum**, the first weeks and months, often called the "fourth
+trimester." The work here is double: caring for a newborn, and protecting the
+mother's body and mind while she recovers. This stage is routinely
+underestimated, which is why a third of this course is about it.
 
 The most important idea for a couple *thinking* about kids: **the work starts
 before pregnancy, not at the positive test.** Folic acid, vaccines, quitting
@@ -231,70 +236,26 @@ alone.
 > warning signs. **After:** safe sleep + feeding for baby, rest + recovery +
 > mental health for mother, hands-on partner throughout.
 
----
+### Where to start
 
-## Lab — Plan Together
+Two steps turn all of this from reading into action.
 
-Do these as a couple. There are no wrong answers — the point is to talk and to
-turn "someday" into a concrete first step.
+The first is to **book a preconception appointment** with a family doctor, OB, or
+midwife — or at least agree today on the date you will book it. Take three
+questions from this lesson with you; the appointment is far more useful when you
+arrive with a list.
 
-**Exercise 1 — the preconception checklist.** From Stage 1, list the **five
-actions you could start this month** (before conceiving). Then note which of you
-does each.
+The second is to write, together, a rough **one-page plan**: when you hope to
+start trying, who will do what before, during, and after, who is in your support
+network, and any health items to sort out first. It does not need to be elegant.
+A strong version names a timeline, the carrying partner's health preparation
+(folic acid, vaccines, any existing conditions), the other partner's
+contributions — habits now, support during, hands-on care after — the people you
+can lean on, and one concrete first step with a date beside it.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A strong list usually includes: (1) <strong>book a preconception checkup</strong>
-(both); (2) the carrying partner <strong>starts a prenatal vitamin with 0.4 mg
-folic acid</strong>; (3) <strong>both stop smoking/alcohol/recreational drugs</strong>;
-(4) <strong>check vaccines are up to date</strong> (esp. rubella/MMR &amp;
-chickenpox, which must be done <em>before</em> pregnancy); (5) <strong>review any
-medications and chronic conditions</strong> with the doctor. Bonus: dentist visit,
-cutting caffeine, and the other partner improving sperm health (no smoking/excess
-heat, healthy diet). The key insight: almost all of this belongs <em>before</em>
-the positive test, not after.
-</details>
-
-**Exercise 2 — spot the warning sign.** For each scenario, say whether it's
-"probably normal — mention at next visit" or "call/seek care now":
-(a) mild nausea and tiredness at 8 weeks; (b) a severe headache with blurry vision
-and swollen hands at 30 weeks; (c) the baby barely moving all day at 34 weeks;
-(d) a newborn (2 weeks old) with a temperature of 38.5 °C.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Probably normal</strong> — common first-trimester symptoms; mention if
-severe or you can't keep fluids down. (b) <strong>Seek care now</strong> — headache
-+ vision changes + swelling are classic signs of <strong>preeclampsia</strong>.
-(c) <strong>Call now</strong> — a marked drop in fetal movement in late pregnancy
-needs prompt checking. (d) <strong>Emergency now</strong> — a fever ≥38 °C in a baby
-under 3 months is a medical emergency. Full marks for knowing that (b), (c), and
-(d) are "don't wait" situations.
-</details>
-
-**Exercise 3 — divide the load.** Imagine the first month after birth. Write down
-**three specific jobs the non-birthing partner will own** so the mother can rest
-and recover. (Be concrete.)
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Strong, concrete examples: "I take all diaper changes and burping overnight so she
-only wakes to feed"; "I handle cooking, groceries, and one load of laundry a day";
-"I manage visitors and thank-yous so she isn't 'on'"; "I book and drive to the
-well-baby and 6-week checkups"; "I watch for mood warning signs and check in daily."
-Full marks for jobs that are <em>specific</em> and genuinely protect her sleep,
-food, and recovery — vague "I'll help out" doesn't count. Sharing the load is one
-of the biggest protective factors for the whole family's wellbeing.
-</details>
+If you are reading this and thinking it through together, you have already done
+the part that matters most. That care and teamwork is, genuinely, the best
+possible start. 💛
 
 ---
 
@@ -378,31 +339,6 @@ hopelessness, severe anxiety). It is common, <strong>treatable, and not a
 weakness</strong> — the right response is to <strong>seek help early</strong> from
 a provider. Partners should watch for the signs too (and can experience depression
 themselves).
-</details>
-
----
-
-## Homework
-
-Two real steps, as a couple:
-
-1. **Book (or agree on a date to book) a preconception appointment** with a family
-   doctor, OB, or midwife — and write down three questions from this lesson to ask.
-2. **Write a one-page "our plan"** together: when you hope to start trying, who
-   will do what before/during/after, your support network, and any health items to
-   sort first.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-There's no graded answer here — completing it <em>is</em> the win. A strong "our
-plan" names a rough timeline, the carrying partner's health prep (folic acid,
-vaccines, any conditions), the other partner's contributions (habits now, support
-during, hands-on care after), who in your circle can help, and a first concrete
-step with a date. Congratulations on thinking about this thoughtfully and
-together — that care and teamwork is, genuinely, the best possible start. 💛
 </details>
 
 ---

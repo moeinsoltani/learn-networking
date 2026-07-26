@@ -78,43 +78,26 @@ practice, and the baby benefits from two confident parents.
 > mental load, and be a partner she can fully rely on. That's the single biggest
 > protector of her recovery, her mental health, and your relationship.
 
----
+### Where to start
 
-## Lab — Plan Together
+Write the partner's **"what I own" list** for the newborn weeks — and make it a
+list of owned responsibilities, not an offer to help. "I'll help with whatever
+you need" quietly leaves the mother as the manager of everything, which is its
+own kind of exhausting. Owned items look like: the night shift on these days,
+meals, laundry, the logistics and appointments, managing visitors, and watching
+for the warning signs from Lessons 31 and 32.
 
-**Exercise 1 — the partner's first-two-weeks job list.** Write five concrete things
-the non-birthing partner will *own* (not "help with") in the first two weeks.
+Sort out **parental leave** if it is available to you, and take it if you can.
 
-**Your answer:**
+Agree a small **anti-gatekeeping rule** too, in both directions: good enough is
+fine, and each of you may do things your own way. The diaper does not need to be
+folded the way she folds it. Correcting a competent partner into passivity is one
+of the commonest ways couples end up with one exhausted expert and one spare
+adult.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Strong, concrete ownership: "I own all <strong>night diaper changes and settling</strong>
-so she only wakes to feed"; "I own <strong>cooking and groceries</strong>"; "I own
-the <strong>appointment calendar and phone calls</strong>"; "I own <strong>visitor
-management</strong>"; "I own <strong>tracking supplies</strong> (diapers, formula) and
-restocking." Full marks for <em>ownership</em> language (I remember and handle it) over
-<em>helper</em> language ("I'll help with…").
-</details>
-
-**Exercise 2 — the gatekeeping trap.** The partner changes a diaper "wrong" and the
-mother redoes it and takes over. Over weeks, the partner stops trying. What went
-wrong, and how do you both fix it?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Both contributed: the mother's <strong>over-correcting (gatekeeping)</strong>
-discouraged the partner, and the partner <strong>opted out</strong> instead of
-persisting. The fix: the mother <strong>lets the partner do it their own way</strong>
-(a good-enough diaper is fine — resist redoing it), and the partner <strong>keeps
-stepping up and practising</strong>. Competence grows from practice; two confident
-parents beat one exhausted expert. Naming the pattern kindly, and agreeing to it,
-prevents the slide.
-</details>
+And add one line about how the partner will protect **their own** rest and mental
+health. This is not optional or indulgent — it is what makes the rest of the list
+sustainable.
 
 ---
 
@@ -168,28 +151,6 @@ exhausting; taking real chunks of it genuinely lightens the other parent's burde
 other's caregiving, discouraging them until they stop trying. Avoid it by the partner
 <strong>fully stepping up and practising</strong> and the mother <strong>letting them
 do it their own way</strong> (good-enough is fine) — building two confident parents.
-</details>
-
----
-
-## Homework
-
-Together, write the partner's **"what I own" list** for the newborn weeks (nights,
-meals, chores, logistics, visitors, watching for warning signs), sort out **parental
-leave** if available, and agree a small rule against gatekeeping ("good-enough is
-fine; we each do it our own way"). Add one line on how the partner will protect their
-*own* wellbeing too.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong output is a clear ownership list (not a vague "I'll help"), a leave plan, a
-shared anti-gatekeeping agreement, and a note on the partner's own rest and mental
-health. Deciding this in advance turns the exhausting newborn weeks into a genuine
-two-person effort — protecting the mother's recovery, both partners' mental health,
-and the relationship.
 </details>
 
 ---

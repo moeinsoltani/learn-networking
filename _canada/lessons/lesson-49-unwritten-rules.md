@@ -36,19 +36,26 @@ you the whole codebase, because using it wrong is the main way
 newcomers accidentally read as rude — and reading it wrong is the
 main way Canadians' politeness gets mistaken for agreement.
 
-```
-   THE POLITENESS STACK
+Canadian politeness is best understood as a stack, with each layer resting on
+the one below it.
 
-   surface:   sorry / please / thanks — constant, cheap, sincere-ish
-   protocol:  queue faithfully · hold the door · thank the bus driver
-              wave when a car yields · shoes OFF at the door
-   grammar:   soften everything ("just wondering if maybe…")
-              understate everything ("not bad" = great;
-              "interesting" = possibly terrible)
-   kernel:    DON'T MAKE IT WEIRD FOR EVERYONE ELSE
-              (noise, line-cutting, boasting, open conflict,
-               strong smells, unsolicited opinions = kernel panics)
-```
+At the **surface** are the words: *sorry*, *please*, *thanks* — constant,
+cheap, and sincere enough. Below that sits **protocol**, the set of physical
+behaviours: queue faithfully, hold the door, thank the bus driver on your way
+off, wave when a car yields to you, and take your shoes off at the door of a
+home — that last one is not optional and surprises many newcomers.
+
+Below protocol is **grammar**, which is where non-native speakers most often
+get caught. Canadians soften everything ("just wondering if maybe we
+could…") and understate everything: "not bad" means *great*, and "interesting"
+may well mean *terrible*. Learning to hear the understatement is worth more
+than learning the vocabulary.
+
+And at the bottom, the **kernel** — the rule all the others are implementations
+of: **don't make it weird for everyone else.** Noise, line-cutting, boasting,
+open conflict, strong smells, and unsolicited opinions all violate it. Once
+you can see the kernel, the rest of the stack stops looking like a list of
+quirks and starts looking like one consistent principle.
 
 The kernel rule explains every layer above it. Memorize the kernel;
 derive the rest.
@@ -149,100 +156,6 @@ instruments; it arrives as withdrawal and paperwork, not volume.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — translate the meeting.** Your Canadian PM says in
-sprint review: *"Yeah, no, it's a super interesting approach — I
-just wonder if maybe we're taking on a bit much this quarter? But
-no, it's good!"* What was just communicated, and what's the correct
-next move?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Translation: "I think this is too much scope and I'm asking you to
-cut it." Markers: "interesting" (concern flag), "I just wonder if
-maybe" (triple-softened objection = firm), "a bit much" (Canadian
-understatement for "too much"), the bracketing positivity ("but
-no, it's good!") is relationship maintenance, not verdict — and
-"yeah, no" famously means no (as "no, yeah" means yes — L.54).
-Correct move: treat it as a real objection while matching
-register — "Good point; what would you cut first?" — i.e., accept
-the softened form, respond to the hard content, and don't force
-them to escalate to directness (making a Canadian say it plainly
-twice reads as making them be rude, and they'll remember). This
-is the politeness stack's professional API: decode softeners as
-load-bearing, reply in kind.
-</details>
-
-**Exercise 2 — the dinner invitation.** A Canadian colleague texts:
-"We're doing a casual thing Saturday, 6ish — no need to bring
-anything!" Plan your evening: what you bring, when you arrive, what
-happens at the door, safe conversation, and how the night ends.
-Then note the two most common newcomer fouls.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Bring something anyway — wine, dessert, or something from your
-own culture (actively delightful — L.43's potluck nation); "no
-need" is politeness, not instruction. Arrive 6:10–6:20 ("6ish"
-licenses this; 5:55 is a foul). Door: shoes off unprompted
-(decent socks pre-planned), hand over the offering, accept the
-drink offer. Conversation: weather (sincerely), how they know
-the hosts, kids/pets/renovations, local food geography, the
-game if one's on (L.53); avoid salary/rent interrogation and
-politics-with-strangers (L.28 manners). Ending: when hosts
-slow-stand or say "anyway…" the long goodbye has begun —
-participate warmly in the doorway act; text thanks the next
-morning (cements a repeat invite). Common fouls: (1) taking "no
-need to bring anything" literally — arriving empty-handed reads
-as tone-deaf even though nobody will say so (the unwritten rules
-are enforced by silent note-taking, this lesson's whole theme);
-(2) the shoes — hesitating or needing to be asked. Honourable
-mention: leaving abruptly ("Irish goodbye") — efficient exit
-reads as offence; the twenty-minute doorway is the ritual.
-</details>
-
-**Exercise 3 — diagnose the incident.** You emailed a Canadian
-teammate a blunt "This is wrong, fix it" code review (English-track
-L.45's villain). They replied "Sure thing! 👍" and have been
-subtly unavailable for two weeks. Explain what happened in this
-lesson's terms and script the repair.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-What happened: kernel panic, Canadian-style. The blunt review
-violated the don't-make-it-weird kernel; the response followed
-the conflict-aversion protocol — surface compliance ("Sure
-thing! 👍" = the politeness layer holding), then withdrawal (the
-actual anger channel: distance and quiet non-cooperation, never
-volume). You received Canadian anger and read it as agreement —
-the classic newcomer instrument-failure this lesson warns about.
-Repair script: direct-but-soft, in person or call (not email —
-de-escalation channel-switching, English-track L.48): "Hey — I
-reread my review comment from a couple weeks back and it was way
-blunter than I meant. Sorry about that; the work was solid and I
-should've said so. Coffee?" Why it works: the apology is
-specific and unforced (sorry-economy sincerity), it restores
-their standing without demanding they admit hurt (which the code
-forbids them from doing comfortably), and the coffee offer
-reopens low-stakes contact. Expect "oh no worries at all!" —
-which, you now know, means "apology accepted, ledger cleared,"
-not "there was never a problem." The meta-lesson: in Canada you
-will rarely be told about the friction; you're expected to run
-your own diagnostics. This lesson is the diagnostic suite.
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -315,42 +228,6 @@ imposition in shared space; every specific protocol is that one
 rule compiled for a different surface (a winter-country,
 see-them-again-tomorrow social design, per this lesson's
 opening theory).
-</details>
-
----
-
-## Homework
-
-Run a one-week field study: keep a note on your phone with three
-columns — sorries witnessed (who "should" have said it vs who
-did), understatements decoded (what was said → what was meant,
-verified by outcome), and protocol moments (waves, queues, doors,
-shoes). End of week: write a half-page on the one rule you were
-breaking without knowing, and the one you'll adopt permanently.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Typical findings, for calibration: sorry-count runs 15–40/week
-once you start hearing them, with the bump-victim sorry
-confirmed early and often; the understatement column's best
-verifications come from meetings ("small concern" → the feature
-got cut) and reviews ("looks pretty good" → approved
-enthusiastically); the protocol column fills fastest at transit
-doors and grocery queues. The most common self-caught fouls
-among newcomers: not returning sorries (reads as coldness),
-answering "how's it going?" with actual information (it's a
-greeting, not a question — the exchange is "how's it going?" /
-"good, you?" / "good!" and BOTH parties keep walking, L.54),
-taking "no need to bring anything" literally, and
-over-directness in written comments (the #1 professional
-friction — pair with English-track Phase 3's softeners). The
-keep-forever rule most students choose: the yield-wave — cheap,
-universal, and weirdly satisfying once installed. Full marks =
-one honest self-diagnosis plus evidence you re-tested it;
-culture is a skill, and skills need reps.
 </details>
 
 ---

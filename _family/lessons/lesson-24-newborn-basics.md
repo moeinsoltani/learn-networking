@@ -69,40 +69,24 @@ normal.)
 > and over. You cannot "spoil" a newborn by holding or responding to them; meeting
 > their needs quickly builds security. Everything else is details.
 
----
+### Where to start
 
-## Lab — Plan Together
+Learn two lists together, because they work as a pair.
 
-**Exercise 1 — normal or call?** Sort: (a) a cone-shaped head and peeling skin on
-day 2; (b) hiccups and sneezing; (c) losing 6% of birth weight by day 3; (d) a
-fever and refusing to feed. *(Lesson 30 has the red flags.)*
+The first is the **normal newborn weirdness** list from this lesson: cone-shaped
+heads, peeling skin, sneezing, hiccups, spotty rashes, early weight loss,
+alarming-looking first stools. None of it is a problem, and knowing so saves an
+enormous amount of needless 2 a.m. fear.
 
-**Your answer:**
+The second is **Lesson 30's red flags** — fever in a baby under three months,
+breathing trouble, poor feeding, floppiness or lethargy — which mean call now,
+without hesitating.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Normal:</strong> (a) cone head and peeling skin settle in days/weeks; (b)
-hiccups and sneezing are normal; (c) a small weight loss in the first days is normal,
-with regain by ~2 weeks. <strong>Call/urgent:</strong> (d) a fever with refusing to
-feed in a newborn is a red flag (see Lesson 30 — fever in a baby under 3 months is
-an emergency). Most odd newborn things are normal; fever, poor feeding, and
-breathing trouble are not.
-</details>
-
-**Exercise 2 — match the reflex.** Match: (a) turns head toward a cheek touch,
-searching; (b) flings arms out at a loud noise; (c) grips your finger tightly.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) → <strong>rooting reflex</strong> (a feeding cue — the baby is looking for the
-breast/bottle); (b) → <strong>Moro / startle reflex</strong>; (c) → <strong>grasp
-reflex</strong>. These automatic behaviours are signs of a healthy newborn nervous
-system and fade over the first months.
-</details>
+Read them as a pair, and both of you. The goal is calibrated calm: fewer panics
+about the harmless things, and faster action on the things that genuinely
+matter. Learning your baby's **feeding cues** at the same time — rooting,
+hand-to-mouth, stirring — completes the picture, since a baby who is fed on cues
+rather than on a clock tends to be a calmer baby.
 
 ---
 
@@ -154,26 +138,6 @@ the first days (regained by ~2 weeks). All are typically normal.
 No. You <strong>cannot spoil a newborn</strong> by holding or responding to them —
 meeting their needs quickly and offering closeness builds security. Newborns need
 comfort and contact as much as feeding.
-</details>
-
----
-
-## Homework
-
-Learn your baby's **feeding cues** and normal newborn appearance together so you're
-not alarmed by the harmless stuff — and read Lesson 30 (warning signs) as a pair so
-you can tell "normal newborn weirdness" from a genuine red flag.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is calibrated calm: knowing that cone heads, sneezes, hiccups, and early
-weight loss are normal, while recognising the true red flags (fever in a young baby,
-breathing trouble, poor feeding, lethargy — Lesson 30) as "call now." That
-distinction saves needless panic <em>and</em> ensures you act fast when it actually
-matters.
 </details>
 
 ---

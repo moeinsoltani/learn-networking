@@ -83,22 +83,29 @@ the weather actually bears loads.
 
 ### The emotional calendar (natives feel this; now you can)
 
-```
-   Nov      the greying: darkness at 4:30 p.m., the long descent
-            (clocks fell back; everyone mentions it for a month)
-   Dec      lights everywhere as psychological warfare against the
-            dark; the holidays carry you through solstice
-   Jan      clean cold, new-year energy, rink season peaks
-   Feb      THE WALL: the shortest month is the longest; "I can't
-            remember not wearing this coat"; sun-destination ads
-            attack; Family Day exists specifically as morale
-   Mar      false springs and betrayal snowstorms ("second winter");
-            March Break as pressure valve
-   Apr      the melt: gravel, lost mittens, and dog... artifacts
-            emerge from snowbanks; the first patio day is declared
-            IRRATIONALLY early — 8°C, Canadians in shorts, joy
-   May 2-4  the May long weekend (L.45): winter formally forgiven
-```
+Winter in Canada is not a season so much as a six-month emotional arc, and
+knowing its stages helps enormously in your first one.
+
+**November** is the greying — darkness at 4:30 in the afternoon, the clocks
+having just fallen back, a fact everyone will mention to you for a solid
+month. **December** answers with lights everywhere, which is best understood
+as deliberate psychological warfare against the dark; the holidays carry you
+through the solstice.
+
+**January** is often the best of it: clean cold, new-year energy, rink season
+at its peak. **February** is the wall. The shortest month is reliably the
+longest, this is when you catch yourself thinking "I can't remember not
+wearing this coat," the sun-destination advertising becomes relentless, and
+Family Day exists in several provinces for no reason other than morale.
+
+**March** brings false springs and the betrayal snowstorms Canadians call
+"second winter," with March Break as the pressure valve. **April** is the
+melt, when gravel, lost mittens, and less pleasant artifacts emerge from the
+retreating snowbanks — and when the first patio day is declared irrationally
+early, at about 8°C, with Canadians in shorts, radiating joy.
+
+And by the **May long weekend** — "May two-four" (Lesson 45) — winter is
+formally forgiven, until November.
 
 **Patio season** deserves its own entry: the moment restaurants
 open outdoor seating, attendance becomes a civic duty performed in
@@ -144,108 +151,6 @@ adorable — respect the gradient).
 > winter is short and the endured winter is endless. And when a
 > stranger's car spins in the snow: push. It's the initiation
 > rite, and it counts double if you wave off the thanks.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — read the forecast like a native.** Environment
-Canada says: *"−18°C, wind chill −29. Risk of frostbite on exposed
-skin in 10–30 minutes. Snow beginning overnight, 15–20 cm expected;
-snowfall warning in effect."* A newcomer colleague asks "so...
-is that bad?" Give the native operational reading — what changes
-about tomorrow, for a commuter, a parent, and a car owner.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Native reading: cold snap plus a real storm, but *administered*
-— nothing closes preemptively except possibly school buses.
-Tonight: car owners park nose-out, plug the block heater if
-equipped, set the alarm 30 minutes early. Commuter tomorrow:
-full extremity coverage (the −29 is the operative number: 10–30
-minute frostbite means no gap between glove and sleeve, scarf
-over face at bus stops), transit will run but late, roads will
-be "greasy" (native word) until plows cycle. Parent: the 6 a.m.
-bus-cancellation vigil (L.48) — 15–20 cm on a cold morning is
-prime snow-day odds; have the backup plan ready and expect
-delighted children. Car owner: allow 20 minutes for digging out,
-expect the plow windrow across the driveway, and the morning's
-first social interaction will be neighbours shoveling in
-parallel, exchanging the ritual "cold enough for ya?" The
-metapoint for the colleague: NOTED severity, ROUTINE response —
-the storm is a logistics event, not an emergency; that
-temperament (winter as administration) is the culture.
-</details>
-
-**Exercise 2 — February rescue plan.** Your newly-arrived friend
-texts in week three of February: "I hate it here. It's dark when I
-leave work. I haven't been warm in a month." Write back as a
-winter-literate local: validate, diagnose, and prescribe — using
-this lesson's actual machinery.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model reply (tone matters — L.49's warmth plus English-track
-L.16): validation first — "February is genuinely the wall;
-every Canadian hits it; you're not failing at Canada." Diagnosis
-menu: (1) gear gap — "not warm in a month" usually means cotton
-layers or a fashion coat; fix the base layer and boots (L.50)
-and the outdoors stops being punishment; (2) played-vs-endured
-gap — prescribe one outdoor play date: Sunday skate at the
-community rink (rentals exist), a toboggan hill, Winterlude/
-carnival if near; cold with a purpose rewires the relationship;
-(3) light gap — lunchtime walks (the sun exists at noon),
-therapy lamp mornings (normalized, cheap, discussed without
-stigma); (4) social gap — winter isolates newcomers because
-native social life moved indoors to rinks/leagues/living rooms;
-say yes to everything (L.49's joining rule). Close with the
-calendar promise: Family Day is engineered for this exact
-moment, March Break is a pressure valve, and the first fake
-spring day — soon — comes with a national mood swing and
-patio mania; February is not the climate, it's the climax.
-Full marks = validation + at least two mechanism-level fixes +
-the calendar hope, and zero "just think positive."
-</details>
-
-**Exercise 3 — decode the rituals.** Explain, with the cultural
-logic underneath: (a) the stranger-pushing-a-stuck-car ritual;
-(b) shorts at 8°C in April; (c) why the backyard rink is a
-sentimental archetype; (d) the windrow curse.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) The push: winter's shared-adversity contract — anyone stuck
-is everyone's problem for ninety seconds; the wave-off of
-thanks completes it (L.49's kernel: help without making it
-weird). It's also the safest way to talk to strangers in Canada
-— adversity licenses contact. (b) April shorts: not temperature
-but RELATIVE temperature — 8°C after months of −20 is
-subjectively tropical, and the shorts are a declaration of
-victory, worn as ritual garment; natives know it's silly, which
-is the point (self-aware silliness is the national humour
-register, L.47). (c) The backyard rink: parental devotion made
-of hose water and cold nights (flooding happens after kids
-sleep), producing the origin story every hockey biography
-opens with (L.53 — Gretzky's father's rink is national
-scripture); it compresses winter-as-gift: the season itself
-becomes something a parent builds for a child. (d) The windrow
-— the plow's wall across your just-shoveled driveway — is
-beloved-hated because it's the perfect symbol of administered
-winter: the system that saves the street casually re-buries
-the individual; cursing it unites all drivers in a
-no-villain grievance, the most comfortable Canadian kind
-(compare L.50's tip-tablet and L.34's wait-times discourse:
-national bonding via shared low-stakes complaint).
-</details>
 
 ---
 
@@ -330,43 +235,6 @@ The native emotional stance is all three at once: administer
 it, curse it, play in it — and the cursing is how you check
 that everyone else is holding up. (File with "sorry": words
 whose social function outweighs their dictionary meaning.)
-</details>
-
----
-
-## Homework
-
-Between November and March (or simulated by research if you're
-studying this in July): execute one full "played winter" day —
-skate rental or used skates at a public rink, hot drink after,
-plus fifteen minutes of genuine outdoor walking at the day's
-coldest hour in correct layers. Log: what you wore, the feels-like
-number, one overheard weather-complaint exchange, and whether the
-day moved your February needle. If a car got pushed anywhere near
-you and you didn't help — log that too, and do better.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Grading criteria (self-assessed, honestly): the layering worked
-if you were warm ENOUGH to linger outdoors 45+ minutes — if you
-were cold, audit against the onion rule (cotton base layer and
-exposed ankles are the usual culprits, per L.50's shopping
-list); the skate counts even at shuffle speed (L.45: the
-attempt is the citizenship — falling gracefully and laughing is
-native behaviour); the overheard complaint should be logged
-verbatim, because collecting them teaches the register ("cold
-enough for ya?", "at least it's a dry cold," "we're paying for
-that nice October") — note that every one is an invitation, and
-next time you can answer it ("supposed to warm up Thursday" is
-always safe — there is always a Thursday). The needle question
-is the real one: nearly every student reports the same finding
-— the dread of going out exceeds the cost of being out, and
-one properly-dressed, purpose-having winter outing pays mood
-dividends for days. That finding IS the native winter secret,
-now yours. Log kept = full marks; car pushed = distinction.
 </details>
 
 ---

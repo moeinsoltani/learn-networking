@@ -84,44 +84,21 @@ repeated loss, ask your provider about testing.
 > lifting, or having sex. The most common cause is a random chromosomal event
 > beyond anyone's control — and most people go on to have healthy babies.
 
----
+### A gentle thing to do together
 
-## Lab — Plan Together
+This one is quiet, and we hope you never need it: talk about **how you would want
+to support each other** if you experienced a loss.
 
-**Exercise 1 — what would you say?** A friend confides she's had an early
-miscarriage. Which of these help, and which hurt? (a) "Everything happens for a
-reason." (b) "I'm so sorry. I'm here — do you want to talk, or just company?"
-(c) "At least you know you can get pregnant." (d) "It wasn't your fault."
+It helps to name a trusted person or two you would lean on, and to agree in
+advance that you might grieve quite differently from one another — one of you
+wanting to talk, the other wanting to be busy — and that neither response is
+wrong or cold. And to say out loud, now, the thing that is hardest to believe
+afterwards: **it would not be anyone's fault.**
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Helpful:</strong> (b) — acknowledges the loss and offers presence on her
-terms; (d) — relieves the common, undeserved guilt. <strong>Hurtful (avoid):</strong>
-(a) and (c) — these minimise the loss and can feel dismissive, even when
-well-meant. The lesson: <em>acknowledge the loss, don't minimise it, follow their
-lead,</em> and remind them it wasn't their fault. "I'm so sorry, I'm here" is
-almost always the right start.
-</details>
-
-**Exercise 2 — normal, call, or emergency?** Sort: (a) light spotting at 7 weeks,
-otherwise fine; (b) severe sharp pain on one side with dizziness; (c) bleeding with
-cramping.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Call</strong> — early spotting is common and often harmless, but always
-worth reporting so it can be checked. (b) <strong>Emergency — go now</strong>:
-one-sided pain with dizziness is a red flag for <strong>ectopic pregnancy</strong>,
-which is life-threatening. (c) <strong>Call/seek care</strong> — bleeding with
-cramping needs assessment. The key one to memorise: severe one-sided pain +
-dizziness = emergency.
-</details>
+Naming this in advance is a small act of care. It means that if hard times come,
+you meet them as a team rather than each alone. And it is worth repeating what
+this lesson said: most couples who experience a loss do go on to grow their
+family.
 
 ---
 
@@ -174,28 +151,6 @@ provider</strong> to be assessed, not an automatic sign of loss.
 dizziness or fainting, and/or heavy bleeding.</strong> An ectopic pregnancy (one
 growing outside the womb) is a life-threatening <strong>emergency</strong> — go to
 hospital immediately.
-</details>
-
----
-
-## Homework
-
-This one is gentle: talk together about **how you'd want to support each other** if
-you experienced a loss — who you'd tell, what help you'd want, and the reminder you'd
-give each other that it wasn't your fault. Knowing this in advance is a quiet act of
-care, and we hope you never need it.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-There's no test here — just a compassionate plan. A strong version might name a
-trusted person or two you'd lean on, agree that you'd give each other space to
-grieve differently, and commit to the truth that a loss wouldn't be anyone's fault.
-Naming this in advance means that if hard times come, you meet them as a team
-rather than in isolation — and most couples who face a loss do go on to grow their
-family.
 </details>
 
 ---

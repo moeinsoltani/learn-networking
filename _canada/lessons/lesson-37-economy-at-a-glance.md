@@ -31,34 +31,31 @@ world's ninth-or-tenth largest, top-tier rich by any global
 standard — whose self-image and reality have drifted apart in
 instructive ways:
 
-```
-   SELF-IMAGE vs THE NUMBERS
+Canada's self-image is lumberjacks, oil rigs, and wheat — Lesson 05's "hewers
+of wood." The GDP figures say something quite different: **services are more
+than 70% of the economy** (finance, real estate, health, education, tech,
+retail, government), with resources contributing roughly 10% directly and
+manufacturing about the same.
 
-   the image:  lumberjacks, oil rigs, wheat,
-               "hewers of wood" (L.05)
-   the GDP:    SERVICES ~70%+ (finance, real
-               estate, health, education, tech,
-               retail, government)
-               resources ~10%ish directly
-               manufacturing ~10%
+And yet the old image is not wrong where it counts. Look at **exports** rather
+than GDP and the picture flips: energy is by far the number-one export, and
+adding minerals, lumber, and farm goods leaves resources earning an enormous
+share of the foreign money Canada takes in. The resolution is this: **Canada
+works in services and pays its way abroad with staples.** Harold Innis
+(Lesson 05) loses on the GDP account and wins on the trade account.
 
-   BUT the image isn't wrong where it counts:
-   EXPORTS: energy is the #1 export by far;
-   add minerals, lumber, and farm goods and
-   resources still earn a huge share of the
-   foreign money — Canada WORKS in services
-   and PAYS ITS WAY abroad with staples.
-   Innis (L.05) wins on the trade account.
+The second correction is regional. There is no such thing as "the" Canadian
+economy:
 
-   THE REGIONAL TRUTH (there is no "the" economy):
-   AB/SK/NL   petro-economies (booms, busts, L.05)
-   ON         manufacturing + finance + tech
-   QC         hydro, aerospace, AI, dairy
-   BC         trade gateway, forestry, real estate
-   MB         diversified-stable; the Maritimes:
-              seafood, ships, remittances-of-people
-   the North  mining + government
-```
+| Region | What it runs on |
+|---|---|
+| **Alberta, Saskatchewan, Newfoundland** | Petro-economies — booms and busts (Lesson 05) |
+| **Ontario** | Manufacturing, finance, and tech |
+| **Quebec** | Hydroelectricity, aerospace, AI, dairy |
+| **British Columbia** | Trade gateway, forestry, real estate |
+| **Manitoba** | Diversified and comparatively stable |
+| **The Maritimes** | Seafood, shipbuilding — and the export of people, who send money home |
+| **The North** | Mining and government |
 
 And one number to carry into every economic conversation: the
 **productivity gap** — Canadian GDP per hour runs ~70–75% of the
@@ -131,7 +128,7 @@ GDP per hour: ~three-quarters of US. Standard suspect list:
 worker (machinery, software, IP), with national savings
 detouring into housing (Lesson 35's exemption, Lesson 40's
 market); (2) **scale and protection** — internal trade barriers
-(Lesson 29's homework), supply management, telecom/banking/air
+(Lesson 29), supply management, telecom/banking/air
 protectionism breed comfortable mid-size firms that never face
 the sharpening gale; (3) **branch-plant R&D** (above);
 (4) **resource-mix arithmetic** — some of the 2010s gap is
@@ -159,118 +156,6 @@ the brain-drain conversation are this file's human face.
 > fades?" question is four centuries old (cod → fur → wheat →
 > oil → ?). The anxiety is, in the Canadian way, both
 > overwrought and correct.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — the self-image audit.** A GDP-by-industry table
-(stylized, 2020s): real estate & finance ~20%; manufacturing
-~9%; oil & gas extraction ~5%; construction ~7%; health &
-education ~13%; retail/wholesale ~10%; tech/information ~5%;
-agriculture ~2%. Find three facts here that contradict Canada's
-own self-image, and one way the self-image is nonetheless
-vindicated elsewhere in the accounts.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Contradictions: (1) <strong>real estate and finance dwarf
-everything</strong> — the true national industry is housing-
-and-money, not anything you'd put on a postage stamp; a country
-that pictures itself in a canoe keeps its GDP in a condo.
-(2) <strong>Oil and gas extraction, ~5%</strong> — the sector
-that dominates politics (Lessons 05, 35, 39's pipeline wars)
-is a twentieth of output: its political weight comes from
-exports, regional concentration, and identity, not GDP share.
-(3) <strong>Agriculture ~2%</strong> — the wheat-field
-self-image employs almost nobody now (a few hundred thousand
-in a workforce of 20M); the family farm is a memory
-industrialized. Vindication: the <strong>export
-account</strong> — energy is the #1 export, and
-resources-plus-food still earn an outsized share of foreign
-exchange, so the jersey is honest about how Canada pays the
-world even though it misdescribes how Canadians spend
-Tuesday. Meta-skill: always ask <em>which</em> account —
-output, employment, exports, politics — a claim about "the
-economy" is drawn from; Canada's accounts disagree with each
-other more than most countries'.
-</details>
-
-**Exercise 2 — scenario: the productivity question.** A
-visiting friend: "Canada seems rich and comfortable — why does
-every Canadian news site have a 'productivity crisis' op-ed?"
-Answer in six sentences: the number, three suspects, the
-welfare-state stake, and the southern comparator problem.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "The number behind the op-eds: Canadian output per hour
-runs about three-quarters of America's, and the gap has been
-widening — rich, yes, but compounding slower than the
-neighbour. The usual suspects: our firms invest noticeably
-less per worker in machinery and software, partly because so
-much national capital detours into housing; our protected
-industries — banking, telecom, airlines, dairy — face little
-competitive pressure at home and rarely scale abroad; and a
-branch-plant tradition means research done here is often
-commercialized elsewhere. The stakes are concrete: medicare
-and pensions are funded from future output, so a widening
-productivity gap is really a question about whether the
-welfare state's promises are funded. And Canada has a
-comparator problem no one else has: the world's most dynamic
-economy is next door, in the same language, paying the same
-engineer thirty to fifty percent more — so underperformance
-isn't an abstraction; it's your best colleague's moving
-announcement. The op-eds are repetitive because the diagnosis
-is settled and the treatments — more competition, less
-housing-worship, internal free trade — each gore a sacred
-cow this course has already met."
-</details>
-
-**Exercise 3 — regional exposure mapping.** Three shocks: (i)
-oil falls to $40 and stays; (ii) a US recession cuts auto
-demand 30%; (iii) global lumber and seafood prices spike.
-For each: name the province(s) hit or helped, the transmission
-channel, and one federal instrument (from Phases 5–6) that
-activates.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(i) Oil at $40: Alberta, Saskatchewan, Newfoundland hit —
-royalties collapse (provincial budgets, L.05/35), investment
-and fly-in employment fall (the Maritimes feel it through
-returning workers); Ontario/Quebec mildly helped (cheaper
-inputs, weaker dollar aiding exports — L.40's petro-currency).
-Federal activation: EI claims surge West (L.34); equalization
-doesn't help Alberta (the L.35 grievance replays on cue);
-fiscal stabilization program (the obscure federal
-shock-absorber Alberta demanded be expanded — now you know
-why it exists). (ii) US auto recession: Ontario's
-manufacturing corridor (Windsor–Oshawa) — transmission is
-L.38's integration: parts cross the border multiple times, so
-US demand IS Ontario employment; federal instruments: EI
-work-sharing, regional development agencies, and inevitably
-an auto-sector aid package (2009's precedent). (iii)
-Lumber/seafood spike: BC and the Maritimes helped —
-export prices straight into provincial income; transmission
-caveat from L.38: US softwood duties skim the lumber windfall
-(the forever war), and the dollar may strengthen, taxing
-Ontario manufacturers — the permanent Canadian seesaw
-(resource West vs manufacturing East, L.05's lab) where one
-region's boom is another's headwind through the exchange
-rate. Meta-lesson: "how's the Canadian economy?" has no
-national answer — ask which province, which staple, which
-account.
-</details>
 
 ---
 
@@ -353,54 +238,6 @@ Lesson 41); the thinness of Canadian-headquartered global
 champions outside banking and infrastructure; recurring
 foreign-takeover dramas over the few that emerge. The ghost
 in the productivity file.
-</details>
-
----
-
-## Homework
-
-"The largest industry in Canada is housing." Investigate and
-write a paragraph: what share of GDP do real estate, residential
-construction, and related finance actually represent (find
-current figures); how did Lesson 04 (geography), Lesson 24
-(population), and Lesson 35 (the tax exemption) jointly build
-this; and state the two-sided risk — what happens to the economy
-if housing keeps rising, and if it ever seriously falls. You are
-writing the setup for Lesson 40; end with the question you want
-it to answer.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Expected findings: real estate + rental/leasing alone runs
-~13–14% of GDP — the single largest industry — and with
-residential construction and housing finance the complex
-plausibly exceeds a fifth of the economy; residential
-investment's GDP share hit developed-world records in the
-2020s. The build: geography funnels demand into three metros
-(L.04); the 2020s population surge poured accelerant on fixed
-short-run supply (L.24); and the principal-residence exemption
-plus two generations of price growth converted the home into
-the national pension and the national religion (L.35's
-homework, confirmed). The two-sided risk, honestly stated:
-continued rising means worsening affordability, later
-household formation, talent repulsion (the L.41 calculus for
-newcomers), ever-more capital and labour absorbed by a
-non-tradable sector — the productivity gap's feeding tube;
-serious falling means household balance sheets (Canadian
-household debt: ~180% of income, among the rich world's
-highest) and bank exposures take the hit, construction
-employment craters, and the retirement plans of the
-house-as-pension generation implode — which is why every
-government of every stripe protects prices while promising
-affordability, the straddle L.35 predicted. Good closing
-questions for Lesson 40: "Is the banking system actually
-insulated from a housing shock, or does its boringness end
-where CMHC's balance sheet begins?" — or — "Who is the
-marginal buyer holding this up, and what happens when rates
-test them?"
 </details>
 
 ---

@@ -66,6 +66,18 @@ unimaginable emptiness starting an hour's drive north.
 
 ### The big metros (rounded, 2020s)
 
+Canada's urban hierarchy is unusually top-heavy. Three metros — Toronto,
+Montreal, Vancouver — hold roughly a third of the entire country between them,
+and there is a long gap before the next tier of Calgary, Edmonton, and
+Ottawa–Gatineau, each around a million and a half. After that the drop is
+steep: no other metro reaches a million and a half. Compare this with a
+country like Germany, where a dozen cities are of broadly similar weight, and
+you can see why Canadian national debates so often turn out to be arguments
+about three cities.
+
+The order of the top three is worth committing to memory — "Toronto, Montreal,
+Vancouver" is as basic to Canadian literacy as the list of provinces.
+
 | Metro | Population | Character in one line |
 |---|---|---|
 | Toronto | ~6.5M | Canada's business capital; one of the most immigrant-rich cities on Earth |
@@ -75,8 +87,25 @@ unimaginable emptiness starting an hour's drive north.
 | Calgary | ~1.6M | Head-office city of the oil patch |
 | Edmonton | ~1.5M | Government + energy; gateway to the north |
 
-Memorize the top three and their order — "Toronto, Montreal, Vancouver" is as
-basic to Canadian literacy as the provinces.
+### How to read a Canadian statistic
+
+Canada's population density is about **4 people per square kilometre**. That
+number is true and almost entirely useless, and learning why will protect you
+from a hundred misleading claims later in this course.
+
+Set it beside a few others: the United States is around 37 per km², France
+around 120. So far Canada looks like a nearly empty country. But Prince Edward
+Island is about 28 per km² — approaching the American average — and southern
+Ontario's inhabited strip is far denser than that, while Nunavut is **0.02**
+per km², roughly six thousand times sparser than France. Canada is
+simultaneously one of the emptiest countries on Earth and, where people
+actually live, a perfectly ordinary dense one.
+
+The trouble with the national average is that essentially nobody lives at it.
+Average an empty warehouse with a crowded room and you get a half-full room
+that exists nowhere. So the habit to build, for every Canadian number you meet
+from here on — income, house prices, internet speed, doctors per capita — is
+to ask: **is this describing the ribbon, or the empty nine-tenths?**
 
 ### Why the ribbon exists (it's not love of America)
 
@@ -107,71 +136,6 @@ clusters near the crossings.
 > communities — largely Indigenous — with **no road at all**, reachable only
 > by air or seasonal ice road. When you read about clean-water advisories or
 > $12 orange juice, it's usually this third Canada.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — read the data table.** Population density, people/km²
-(rounded): Canada **4**; United States **37**; France **120**; PEI **28**;
-Ontario **16**; Nunavut **0.02**. What's misleading about Canada's "4," and
-what two numbers here prove it?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The national average of 4/km² implies Canadians are thinly scattered
-everywhere — but almost no one lives at the average. Canada is
-<em>simultaneously</em> nearly empty (Nunavut at 0.02/km² — 2,000× sparser
-than France) and quite dense where people actually are (PEI at 28/km²
-approaches US-average density, and southern Ontario's inhabited strip is far
-denser than that; metro Toronto exceeds European big-city regions). The
-average of an empty warehouse and a crowded room is a half-full room that
-exists nowhere. Rule for reading Canadian statistics forever after: always ask
-<em>"is this the ribbon, or the empty nine-tenths?"</em>
-</details>
-
-**Exercise 2 — scenario.** A European friend is planning "a quick Canada
-trip: Toronto, Vancouver, and 'maybe drive between them.'" Write a kind,
-concrete reality-check (3–5 sentences) that teaches the scale.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "I love the ambition, but Toronto→Vancouver is about 4,400 km —
-roughly Lisbon to Moscow — and the drive is four to five <em>days</em> of
-serious driving, not an afternoon. Even flying, it's around five hours and a
-three-hour time change, basically a transatlantic hop that never leaves the
-country. If you have a week, pick one coast: Toronto with Montreal and Ottawa
-makes a great eastern loop (they're genuinely close by our standards —
-Toronto–Montreal is ~540 km), or do Vancouver with Victoria and the Rockies
-out west. Canadians don't 'pop over' between coasts either — many have never
-seen the other one." Full marks for including a real number, a European
-comparison, and a constructive alternative rather than just "no."
-</details>
-
-**Exercise 3 — the corridor quiz.** From memory: name the corridor's two
-endpoint cities, three major cities along it, the physical region it sits on,
-and the approximate share of Canada's population it holds.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Endpoints: <strong>Quebec City</strong> (northeast) and <strong>Windsor,
-Ontario</strong> (southwest, across the river from Detroit). Along it:
-Montreal, Ottawa, Toronto (also acceptable: Hamilton, Kingston,
-Kitchener–Waterloo, London, Trois-Rivières). It sits on the Great
-Lakes–St. Lawrence Lowlands, and holds a bit more than <strong>half</strong>
-of Canada's population — which is why it has Canada's only serious intercity
-rail service and why "the corridor" is shorthand in Canadian politics for
-central-Canadian power.
-</details>
 
 ---
 
@@ -237,39 +201,6 @@ Cultural: a largely urban, immigrant-rich population lives inside a national
 mythology of wilderness and small towns, and the gap between metro Canada,
 rural Canada, and the remote (largely Indigenous) fly-in communities is one of
 the country's deepest dividing lines (Lessons 44 and 47).
-</details>
-
----
-
-## Homework
-
-The "empty" nine-tenths isn't actually empty — it's the homeland of most
-Indigenous communities and the source of most export wealth, yet holds almost
-no political weight. Write a paragraph: what tensions would you *predict* this
-creates? Name at least three specific predictions, and keep your paragraph —
-you'll grade your own foresight against Phases 3, 7, and 8.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Strong predictions include: (1) <strong>Resource-project conflict</strong> —
-wealth is extracted from lands where Indigenous peoples live but decisions
-and benefits flow to the southern ribbon, so pipelines, mines, and dams will
-generate consent battles and court fights (verified: Lessons 17, 39, 44).
-(2) <strong>Service inequality</strong> — tiny remote populations are
-expensive to serve, so water, health care, internet, and food security will
-chronically lag southern standards, producing recurring national scandals
-(verified: Lessons 24, 34). (3) <strong>Political voice gap</strong> — few
-seats north of the ribbon means northern and Indigenous priorities depend on
-courts and treaties more than on elections (verified: Lessons 17, 30, 44).
-Also creditable: urban–rural political polarization; "Ottawa doesn't see us"
-alienation in resource provinces (Alberta's version drives Phase 7's
-equalization fights); and infrastructure that exists for extraction (rail to
-ports) but not for people (no road to Iqaluit). If you predicted two of these
-cold, you're already reading Canada structurally rather than anecdotally —
-which is the entire goal of Phase 1.
 </details>
 
 ---

@@ -30,35 +30,21 @@ Lesson 05 mapped the resources; this lesson maps the *industries* —
 who employs, who exports, where the head offices sit, and which
 files generate the political wars. The map, by flagship:
 
-```
-   THE INDUSTRIAL MAP (headquarters city in brackets)
+Canadian industry clusters geographically to a degree that surprises people
+from larger countries — most sectors have one obvious capital, and knowing
+which city goes with which industry explains a great deal of regional
+politics.
 
-   ENERGY        oil sands & gas (Calgary); pipelines
-                 (Calgary); hydro giants (Montreal,
-                 Vancouver, St. John's) — the #1 export
-   MINING        potash (Saskatoon), uranium (Saskatoon),
-                 nickel/gold (Toronto — the world's mining
-                 FINANCE capital: TSX lists most of the
-                 planet's miners), diamonds (Yellowknife),
-                 critical minerals (the 2020s gold rush)
-   AGRI-FOOD     wheat/canola (Prairies), supply-managed
-                 dairy (QC/ON — L.38), beef (Alberta),
-                 seafood (Atlantic, BC)
-   AUTOS         Ontario's Windsor–Oshawa corridor —
-                 assembly for the Detroit Three + Toyota/
-                 Honda + the EV-battery bet (L.38's
-                 integration)
-   AEROSPACE     Montreal (Bombardier, CAE, Pratt &
-                 Whitney Canada — top-tier global cluster)
-   BANKS         Toronto (Big Five — L.40)
-   TECH          Toronto–Waterloo corridor (Shopify-era
-                 startups, university pipeline); Montreal
-                 (AI research, games — Ubisoft etc.);
-                 Vancouver (games, VFX, film)
-   CULTURE       film/TV production (Toronto, Vancouver,
-                 Montreal — "Hollywood North"), games,
-                 music (L.46's CanCon machinery)
-```
+| Sector | Where it lives |
+|---|---|
+| **Energy** | Oil sands, gas, and pipelines run out of **Calgary**; the hydro giants out of **Montreal**, **Vancouver**, and **St. John's**. This is Canada's number-one export |
+| **Mining** | Potash and uranium in **Saskatoon**; nickel and gold headquartered in **Toronto**, which is the world's mining *finance* capital — the TSX lists more of the planet's miners than any other exchange; diamonds in **Yellowknife**; and critical minerals, the gold rush of the 2020s |
+| **Agri-food** | Wheat and canola across the **Prairies**; supply-managed dairy in **Quebec and Ontario** (Lesson 38); beef in **Alberta**; seafood on both coasts |
+| **Autos** | Ontario's **Windsor–Oshawa corridor** — assembly for the Detroit Three plus Toyota and Honda, and now the EV-battery bet |
+| **Aerospace** | **Montreal** — Bombardier, CAE, Pratt & Whitney Canada; a genuinely top-tier global cluster |
+| **Banking** | **Toronto** — the Big Five (Lesson 40) |
+| **Tech** | The **Toronto–Waterloo corridor**, with its university pipeline; **Montreal** for AI research and video games; **Vancouver** for games, visual effects, and film |
+| **Culture** | Film and TV production in **Toronto, Vancouver, and Montreal** — "Hollywood North" — plus games and music (Lesson 46's CanCon machinery) |
 
 Plus the two cautionary tales every Canadian retells — **Nortel**
 (at its 2000 peak ~a third of the TSX's entire value; bankrupt by
@@ -96,7 +82,7 @@ interprovincial power; the duty to consult and Indigenous title
 and equity-stake proponents for — Lesson 44); and climate policy
 vs the export account (Lesson 37). Meanwhile hydro (Quebec, BC,
 Manitoba) quietly exports clean power south, and the LNG buildout
-(Kitimat) is the diversification bet of Lesson 38's homework.
+(Kitimat) is the diversification bet of Lesson 38.
 
 ### Mining and the critical-minerals turn
 
@@ -157,132 +143,6 @@ cautionary tales sit on the shelf, watching.
 > is the opposite play — exporting Canadian *capacity* into
 > everyone else's content. Both worked; nobody planned the
 > second.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — the matching board.** Match each to its home
-city/region AND its one-line significance: (a) the world's
-mining-finance capital; (b) the oil patch's head offices;
-(c) top-three global aerospace cluster; (d) deep learning's
-academic cradle; (e) the EV-battery corridor bet; (f) potash
-and uranium; (g) "Hollywood North" (two acceptable answers);
-(h) the e-commerce champion's HQ.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Toronto — the TSX lists ~40% of the world's mining equity;
-the Shield's vault became a financial specialization.
-(b) Calgary — head-office city of oil and gas (Lesson 05's
-towers), even as the sands themselves sit at Fort McMurray.
-(c) Montreal — with Seattle and Toulouse: business jets,
-simulators (CAE), engines. (d) Montreal (Mila/Bengio), with
-Toronto (Hinton) the twin — two of AI's three godfathers
-worked in Canada. (e) Ontario's Windsor–St. Thomas–Oshawa
-corridor — multi-billion-subsidy battery plants stapling the
-auto industry to the EV era. (f) Saskatoon/Saskatchewan —
-world #1 potash, #2 uranium. (g) Vancouver or Toronto (accept
-Montreal for games/VFX) — tax credits + talent + exchange
-rate. (h) Ottawa — Shopify, the third-wave existence proof.
-Seven-plus correct = you can read a Canadian business page
-with the map lit up.
-</details>
-
-**Exercise 2 — the pipeline seminar.** Explain the TMX saga to a
-smart foreigner in eight sentences, naming all three governments
-and their stakes, the Indigenous dimension's *both* sides, why
-Ottawa ended up owning it, and what the $34B price tag proves
-about each of Lessons 14, 29, and 38.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Alberta produces the world's fourth-largest oil output
-but is landlocked, so expanding the one existing pipeline to
-the Pacific — Trans Mountain, Edmonton to Vancouver — became
-the province's economic lifeline project. British Columbia's
-government opposed it (spill risk on its coast, its own
-climate politics), and since the line crosses both provinces,
-jurisdiction went federal — interprovincial works are Ottawa's
-(s.92(10), Lesson 29) — putting the federal government between
-two warring provinces, one of which it needed for
-climate-policy peace and the other for national-unity peace.
-Indigenous nations split the file: several launched the
-litigation that twice halted construction over inadequate
-consultation (the duty the courts built from s.35, Lessons
-17/24), while other nations sought equity ownership of the
-very same pipeline as economic reconciliation — both positions
-are authentically Indigenous, which is Lesson 06's
-'no-single-perspective' rule with billions attached. When the
-private owner, facing permanent political risk, moved to walk
-away in 2018, Ottawa bought the pipeline for $4.5 billion —
-not because it wanted a pipeline company, but because no
-private capital would carry Canadian regulatory risk the
-Canadian state itself had generated. Completion came in 2024
-at roughly $34 billion. The price tag proves Lesson 14
-(nation-scale infrastructure here has always ended up on the
-public balance sheet — the CPR pattern, rerun at seven times
-the overrun), Lesson 29 (federalism's collisions don't
-resolve, they get purchased), and Lesson 38 (the elephant
-haunts even this: the pipeline's business case is partly
-'any market that isn't the US discount'). Postscript that
-completes it: with the line built, oil now flows, Asian
-buyers exist, and Ottawa is trying to sell it — plausibly to
-an Indigenous-led consortium, which would make the saga's
-ending its most Canadian sentence."
-</details>
-
-**Exercise 3 — the cautionary tales, extracted.** Nortel
-(networking, peak 2000, dead 2009) and BlackBerry (smartphones,
-peak 2011, remnant by 2016). Identify what each actually died
-of (not the folklore), the one common factor, and the three
-lessons Canadian tech's third wave claims to have learned —
-then assess which lesson is actually structural vs
-motivational.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Nortel died of: acquisition-spree accounting and governance
-collapse meeting the dot-com bust — a financial failure more
-than a technology one (its R&D was world-class to the end; its
-patent portfolio sold for $4.5B post-mortem); folklore blames
-"the crash," but Cisco survived the same crash. BlackBerry
-died of: a classic incumbent's misread — dismissing the
-iPhone's touchscreen-plus-appstore model while defending
-keyboards, enterprise security, and carrier relationships;
-execution was fine, the strategic map was wrong (the innovator
-out-innovated — the disruption textbook's tidiest case study).
-Common factor: single-champion concentration — each was, at
-peak, a third of the index and the national tech identity, so
-each death was a systemic event (pension funds, talent
-diaspora, VC winter) rather than one firm's failure; countries
-with deep benches (the US) absorb such deaths routinely.
-Third-wave claimed lessons: (1) governance and financial
-discipline early (structural — boards and audit are learnable
-institutions); (2) "stay paranoid about platform shifts"
-(motivational — every incumbent claims vigilance until the
-shift arrives; no structure guarantees it); (3) build a
-BENCH, not a champion — many mid-size firms over one titan
-(the structural one that matters: Toronto–Waterloo's current
-shape — dozens of mid-caps, one Shopify — is deliberately
-that portfolio, and immigration-fed talent depth, Lesson 41,
-is its enabling policy). Honest assessment: lesson 3 is real
-and visible in the data; lesson 1 is institutionalized;
-lesson 2 is what every generation says before its own
-BlackBerry moment. The diaspora coda: Nortel's and
-BlackBerry's alumni seeded hundreds of startups — the deaths
-were also compost, which is the most consoling true sentence
-available.
-</details>
 
 ---
 
@@ -370,64 +230,6 @@ survives any single death; plus earlier governance and the
 unresolvable residue (Lesson 37): keeping the
 commercialization and the cap tables in Canada, which no
 policy has yet reliably achieved.
-</details>
-
----
-
-## Homework
-
-The critical-minerals decade: Western supply-chain policy has
-designated Canada a preferred source for lithium, nickel,
-cobalt, and rare earths — and the richest deposits (Ontario's
-Ring of Fire, Quebec's north, the territories) sit on treaty
-and title lands with no road access and unresolved consent
-questions. Write two paragraphs: (1) why this file is
-Lessons 05 + 14 + 17 + 24 + 38 compressed into one (name the
-echo of each); (2) the test it poses — can Canada do a
-resource rush *with* consent this time, and what would
-"yes" concretely look like? (You are writing Lesson 44's
-setup.)
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(1) The echoes: Lesson 05 — a new staple (battery metals)
-promising the next boom, with the staples trap (price-taker
-volatility, hewers-of-lithium) pre-loaded; Lesson 14 — the
-infrastructure question (roads/rail into roadless Shield —
-the Ring of Fire's entire bottleneck is a CPR problem at
-1/100th scale: who pays, who owns, whose land); Lesson 17 —
-the deposits lie under Treaty 9 and unceded territories,
-where the two-understandings gap (share vs surrender) is not
-history but the live legal substrate; Lesson 24 — UNDRIP's
-free-prior-informed-consent standard, now federal law, meets
-its first economy-scale test; Lesson 38 — the demand itself
-is elephant-derived (US supply-chain security policy
-designating friendly sources), so the pace is being set in
-Washington while the consent clock runs on Indigenous law —
-the asymmetry and the reconciliation files pulling opposite
-directions on the same calendar. (2) The test and what
-"yes" looks like: consent-based development means nations as
-owners, not stakeholders — equity positions and revenue
-sharing negotiated before permits (the TMX-consortium and
-modern-treaty models, Lesson 44); infrastructure co-owned
-(Indigenous-owned road/rail corridors, precedents existing
-in BC pipelines); community veto respected early (a "no"
-that sticks in year one beats litigation in year eight —
-cheaper, too, as TMX's $34B proved); and boring, checkable
-mechanics — training pipelines, monitoring boards with
-teeth, closure bonds. "No" looks like the familiar script:
-announced timelines, consultation-as-notification,
-injunctions, blockades, a decade in court, and the minerals
-staying underground while the batteries get built with
-someone else's lithium. The wager Lesson 44 will grade:
-whether the country that ran Lesson 17's machinery can run
-its inverse — and the honest note that this time, uniquely,
-the economics agree with the ethics: consent is now the
-cheaper path, which may be what finally makes it the
-Canadian one.
 </details>
 
 ---

@@ -70,42 +70,24 @@ especially for night feeds and letting the mother rest.
 > formula feeding — by choice or necessity — you are feeding your baby well. Let
 > go of the guilt; direct that energy to enjoying your baby.
 
----
+### Where to start
 
-## Lab — Plan Together
+If there is any chance you will use bottles — formula or expressed milk —
+**practise the safe-preparation steps** until they are second nature. Doing them
+correctly while calm in daylight is how they survive being done at 3 a.m. in the
+dark.
 
-**Exercise 1 — safe prep check.** Which of these are safe, and which are mistakes?
-(a) adding an extra scoop of powder "to fill the baby up"; (b) following the tin's
-ratio exactly; (c) testing the temperature on your wrist; (d) saving the half-drunk
-bottle for two hours to reuse.
+Then agree how you will **share feeds**. This is one of the few places where the
+non-carrying partner can take a whole task off the mother's plate, and it is
+worth planning deliberately: who takes which night feed, and what the other does
+with the protected sleep.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Safe:</strong> (b) follow the ratio exactly, (c) test temperature on your
-wrist. <strong>Mistakes:</strong> (a) <strong>never add extra powder</strong> —
-over-concentrated formula can harm the baby (and dilute is also wrong); (d)
-generally <strong>discard leftover formula</strong> rather than reuse it. The theme:
-exact ratio, right temperature, and don't reuse leftovers.
-</details>
-
-**Exercise 2 — the guilt question.** A friend feels like a "bad mum" for switching
-to formula after breastfeeding didn't work. What would you say?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "You're a good mum feeding your baby well. Formula is safe and nutritious,
-and a fed, thriving baby is exactly the goal — that's what you're achieving. You
-tried breastfeeding, it didn't work out, and choosing formula is a caring, sensible
-decision, not a failure. Now you get bonus perks: your partner can share feeds and
-you can rest. Please let the guilt go." Full marks for firmly, warmly removing the
-shame — "fed is the goal."
-</details>
+Most of all, settle the framing between you, in advance and out loud: **however
+you end up feeding, a fed and thriving baby is success.** Breast, formula, or a
+combination are all valid ways to feed your baby well. Deciding this calmly now,
+before anyone is exhausted or being advised by a stranger in a shop, means that
+whatever your feeding journey turns out to be, you meet it as a team rather than
+as a source of guilt.
 
 ---
 
@@ -158,28 +140,6 @@ Feeding the baby fairly upright with the bottle held horizontal so milk flows
 the bonding — especially helpful for <strong>night feeds</strong> and letting the
 mother rest and recover. (Other reasons families choose it include supply, medical
 needs, and returning to work.)
-</details>
-
----
-
-## Homework
-
-If you might use bottles (formula or expressed milk), **practise the safe-prep steps**
-so they're second nature, and agree how you'll **share feeds** (a real chance for the
-partner to bond and for the mother to rest). Most of all, agree together that
-**however you feed, a fed and thriving baby is success** — and drop any guilt in
-advance.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is confidence with safe preparation and a shared feeding plan that
-spreads the load — plus a pre-agreed, guilt-free stance that breast, formula, or
-combination are all valid ways to feed your baby well. Deciding this calmly now
-means that whatever your feeding journey turns out to be, you'll meet it as a
-supportive team instead of a source of pressure.
 </details>
 
 ---

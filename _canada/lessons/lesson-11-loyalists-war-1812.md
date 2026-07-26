@@ -33,24 +33,23 @@ side and trekked north. The **War of 1812** supplied the story: the invasion
 repelled, the border confirmed, and the first draft of the sentence Canadians
 have been saying ever since — *"we are not Americans."*
 
-```
-   HOW ENGLISH CANADA GOT MADE
+The chain of events runs like this. The American Revolution ends in 1783, and
+roughly **50,000 Loyalist refugees** flee north — enough to double the
+population of Nova Scotia (so many that New Brunswick was carved out for them
+in 1784) and to plant new settlements along the upper St. Lawrence and the
+Niagara peninsula. Those English-speaking newcomers now sit awkwardly inside a
+French colony, so in 1791 the **Constitutional Act** splits it in two: **Upper
+Canada**, English-speaking, under English law, the future Ontario; and **Lower
+Canada**, French-speaking, under civil law, the future Quebec. Each gets an
+elected assembly. Then, in 1812, the United States invades — and fails. The
+border holds, and the identity sets.
 
-   1775–83   American Revolution
-       │
-       ▼
-   ~50,000 LOYALIST REFUGEES flee north
-       │  → double Nova Scotia (New Brunswick split off, 1784)
-       │  → settle upper St. Lawrence & Niagara
-       ▼
-   1791  CONSTITUTIONAL ACT splits Quebec:
-         UPPER CANADA (English, Ontario-to-be, English law,
-         elected assembly) │ LOWER CANADA (French, Quebec,
-         civil law, elected assembly)
-       ▼
-   1812–14  UNITED STATES INVADES — and fails
-         → the border holds; the identity sets
-```
+{: .note }
+> **Why "Upper" is in the south**
+> The names follow the **St. Lawrence River**, not the compass. Upper Canada
+> is *upriver* — to the southwest, today's southern Ontario. Lower Canada is
+> *downriver* — to the northeast, today's southern Quebec. It trips up
+> everyone the first time.
 
 Note the founding difference: the United States was born of a revolution
 *for* liberty; English Canada was born of a *counter*-revolution — founded
@@ -134,6 +133,16 @@ ante — nobody "won" on paper.
 - The border was demilitarized (Rush–Bagot, 1817) and never seriously
   fought over again — "the world's longest undefended border" starts here.
 
+There is a contradiction in that accounting worth sitting with rather than
+smoothing over. Canada's story of 1812 *stars* Tecumseh — he is on the
+citizenship-test list, on statues, in the standard telling of how the country
+survived. Yet the material outcome of the war made his people its only
+absolute losers, and the empire he fought for dropped his cause at the peace
+table within a year of his death. The national story honours the ally whose
+war aims it abandoned. Being able to hold both facts at once, without
+flinching and without cynicism, is exactly the habit Phases 3 and 4 will ask
+of you.
+
 {: .note }
 > **The militia myth, handled with care**
 > The cherished version — farm-boy militia repelled the superpower — is
@@ -143,85 +152,6 @@ ante — nobody "won" on paper.
 > nation-building runs on such stories. The historian's move — and this
 > course's — is to keep both books: what happened, and what the story of
 > what happened went on to do.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — scenario (the classic).** An American friend, entirely
-friendly: "Honestly, Canada's basically the US with health care, right?
-Same people, same continent." Use 1776 and 1812 — warmly — to explain why
-Canadians bristle, in about five sentences.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Genealogically you're not wrong that we're cousins — but the family
-split in a lawsuit. English Canada was literally founded by the Americans
-who <em>rejected</em> your revolution — fifty thousand Loyalist refugees who
-lost everything for the Crown and rebuilt north of the border; being
-not-American was the founding condition, not an afterthought. Then in 1812
-the U.S. invaded to finish the job, expecting a 'mere matter of marching,'
-and a coalition of British regulars, French-Canadian and English militia,
-and Indigenous nations under Tecumseh threw the invasion back — it's the
-war our national heroes come from, and you burned our capital's parliament
-along the way (we did get the White House back, sorry about that). So when
-Canada gets described as 'basically the US,' you're telling a country
-founded twice on saying no to America that its no didn't count. The health
-care is just a bonus." Warm, factual, and it lands the actual point:
-distinctness isn't a quirk; it's the founding.
-</details>
-
-**Exercise 2 — map drill.** From memory: Upper Canada vs Lower Canada —
-which is which (and why do the names seem flipped?), what year and act
-created them, one legal system fact and one founding-population fact for
-each.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Created by the Constitutional Act, 1791, splitting the old Province of
-Quebec. The names follow the <em>St. Lawrence River</em>, not the compass:
-<strong>Upper</strong> Canada is upriver (southwest — today's southern
-Ontario), <strong>Lower</strong> Canada is downriver (northeast — today's
-southern Quebec). Upper Canada: founded substantially by Loyalist refugees;
-English common law; capital eventually York (Toronto). Lower Canada:
-Canadien (French) majority with an anglophone merchant minority; French
-civil law preserved per the Quebec Act; capital Quebec City. Both received
-elected assemblies in 1791 — assemblies with money-voting power but no
-control over the executive, a design flaw with an appointment in Lesson 12.
-</details>
-
-**Exercise 3 — the two ledgers.** Complete both honestly: (a) the *mythic*
-ledger of 1812 — what the war gave Canadian identity; (b) the *material*
-ledger — who gained and lost what in fact. Where do the ledgers contradict
-each other most sharply?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Mythic ledger: survival against a giant; first pantheon (Brock, Secord,
-Tecumseh, Salaberry); proof the French–English–Indigenous coalition could
-stand together; the "not American by choice, twice" identity; even the
-burned-Washington chestnut Canadians still deploy at parties. (b) Material
-ledger: border unchanged (Ghent = status quo ante); Britain secured the
-colony and then demilitarized the lakes (Rush–Bagot 1817); trade resumed;
-the U.S. turned its expansion west and south. The catastrophic entry:
-Indigenous nations — Tecumseh dead, the confederacy broken, the promised
-buffer state abandoned at the peace table, and their standing converted
-from indispensable allies to inconvenient wards within a generation. The
-sharpest contradiction: the myth <em>stars</em> Tecumseh as a founding hero
-of Canada's survival, while the material outcome made his people the war's
-only absolute losers — Canada's national story honours the ally whose cause
-its empire then dropped. Holding that contradiction without flinching is
-good practice for Phases 3 and 4.
-</details>
 
 ---
 
@@ -304,53 +234,6 @@ broadcasters); and the instinct that rights coexist with collective order
 (the Charter's s.1 "reasonable limits," Lesson 31) rather than trumping
 it. Founder effects, once more: populations select their premises, and
 premises compound.
-</details>
-
----
-
-## Homework
-
-**Phase 2 synthesis.** You now hold the whole colonial arc: nations →
-contact → New France → fur partnership → Conquest bargain → Loyalist
-counter-founding → 1812. Write ~250 words answering: **"By 1815, what three
-peoples had learned to live together in British North America, what had
-each been promised, and which promises look sturdy vs fragile?"** Then take
-the phase self-test below.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Model skeleton: By 1815 British North America held three constituent
-peoples. The <strong>Canadiens</strong> (~300,000): promised, by the Quebec
-Act's bargain, religion, civil law, and the survival of their society —
-a promise that had already paid dividends (their neutrality in 1775, their
-Voltigeurs in 1813) and looks <em>sturdy</em>, because Britain needs them
-and the deal is written in statute — though its renegotiations will fill
-the rest of this course. The <strong>English/Loyalists</strong>: promised
-land, institutions, and Britishness — assemblies from 1791, common law,
-compensation — a promise <em>sturdy</em> in substance but already straining
-on one point: assemblies without power, the fuse of Lesson 12. The
-<strong>Indigenous nations</strong>: promised, by the Royal Proclamation,
-possession of un-ceded lands and Crown-only, consent-based cession — and,
-as allies from Pontiac to Tecumseh, treatment as powers. This promise is
-the <em>fragile</em> one, and 1815 is precisely its breaking point: the
-U.S. threat that made Indigenous alliance indispensable is gone, Tecumseh
-is dead, the buffer state abandoned — the partner economy of Lesson 09 and
-the ally politics of 1812 are both losing their material base. Prediction
-for Phase 3: the sturdy promises get institutionalized (responsible
-government, Confederation); the fragile one gets systematically broken
-(Indian Act, numbered treaties as land-taking) — and its unbroken legal
-core (the Proclamation) waits two centuries to be picked back up by the
-courts.
-<br><br>
-<strong>Phase 2 self-test:</strong> 1. Three constitutional Indigenous
-groups? 2. Source of the name "Canada"? 3. Champlain's city and year?
-4. What was Rupert's Land? 5. The Quebec Act's four concessions?
-6. What does the Royal Proclamation say about Indigenous land? 7. Why was
-New Brunswick created? 8. Brock, Tecumseh, Secord — one line each. 6/8 to
-proceed.
 </details>
 
 ---

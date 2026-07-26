@@ -42,13 +42,19 @@ That's normal, not a problem.
 A cycle is counted from **day 1 of a period**. In a typical ~28-day cycle,
 ovulation is around **day 14**, but cycles vary a lot — the reliable rule is that
 **ovulation happens about 14 days *before* the next period starts**, not 14 days
-after the last one. The **fertile window** is roughly:
+after the last one.
 
-```
-  ... [ -5  -4  -3  -2  -1  OVULATION ] ...
-       └─────── fertile window ───────┘
-        (sperm wait for the egg)   (egg lives ~1 day)
-```
+The **fertile window** is the stretch of days when sex can lead to pregnancy,
+and its shape surprises people: it runs from about **five days before
+ovulation** up to and including **ovulation day itself** — roughly six days in
+total.
+
+The asymmetry has a simple cause. Sperm can survive in the reproductive tract
+for up to about five days, waiting; the egg, once released, lives only about
+**24 hours**. So sex in the days *leading up to* ovulation is what most often
+results in pregnancy, and sex a day or two *after* it usually does not. This is
+why couples who wait for a positive ovulation test before trying often miss the
+best days entirely.
 
 Having sex **every 1–2 days during that window** (or simply every 2–3 days across
 the cycle) gives the best odds without turning it into a chore.
@@ -95,43 +101,22 @@ Struggling to conceive is common — it is not a failure or a source of shame.
 >   ovulation matter most (sperm wait for the egg). Regular sex across the fertile
 >   window beats one perfectly-timed attempt — and less stress helps too.
 
----
+### Where to start
 
-## Lab — Plan Together
+**Track one cycle** before you worry about anything else. Note day 1 of the next
+period, your cycle length if you know it, and work out roughly when you would
+expect to ovulate and what your fertile window looks like.
 
-**Exercise 1 — find the window.** A cycle is **30 days** long. Estimate the
-ovulation day and the fertile window. (Hint: count back ~14 days from the next
-period.)
+Doing this once is genuinely clarifying, because it replaces a myth with a fact.
+The textbook "ovulation is day 14" applies to a 28-day cycle and to nobody else.
+If your cycles run about 29 days, you would expect ovulation around day 15 and a
+fertile window of roughly days 10 to 15 — and you can confirm it with egg-white
+cervical mucus, or an ovulation predictor kit if you like using one.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-With a 30-day cycle, the next period starts on day 31, so ovulation is about
-<strong>day 16</strong> (31 − ~14). The fertile window is roughly <strong>days
-11–16</strong> (the five days before ovulation plus ovulation day). Note it's
-<em>not</em> day 14 — that's the classic mistake. Having sex every 1–2 days across
-days ~11–16 gives the best odds.
-</details>
-
-**Exercise 2 — help or wait?** For each, is it "keep trying, this is normal" or
-"time to see a provider"? (a) A healthy couple, she's 29, trying for 5 months;
-(b) she's 37, trying for 7 months; (c) her periods are very irregular and they've
-been trying 4 months.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Keep trying</strong> — under 35 and under 12 months is well within
-normal. (b) <strong>See a provider</strong> — at 35+, the guideline is to seek help
-after 6 months. (c) <strong>See a provider sooner</strong> — very irregular periods
-suggest ovulation issues, which is a reason not to wait the full 12 months. The
-thresholds: 12 months if under 35, 6 months if 35+, earlier if there's a known
-issue.
-</details>
+One caution worth stating plainly: the goal is *relaxed and regular*, not
+precise. Couples who turn conception into a scheduling project often make
+themselves miserable, and stress is not a good input here. Knowing your own
+window is useful; policing it is not.
 
 ---
 
@@ -187,27 +172,6 @@ After <strong>12 months</strong> of well-timed trying if the carrying partner is
 older</strong>; or <strong>sooner</strong> if there's a known issue (irregular or
 absent periods, a known reproductive condition). Both partners are tested, and many
 causes are treatable.
-</details>
-
----
-
-## Homework
-
-**Track one cycle.** Note day 1 of the next period, your cycle length if you know
-it, and estimate your fertile window for next month (using an app, cervical-mucus
-changes, or OPKs if you like). Write down your predicted window — and remember the
-goal is *relaxed, regular* timing, not pressure.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong answer shows the method: e.g., "My cycles run ~29 days, so I expect
-ovulation around day 15 and a fertile window of days ~10–15; I'll confirm with
-egg-white cervical mucus and an OPK." The learning point is that you can predict
-<em>your</em> window rather than assuming day 14 — and that keeping it low-stress
-and consistent matters more than perfect precision.
 </details>
 
 ---

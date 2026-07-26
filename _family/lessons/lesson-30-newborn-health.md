@@ -82,43 +82,22 @@ care. Health professionals would always rather see a well baby than miss a sick 
 > baby's immune system is immature, so a fever can signal a serious infection and
 > needs urgent assessment — never "wait and see" with a feverish newborn.
 
----
+### Where to start
 
-## Lab — Plan Together
+**Both of you** memorise the red-flag list, and above all the one rule that
+allows no hesitation: **a fever of 38 °C or higher in a baby under three months
+means go now.**
 
-**Exercise 1 — normal, call, or emergency?** Sort: (a) mild yellow tint to the skin
-on day 3, feeding well; (b) a 3-week-old with a temperature of 38.5 °C; (c) fast,
-grunting breathing with blue-tinged lips; (d) a little spit-up after feeds.
+Learn how to take the baby's temperature properly before you need to, and save
+the numbers you would want at 2 a.m. — your provider, the after-hours line, and
+the nearest emergency department. Post the red flags somewhere visible; the
+fridge is not too undignified for this.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Call / get checked</strong> — mild jaundice is common but should be
-assessed (usually fine, occasionally needs treatment). (b) <strong>Emergency — go
-now</strong>: fever ≥38 °C in a baby under 3 months. (c) <strong>Emergency — go
-now</strong>: breathing trouble with blue lips. (d) <strong>Normal</strong> — a
-little spit-up is common. Two of these are true emergencies — the fever rule and
-breathing trouble are never "wait and see."
-</details>
-
-**Exercise 2 — recall the red flags.** Without looking, list five newborn warning
-signs that mean "seek urgent help."
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Any five: <strong>fever ≥38 °C in a baby under 3 months</strong>; <strong>trouble
-breathing</strong> (fast/grunting/pauses/blue); <strong>very hard to wake or
-floppy</strong> (lethargy); <strong>won't feed / far fewer wet diapers</strong>
-(dehydration); <strong>persistent or green vomiting, or blood in stool/vomit</strong>;
-a <strong>rash that doesn't fade</strong> when pressed; a <strong>seizure</strong>; or
-a strong sense that <strong>something is seriously wrong</strong>. Full marks for
-including the fever-under-3-months emergency.
-</details>
+The purpose of all of it is that in a frightening moment you are not looking
+things up. You already know what counts as an emergency and exactly who to call.
+And one more thing worth hearing plainly: **your instinct to seek help is always
+valid.** No clinician will think less of you for bringing in a baby who turns out
+to be fine.
 
 ---
 
@@ -173,27 +152,6 @@ Any three: <strong>trouble breathing</strong> (fast/grunting/pauses/blue lips);
 fewer wet diapers</strong>; <strong>persistent/green vomiting or blood in stool</strong>;
 a <strong>non-fading rash</strong>; a <strong>seizure</strong>; or a strong instinct
 that something is seriously wrong.
-</details>
-
----
-
-## Homework
-
-**Both of you** memorise the newborn red-flag list and the fever-under-3-months
-emergency rule, learn how to **take the baby's temperature**, and save your
-provider's number and the nearest **emergency/after-hours** contacts. Post the red
-flags somewhere visible.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is that both partners can recite the red flags — above all "fever
-≥38 °C under 3 months = go now" — know how to check a temperature, and have the right
-numbers saved and posted. In a frightening moment you don't want to be looking things
-up; you want to already know what's an emergency and exactly who to call. Trusting
-your instinct to seek help is always valid.
 </details>
 
 ---

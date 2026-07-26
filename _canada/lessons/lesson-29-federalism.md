@@ -32,42 +32,24 @@ federations — the provinces are not administrative districts but
 constitutional sovereigns within their own list — and the division
 written in 1867 (Lesson 13's ss. 91–92) still allocates the files:
 
-```
-   WHO DOES WHAT (the working map)
+The single most useful thing to internalize is which level does what, because
+newcomers routinely write to the wrong government. The surprise for most
+people is that **health care and education — the two biggest things
+governments do — are provincial**, not federal. Ottawa does defence, foreign
+affairs, criminal law, money, and the border; the provinces do almost
+everything you actually touch.
 
-   FEDERAL (s.91)            PROVINCIAL (s.92, 92A, 93)
-   ────────────              ──────────────────────────
-   defence & foreign         HEALTH CARE (yes, really)
-   affairs                   EDUCATION (all levels)
-   citizenship &             property & civil rights
-   immigration (shared)      (most of private law:
-   criminal LAW              contracts, labour, housing,
-   (one Criminal Code)       professions, insurance)
-   money & banking           natural resources (L.05)
-   trade, tariffs            municipalities (creatures
-   EI, pensions (CPP)        of the province)
-   "Indians and lands..."    administration of justice
-   (L.17; the file now       (police, courts, prisons
-   called Crown–Indigenous   under 2 yrs)
-   relations)                highways, hydro, liquor
-   post, census, fisheries
-   ─────────────
-   SHARED / CONTESTED: immigration (concurrent by text),
-   agriculture, environment & carbon pricing (mostly
-   judge-made allocation), housing (everyone and no one)
+| Level | Main responsibilities |
+|---|---|
+| **Federal** (s.91) | Defence and foreign affairs; citizenship and immigration (shared); criminal **law** — one Criminal Code for the whole country; money and banking; trade and tariffs; Employment Insurance and the Canada Pension Plan; "Indians and lands reserved for the Indians" (Lesson 17 — the file is now called Crown–Indigenous Relations); the post, the census, and fisheries |
+| **Provincial** (ss. 92, 92A, 93) | **Health care** and **education** at all levels; "property and civil rights," which means most of private law — contracts, labour, housing, professions, insurance; natural resources (Lesson 05); municipalities; the administration of justice — police, courts, and prisons for sentences under two years; highways, electricity, and liquor |
+| **Shared or contested** | Immigration (concurrent in the text itself), agriculture, the environment and carbon pricing (allocated mostly by judges, case by case), and housing — which is everyone's and no one's |
+| **Municipal** | Exists only because a provincial statute says so: potholes, zoning, transit, garbage. A big city's powers are whatever its province permits this year |
+| **Territorial** | Powers delegated federally, evolving steadily toward province-like devolution (Lesson 01) |
 
-   MUNICIPAL: exists only by provincial statute —
-   potholes, zoning, transit, garbage; big-city powers =
-   whatever the province permits today
-
-   TERRITORIAL: federal delegation evolving toward
-   province-like devolution (L.01)
-```
-
-The perennial surprises: **health care and education — the two
-biggest items in Canadian public life — are provincial**, and the
-PM you watched debate health care on national TV runs zero
-hospitals. The system's glue and battleground is **money**: Ottawa
+Sit with that first surprise for a second: the Prime Minister you
+watched debating health care on national television runs exactly
+zero hospitals. The system's glue and battleground is **money**: Ottawa
 raises more than its files cost, provinces' files cost more than
 they raise — and the transfers that bridge the gap (Canada Health
 Transfer, equalization — Lesson 35) are where federalism's real
@@ -115,7 +97,7 @@ daily life.
   federal backstop upheld, provincial fury undiminished
   (Lesson 39).
 - **Declaratory & emergency powers**: mostly dormant relics —
-  except the Emergencies Act's 2022 debut (Lesson 20's homework).
+  except the Emergencies Act's 2022 debut (Lesson 20).
 
 ### The intergovernmental game
 
@@ -166,122 +148,6 @@ solution, they are accurately perceiving the design.
 > file never resolves (Lesson 40). First test of Canadian civic
 > literacy: the PM cannot fix your emergency room, and your
 > premier cannot fix your passport office.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — sort the files.** Assign each to the primarily
-responsible level (federal / provincial / municipal / genuinely
-shared): passports · hospital wait times · a new subway line ·
-carbon pricing · daycare fees · potholes · bank regulation ·
-rental-housing rules · a pipeline crossing two provinces · school
-curriculum · police conduct in your city · drug approval ·
-long-term-care standards · immigration levels · your professional
-engineering licence.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Passports — federal. Hospital waits — provincial (federal money,
-provincial delivery). Subway — municipal project, provincial
-creature-powers and funding, federal cash injections: shared in
-practice, provincial in law. Carbon pricing — shared (federal
-backstop upheld 2021; provinces may run equivalents). Daycare
-fees — provincial jurisdiction, reshaped by federal
-spending-power deals. Potholes — municipal. Bank regulation —
-federal. Rental rules — provincial. Interprovincial pipeline —
-federal (interprovincial works, s.92(10)a — exactly why pipeline
-politics is federal–provincial war, Lesson 39). Curriculum —
-provincial, full stop (no federal ministry of education exists).
-Police conduct — municipal force under provincial policing law
-(RCMP contract policing muddies it in eight provinces —
-Lesson 33). Drug approval — federal (Health Canada); paying for
-drugs — provincial. LTC standards — provincial (the COVID
-lesson: federal "national standards" talk, no jurisdiction).
-Immigration levels — federal, with provincial nominee streams
-and Quebec's special selection powers. Engineering licence —
-provincial regulator. Score 12+/15 and you route blame better
-than most columnists.
-</details>
-
-**Exercise 2 — scenario: the ER speech.** A federal election
-debate features leaders trading blows over hospital wait times.
-Your visiting friend asks: "So the winner will fix the
-hospitals?" Give the four-sentence corrective — including the
-one honest reason federal politicians still campaign on health
-care.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "No — hospitals are run by provinces; the federal
-government operates none, employs no doctors, and manages no
-wait lists, so the winner will fix approximately zero emergency
-rooms directly. What Ottawa does hold is money: the Canada
-Health Transfer (tens of billions a year) and the Canada Health
-Act's five conditions — universality, portability and friends —
-which it enforces by withholding cash, mostly over private
-user-fees. So federal health-care campaigning is really about
-the size of the cheque and the strings attached, plus files
-Ottawa genuinely owns like drug approval and, lately, dental and
-pharmacare programs built from spending power. The honest
-reason they campaign on it anyway: voters hold whoever's on TV
-responsible for whatever hurts — and every level of Canadian
-government has learned to run on the other levels' report
-cards." (Lesson 34 completes the health-care architecture.)
-</details>
-
-**Exercise 3 — design review: the missing tier.** Toronto's
-transit, housing, and shelter crises are municipal files on a
-property-tax budget, inside provincial straitjackets, driven
-partly by federal immigration and financing policy. Three reform
-schools exist: (a) constitutional status/charter powers for big
-cities; (b) provincial devolution by statute (city charters,
-revenue tools like sales/income shares); (c) status quo plus
-federal–municipal direct deals (bypassing provinces with
-conditional cash). Give each its best argument and its Canadian-
-specific obstacle, then predict which one Canada will keep
-choosing and why.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Constitutional status — best argument: cities are where the
-country actually lives (L.04); permanent problems deserve
-permanent powers, not revocable delegation (the 2018 council-
-halving is exhibit A). Obstacle: amendment (L.23's dead formula)
-— and provinces will never consent to constitutionalizing their
-own diminishment; Quebec additionally reads any federal–city
-axis as an attack on its national jurisdiction. Dead on arrival.
-(b) Devolution by statute — best argument: achievable tomorrow;
-precedents exist (city charters in Montreal/Toronto-lite,
-municipal land-transfer tax); matches fiscal capacity to
-responsibility without constitutional surgery. Obstacle:
-provinces rationally refuse — cities vote differently than
-provincial majorities (urban/rural split), and no premier
-strengthens a rival power base; delegation extended is
-delegation retractable, so cities won't invest in powers held
-at pleasure. (c) Federal–municipal deals — best argument: it's
-what actually happens (gas-tax funds, housing accelerator,
-transit billions) — money moves, ribbon-cuttings multiply,
-no amendment needed. Obstacle: constitutionally the province
-can block or absorb it, so everything is negotiated triangularly
-and nothing is durable — programs die with governments.
-Prediction: (c), indefinitely — it requires no one to surrender
-anything structural, matches the national habit (L.13, 23:
-renegotiate forever, entrench never), and produces exactly the
-accountability fog all three levels quietly prefer. Full marks
-for noticing that the fog is the equilibrium: in Canadian
-federalism, unclear responsibility is not a bug to fix but the
-price of keeping thirteen sovereignties out of open war.
-</details>
 
 ---
 
@@ -363,58 +229,6 @@ same jurisdictional depth that blurs blame is what lets four
 nations, six regions, and thirteen governments share one state
 without constant existential collision. Clear accountability
 and deep pluralism trade off; Canada bought pluralism.
-</details>
-
----
-
-## Homework
-
-Internal trade: it can be harder to sell Ontario wine in Quebec,
-drive an oversized truck across three provinces, or transfer a
-nursing licence than to import from abroad; the "free trade
-within Canada" file has been "almost solved" since 1867 (s.121:
-"all Articles... shall be admitted free into each of the other
-Provinces" — narrowly read by courts, including the 2018 "Free
-the Beer" case, R. v. Comeau). Research one concrete barrier
-(alcohol, trucking, credentials, procurement) and write a
-paragraph: what the barrier is, who defends it and why, what
-Comeau decided, and why a country that signs trade deals with
-Europe can't sign one with itself. End with the course-pattern
-this file exemplifies.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Example (alcohol): each province's liquor monopoly (LCBO, SAQ...)
-controls importation into that province — a New Brunswicker,
-Gérard Comeau, was fined for driving Quebec beer home; the
-Supreme Court (2018) upheld the regime, reading s.121 as barring
-only tariff-like measures, not any law with incidental trade
-effects — because a literal reading would vaporize provincial
-regulatory schemes (supply management, monopolies,
-environmental rules) and the Court wasn't going to redesign the
-federation from one beer run. Defenders: provincial treasuries
-(liquor profits fund budgets), local industries sheltered by
-procurement and standards, unions in protected sectors, and
-every government's reluctance to trade actual control for
-diffuse national gains. Why no deal with itself: international
-agreements are negotiated by one federal executive and bind
-inward, but internal barriers live inside provincial
-jurisdiction (property, civil rights, resources) where Ottawa
-cannot legislate them away — so "free trade in Canada" requires
-thirteen governments to each surrender specific rents for a
-general good, the textbook collective-action failure; the
-Canadian Free Trade Agreement (2017) proceeds by listing
-exceptions, which is the joke and the mechanism at once. The
-course pattern: like the Senate (L.26), the constitution
-(L.23), and the monarchy (L.25), internal trade is a file where
-the structural fix is known, the amendment path is blocked by
-the very interests it would discipline, and the country
-advances by increments, workarounds, and mutual-recognition
-patches — Canada's characteristic motion: never the leap,
-always the shuffle, forever forward.
 </details>
 
 ---

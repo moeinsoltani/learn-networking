@@ -34,33 +34,33 @@ country of 11 million, **1.1 million served**; the war ended with Canada
 holding the world's third-largest navy, fourth-largest air force — and
 ~45,000 dead.
 
-```
-   CANADA'S WWII — THE SHAPE
+The war has two halves that have to be held together, because Canadians tend
+to remember one and forget the other.
 
-   ABROAD                          AT HOME
-   ──────                          ───────
-   Battle of the ATLANTIC          war economy: shells to
-   (the navy's war: convoy         Spitfires; women in industry
-   escort, U-boats — Canada's      ("Bren Gun Girl"); the BCATP
-   longest campaign)               training 130,000+ aircrew
-   HONG KONG 1941 (2,000 sent,     ("aerodrome of democracy")
-   all lost — killed or POW)          │
-   DIEPPE 1942 (the disaster:      JAPANESE CANADIAN INTERNMENT
-   907 dead in a morning)          1942: ~22,000 removed from
-   ITALY 1943–45 (Sicily,          the BC coast; property
-   Ortona — "little                confiscated & SOLD; apology
-   Stalingrad")                    & redress 1988
-   D-DAY June 6 1944:                 │
-   JUNO BEACH — one of five        the ST. LOUIS, 1939: Jewish
-   beaches was Canada's            refugees turned away —
-   NETHERLANDS 1944–45:            "None is too many";
-   liberation; the tulips          apology 2018
-   ──────                             │
-   conscription again — but        war's end: welfare state
-   King's version: "not            begins (family allowance,
-   necessarily conscription..."    veterans' charter), UN
-                                   founding membership
-```
+**Abroad**, the longest campaign was the **Battle of the Atlantic** — the
+navy's war of convoy escort against the U-boats, fought for nearly six years.
+Then the land battles, in an order worth knowing: **Hong Kong** in 1941, where
+some 2,000 Canadians were sent and all were lost, killed or taken prisoner;
+**Dieppe** in 1942, the disaster that cost 907 dead in a single morning;
+**Italy** from 1943, through Sicily and the house-to-house fighting at Ortona,
+"little Stalingrad"; **D-Day**, June 6, 1944, where one of the five beaches —
+**Juno** — was Canada's alone; and the **liberation of the Netherlands** in
+1944–45, which is why Ottawa still receives Dutch tulips every spring. And
+conscription returned, in Mackenzie King's famously contorted formula: "not
+necessarily conscription, but conscription if necessary."
+
+**At home**, the war built a modern industrial economy — from shells to
+Spitfires — brought women into industry in large numbers (the "Bren Gun Girl"
+was a national poster), and ran the British Commonwealth Air Training Plan,
+which trained more than 130,000 aircrew and earned Canada the nickname "the
+aerodrome of democracy." It also produced two acts the country later
+apologized for. In 1942, roughly **22,000 Japanese Canadians** were removed
+from the BC coast and their property confiscated and sold — apology and
+redress came in 1988. And in 1939 the **MS St. Louis**, carrying Jewish
+refugees, was turned away under the policy remembered by the phrase "None is
+too many" — apology in 2018. By the war's end the welfare state had begun
+(family allowance, the veterans' charter) and Canada was a founding member of
+the United Nations.
 
 Hold the doubled ledger as usual — but note this war's particular
 structure: **maximum honour abroad, two of the country's worst moral
@@ -188,105 +188,6 @@ brand — was coined and earned.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — scenario (the tulips).** Every May, Ottawa drowns in
-tulips and your visiting friend asks why. Tell the story in five
-sentences — the sheltered princess, the extraterritorial ward, the
-Scheldt and the Hunger Winter, the liberation, the standing gift —
-and end with what the ritual teaches about how nations say thank you.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "During the war the Dutch royal family fled to Ottawa, and in
-1943 Princess Margriet was born there — Canada declared the hospital
-room extraterritorial so the heir would be born, legally, on Dutch
-soil. Through 1944–45 it was the First Canadian Army that fought up
-the flooded Scheldt and then liberated the Netherlands, arriving at
-the end of the 'Hunger Winter' in which thousands of Dutch had
-starved — Canadian soldiers and food convoys are burned into Dutch
-family memory. In 1945 the Netherlands sent Ottawa a hundred thousand
-tulip bulbs in thanks, and it has sent tulips every year since —
-the annual Canadian Tulip Festival is literally a war memorial you
-can picnic in. Dutch schoolchildren still tend the graves of the
-7,600 Canadians buried there, and Canadian veterans were mobbed at
-anniversaries until the last of them died. What the ritual teaches:
-durable international gratitude is concrete, recurring, and taught
-to children — flowers every spring and graves kept clean for eighty
-years say more than any treaty of friendship."
-</details>
-
-**Exercise 2 — source work: the internment order.** Order-in-Council
-P.C. 1486 (Feb 1942) authorized removal of "all persons of Japanese
-racial origin" from the protected coastal zone; the Custodian of
-Enemy Property was later empowered to sell their property *without
-consent*. You know (a) 75% were citizens/British subjects, (b) RCMP
-and military advised internment unnecessary, (c) proceeds financed
-the internment itself, (d) exclusion outlasted the war by four
-years. Write the paragraph a museum label should carry, and name the
-precise legal instrument that made it all possible — then the 1988
-remedy and what redress *couldn't* restore.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model label: "In 1942 Canada removed some 22,000 Japanese Canadians —
-three-quarters of them Canadian-born or naturalized — from the BC
-coast, not on security advice (the RCMP and military counselled
-against) but on political demand rooted in decades of anti-Asian
-agitation. Families were split between road camps, sugar-beet farms,
-and mountain internment towns; their homes, farms, and fishing boats
-were confiscated and sold at fire-sale prices, the proceeds charged
-against their own upkeep. The coast remained closed to them until
-1949; 'repatriation' pressure pushed nearly 4,000 to a Japan most
-had never seen. No Japanese Canadian was ever charged with
-disloyalty." The enabling instrument: the <strong>War Measures
-Act</strong> — the 1914 emergency statute allowing cabinet to govern
-by order-in-council, suspending ordinary rights (the same act behind
-WWI's Ukrainian internment, and its only peacetime use is coming at
-Lesson 22's October Crisis — track this statute; it is finally
-replaced by the Emergencies Act, 1988, the same year as redress).
-The remedy: Mulroney's 1988 apology and settlement — $21,000 per
-surviving internee, community funds, citizenship restorations. What
-it couldn't restore: the property (Vancouver's Japantown never
-re-formed), the fishing fleet, the community's geographic existence
-— redress compensated individuals for a destroyed <em>collective</em>;
-the apology's honesty lies in admitting exactly that.
-</details>
-
-**Exercise 3 — the D-Day arithmetic.** Juno Beach: Canada, population
-~11.5 million, was assigned one of five beaches — alongside the U.S.
-(two, pop. 135M) and Britain (two, pop. 48M). Use this arithmetic,
-plus the third-largest-navy fact, to answer the eternal cocktail
-question: "What did Canada even do in WWII?" — in four sentences,
-without bombast.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "On D-Day, one of the five invasion beaches — Juno — was
-Canada's alone, which measures how the Allies themselves weighed a
-country of eleven million against partners four and twelve times its
-size. Canada put 1.1 million people in uniform, finished the war with
-the world's third-largest navy after five years of convoy duty that
-kept Britain supplied, trained over 130,000 Allied aircrew on its
-prairie airfields, and its First Canadian Army liberated the
-Netherlands. Its dead — about forty-five thousand — came proportionally
-to more than the United States lost. The honest summary isn't that
-Canada won the war; it's that the war couldn't have been run as it
-was without Canada, and the people who planned it knew that at the
-time — the beach assignment is the primary source."
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -366,52 +267,6 @@ in Canadian schooling and citizenship materials — the country's
 practice of documented, delayed apology (Head Tax 2006, Komagata
 Maru 2016, residential schools 2008) becoming almost an institution
 itself, which Lesson 24 examines.
-</details>
-
----
-
-## Homework
-
-C.D. Howe, the "Minister of Everything," ran the war economy by
-recruiting executives at "a dollar a year," creating 28 crown
-corporations, and cutting procurement red tape to nothing. Some of
-that machinery built the postwar boom; some of it (unreviewable
-emergency power, government-by-order-in-council) is exactly what
-enabled the internment. Write a paragraph on the wartime state as a
-package deal — capability and danger from the same design — and
-name one modern echo (any country) where emergency capacity
-outlived its emergency.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Strong answers see the single mechanism under both outputs: the War
-Measures Act + order-in-council government collapsed the distance
-between decision and action — which is precisely what let Howe
-build an aircraft industry in eighteen months <em>and</em> what let
-P.C. 1486 dispossess 22,000 citizens without a single Commons vote;
-speed is content-neutral. The package deal: emergency states buy
-capability by suspending friction (debate, review, rights), and
-the friction was the safety system; societies then face the
-after-problem — capability is addictive (Howe's crown corporations
-and centralized taxation happily outlived the war and built the
-1950s, Lesson 21) while the suspended safeties don't restore
-automatically (coastal exclusion until 1949; the Act itself lay
-loaded until 1970's October Crisis, its only peacetime use —
-Lesson 22 — before the Emergencies Act finally added parliamentary
-review and Charter compliance in 1988). Modern echoes (any one):
-post-9/11 surveillance authorities renewed long after their
-sunsets' logic expired; COVID-era spending/health powers and the
-debates over their retirement; Canada's own 2022 Emergencies Act
-invocation — the 1988 safeguards actually operating (inquiry
-mandatory, court review, a judicial finding against the
-invocation in 2024) — which makes a tidy closing: the internment's
-constitutional lesson took forty-six years to legislate and
-eighty to first exercise. Emergency design principle worth
-stating: build the sunset and the audit <em>into</em> the power, at
-creation, while everyone still remembers why.
 </details>
 
 ---

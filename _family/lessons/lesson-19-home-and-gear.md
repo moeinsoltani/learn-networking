@@ -76,41 +76,21 @@ Small conveniences make the exhausting early weeks easier.
 > swaddles** · **a carrier/stroller**. That's most of it. Everything else is
 > optional — resist the urge to buy the whole store.
 
----
+### Where to start
 
-## Lab — Plan Together
+Make **two lists** together, and keep them separate. The first is your
+**essentials** — the things that genuinely need to be ready before the birth. The
+second is a **"wait and see"** list of things to buy only if it turns out you need
+them.
 
-**Exercise 1 — essential or optional?** Sort: (a) a rear-facing car seat; (b) a
-wipe-warmer; (c) a firm crib mattress; (d) 20 newborn-size outfits; (e) diapers and
-wipes; (f) a fancy video monitor.
+That split is the whole lesson. The baby industry is very good at converting
+anxiety into purchases, and a great deal of what is marketed as essential is
+bought, used twice, and stored.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Essential:</strong> (a) car seat, (c) firm crib mattress, (e) diapers &amp;
-wipes. <strong>Optional / skip or minimise:</strong> (b) wipe-warmer, (d) 20
-newborn outfits (they'll be outgrown in weeks — a few is plenty), (f) fancy monitor.
-The pattern: safety and daily-care basics are essential; convenience gadgets and
-large quantities of newborn-size clothes are not.
-</details>
-
-**Exercise 2 — the safe sleep space.** Describe exactly what should (and should
-*not*) be in the baby's crib or bassinet.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Should be:</strong> a <strong>firm, flat mattress</strong> with a
-well-fitting <strong>fitted sheet</strong> — and the baby, placed on their back.
-<strong>Should NOT be:</strong> pillows, bumpers, loose blankets, quilts, soft toys,
-or positioners. An empty, firm, flat sleep space in your room is the safest setup
-(Lesson 25 covers safe sleep fully). Simplicity here is a safety feature, not a
-compromise.
-</details>
+Then do the three setup jobs that matter: the **safe sleep space** (Lesson 25
+covers what it must and must not contain), a simple **changing and feeding
+station** so you are not walking the length of the house at 4 a.m., and the **car
+seat**, installed and checked.
 
 ---
 
@@ -166,27 +146,6 @@ Because <strong>babies grow fast</strong> (newborn sizes are outgrown in weeks) 
 you can't predict which items you'll actually use until you know your baby and
 routine. Buying sparingly saves money and clutter — you can add things later as
 needs become clear.
-</details>
-
----
-
-## Homework
-
-Make **two lists** together: your **essentials** (to have ready before birth) and a
-**"wait and see"** list (to buy only if needed). Then set up the **safe sleep space**
-and a simple **changing/feeding station**, and make sure the **car seat** is
-installed and correct.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong result is a lean essentials list (safe sleep space, car seat, feeding gear,
-diapers, some clothes and swaddles, a carrier), a "wait and see" list for everything
-else, and the home actually set up: an empty, firm, flat crib in your room; a stocked
-change/feed spot; and a correctly installed car seat. Ready — without having bought
-the whole baby store.
 </details>
 
 ---

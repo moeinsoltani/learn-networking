@@ -32,38 +32,31 @@ rules, its immigration plumbing, and its two famous frictions
 (credential recognition and "Canadian experience"). The legal
 frame first:
 
-```
-   WHOSE RULES GOVERN YOUR JOB? (L.29, applied)
+First, whose rules apply to you. Lesson 29's division of powers means that
+**about 90% of Canadian workers are covered by *provincial* employment
+standards** — minimum wage, hours, overtime, vacation, termination, leaves —
+which is to say by thirteen different regimes. The other 10% work in federally
+regulated sectors — banks, airlines, telecom, railways, interprovincial
+trucking — and fall under the Canada Labour Code. If you are looking up your
+rights, get this right first; most of the confusing search results online are
+about the wrong jurisdiction.
 
-   ~90% of workers: PROVINCIAL employment standards
-   (min wage, hours, overtime, vacation, termination,
-   leaves) — 13 different regimes
-   ~10%: FEDERAL (banks, airlines, telecom, rail,
-   interprovincial trucking — Canada Labour Code)
+Then, the floor those rules set. Details vary by province, but the shape is
+consistent:
 
-   THE FLOOR (typical, varies by province):
-   min wage        ~$15–17+/hr (provincial; federal
-                   rate for federal sectors)
-   vacation        2 weeks (3 after 5 yrs in several
-                   provinces) — EUROPE LAUGHS; the US
-                   (zero statutory) does not
-   parental leave  job-protected 12–18 months, paid
-                   through EI (L.34) — the US contrast
-                   that matters most
-   termination     NO at-will employment: notice or
-                   pay-in-lieu required by statute —
-                   and COMMON LAW "reasonable notice"
-                   (often months, sometimes 24) unless
-                   a valid contract limits it: the
-                   single most misunderstood right in
-                   Canadian working life
-   health          not tied to your job (L.34) — the
-                   quiet freedom: no job-lock
+| Entitlement | What the law guarantees |
+|---|---|
+| **Minimum wage** | Roughly $15–17+ an hour, set provincially (with a separate federal rate for federal sectors) |
+| **Vacation** | Two weeks, rising to three after five years in several provinces. Europe finds this stingy; the United States, with no statutory vacation at all, does not |
+| **Parental leave** | Job-protected for 12–18 months, paid through EI (Lesson 34) — the contrast with the US that matters most in practice |
+| **Termination** | **There is no at-will employment in Canada.** Statute requires notice or pay in lieu, and on top of that the common law requires "reasonable notice" — often months, occasionally up to 24 — unless a valid written contract limits it. This is the single most misunderstood right in Canadian working life, and the one most worth knowing before you sign anything |
+| **Health care** | Not tied to your job (Lesson 34). The quiet freedom here is the absence of job-lock: you can quit without losing your family's medical coverage |
 
-   UNIONS: ~30% overall density (public sector ~75%,
-   private ~15%) — Winnipeg 1919 (L.19) echoing in
-   the Rand formula (dues from all who benefit)
-```
+Finally, unions. Overall density is around **30%**, but that average hides
+everything: roughly 75% in the public sector and about 15% in the private one.
+The Winnipeg General Strike of 1919 (Lesson 19) still echoes in the **Rand
+formula**, the Canadian rule that everyone who benefits from a collective
+agreement pays dues toward it, whether or not they join the union.
 
 And the two structural stories this lesson must tell honestly:
 the **immigration–labour pipeline** (Express Entry and its
@@ -192,150 +185,6 @@ both facts, as ever, are true.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — offer-letter audit.** A stylized offer: "Salary
-$95,000. Three weeks' vacation. Benefits after 3 months.
-Probation: 6 months. Termination: either party may terminate
-with the minimum notice required by the Employment Standards
-Act. Non-compete: 12 months, national." Audit each clause
-against this lesson: what's generous, standard, aggressive, or
-likely unenforceable — and the one clause worth negotiating
-hardest.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Salary: market-dependent (check levels against the US-gap
-reality if you have cross-border options — and remember
-benefits/pension valuation, L.34). Three weeks: modestly
-generous (statutory floor is two in most provinces) —
-standard for professionals. Benefits after 3 months: standard;
-bridge drugs/dental for the gap (L.34's field note). 6-month
-probation: aggressive — statutory minimal-protection windows
-run ~3 months; six is lawful in most provinces as contract
-but signals culture; ask. Termination clause: THE trap,
-politely worded — "minimum notice required by the ESA"
-attempts to contract you out of common-law reasonable notice
-(months) down to statutory minimums (weeks): perfectly legal
-IF drafted perfectly, frequently voided by courts for
-technical defects, and the single clause where an hour of
-legal review pays for itself a hundredfold — negotiate it
-(e.g., "one month per year of service, minimum three") or at
-least know what you're signing away. Non-compete, 12 months
-national: likely unenforceable — Ontario banned most
-non-competes outright (2021); elsewhere courts void
-overbroad ones (national scope for a $95k role is textbook
-overbreadth) — but its presence signals an employer who
-drafts aggressively; a non-solicit is the reasonable ask.
-Hardest-negotiation answer: the termination clause — it's
-worth more than the signing bonus you didn't get, and
-(the lesson's meta-point) it's the clause nobody reads
-because no one plans to be fired. Everyone is eventually
-fired.
-</details>
-
-**Exercise 2 — scenario: the credentialed newcomer.** Your
-friend, an experienced civil engineer from abroad, lands as a
-PR and asks for the honest map: license or not, how long,
-what to do in month one, and the trap to avoid. Write the
-five-part answer for engineering specifically (then note the
-one profession where the answer is far worse).
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "(1) The license: 'engineer' is a protected title —
-practicing independently and stamping drawings requires
-registration with the provincial regulator (Professional
-Engineers Ontario, EGBC, etc.); but MOST engineering
-employment doesn't require your own stamp — you can work
-under a licensed engineer's supervision immediately, which
-changes everything about sequencing. (2) The path:
-credential assessment (often started pre-arrival via WES for
-immigration anyway), then the regulator's review —
-possibly technical exams if your degree isn't from an
-accredited-equivalent program — plus the ethics/law exam
-(everyone takes it) and documented supervised experience
-(historically with a Canadian-experience year, which several
-regulators have now dropped as discriminatory — check
-current rules, they've been moving in your favour).
-Realistic timeline: one to three years to the P.Eng.,
-working the whole time. (3) Month one: apply to the
-regulator immediately (the queue is the timeline), join the
-provincial association as a member-in-training (the network
-— L.36's ladder), and target engineering-adjacent roles
-(design, project coordination, CAD, inspection) at real
-firms rather than waiting for the perfect title. (4) The
-trap: the survival-job spiral — a year of driving Uber
-reads worse to hiring managers than a year of
-'engineering technologist' at lower pay: the first
-Canadian job's LEVEL anchors the trajectory
-(underemployment scarring is the studied effect); take the
-lower title inside the profession over the higher cash
-outside it. (5) The worse profession: medicine — where the
-license isn't the bottleneck, residency seats are: an
-internationally trained doctor can pass every exam and
-still wait years for one of the rationed positions;
-engineering's regulator can slow you, medicine's system can
-strand you. Your friend chose well."
-</details>
-
-**Exercise 3 — the two-offers problem.** A Toronto developer
-holds two offers: Toronto at C$130k, and Seattle at US$175k
-(~C$240k). Build the honest comparison — taxes (L.35),
-healthcare and benefits (L.34), housing (L.40), rights (this
-lesson), immigration optionality, and the unquantifiables —
-and defend a decision framework rather than a winner.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The honest ledger: Cash — the gap is real and survives
-adjustment: even after US health premiums/deductibles
-(~C$5–15k family exposure), higher US take-home at these
-brackets (Seattle: no state income tax, sharpening the
-example deliberately), and Toronto-vs-Seattle housing both
-being absurd, the American offer nets perhaps C$60–90k/year
-more: over a decade, a house's difference — pretending
-Canadian intangibles erase this is course-failing dishonesty
-(L.37's brain-drain file runs on exactly this arithmetic).
-What Canada's column actually holds: healthcare decoupled
-from employment (job loss ≠ family risk — worth most
-precisely in tech's layoff cycles); termination rights
-(months of notice vs at-will's zero — insurance you can't
-buy in the US); 12–18-month parental leave if kids are in
-the plan (the single largest quantifiable difference for a young
-family); citizenship/PR security vs the H-1B tether (the
-unquantifiable that quantifies fast when a layoff starts a
-60-day visa clock — for a Canadian citizen going south on a
-TN visa this narrows, but the tether is real); and the
-civic goods this course has toured — safety, schools, the
-absence of certain American tail risks — priced by
-preference, not spreadsheet. Framework to defend: decide by
-LIFE-STAGE AND TAIL-RISK, not salary — single and
-career-maximizing: take Seattle, bank the difference,
-keep the Canadian passport as the put option (L.32:
-citizenship doesn't expire); young family or
-risk-sensitive: Toronto's insurance bundle plausibly wins
-despite the gap; either way, run it as a five-year
-decision, not a forever one — the border is, for this
-profession, the most crossable in the world, which is
-itself the deepest fact in the exercise: Canada's talent
-market is priced in the shadow of the elephant (L.38),
-and every Canadian employer, university, and finance
-minister (L.37) is negotiating with that spreadsheet
-open.
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -427,66 +276,6 @@ metros. Summary sentence: Canada sells insurance, America
 sells upside — and the border's professional permeability
 (L.38's TN visas, shared language) means every Canadian
 career decision quietly prices both columns.
-</details>
-
----
-
-## Homework
-
-**Phase 7 synthesis.** The phase's five lessons each found the
-same character in a different costume: the elephant (L.38),
-the oligopoly (L.37/40), the staple (L.05/37/39), the straddle
-(L.40), the frictions (L.41). Write ~250 words answering: "Is
-the Canadian economy well-designed for the people in it?" —
-you must weigh at least: stability vs dynamism (banks,
-oligopolies), insurance vs upside (L.41's columns), the
-housing absorption problem, and the productivity/brain-drain
-file — and end with the single reform from this phase you'd
-prioritize and why. Then the self-test.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model skeleton: The design's coherent bet is INSURANCE —
-banks that never fail, healthcare that never lapses, jobs
-that can't vanish at-will, staples that pay the world —
-purchased with dynamism: oligopoly prices, a productivity
-gap, salaries that leak talent south, and a housing market
-that became the pension system and ate the investment
-capital. For most people most of the time, the bet pays:
-median Canadian life carries less tail risk than median
-American life, and the floor (L.34) holds. The honest
-qualifiers: the bet's costs land regressively — the young,
-the renting, the newly arrived (this phase's frictions
-cohort) pay the insurance premiums of homeowners and
-incumbents while collecting fewer benefits; and the bet's
-funding (L.37: productivity is the wage fund) erodes if
-dynamism keeps losing. Defensible reform priorities: internal
-free trade + credential mobility (the same federalism fix
-twice — cheapest GDP on the table, no constitutional
-surgery, directly attacks the frictions); housing supply at
-scale (the absorption problem feeds every other file);
-competition policy with teeth (the oligopoly rents fund the
-comfort that funds the gap); or ending the temporary-stream
-two-tier drift (the pipeline's integrity IS the model's
-legitimacy — L.24/43). Any choice earns marks if priced;
-the strongest answers notice the reforms share one enemy —
-comfortable incumbency — and one champion — nobody yet,
-which is the phase's actual finding.
-<br><br>
-<strong>Phase 7 self-test:</strong> 1. Services vs staples:
-which account says which? 2. The productivity gap: number
-and three suspects. 3. 75% — of what, and the asymmetry's
-consequence? 4. Softwood + supply management: why forever?
-5. Pipeline politics: three governments, two Indigenous
-positions. 6. Why did no Canadian bank fail in 2008, and
-the price? 7. The 2% target and your mortgage's five-year
-term: connect them. 8. At-will employment in Canada —
-true/false, and what replaces it? 9. The two pipeline
-frictions for newcomers. 10. Nortel/BlackBerry's joint
-lesson. 8/10 to proceed to Phase 8: Culture & Identity.
 </details>
 
 ---

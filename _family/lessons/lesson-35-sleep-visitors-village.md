@@ -82,42 +82,26 @@ birth:
 > company is not failure; it's wisdom. Build the village, be specific about what you
 > need, and say yes to help. Future-you will be grateful.
 
----
+### Where to start
 
-## Lab — Plan Together
+Make two things together, and make them before the exhaustion arrives, because
+neither gets written afterwards.
 
-**Exercise 1 — a night-shift plan.** Design a realistic sleep-shift system for the
-first weeks (assume some feeds can be covered by either parent). What does each
-person's block look like?
+The first is a **night-shift plan**: who is "on" when, and what the other person
+is expected to do with the protected hours (sleep, not laundry). Broken sleep is
+survivable; endlessly *shared* broken sleep, where both parents wake for
+everything, is much less so.
 
-**Your answer:**
+The second is a **help wish list** — specific, small, easy-to-grant asks you can
+hand to anyone who says "let me know if you need anything." Drop off a meal. Hold
+the baby for an hour while I nap. Pick up these five things. Vague offers rarely
+turn into real help; a named task almost always does, and people are usually
+relieved to be told what would actually be useful.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A workable plan gives each parent one <strong>protected solid block</strong>, e.g.:
-Parent A is "on" from ~9 pm–2 am (Parent B sleeps), then they swap and Parent B is
-"on" 2 am–7 am (Parent A sleeps). If breastfeeding, the "off" partner still handles
-changing/settling so the feeding parent gets back to sleep fast, or covers a bottle
-of expressed milk. The goal: each person gets one ~4–5 hour block rather than both
-being shattered all night. Add daytime naps and safe-sleep rules throughout.
-</details>
-
-**Exercise 2 — visitor boundaries.** Write two kind but firm scripts: one to delay a
-visit, and one to turn a visit into actual help.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Delay: "We're so excited for you to meet her — we're just finding our feet and not
-ready for visitors this week. Can we aim for next weekend?" Turn into help: "We'd love
-to see you! The best thing right now is a short visit — maybe bring a meal, and you
-can hold the baby while I grab a nap. And a quick heads-up: please come only if you're
-well, wash hands, and no kisses for the baby." Full marks for warm-but-clear
-boundaries that protect rest and health while still welcoming loved ones.
-</details>
+Then agree your **visitor guidelines** in advance — timing, how long, and the
+health rules (no one who is unwell, hands washed, nobody kissing a newborn's
+face). Deciding this early means you are enforcing a policy rather than making an
+awkward judgement about your mother-in-law at the door.
 
 ---
 
@@ -174,27 +158,6 @@ risk to wellbeing, especially far from family). Accepting help is a strength, an
 easier when you're <strong>specific</strong> ("could you bring dinner Tuesday?") —
 people want to help, and clear requests are easy to say yes to. Peers, community, and
 professionals all form the village.
-</details>
-
----
-
-## Homework
-
-Make two things together: a **night-shift sleep plan** (who's "on" when), and a
-**help "wish list"** of specific, easy-to-grant asks (meals, holding the baby while
-you nap, a grocery run) you can hand to anyone who offers. Then agree your **visitor
-guidelines** (timing, health rules) in advance.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is a concrete plan to protect sleep, a ready-made list of specific help
-(so offers turn into real support instead of vague "let me know"), and agreed visitor
-boundaries. Sorting these before the exhaustion hits means you'll actually use them —
-and it makes asking for and accepting help, the biggest survival skill of the newborn
-months, the default rather than an afterthought.
 </details>
 
 ---

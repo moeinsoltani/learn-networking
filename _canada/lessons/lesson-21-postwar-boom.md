@@ -37,21 +37,23 @@ helpful middle power.** GDP tripled; population went from 12 to 21
 million. If Phase 3 built the country's skeleton, this quarter-century
 grew its recognizable face.
 
-```
-   THE FURNITURE ARRIVES
+Nearly all the furniture of recognizably modern Canada is delivered in these
+twenty-two years — the flag, medicare, peacekeeping, the last province, the
+immigration system, official bilingualism. If you want one period to explain
+what Canadians think Canada *is*, this is it.
 
-   1947  Leduc No. 1 gushes — modern Alberta begins (L.05)
-   1949  NEWFOUNDLAND joins (referendum 52.3%) — the map completes
-   1950–53  Korea: 26,000+ serve — the middle power fights
-   1956  SUEZ: Pearson invents PEACEKEEPING — Nobel Prize 1957
-   1959  St. Lawrence SEAWAY opens (with Eisenhower)
-   1962–66  SASKATCHEWAN → NATIONAL MEDICARE (Douglas → Pearson)
-   1965  THE FLAG (after the Great Flag Debate)
-   1965  Auto Pact — continental economy formalized (L.38)
-   1967  CENTENNIAL + EXPO 67 — peak national confidence;
-         points-system immigration (L.43); Order of Canada
-   1969  Official Languages Act (L.42)
-```
+| Year | What arrived |
+|---|---|
+| 1947 | **Leduc No. 1** gushes — modern Alberta begins (Lesson 05) |
+| 1949 | **Newfoundland joins**, by a referendum won with 52.3% — the map is complete |
+| 1950–53 | **Korea**: 26,000+ serve; the middle power fights |
+| 1956 | **Suez**: Pearson invents **peacekeeping** — and wins the Nobel Peace Prize in 1957 |
+| 1959 | The **St. Lawrence Seaway** opens, with Eisenhower in attendance |
+| 1962–66 | Saskatchewan's medicare becomes **national medicare** (Douglas, then Pearson) |
+| 1965 | **The flag**, after the Great Flag Debate |
+| 1965 | The **Auto Pact** formalizes the continental economy (Lesson 38) |
+| 1967 | **Centennial and Expo 67** — peak national confidence; points-system immigration (Lesson 43); the Order of Canada |
+| 1969 | The **Official Languages Act** (Lesson 42) |
 
 The organizing idea: this is when Canada **replaced its British
 identity with a constructed Canadian one** — deliberately, item by item
@@ -74,8 +76,8 @@ Confederation," premier for the next 23 years). Canada gained its tenth
 province, the half-hour time zone (Lesson 01), and a nationalism that
 never fully dissolved — "Newfoundland nationalism" remains real, fed by
 later grievances (Churchill Falls' infamous 65-year hydro contract with
-Quebec; the cod collapse, Lesson 05). July 1 duality: Lesson 18's
-homework.
+Quebec; the cod collapse, Lesson 05). On Newfoundland's July 1 duality — Memorial Day before Canada Day — see
+Lesson 18.
 
 ### The boom economy and who arrived for it
 
@@ -114,7 +116,7 @@ Canadian hybrid to this day). Diefenbaker's royal commission (Hall,
 Act (1966)**: Ottawa pays half, provinces run plans meeting national
 conditions — universality, public administration, portability... the
 architecture Lesson 34 details (Canada Health Act, 1984, its modern
-form). Note the machine of Lesson 19's homework running perfectly:
+form). Note the machine of Lesson 19 running perfectly:
 CCF idea → Liberal implementation → Conservative commission's
 blessing; and Douglas, never PM, polling as "the Greatest Canadian"
 (CBC, 2004). Healthcare-as-identity (Lesson 34's puzzle) starts here:
@@ -174,107 +176,6 @@ ever winning a majority — is the era's improbable architect:
 > Lesson 34's policy details double as identity documents, and
 > why "American-style healthcare" remains the deadliest phrase in
 > Canadian politics.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — scenario (healthcare as identity).** Your American
-colleague asks, genuinely puzzled: "Why do Canadians make healthcare
-their whole personality? Ours has problems but so does yours."
-Answer in five sentences using the Douglas story, the doctors'
-strike, and the "built against the American direction" point —
-without smugness, and conceding what should be conceded.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "It's origin-story, not just policy: medicare was built
-bottom-up by the poorest province on the continent — Depression-
-scarred Saskatchewan under Tommy Douglas, a preacher whose
-childhood leg was saved from amputation by a surgeon's charity —
-and it survived a full doctors' strike in 1962 before spreading
-nationally within five years, so Canadians experience it as
-something their grandparents fought for and won, not something
-government handed down. It's also the clearest thing Canada ever
-built deliberately <em>differently</em> from you at the exact moment
-it was shedding British symbols — the flag and medicare arrive
-the same decade — so it does double duty as proof the country is
-a distinct project. That's why Douglas wins 'Greatest Canadian'
-polls and why 'American-style healthcare' ends careers here. All
-that said, the halo covers real problems — waiting lists, no
-national drug or dental coverage until recently, per-capita
-spending that buys middling outcomes on some measures — and
-Canadians' reluctance to criticize the system's design because
-of what it symbolizes is itself a cost. Short version: you're
-asking about a program; Canadians hear a question about the
-founding."
-</details>
-
-**Exercise 2 — rank the furniture.** Order these 1960s creations by
-how *visible they are in an ordinary Canadian's week today*, and
-justify briefly: the flag, medicare, the points system, the CPP,
-official bilingualism, the Order of Canada.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Defensible model ranking: (1) <strong>Medicare</strong> — the health
-card is in every wallet and every clinic visit runs through it;
-(2) <strong>the points system</strong> — invisible as policy,
-omnipresent as demography: the composition of any Canadian
-workplace, classroom, or transit car is its output (one in four
-Canadians foreign-born); (3) <strong>the flag</strong> — on every
-public building, jacket, and July 1; ubiquitous but passive;
-(4) <strong>official bilingualism</strong> — the cereal box, every
-federal sign and service (Lesson 42's lab literally opens with
-this); (5) <strong>CPP</strong> — a payslip line for workers,
-income for retirees; constant but unnoticed until 60;
-(6) <strong>Order of Canada</strong> — a lapel pin on the news.
-Any order is fine if the justification distinguishes
-<em>constitutive</em> visibility (points system shaping who
-Canadians are) from <em>display</em> visibility (flag) — that
-distinction is the exercise's actual content.
-</details>
-
-**Exercise 3 — de Gaulle on the balcony.** July 24, 1967: France's
-president, from Montreal's city hall, to a roaring crowd: "Vive le
-Québec... libre!" — the slogan of the separatist movement. Pearson:
-"Canadians do not need to be liberated." Analyze: why was this the
-sixties' perfect collision, what did each man think he was doing,
-and what did it foreshadow?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Perfect collision because Expo summer was English Canada's
-coming-of-age party — new flag, centennial, world's fair — and
-de Gaulle detonated, at its centre, the fact the party was
-overlooking: the other founding people was having a different
-awakening (Lesson 22's Quiet Revolution, already seven years
-deep), and some of it wanted out. De Gaulle knew precisely what
-he was doing — he'd rehearsed the phrase's ambiguity, chosen the
-balcony, and saw a France-scale interest in a francophone state
-in America (and, less grandly, enjoyed discomfiting the
-Anglo-Saxons); his own aides confirm intent. Pearson's rebuke —
-measured, immediate ("unacceptable"; the visit ended) — did the
-only available thing: named it interference while refusing
-escalation. Foreshadowing: within nine years Quebec elected the
-Parti Québécois (1976); within thirteen, the first referendum
-(1980) — the balcony was the movement's international debut, and
-it announced that the Quebec question would be fought partly on
-world opinion (as 1995's near-miss confirmed). Bonus insight:
-the scene also fixed the federal counter-strategy for the coming
-era — Pearson had just hired three Quebec stars including one
-Pierre Trudeau, whose entire career (Lessons 22–23) is the
-balcony answered at length.
-</details>
 
 ---
 
@@ -364,51 +265,6 @@ argument — provinces (Quebec above all) call it backdoor
 centralization, which is why programs so often arrive "with Quebec
 opt-out and compensation" (CPP/QPP the founding example). One
 funding trick, the entire architecture of Canadian social policy.
-</details>
-
----
-
-## Homework
-
-The flag debate looks absurd in hindsight — six months of
-parliamentary war over a design now universally beloved. Write a
-paragraph defending the *opponents* seriously (what were they
-actually defending? was anything actually lost?), then state the
-general rule this episode teaches about national symbols — and test
-your rule against one current symbol controversy anywhere in the
-world.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The serious defence: Diefenbaker's side wasn't defending a design
-but a lineage — the Red Ensign was the flag men died under at Vimy
-and Juno within living memory (Lesson 18's and 20's veterans were
-in their 40s–60s and sat in the House); replacing it read as the
-state declaring their sacrifice's emblem obsolete, and the
-replacement's very virtue — historylessness, chosen so no group's
-history would dominate — was precisely the loss: a symbol nobody
-had bled for, "designed by committee," seemed weightless. Something
-<em>was</em> lost: the explicit British connection as public
-identity — exactly what Pearson intended to shed and Quebec would
-never have saluted anyway; honesty requires saying the loss was
-real and chosen, borne mostly by one community (English-Canadian
-Britishness) for the projected comfort of others. The general
-rule: symbols draw their weight from either <em>inherited
-sacrifice</em> or <em>future consensus</em> — you can rarely have
-both, and switching between them always feels, to the inheritors,
-like theft; the new symbol's success depends on how fast new
-sacrifice/experience accrues to it (the maple leaf got Olympic
-podiums, backpacks, and two generations of citizens with no Red
-Ensign memory — it acquired weight in about 20 years). Tests
-available to the student: anthem-lyric changes, statue and
-building renamings, Australia's recurring flag debate, the Union
-Jack in Commonwealth flags — apply the rule: who inherited the
-old symbol's sacrifice, what future consensus is claimed, and
-what's the plan for weight-transfer? Where the answer is "none,"
-predict the fight.
 </details>
 
 ---

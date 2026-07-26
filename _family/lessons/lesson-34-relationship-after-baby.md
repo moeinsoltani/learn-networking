@@ -78,41 +78,26 @@ on the **same side against the problem** — not on opposite sides against each 
 > ("How are we doing? What do you need?") and a bit of grace go a long way. This is
 > temporary — the teamwork you build now lasts.
 
----
+### Where to start
 
-## Lab — Plan Together
+Start a small **weekly check-in** now, even before the baby arrives, so the habit
+already exists when you need it. Fifteen minutes, phones down: how are you
+actually doing, what needs changing this week, what went well.
 
-**Exercise 1 — spot the real issue.** One partner snaps: "You never do anything
-around here!" after a sleepless night. What's likely the *real* message underneath,
-and a better way to say it?
+Practise two specific skills in it. **Stating needs directly** — "I need two
+hours on Saturday" rather than hoping to be noticed — because hinting has a very
+low success rate with a sleep-deprived audience. And **appreciating each other out
+loud**, specifically, because in the newborn months an enormous amount of work
+happens unseen.
 
-**Your answer:**
+Agree a shared reminder for the hard days, something short enough to actually say:
+**"same team, this is a phase."** Most of what strains a relationship in the first
+year is temporary and structural rather than personal, and remembering that in the
+moment is surprisingly hard.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The surface accusation usually masks "<strong>I feel overwhelmed, unseen, and
-unsupported, and I need help and acknowledgment.</strong>" A better version: "I'm
-running on empty and I feel like I'm carrying most of this — can we look at how we're
-splitting things, and can you take X tonight?" Full marks for reading conflict as an
-unmet-need signal and reframing it as a direct, non-blaming request. (And the
-listener's job: hear the need, not just the words.)
-</details>
-
-**Exercise 2 — the weekly check-in.** Design a short, regular couple check-in for
-the newborn months. What would you ask, and why keep it small?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-A good check-in is brief and kind, e.g. weekly (even 10 minutes): "How are you doing,
-really?", "What felt hard this week?", "What do you need more/less of from me?", "One
-thing I appreciated about you this week is…". Keep it <strong>small</strong> because
-exhausted new parents can't manage long summits — a short, regular ritual keeps you
-connected and catches resentment early, before it builds. Consistency beats intensity.
-</details>
+And sort out the practical thing couples routinely forget: your plan for
+**contraception after birth**. Fertility can return sooner than people expect,
+including while breastfeeding.
 
 ---
 
@@ -170,26 +155,6 @@ exhaustion and hormones; keep <strong>emotional intimacy</strong> going and let
 physical intimacy return without pressure. Don't forget: <strong>breastfeeding is not
 reliable contraception</strong> — arrange birth control if you're not ready for
 another pregnancy.
-</details>
-
----
-
-## Homework
-
-Start a small **weekly check-in** ritual now (even before the baby), practise stating
-needs directly and appreciating each other out loud, and agree a shared reminder for
-the hard days: **"same team, this is a phase."** Sort out your plan for contraception
-after birth too.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is a lightweight, sustainable connection habit plus a shared mindset ("same
-team; temporary phase") and a practical contraception plan. Couples who keep talking,
-share fairly, repair after fights, and protect small moments of closeness weather the
-newborn storm best — and the teamwork you build now outlasts the exhaustion.
 </details>
 
 ---

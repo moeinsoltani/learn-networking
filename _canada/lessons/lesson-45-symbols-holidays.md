@@ -30,39 +30,19 @@ and by now you've *earned* Canada's: every flag, animal, and
 holiday below is a lesson you've already taken, wearing ceremonial
 dress. This lesson is the decoder ring, assembled.
 
-```
-   THE NATIONAL FURNITURE, WITH BUILD DATES
+Almost every Canadian symbol has a build date, and most of them are more
+recent than newcomers expect. The flag is younger than the Beatles.
 
-   the flag          1965 (L.21 — the Great Debate;
-                     Stanley's design, RMC's colours)
-   O CANADA          music 1880 (Calixa Lavallée, for
-                     Quebec's St-Jean!); English lyrics
-                     evolved — "in all of us command"
-                     2018 (L.26's private member's bill);
-                     anthem status only 1980. The French
-                     and English lyrics are DIFFERENT
-                     POEMS, not translations.
-   the beaver        official 1975 — but on the first
-                     postage stamp 1851: the fur trade's
-                     engine (L.09) as national animal —
-                     "the only nation with a rodent
-                     rampant," worn proudly
-   the maple leaf    on coins/badges since the 1800s;
-                     red maple on the flag; the LEAF
-                     preceded the country
-   the loon/loonie   1987 (L.40); the toonie 1996
-   the Mounties      1873 (L.14) — serge, Musical Ride,
-                     Dudley Do-Right: symbol vs L.33's
-                     institution — hold both
-   lacrosse+hockey   joint national sports (1994 Act:
-                     lacrosse summer — L.06's gift —
-                     hockey winter)
-   "eh" / "sorry"    linguistics below; several
-                     provinces passed Apology Acts so
-                     "sorry" can't be used against you
-                     in court — the most Canadian
-                     statute in existence
-```
+| Symbol | Origin, and what's worth knowing |
+|---|---|
+| **The flag** | 1965, after the Great Flag Debate (Lesson 21) — George Stanley's design, using the Royal Military College's colours |
+| **"O Canada"** | Music written in 1880 by Calixa Lavallée — for Quebec's *Saint-Jean-Baptiste* celebrations. The English lyrics kept evolving ("in all of us command" arrived in 2018, via a private member's bill — Lesson 26), and it only became the *official* anthem in **1980**. Note that the French and English lyrics are **different poems**, not translations of each other |
+| **The beaver** | Official only since 1975 — but on Canada's first postage stamp in 1851. The engine of the fur trade (Lesson 09) as national animal: the only nation with a rodent rampant, worn proudly |
+| **The maple leaf** | On coins and badges since the 1800s; the red maple on the flag. The leaf is older than the country |
+| **The loonie and toonie** | 1987 and 1996 respectively (Lesson 40) |
+| **The Mounties** | Founded 1873 (Lesson 14) — the red serge, the Musical Ride, Dudley Do-Right. Hold this one alongside Lesson 33's actual institution; the symbol and the police force are both real |
+| **Lacrosse and hockey** | Joint national sports by a 1994 Act: lacrosse in summer — Lesson 06's gift from Indigenous nations — and hockey in winter |
+| **"Eh" and "sorry"** | The linguistics are below, but note this: several provinces have passed **Apology Acts** so that saying "sorry" cannot be used as an admission of liability in court. It may be the most Canadian statute in existence |
 
 Plus the calendar — the year's civic liturgy — where the course's
 whole arc replays annually: Canada Day (L.13), St-Jean (L.22),
@@ -79,7 +59,7 @@ verdict). Reading the calendar *is* reading the country.
 - **Canada Day (July 1):** Confederation 1867 (L.13) — renamed
   from Dominion Day only in 1982 (patriation year — the
   rebrand was the point); in Newfoundland, Memorial Day's
-  morning precedes it (L.18's homework — the asymmetric
+  morning precedes it (L.18 — the asymmetric
   calendar's flagship case).
 - **Saint-Jean-Baptiste (June 24, Quebec's Fête nationale):**
   the older nationalism's day (1834 origins) — in Quebec it
@@ -143,8 +123,7 @@ schools). The literate Canadian position isn't choosing
 between the postcard and the file — it's *holding both*: the
 Musical Ride is genuinely beloved; the history is genuinely
 carried; the institution is genuinely contested; symbols
-mature by acquiring their footnotes (the flag did — L.21's
-homework rule — and the Mountie is mid-process, the
+mature by acquiring their footnotes (the flag did — L.21 rule — and the Mountie is mid-process, the
 serge increasingly shared with Indigenous officers,
 turban-wearing since 1990, L.43).
 
@@ -179,127 +158,6 @@ thesis, returned as culture.
 > however badly: the attempt is the citizenship. None of
 > this is required (L.32's short duty list); all of it is
 > noticed, warmly.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — citizenship rapid round (symbols edition).**
-From memory: (1) flag's adoption year and designer's colours'
-origin; (2) why O Canada's French and English lyrics differ;
-(3) the beaver's route to national animal; (4) the two
-national sports and their logic; (5) what happens Sept 30 and
-its Call to Action number; (6) Victoria Day's Quebec
-counter-holiday and its lesson-number in this course;
-(7) what an Apology Act does; (8) Dominion Day became Canada
-Day in which year, and why is the year eloquent?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(1) 1965; George Stanley's design, red-white-red from the
-Royal Military College ribbon (L.21). (2) They're separate
-poems sharing Lavallée's 1880 tune — the French (written for
-Saint-Jean-Baptiste, unchanged, sword-and-cross Catholic
-nationalism) predates the English (multiply revised, "in all
-of us command" since 2018): two founding peoples, one melody,
-different words — working as designed. (3) Fur-trade engine
-(L.09) → first postage stamp (1851) → official national
-animal 1975: the economy that mapped the country, honoured
-as fauna. (4) Lacrosse (summer — Indigenous origin, L.06)
-and hockey (winter), jointly by the 1994 National Sports
-Act. (5) National Day for Truth and Reconciliation / Orange
-Shirt Day — Call to Action #80 (L.24). (6) National
-Patriots' Day, honouring the 1837 rebels — Lesson 12: the
-same Monday celebrates the Crown in one province and its
-armed opponents in another. (7) Makes apologies inadmissible
-as admissions of liability — legal armour for the national
-tic. (8) 1982 — patriation year: the constitutional
-homecoming and the holiday rebrand were one gesture
-(L.23), retiring "Dominion" (L.13's euphemism) exactly when
-Britain's last legal thread was cut.
-</details>
-
-**Exercise 2 — plan "the most Canadian day possible."** Design
-the itinerary, justifying each element with a lesson number —
-then annotate which choices a Québécois friend and an
-Anishinaabe friend might make differently, and why that
-annotation is the real exercise.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model itinerary: dawn double-double at Timmies (folk
-religion, this lesson) → skate on the canal or local rink
-(the winter competence, national sport L.45/46) → afternoon
-at a citizenship ceremony as a witness (L.32 — the country's
-best free theatre) → grocery run reading both sides of every
-package (L.42's constitutional cereal) → Hockey Night in
-Canada with neighbours, anthem in both languages (L.46
-preview) → close with the CBC news and a sorry to the dog
-you stepped past (Apology Act protection applies).
-Annotations, the real exercise: the Québécois friend swaps
-Hockey Night's English feed for TVA or RDS, the Timmies
-possibly for a proper café (Montreal patriotism), the
-anthem's English verse for none, and July 1 for June 24 —
-same country, different liturgy (L.22/42's two
-unilingualisms, lived); the Anishinaabe friend might open
-the day with a land acknowledgement that's a family fact
-rather than a meeting formality (L.44), read the Mountie
-imagery and even the anthem ("our home ON native land" is
-the standing lyric-edit, L.44's Live-Indian test applied to
-this very lesson) through L.17's file, and observe that
-"most Canadian" itself is the contested category — their
-version might centre June 21's solstice day instead. Why
-the annotation matters: the itinerary proves the symbols
-work; the annotations prove no single itinerary is THE
-country — which is Lesson 47's thesis, arriving early: the
-shared day isn't the same day, and Canada is the agreement
-to hold the calendar jointly anyway.
-</details>
-
-**Exercise 3 — the symbol-audit method, exported.** Take any
-one symbol from this lesson and write its full audit in the
-course's format: build date; what it compressed; what it
-omits; its footnotes acquired since; verdict on current
-health. (Model provided for the beaver — pick a different
-one.)
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Beaver model (yours should differ): Build: informal from
-1670s (HBC coat of arms), stamp 1851, statutory 1975.
-Compressed: the fur trade — the partnership economy that
-mapped half a continent (L.09), industriousness-as-virtue,
-the improbable national origin (a hat). Omits: whose labour
-and whose lands the trade ran on (the trapline's side of
-L.09's supply chain); that the beaver was nearly
-exterminated FOR the symbol's industry — the national
-animal as survivor of the national business. Footnotes
-acquired: conservation recovery (the comeback beaver as
-accidental environmental icon); engineering rehabilitation
-(dam-builder as ecosystem hero — science upgraded the
-rodent); perennial mockery-and-defence cycles (the "rodent
-rampant" pride). Health verdict: robust — self-deprecating
-enough to be safe, historied enough to be real, and
-genuinely earned (no committee invented it; the economy
-did). Strong non-beaver audits typically pick: the Mountie
-(the hardest — symbol/institution split, L.33's file, the
-serge's licensing absurdities, the turban and Indigenous-
-officer footnotes as maturation); O Canada (two-poems
-structure, lyric politics, the standing Indigenous edit);
-or the flag itself (L.21's homework, now with forty more
-years of backpacks and podiums as evidence for the
-weight-transfer rule). Full marks = all five audit fields
-+ one honest omission the postcard version hides.
-</details>
 
 ---
 
@@ -391,58 +249,6 @@ confers authenticity, but only maintenance of the
 institution behind the symbol confers honour — the
 distinction between the flag's debate (settled by time)
 and the serge's (settled only by reform).
-</details>
-
----
-
-## Homework
-
-Design a NEW Canadian symbol or holiday — seriously. Identify
-a lesson from this course whose content the current furniture
-under-represents (candidates: the fur-trade partnership era,
-the Underground Railroad's terminus, the points-system
-pivot, the Charter's birthday — April 17 passes unmarked!,
-the volunteer economy, the internal-migration Newfoundland
-diaspora...). Specify: the symbol/date, what it compresses,
-its ritual (what do people DO), the constituencies who'd
-object, and its fifty-year weight-transfer plan per
-Lesson 21's homework rule. One page maximum.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model (Charter Day, April 17): Compresses — 1982's
-patriation and the rights architecture (L.23/31), the one
-national artifact polling beloved in every province
-INCLUDING Quebec (the paradox is the feature: celebrate the
-document, and the missing-signature conversation happens
-annually, honestly, forever — institutionalized
-renegotiation, the country's actual method, L.23). Ritual:
-citizenship ceremonies scheduled nationally that day
-(L.32's theatre at scale); schools run an Oakes-test moot
-on a live case (L.31's lab as pedagogy); the year's
-landmark ruling read aloud the way other nations read
-founding declarations. Objectors, honestly mapped: Quebec's
-government (celebrating 1982 is celebrating the Long
-Knives — mitigation: pair the day with formal annual
-acknowledgment of the unsigned status, making the wound
-part of the liturgy rather than papered over — the L.18
-Newfoundland model of asymmetric observance); s.33-using
-premiers (the day indicts the override's normalization —
-which is the point); and constitutional-fatigue Canadians
-(mitigation: no long weekend claimed — an observance, not
-a holiday, until earned). Weight-transfer plan: seed with
-the ceremonies (emotion supply, L.32), let each year's
-cases accrete meaning (the anthem method: repetition +
-stakes), expect indifference for a decade, statutory
-status when the first generation raised with it reaches
-Parliament (~2050 — the flag took twenty years, L.21;
-budget thirty for a document). Any proposal earns full
-marks with all five fields and one honest objector it
-does NOT try to mollify — symbols that offend no one
-carry nothing, which is the lesson's final teaching.
 </details>
 
 ---

@@ -79,43 +79,28 @@ safely.
 > the baby eats. Focus on iron-rich foods, exposure to lots of tastes and textures
 > (including allergens, early and often), and safe, supervised, relaxed mealtimes.
 
----
+### Where to start
 
-## Lab — Plan Together
+When the time approaches, watch for the **readiness signs** rather than the
+calendar: sitting with good head control, losing the reflex that pushes food back
+out, and showing real interest in what you are eating. Around six months is the
+guide, not the trigger.
 
-**Exercise 1 — ready or not?** Which show a baby is ready for solids: (a) can sit
-with support and hold the head steady; (b) is exactly 4 months old; (c) watches
-your food with interest and reaches for it; (d) still pushes most food out with the
-tongue?
+Plan a few **iron-rich first foods**, because iron is the actual nutritional
+reason for starting when you do — the stores a baby is born with run low around
+this point.
 
-**Your answer:**
+Make a simple plan to **introduce common allergens early and safely**, one at a
+time — this is the reversal of the old advice, and it is well supported. If there
+is a family history of allergy or eczema, check the approach with your provider
+first.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Ready signs:</strong> (a) sitting with support + steady head, and (c)
-interest in food/reaching. <strong>Not readiness on its own:</strong> (b) age alone —
-aim for ~6 months and look for the signs, not just a birthday. <strong>Not ready:</strong>
-(d) a strong <strong>tongue-thrust reflex</strong> (pushing food out) suggests waiting.
-Readiness = the signs together, around 6 months.
-</details>
+And if you have not yet, find an **infant first-aid and choking course** (Lesson
+39). Starting solids is the natural moment to have that knowledge already in
+place rather than intending to get it.
 
-**Exercise 2 — safe first foods.** Sort into "good early food" vs "avoid/modify":
-iron-fortified cereal; whole grapes; smooth peanut butter (thinned); honey; soft
-cooked veg sticks; a spoon of added salt.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Good early foods:</strong> iron-fortified cereal (iron!), smooth thinned
-<strong>peanut butter</strong> (introduce allergens early), soft cooked veg sticks.
-<strong>Avoid/modify:</strong> <strong>whole grapes</strong> (choking hazard — cut
-small), <strong>honey</strong> (never before 12 months — botulism risk), and
-<strong>added salt</strong> (don't add salt or sugar). The themes: iron-rich foods,
-early allergen exposure done safely, and avoiding hazards, honey, and salt/sugar.
-</details>
+The whole recipe, in one line: relaxed, exploratory, iron-focused,
+allergen-inclusive, and supervised.
 
 ---
 
@@ -172,27 +157,6 @@ safely.
 hazards</strong> like whole nuts and whole grapes (cut/modify; always supervise);
 and <strong>added salt or sugar</strong> (not suitable for babies). Also no
 <strong>cow's milk as the main drink</strong> before 12 months.
-</details>
-
----
-
-## Homework
-
-When the time nears, note your baby's **readiness signs**, plan a few **iron-rich
-first foods**, and make a simple plan to **introduce allergens early and safely**
-(checking with your provider if there's an allergy/eczema history). Book or find an
-**infant first-aid/choking course** if you haven't (Lesson 39).
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-A strong plan waits for readiness (not just 6 months on the calendar), starts with
-iron-rich foods, includes early, regular allergen exposure done safely, avoids honey/
-salt/sugar and choking hazards, and pairs mealtimes with supervision and known infant
-first aid. Relaxed, exploratory, iron-focused, allergen-inclusive, and safe — that's
-the whole recipe.
 </details>
 
 ---

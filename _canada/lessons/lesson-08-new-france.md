@@ -37,20 +37,19 @@ you referendums and language laws, this lesson is where the story starts.
 
 The mental model: **New France was two colonies wearing one name.**
 
-```
-   THE TWO NEW FRANCES
+The first was **the ribbon**: an actual farm colony strung along the
+St. Lawrence River, anchored by Quebec (founded 1608), Trois-Rivières (1634),
+and Montreal (1642). By 1760 it held about 70,000 people living in parishes
+and seigneuries — a settled, rooted, recognizably European society.
 
-   THE RIBBON                        THE NETWORK
-   ──────────                        ───────────
-   farm colony on the St.           fur-trade & alliance web
-   Lawrence: Quebec (1608),         spanning half a continent:
-   Trois-Rivières (1634),           Great Lakes, Mississippi,
-   Montreal (1642)                  prairie edge
-   ~70,000 people by 1760           a few thousand traders,
-   habitants, parishes,             soldiers & missionaries
-   seigneuries                      embedded in INDIGENOUS
-                                    country, on Indigenous terms
-```
+The second was **the network**: a fur-trade and alliance web reaching across
+half a continent, from the Great Lakes down the Mississippi to the edge of the
+prairies. It consisted of a few thousand traders, soldiers, and missionaries
+scattered through forts and missions — all of them living inside Indigenous
+country, on Indigenous terms.
+
+Keep the two apart in your head. Almost everything confusing about New France
+comes from mistaking the second for the first.
 
 ![Map of North America around 1750 showing New France stretching from Quebec through the Great Lakes down the Mississippi to Louisiana, beside the smaller British colonies on the Atlantic coast](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nouvelle-France_map-en.svg/960px-Nouvelle-France_map-en.svg.png)
 
@@ -65,6 +64,16 @@ not control: alliances with Indigenous nations who remained the real powers
 of the interior. Britain's colonies to the south held over a million people
 by the 1750s. That 20-to-1 imbalance is the whole military story of
 Lesson 10, set up a century in advance.
+
+{: .note }
+> **How to read a colonial map**
+> The colour on a map like this one shows *claims addressed to other
+> Europeans* — France telling Britain and Spain "this is ours" — not control
+> of territory. Beyond the St. Lawrence ribbon, the interior's real borders
+> were between Indigenous nations, and the French knew it perfectly well:
+> their power out there rested on diplomacy, gift ceremonies, and kinship
+> through marriage, not on garrisons. Apply this rule to every colonial-era
+> map you ever see.
 
 ---
 
@@ -107,6 +116,33 @@ achievements on Canadian soil.
   They, and the marriages they made in Indigenous country, are the French
   half of the Métis story (Lessons 09, 15).
 
+### What the seigneurial contract actually said
+
+It is worth looking at the deal itself, because the terms predict the kind of
+society that grew out of them. A habitant typically owed the seigneur the
+*cens et rentes* (small fixed annual dues), the obligation to grind grain at
+the seigneur's mill in exchange for a cut of the flour, and the **corvée** — a
+few days of labour a year. In return the seigneur owed real things back: a
+working mill, a court to settle disputes, and land made available to
+newcomers.
+
+Compare that in two directions. Against **French serfdom**, the habitant comes
+off enormously better: he was personally free, could move, marry, hunt, fish,
+and sell the improvements he made to his land, and his dues were light and
+fixed rather than arbitrary. Against **freehold farming in the British
+colonies** to the south, he comes off worse: he did not own his land outright,
+and he owed a symbolic subordination that no New England farmer owed anyone.
+
+What this contract predicts is exactly what appeared: a society of stable,
+rooted, largely self-sufficient farm families organized around the parish and
+the river — communal rather than entrepreneurial, and considerably more
+deferential to the Church than to the seigneur. There was no land-speculating
+yeoman democracy here, and no aristocracy worth the name either. Historians
+still argue about how genuinely "feudal" the system was; the safe summary is
+that it produced North America's most European-looking countryside worked by
+North America's least oppressed peasants. It was not fully abolished until
+1854, and you can still see its long, thin lots from any flight over Quebec.
+
 ### Acadia — the other French people
 
 On the Bay of Fundy, a separate French population — the **Acadians** — built
@@ -127,82 +163,6 @@ starkest lesson in what empires do to inconvenient peoples.
 > parishes, conquered in 1759 (Lesson 10), and never assimilated. When
 > Quebec politics seems intense about language and survival, it is running
 > on four centuries of memory — *la survivance*.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — the five-sentence explainer.** A friend asks: "Why is there a
-giant French-speaking society in North America?" Five sentences, for someone
-who knows nothing.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "France planted a colony on the St. Lawrence River starting in 1608,
-built around the fur trade and Catholic farm parishes. It only ever received
-about ten thousand settlers, but they had large families for three and a half
-centuries — so today's roughly nine million Quebecers descend mostly from
-that small founding group. Britain conquered the colony in 1759, but rather
-than assimilate 70,000 French Catholics, it cut a deal letting them keep
-their language, religion, and civil law. That community spent two centuries
-defending those things — they call it <em>la survivance</em> — and is now the
-province of Quebec, plus French-speaking minorities like the Acadians in New
-Brunswick. So: a small French seed, a British bargain instead of an erasure,
-and a very long memory." (Five sentences, three phases of the course —
-that's the shape of a good explainer.)
-</details>
-
-**Exercise 2 — source work.** A seigneurial grant typically obliged the
-habitant to: pay the *cens et rentes* (small annual dues), grind grain at
-the seigneur's mill (for a cut), and give a few days' labour (*corvée*); the
-seigneur owed a mill, a court, and land to newcomers. Compare this to (a)
-French feudal serfdom and (b) freehold farming in the British colonies. What
-kind of society does this contract predict?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Against serfdom: the habitant was personally free — could move, marry, sell
-his improvements, hunt and fish; dues were light and fixed, and the
-seigneur owed real obligations back. Against New England freehold: the
-habitant didn't own outright and owed symbolic subordination — no
-land-speculating yeoman democracy here. Prediction: a society of stable,
-rooted, self-sufficient farm families organized around parish and river,
-neither aristocratic nor commercial — communal rather than entrepreneurial,
-deferential to Church more than to seigneur, and strikingly persistent (the
-system wasn't fully abolished until 1854, and the long-lot landscape
-persists today). Historians debate how "feudal" it really was; the safe,
-correct claim is that it produced <em>North America's most European-looking
-countryside with North America's least oppressed peasants</em>.
-</details>
-
-**Exercise 3 — scenario.** Your book club reads a novel calling New France
-"a French empire that ruled half of North America." Give the two-sided
-correction: in what sense true on the map, false on the ground?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-True on the map: French claims and posts ran from the Gulf of St. Lawrence
-through the Great Lakes down the Mississippi to New Orleans — cartographically
-dwarfing the British seaboard colonies. False on the ground: beyond the
-St. Lawrence ribbon (~70,000 people by 1760), the "empire" was a string of
-trading posts and missions embedded in country controlled by Indigenous
-nations — the Haudenosaunee, Anishinaabe, Wendat and others — whose alliance,
-tolerance, and trade made the French presence possible at all. The French
-knew it: their power in the interior was diplomacy (the Great Peace of 1701,
-annual gift ceremonies, kinship through marriage), not garrisons. Rule of
-thumb for reading any colonial-era map: colour shows <em>claims addressed to
-other Europeans</em>, not control of territory — the interior's real borders
-were between Indigenous nations.
-</details>
 
 ---
 
@@ -274,42 +234,6 @@ the Cajuns of Louisiana ("Cajun" is "Acadian" worn smooth), and the Acadian
 communities that returned/remained in the Maritimes, whose weight is why New
 Brunswick is Canada's only officially bilingual province (Lesson 42), with
 its own Acadian flag, anthem, and August 15 national day.
-</details>
-
----
-
-## Homework
-
-The Filles du Roi and the founder effect: roughly 800 women, ~10,000 total
-founders, ~9 million descendants. Write a paragraph on what a small founder
-population means for a society's *cohesion* and *self-image* — then connect
-it to something you've observed anywhere (a company, a diaspora, an
-open-source community) where early founders' culture propagated far beyond
-their numbers.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Key ideas a strong answer hits: a small founder group means high internal
-relatedness — genealogically (most old-stock Quebecers can trace to the same
-few thousand ancestors; genealogy is a genuinely popular pursuit), and
-culturally: one dialect, one religion, one legal tradition propagated with
-little dilution, producing the unusually strong "nous" (we) that Quebec
-politics still runs on. It also concentrates myth: founding families' names
-(Tremblay, Gagnon, Roy) blanket the phone book, and the founding story
-belongs to everyone at once — powerful for solidarity, tricky for
-newcomers trying to join the "nous" (a live tension in Lesson 43's
-immigration debates). The transfer to other domains is direct: a company's
-first twenty hires set culture more than the next two thousand (values
-propagate through onboarding like dialect through parishes); an open-source
-project's early maintainers' norms — code review tone, governance — persist
-for decades; diasporas preserve the founders' regional accent or cuisine
-long after the homeland moved on ("cultural founder effect"). The general
-law: <em>culture compounds from initial conditions</em> — which is why both
-Quebec and your favourite codebase are best explained by their first
-generation.
 </details>
 
 ---

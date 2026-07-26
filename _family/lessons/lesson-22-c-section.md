@@ -73,43 +73,24 @@ pregnancy — a conversation for later, with your provider.
 > caring for a newborn — that deserves respect and support, not a sense of falling
 > short. You birthed your baby.
 
----
+### Where to start
 
-## Lab — Plan Together
+Read through **what actually happens in a C-section** together, even if you have
+no reason to expect one. Roughly a quarter to a third of births in many countries
+are Caesarean, a good number of them unplanned, and the difference between "we
+understand this" and "this is happening and I don't know what any of it means" is
+substantial.
 
-**Exercise 1 — planned or emergency?** For each reason, say whether it typically
-leads to a *planned* or *emergency* C-section: (a) the baby is breech at term and
-can't be turned; (b) the baby shows signs of distress during labour; (c) placenta
-previa found on a scan; (d) labour stops progressing after many hours.
+Fix the key facts in advance: the mother is usually **awake**, the partner can
+normally be **present**, the baby is typically born within minutes, skin-to-skin
+is often possible in theatre or very soon after, and recovery is abdominal
+surgery recovery — it needs rest and real help at home.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Planned</strong> — breech that can't be turned is usually scheduled.
-(b) <strong>Emergency</strong> — fetal distress in labour. (c) <strong>Planned</strong>
-— placenta previa is known from a scan in advance. (d) <strong>Emergency
-(unplanned)</strong> — failure to progress is decided during labour. Remember
-"emergency" often means "decided now," not disaster.
-</details>
-
-**Exercise 2 — recovery do's and don'ts.** List three things that help C-section
-recovery and one warning sign to report.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Help recovery:</strong> take pain relief as advised; move gently and
-gradually (walking helps); <strong>avoid heavy lifting</strong> (nothing heavier
-than the baby) and strenuous activity for weeks; accept help with chores and the
-baby; care for the incision. <strong>Report:</strong> signs of <strong>infection</strong>
-at the incision — increasing redness/swelling, pus, or fever (also heavy bleeding
-or severe pain). The theme: it's real surgery — rest, accept help, and watch the
-wound.
-</details>
+And settle the framing now, calmly, while it is hypothetical: **a C-section is a
+birth, not a failure.** Agreeing that in advance is a real protection for the
+mother's feelings if the birth takes that turn. If a planned Caesarean is a
+possibility in your case, write down your questions about the procedure and the
+recovery to take to your provider.
 
 ---
 
@@ -163,27 +144,6 @@ Because it's <strong>major abdominal surgery</strong> — recovery is longer, ne
 pain relief, gradual movement, incision care, and <strong>avoiding heavy lifting</strong>
 for weeks. A warning sign to report: signs of <strong>infection</strong> at the
 incision (increasing redness/swelling, pus, fever) — or heavy bleeding/severe pain.
-</details>
-
----
-
-## Homework
-
-Read through **what happens in a C-section** together so that *if* one is needed —
-planned or in the moment — it won't feel frightening or like a failure. If there's
-any chance of a planned C-section in your case, write down questions to ask your
-provider about the procedure and recovery.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The goal is calm familiarity: you both understand that the mother is usually awake,
-the partner can be present, the baby arrives within minutes, skin-to-skin is often
-possible, and recovery needs rest and help. Framing a C-section as a valid birth —
-not a failure — in advance protects the mother's feelings if the birth takes that
-turn.
 </details>
 
 ---

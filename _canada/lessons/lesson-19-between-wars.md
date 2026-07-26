@@ -37,24 +37,15 @@ Depression** than almost any developed country — an experience that
 created the political parties and policy instincts (including the seed of
 medicare) that still structure Canadian politics.
 
-```
-   THE INTERWAR SPRINGS AND THE POLITICS THEY WOUND
+Four things happen in these twenty years, and each one winds a spring that
+releases later in the century.
 
-   1919  Winnipeg General Strike ──► labour politics; "foreign
-                                     agitator" panic; J.S. Woodsworth
-   1929  Persons Case ────────────► women in the Senate; the
-                                     "living tree" constitution
-   1931  Statute of Westminster ──► legislative independence
-                                     (constitution left in Britain
-                                     "for safekeeping" → Lesson 23)
-   1929–39  the Depression ───────► Prairie catastrophe (drought +
-                                     wheat collapse); relief camps;
-                                     On-to-Ottawa Trek (1935);
-                                     NEW PARTIES: CCF (→ NDP,
-                                     → medicare), Social Credit;
-                                     Bank of Canada (1935);
-                                     Rowell–Sirois → equalization logic
-```
+| Event | What it set in motion |
+|---|---|
+| **1919 — Winnipeg General Strike** | Labour politics as a permanent force, a lasting "foreign agitator" panic, and the career of J.S. Woodsworth |
+| **1929 — the Persons Case** | Women legally "persons," and therefore eligible for the Senate; and the "living tree" doctrine that lets the constitution grow |
+| **1931 — Statute of Westminster** | Legislative independence from Britain — with the constitution itself left in London "for safekeeping" (Lesson 23) |
+| **1929–39 — the Depression** | A Prairie catastrophe of drought and collapsed wheat prices; relief camps and the On-to-Ottawa Trek (1935); brand-new parties — the CCF, ancestor of the NDP and of medicare, and Social Credit; the Bank of Canada (1935); and the Rowell–Sirois inquiry, whose logic becomes equalization |
 
 The mental model: the interwar years are **Canada's independence and its
 welfare state both being conceived** — the first by statute, the second
@@ -175,101 +166,6 @@ What the misery built:
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — reconstruct, then demolish.** Reconstruct the strongest
-version of the government's 1928 argument that "persons" in s.24
-excluded women. Then demolish it the way Sankey did — and state what
-interpretive rule replaced it.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The government's best case: statutory language takes its meaning from
-the enacting Parliament's intent; in 1867 no woman in the Empire could
-vote, hold office, or (mostly) own property in marriage — the framers
-who wrote "qualified persons" indisputably pictured men, as every
-usage of the era confirms; courts apply law, they don't update it —
-if Canada wants women senators, s.24 can be amended by the proper
-(political) route. It is not a stupid argument; it is originalism,
-competently stated, and the Supreme Court accepted it. Sankey's
-demolition: the premise mistakes what a constitution <em>is</em> — not
-an ordinary statute frozen at enactment but "a living tree capable of
-growth and expansion within its natural limits," planted to serve a
-country across centuries; "persons" is a general word, ambiguity in a
-constitution resolves toward inclusion, and reading 1867's social
-assumptions into it forever would make the founding generation's
-blind spots constitutionally permanent — "a relic of days more
-barbarous than ours." Replaced rule: progressive (purposive)
-interpretation — Canadian courts read constitutional text in light of
-its purpose and evolving context, the doctrine that later let
-"criminal law" cover securities fraud, s.91's peace-order-good-
-government cover aeronautics, and the Charter grow into cases its
-drafters never imagined (Lesson 31). Every modern Canadian rights
-decision stands on this 1929 hat-tip — which, savour it, was
-delivered by five British lords correcting Canada's own top court.
-</details>
-
-**Exercise 2 — photo analysis.** Two famous images: (a) Bloody
-Saturday, 1919 — the tipped, burning streetcar on Main Street ringed
-by crowds and Mounties; (b) a 1935 dust-bowl photo — a Saskatchewan
-farmyard, machinery half-buried in drifted soil, sky brown at noon.
-For each: what does the image argue, and what does it conveniently
-crop out?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) The streetcar argues chaos — strike as riot, justifying the
-charge; it became the establishment's exhibit A. Cropped out: five
-preceding weeks in which the strike committee ran essential services
-peacefully (the famous "permitted by authority of strike committee"
-placards on bread wagons); that the streetcar was run by strike-
-breakers as a provocation parade; and that the day's two deaths were
-strikers shot by police, not victims of strikers. The image
-criminalizes the losing side — read it as the Citizens' Committee's
-closing argument, not a neutral record. (b) The dust photo argues
-act-of-God — nature burying human effort, no villain in frame.
-Cropped out: policy — the Palliser Triangle had been marketed
-(Lesson 16's posters) and wheat-monocultured against agronomic
-warnings; tariff-and-debt structures (Lesson 14's National Policy)
-that kept farmers leveraged; and Ottawa's relief system whose
-stinginess turned weather into destitution. Nature made the drought;
-policy made the disaster. Method takeaway, again: iconic images are
-arguments with the context amputated — the historian's job is
-reattaching the limb.
-</details>
-
-**Exercise 3 — scenario.** A colleague says: "1931, Statute of
-Westminster, Canada's independent — so why did your constitution live
-in London until 1982? Britain wouldn't give it back?" Correct the
-record in four sentences, assigning the fault precisely.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Britain was trying to hand it over — the hold-up was entirely
-Canadian. The Statute of Westminster made Canada's Parliament fully
-sovereign, but amending the BNA Act required a formula for who
-consents to changes — Ottawa alone? All provinces? Some weighted mix?
-— and the federal and provincial governments could not agree, so
-Canada itself asked Britain to keep custody until they sorted it out.
-'Until' turned out to be fifty-one years of failed conferences,
-because the formula question was really the Quebec question — what
-weight a province speaking for one of the two founding peoples should
-hold over constitutional change. When patriation finally came in 1982
-it came with exactly that wound exposed: a formula adopted over
-Quebec's objection — which is Lesson 23's story."
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -347,48 +243,6 @@ the 1960s (Lesson 21) — making Canada's signature social program a
 direct Depression descendant. (Also creditable: the Bank of Canada,
 unemployment insurance, and the Rowell–Sirois logic that became
 equalization.)
-</details>
-
----
-
-## Homework
-
-"Ideas enter with the loser and get implemented by the winner" — the
-note on Bennett claimed this as a Canadian pattern. Test it: find two
-more instances in this course so far or in your own knowledge of any
-country's politics (Canadian bonus examples to research: the CCF's
-platform vs. Liberal governments 1945–1970; Reform's platform vs.
-2000s Conservatives), and write a paragraph on *why* the pattern
-recurs — what makes losing parties good at ideas and winning parties
-good at stealing them?
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Canadian instances: nearly the whole postwar welfare state was CCF/NDP
-platform first — medicare (Douglas's Saskatchewan → Pearson's
-national plan), public pensions, unemployment insurance — implemented
-by Liberal governments that never lost a wink over the provenance
-("Liberals campaign from the left, govern from the centre, and
-photocopy from the NDP" is an old Ottawa joke); Reform's 1990s
-platform (balanced budgets, Senate reform demands, GST politics,
-democratic accountability) furnished the 2000s Conservative agenda;
-Bennett's 1935 New Deal died with him and lived through King. Why the
-pattern recurs: losing parties are free — no coalition of interests
-to offend, no implementation risk, so they can source ideas from
-movements and emergencies at full strength; winning parties are
-solvent — they own the machinery and the median voter, so they adopt
-an idea precisely when its risk has been paid down by someone else's
-advocacy (the loser absorbs the "radical" tag, the winner harvests
-the "sensible" version). The system property: oppositions are R&D
-departments; governments are manufacturing. It's arguably a feature —
-ideas get stress-tested in opposition for a decade before
-implementation — with one dark twin: it means electoral defeat of an
-idea's champions tells you nothing about the idea's future. Modern
-transfer: watch any current third party's "unrealistic" plank and
-start the ten-year clock.
 </details>
 
 ---

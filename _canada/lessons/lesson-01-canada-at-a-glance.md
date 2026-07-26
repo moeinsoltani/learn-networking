@@ -18,6 +18,10 @@ parent: "Phase 1: The Land"
 > - **motto** — a short official phrase that expresses what a country stands for.
 > - **bilingual** (by-LING-gwul) — using two official languages (English and French).
 > - **Confederation** (kun-fed-er-AY-shun) — the 1867 joining of provinces that created Canada (Lesson 13).
+> - **metro** (short for *metropolitan area*) — a city plus all the suburbs and towns that function as one place. Calgary's metro is bigger than Edmonton's even though Edmonton is the capital.
+> - **potash** (POT-ash) — a mineral salt dug out of the ground and used to make fertilizer. Saskatchewan supplies a large share of the world's.
+> - **Klondike** (KLON-dyke) — the Yukon river region where gold was found in 1896, setting off a stampede of prospectors (Lesson 14).
+> - **equalization** (ee-kwuh-lye-ZAY-shun) — the federal payments that move money from richer provinces to poorer ones so all can offer similar public services (Lesson 35).
 > - Tricky place names: **Quebec** (kwih-BEK; in French, keh-BEK), **Saskatchewan** (sus-KATCH-eh-wun), **Regina** (rih-JY-nah), **Newfoundland** (NOO-fund-LAND — stress on first and last syllable), **Nunavut** (NOO-nah-voot), **Iqaluit** (ee-KAL-oo-it), **Ottawa** (OTT-ah-wah), **the Maritimes** (MARE-ih-timez).
 
 ## Concept
@@ -57,8 +61,26 @@ never just geography; it's always also a compromise.
 
 ### The thirteen pieces
 
-Memorize this table — it is the periodic table of Canadian civic life, and
-several citizenship-test questions come straight from it.
+The thirteen pieces are easiest to learn as a line running **west to east**,
+because that is the order Canadians themselves recite them in and the order
+the country was settled. Starting at the Pacific: British Columbia, then the
+three Prairie provinces — Alberta, Saskatchewan, Manitoba — then the two big
+central ones, Ontario and Quebec, then the four small Atlantic provinces —
+New Brunswick, Nova Scotia, Prince Edward Island, and Newfoundland and
+Labrador. The three territories sit on top of all of it, west to east: Yukon,
+Northwest Territories, Nunavut.
+
+One pattern is worth noticing before you read the details, because it catches
+almost everyone: **in half the provinces, the capital is not the biggest
+city.** Victoria is the capital of BC, not Vancouver. Edmonton, not Calgary.
+Regina, not Saskatoon. Quebec City, not Montreal. Fredericton, not Moncton or
+Saint John. And nationally, Ottawa, not Toronto. This is rarely an accident —
+capitals were often placed deliberately away from the commercial giant, to
+keep government and business at arm's length or to balance rival regions.
+
+With that shape in your head, the table below fills in the detail. Several
+citizenship-test questions come straight from it, so it is worth being able to
+produce the capitals from memory.
 
 | Province / Territory | Abbrev. | Capital | Worth knowing |
 |---|---|---|---|
@@ -108,74 +130,20 @@ Canadian policy that looks strange: railways as nation-building, equalization
 payments, regional grievance, the price of milk in Iqaluit — distance explains
 a remarkable share of it.
 
----
+### A quarrel about the motto
 
-## Lab — Source & Scenario
+The motto *A Mari usque ad Mare*, "from sea to sea," comes from Psalm 72, and
+it imagines Canada as a ribbon running from the Atlantic to the Pacific —
+which is exactly how the country was built, by a railway laid west (Lesson
+14). But there is a long-running argument that it should read "from sea to sea
+**to sea**," because the third sea, the Arctic Ocean, is missing. That third
+sea is 40% of Canada's territory, its longest coastline, and the homeland of
+the Inuit.
 
-> Work each exercise before revealing the model answer. The recall struggle is
-> where the learning happens.
-
-**Exercise 1 — the blank map.** Without looking at the table above, list all
-13 provinces and territories **west to east** (territories last), each with
-its capital. Then check yourself against the table.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-West to east: British Columbia (Victoria), Alberta (Edmonton), Saskatchewan
-(Regina), Manitoba (Winnipeg), Ontario (Toronto), Quebec (Quebec City), New
-Brunswick (Fredericton), Nova Scotia (Halifax), Prince Edward Island
-(Charlottetown), Newfoundland and Labrador (St. John's). Territories, west to
-east: Yukon (Whitehorse), Northwest Territories (Yellowknife), Nunavut
-(Iqaluit). The classic traps: Victoria not Vancouver, Edmonton not Calgary,
-Regina not Saskatoon, Fredericton not Moncton or Saint John, and — nationally —
-Ottawa, not Toronto. Notice the pattern in the traps: in half the provinces,
-the capital is <em>not</em> the largest city, usually for historical or
-deliberately political reasons.
-</details>
-
-**Exercise 2 — the scenario.** A colleague visiting from abroad says, "So
-you're headed to the capital — Toronto, right?" Write a warm two-sentence
-correction that gives the *why*, not just the fact.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Something like: "Close — Toronto's our biggest city, but the capital is
-actually Ottawa, a couple of hundred kilometres east, right on the border
-between English-speaking Ontario and French-speaking Quebec. It was picked in
-the 1850s partly as a compromise between the two language communities — which,
-you'll find, is the most Canadian reason possible for anything."
-<br><br>
-What makes this a good answer: it corrects without condescension, adds one
-memorable fact (the French–English compromise), and it's <em>true</em> — Queen
-Victoria's choice of Ottawa balanced Canada East and Canada West and moved the
-capital away from the vulnerable US border. A weaker answer just says
-"No, it's Ottawa," which is accurate but teaches nothing.
-</details>
-
-**Exercise 3 — reading the motto.** The coat of arms reads *A Mari usque ad
-Mare* — "from sea to sea" (Psalm 72). Some argue it should be "from sea to sea
-**to sea**." What's the argument, and what does the debate tell you?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The original motto imagines Canada as an Atlantic–Pacific ribbon — which is
-how the country was built (a railway from sea to sea) and how most Canadians
-still picture it. The "third sea" is the Arctic Ocean: adding it recognizes
-that Canada is also a <em>northern</em> country — 40% of its territory, its
-longest coastline, and the homeland of the Inuit. The debate is a miniature of
-a real national blind spot: the North is central to Canada's map and
-self-image ("the True North strong and free") yet marginal to where power and
-population sit. Lesson 03 takes this up properly.
-</details>
+The quarrel is small but it is a perfect miniature of a real national blind
+spot: the North is central to how Canada pictures itself — the anthem calls it
+"the True North strong and free" — and yet marginal to where the people, the
+money, and the political power actually sit. Lesson 03 takes this up properly.
 
 ---
 
@@ -242,36 +210,6 @@ the first three — Newfoundland was a separate British dominion until it joined
 Canada in 1949, so it was never part of "the Maritimes," and Newfoundlanders
 will notice if you lump them in. "Atlantic Canada" was coined precisely to
 include Newfoundland after 1949.
-</details>
-
----
-
-## Homework
-
-Distance drill: using any map tool, measure (a) St. John's → Vancouver, (b)
-St. John's → London (UK), (c) Toronto → Ottawa, (d) Windsor, ON → Quebec City.
-Then write a paragraph: which comparisons surprised you, and name **two**
-Canadian policies or institutions you'd *guess* exist mainly because of these
-distances. (You'll verify your guesses in later phases.)
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Approximate answers: St. John's→Vancouver ~5,000 km by air; St. John's→London
-~3,800 km — yes, the eastern tip of Canada is <em>closer to Europe than to its
-own west coast</em>. Toronto→Ottawa is only ~350 km (the corridor is compact);
-Windsor→Quebec City is ~1,100 km, and that single strip contains over half of
-all Canadians. Good guesses for distance-driven institutions include: the
-Canadian Pacific Railway as the literal condition of Confederation for BC
-(Phase 3); equalization payments moving money between distant, very different
-regional economies (Phase 6); the CBC, created largely to knit a scattered
-population together against American broadcasting (Phase 8); supply management
-and Via Rail subsidies; Nutrition North food subsidies for Arctic communities;
-and regional development agencies. If you guessed "a national obsession with
-airlines and telecom prices," also correct — few competitors want to serve
-this much geography with this few customers.
 </details>
 
 ---

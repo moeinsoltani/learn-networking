@@ -71,43 +71,24 @@ the baby back in their own space before you sleep.
 > your room. Firm flat mattress, no soft bedding, no overheating, smoke-free. Memorise
 > this — it's the highest-value safety habit of the newborn months.
 
----
+### Where to start
 
-## Lab — Plan Together
+Set up the sleep space and then check it against the rule, honestly: a **firm,
+flat mattress, a fitted sheet, and nothing else**, in a crib or bassinet, in your
+room. If there is a bumper, a pillow, a folded blanket, or a stuffed toy in
+there, take it out. Warmth comes from a sleep sack, not from bedding.
 
-**Exercise 1 — safe-sleep audit.** What's unsafe in each? (a) Baby asleep on their
-tummy for the night; (b) a soft blanket and a stuffed toy in the crib; (c) baby
-sleeping in the parents' bed under the duvet; (d) parent dozing with baby on the
-sofa.
+Both of you should be able to recite **"Alone, Back, Crib"** without thinking. It
+is deliberately short because it has to survive being remembered at four in the
+morning by someone who has slept in ninety-minute fragments for a week.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Back to sleep</strong> — place the baby on their back, not their tummy.
-(b) The crib must be <strong>empty</strong> — remove the blanket and toy (use a
-sleep sack for warmth). (c) <strong>Bed-sharing under a duvet</strong> is high-risk —
-baby should be in their own space in the room. (d) <strong>Sleeping with baby on a
-sofa/armchair is the most dangerous</strong> of all — never do it. Each fix moves
-toward "Alone, Back, Crib."
-</details>
-
-**Exercise 2 — the night-feed trap.** It's 4 a.m., you're exhausted, and it's
-tempting to feed the baby lying down in bed and drift off. What's the safer plan?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Feed somewhere you're <strong>less likely to fall asleep</strong> — or if feeding in
-bed, clear away pillows and duvet and <strong>put the baby back in their own crib/
-bassinet before you sleep</strong>. Crucially, <strong>never finish up asleep on a
-couch or armchair with the baby</strong> — that's the highest-risk scenario. Planning
-this in advance (a firm chair, a light on, your partner taking a turn) prevents the
-dangerous "just this once" doze.
-</details>
+Then agree the **night-feed plan** in advance, because that is where safe sleep
+usually breaks down. Decide where night feeds will happen — a chair you will not
+fall asleep in, a light on — and agree that if feeding in bed, the pillows and
+duvet go clear and the baby goes back to their own space before anyone sleeps.
+Above all: **never finish up asleep on a couch or armchair with the baby.** That
+is the highest-risk situation there is, and it happens to exhausted people who
+did not plan for the moment.
 
 ---
 
@@ -160,26 +141,6 @@ Stop swaddling <strong>once the baby shows signs of rolling</strong> (a swaddled
 baby who rolls onto their front is at risk). <strong>Tummy time</strong> is
 supervised play on the tummy while <strong>awake</strong> — it builds strength and
 prevents flat spots; it is never a sleep position.
-</details>
-
----
-
-## Homework
-
-Set up (or double-check) the baby's sleep space so it passes the audit — **firm flat
-mattress, fitted sheet, nothing else, in your room** — and both of you memorise
-"**Alone, Back, Crib**." Agree a **safe night-feed plan** so no one is tempted into a
-sofa doze.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is a genuinely empty, firm crib/bassinet in your room, both partners
-able to recite the rule, and a night-feeding plan that avoids sofas and beds-with-
-bedding. Because safe sleep must hold up at the most exhausted moments, making it
-automatic — and planning the tempting 4 a.m. feed in advance — is what keeps it real.
 </details>
 
 ---

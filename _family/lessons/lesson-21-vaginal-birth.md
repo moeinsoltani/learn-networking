@@ -72,41 +72,21 @@ the experience.
 > plan mid-way: all common and normal. Trust your team, and remember the goal is a
 > healthy mother and baby, however the birth unfolds.
 
----
+### Where to start
 
-## Lab — Plan Together
+Talk through the **pushing stage and the partner's role** together, out loud,
+before the day. Familiarity is what turns fear into confidence, and a prenatal
+class is the best possible reinforcement of it.
 
-**Exercise 1 — the partner's support kit.** List five specific things the partner
-can do during the pushing stage to help.
+Agree on a few specific comfort measures the partner will offer: helping her
+change position, counter-pressure on the lower back, keeping her hydrated,
+steady encouragement, and gently advocating with the team if she cannot speak for
+herself in the moment.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Good picks: (1) <strong>calm verbal encouragement</strong> ("you're doing it, one
-at a time"); (2) help with <strong>breathing</strong> and staying focused; (3)
-<strong>physical comfort</strong> — counter-pressure on the lower back, a cool cloth,
-sips of water; (4) help her <strong>change positions</strong>; (5) <strong>advocate</strong>
-for her wishes with the team while staying flexible. The theme: steady, practical
-presence — not panic, not passivity.
-</details>
-
-**Exercise 2 — normal or "something went wrong"?** How would you reassure a partner
-worried that a small tear or needing a vacuum means the birth "failed"?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Neither means failure. Small <em>tears</em> are common, are repaired, and
-heal well; a <em>vacuum or forceps</em> is a normal tool to help the baby safely
-through the last stretch when needed. These are ordinary parts of birth, not signs
-anyone did anything wrong. A birth is successful when mother and baby are healthy —
-and yours are." Full marks for normalising tears and assisted delivery as routine,
-not failures.
-</details>
+The aim is that both of you walk in with the same calm mental picture, and that
+the partner has a job rather than standing helplessly at the head of the bed. A
+prepared, present partner is one of the biggest comforts available during birth,
+and it is a role you can genuinely rehearse.
 
 ---
 
@@ -160,26 +140,6 @@ Any two: <strong>calm encouragement</strong>; helping with <strong>breathing and
 positions</strong>; <strong>physical comfort</strong> (back counter-pressure, cool
 cloth, water); and <strong>advocating</strong> for her wishes while staying flexible.
 Steady presence matters a great deal.
-</details>
-
----
-
-## Homework
-
-Talk through the **pushing stage and the partner's support role** together so it
-feels familiar, not frightening — ideally reinforced by a prenatal class. Agree on
-a few comfort measures the partner will offer (position help, counter-pressure,
-encouragement) so you walk in as a prepared team.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is a shared, calm mental picture of the birth and a rehearsed support role:
-the partner knows to encourage, help with breathing and positions, offer physical
-comfort, and advocate gently. Familiarity turns fear into confidence — and a
-prepared, present partner is one of the biggest comforts during birth.
 </details>
 
 ---

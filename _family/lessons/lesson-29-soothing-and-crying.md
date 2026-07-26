@@ -87,42 +87,23 @@ respected request — not a weakness.
 > ride out the hardest stretch. Some crying you simply hold them through; it's not
 > a sign you're doing anything wrong.
 
----
+### Where to start
 
-## Lab — Plan Together
+Agree a **break plan** now, while everything is calm, because the moment it is for
+is one where nobody plans well.
 
-**Exercise 1 — the soothing toolkit.** The baby is crying and fed, dry, and not
-too hot or cold. List five things to try.
+It has three parts. How you will **swap or take shifts** when one of you is at the
+end of your rope. The **safe step-away sequence**: put the baby down somewhere
+safe — their crib, on their back — close the door, and take a few minutes. A
+crying baby in a safe cot is completely fine for ten minutes; an overwhelmed
+adult holding one is not. And **who each of you can call** — the other partner,
+a family member, a friend, or a crying-support or parenting helpline.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Good options (the 5 S's and more): <strong>swaddle</strong>; hold on the
-<strong>side/stomach</strong> in your arms; <strong>shush</strong> or white noise;
-<strong>swing</strong>/rock gently; offer a <strong>suck</strong> (breast, clean
-finger, or pacifier); plus skin-to-skin, a walk, a change of scene, or a calm dim
-room. Sometimes you cycle through several — and sometimes you just hold them through
-it, which is also fine.
-</details>
-
-**Exercise 2 — the overwhelmed moment.** It's the third hour of crying, you're
-exhausted and feel a flash of anger, and your partner is out. What exactly do you
-do?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Put the baby down safely on their back in the crib, walk away, close the
-door, and take a few minutes to breathe.</strong> A crying baby in a safe crib is
-okay for a few minutes. Then call someone — partner, friend, family, or a helpline.
-<strong>Never shake the baby.</strong> Stepping away to reset is the responsible,
-loving choice — feeling overwhelmed is human, and this is exactly the plan for it.
-Full marks for the safe-down-and-step-away sequence and "never shake."
-</details>
+Then say the two sentences out loud to each other: **we will never shake the
+baby**, and **needing a break is normal.** Shaking an infant causes catastrophic,
+permanent injury, and it happens to ordinary, loving, desperately exhausted
+parents at 3 a.m. — which is exactly why the safe response has to be decided in
+advance, not invented in the moment.
 
 ---
 
@@ -178,27 +159,6 @@ what must you never do?
 call someone for help.</strong> A safely-placed crying baby is okay for a few minutes.
 <strong>Never shake the baby</strong> — shaking can cause fatal brain injury. Stepping
 away is the right, responsible response, not a failure.
-</details>
-
----
-
-## Homework
-
-Agree a **"break plan"** for the hardest moments *before* they happen: how you'll
-swap or take shifts, the safe put-baby-down-and-step-away steps, and who each of you
-can call (partner, family, friend, or a parenting/crying helpline). Say out loud
-together: **we will never shake the baby, and needing a break is normal.**
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is a concrete, pre-agreed plan for overwhelm — shift-swapping, the
-safe step-away sequence, and named people/helplines to call — plus an explicit shared
-commitment to the never-shake rule. Deciding this while calm means that in the raw,
-exhausted 3 a.m. moment, the safe response is already automatic. Treating "I need a
-break" as normal protects both the baby and the parents.
 </details>
 
 ---

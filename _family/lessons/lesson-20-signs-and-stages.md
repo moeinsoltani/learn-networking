@@ -44,6 +44,16 @@ and close together** — or immediately if a warning sign appears.
 
 ### The stages of labour
 
+Labour is conventionally divided into three stages, and knowing the shape of them
+makes the whole process far less bewildering while you are in it.
+
+The thing most people are unprepared for is the **proportions**. The first stage
+is by far the longest, and the early part of it is usually best spent at home,
+resting, eating, and walking around rather than sitting in a hospital corridor.
+The dramatic pushing stage that films concentrate on is comparatively short, and
+the third stage — delivering the placenta — passes almost unnoticed amid meeting
+your baby.
+
 | Stage | What happens | Rough duration |
 |---|---|---|
 | **First (latent)** | Cervix thins and opens to ~6 cm; contractions build | Often the **longest**, hours; usually best at home resting |
@@ -72,45 +82,21 @@ contractions** (start of one to the start of the next).
 > and sit around. Save your energy for active labour and pushing. Your provider
 > will tell you their specific "come in" guidance.
 
----
+### Where to start
 
-## Lab — Plan Together
+Three things, and then you can stop rehearsing labour in your head.
 
-**Exercise 1 — is this labour, and what do you do?** (a) Irregular tightenings at
-36 weeks that stop when she rests; (b) contractions 5 minutes apart, ~1 minute
-long, for over an hour at 39 weeks; (c) waters break at 38 weeks with clear fluid,
-no contractions yet; (d) waters break with greenish fluid.
+Learn to **time contractions** — an app or a notepad, whichever you will actually
+use — so that "they're about four minutes apart and lasting a minute" is a
+sentence you can produce rather than estimate. Get your provider's specific
+**"come in" rule**, because it varies: a first baby, a previous fast labour, or a
+long drive to the hospital all change the answer. And post the **go-in-immediately
+list** where you will both see it: abnormal fluid colour, bleeding, reduced
+movement, or signs of preterm labour.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Likely <strong>Braxton Hicks / not established labour</strong> — but before 37
-weeks, if unsure, <strong>call</strong>. (b) <strong>This is 5-1-1</strong> —
-time to go to your birth place (per your provider's rule). (c) <strong>Call your
-provider</strong> — waters have broken; they'll advise timing (labour often follows,
-and there are guidelines on how long to wait). (d) <strong>Go in now</strong> —
-green fluid can mean the baby passed meconium and needs checking. The rule: regular-
-strong-close = go; anything abnormal (colour, bleeding, preterm, reduced movement)
-= go now.
-</details>
-
-**Exercise 2 — time a contraction.** Explain how to time contractions and what
-number pattern tells you it may be time to go in.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Time from the <strong>start of one contraction to the start of the next</strong>
-(that's how far "apart" they are), and note how <strong>long each lasts</strong>.
-A common "go in" pattern is <strong>5-1-1</strong>: ~5 minutes apart, ~1 minute
-long, sustained for ~1 hour (sometimes 4-1-1 for a second baby). Also note whether
-they're getting <em>stronger and closer</em> — that progression is the real signal
-of active labour.
-</details>
+Then check that Lesson 18's labour-day plan is genuinely ready — bag by the door,
+car seat in, driver agreed. Between the two lessons, that is everything you need
+to act calmly instead of guessing when it starts.
 
 ---
 
@@ -164,26 +150,6 @@ long</strong>, for ~<strong>1 hour</strong> — a common signal to head to your 
 place. Skip it and go in <strong>immediately</strong> for: waters breaking with
 green/brown/bloody fluid, vaginal bleeding, reduced fetal movement, contractions
 before 37 weeks, being GBS positive, or a sense something is wrong.
-</details>
-
----
-
-## Homework
-
-Learn to **time contractions** (an app or a notepad), agree on **your provider's
-"come in" rule**, and post the **"go in immediately" warning list** where you'll
-both see it. Confirm the labour-day plan from Lesson 18 is ready.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is that you both know how to time contractions, know your specific
-"when to come in" instruction, and can recite the immediate-go warning signs
-(abnormal fluid colour, bleeding, reduced movement, preterm). Combined with the
-packed bag and driving plan, that means when labour begins you can stay calm and
-act, instead of guessing.
 </details>
 
 ---

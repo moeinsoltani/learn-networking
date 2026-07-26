@@ -81,42 +81,22 @@ something to just live with.
 > and give it months. Protecting her recovery is one of the partner's most important
 > jobs (Lesson 33).
 
----
+### Where to start
 
-## Lab — Plan Together
+Make a **recovery plan for the first two weeks** — specific, written down, and
+agreed before the birth. Who covers chores, who cooks or organises meals, who
+handles older children and pets, and who is "on" at night. The purpose is
+singular: to let the mother focus on healing and feeding, and on nothing else.
 
-**Exercise 1 — normal or call?** Sort: (a) period-like bleeding tapering over 3
-weeks; (b) soaking a pad every 45 minutes with large clots; (c) cramps during
-breastfeeding; (d) a hot, swollen, painful calf.
+Both of you should also learn the **postpartum warning signs** and save the
+numbers. This matters because postpartum vigilance does not end when you leave
+the hospital — serious complications can appear days or even weeks later, at
+precisely the point when everyone has decided the dangerous part is over.
 
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-<strong>Normal:</strong> (a) tapering lochia over weeks; (c) afterpains during
-breastfeeding. <strong>Call/urgent:</strong> (b) soaking a pad every ~45 min with
-large clots is <strong>heavy bleeding</strong> — call; (d) a hot, swollen, painful
-calf can be a <strong>blood clot (DVT)</strong> — seek urgent care. The pattern:
-gradually lightening bleeding and cramps are expected; heavy bleeding or leg-clot
-signs are not.
-</details>
-
-**Exercise 2 — the recovery support plan.** List four ways the partner/family can
-protect the mother's physical recovery in the first weeks.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Good items: (1) take over <strong>chores, cooking, and older-child/pet care</strong>;
-(2) bring her <strong>food, water, and pain relief</strong> on schedule; (3) protect
-her <strong>rest and sleep</strong> (handle night duties you can); (4) manage
-<strong>visitors</strong> so she isn't "hosting"; plus watching for warning signs and
-encouraging her not to overdo it. The theme: shield her from everything except
-healing and feeding the baby.
-</details>
+The framing to carry: recovery from birth is a **months-long project**, not a
+long weekend. Treating it that way protects the mother's health, and it protects
+her from the widespread and untrue belief that she should be back to normal
+already.
 
 ---
 
@@ -171,26 +151,6 @@ Any three: <strong>heavy bleeding</strong> (soaking >1 pad/hour or large clots);
 breathing</strong> or <strong>leg pain/swelling</strong> (possible clot — emergency);
 <strong>severe headache/vision changes</strong> (blood pressure); or <strong>thoughts
 of harming yourself or the baby</strong>. These can occur for up to a year.
-</details>
-
----
-
-## Homework
-
-Make a **recovery plan** for the first two weeks: who covers chores, meals, older
-kids/pets, and nights, so the mother can focus on healing and feeding. Both of you
-learn the **postpartum warning signs** and save the numbers — recovery vigilance
-lasts far beyond the birth.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is a concrete "shield her recovery" plan (chores, meals, nights, visitors
-handled) plus both partners knowing the red flags and having the numbers ready.
-Because postpartum complications can appear weeks later, treating recovery as a
-months-long project — not a few days — protects the mother's health and wellbeing.
 </details>
 
 ---

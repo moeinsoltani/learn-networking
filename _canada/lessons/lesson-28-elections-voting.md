@@ -34,22 +34,28 @@ second round, nothing carried over. The national "result" is just
 the sum of the local ones — and that summation step is where the
 famous distortions live:
 
-```
-   FPTP'S ARITHMETIC (stylized but realistic)
+The arithmetic is easiest to see in a stylized but entirely realistic result.
+Imagine five parties contesting the 343 seats of the House of Commons:
 
-   national vote share      seats (343)
-   Party A   38%    ──►     180  (53%) ← MAJORITY government
-   Party B   33%    ──►     120  (35%)
-   Party C   18%    ──►      25   (7%) ← spread too thin
-   Party D    8%    ──►      15   (4%) ← regionally packed
-   Party E    3%    ──►       3
-   
-   the rules of thumb:
-   ~39% of votes, efficiently spread ≈ majority power
-   20% spread evenly ≈ near-nothing
-   10% packed in one region ≈ a solid caucus
-   → the system rewards GEOGRAPHY, not popularity
-```
+| Party | National vote share | Seats won | Share of seats |
+|---|---|---|---|
+| A | 38% | 180 | 53% — a **majority government** |
+| B | 33% | 120 | 35% |
+| C | 18% | 25 | 7% — support spread too thinly |
+| D | 8% | 15 | 4% — support packed into one region |
+| E | 3% | 3 | 1% |
+
+Look at parties C and D. C won more than twice as many votes as D and ended up
+with fewer than twice as many seats, because C's support was spread evenly
+across the country while D's was concentrated. And party A, with well under
+40% of the vote, controls the House outright.
+
+Three rules of thumb fall out of this, and they explain most of Canadian
+electoral politics: roughly **39% of the vote, efficiently distributed, is
+enough for majority power**; **20% spread evenly across the country is worth
+almost nothing**; and **10% packed into one region buys a solid caucus**. The
+system rewards *geography*, not popularity — which is why Canadian parties
+campaign for regions rather than for national vote share.
 
 Elections are run by **Elections Canada** — an independent,
 non-partisan agency answering to Parliament, not the government —
@@ -136,7 +142,7 @@ ranked ballots surface constantly — 2015's winning platform
 famously promised "the last FPTP election," then abandoned it
 (the committee recommended PR; the government wanted ranked
 ballots — which polls suggested would favour it; stalemate;
-abandonment — Lesson 27's homework material). Provincial
+abandonment — Lesson 27). Provincial
 referendums on PR have failed repeatedly (BC ×3, Ontario, PEI —
 though PEI once voted yes at low turnout). The honest structural
 note: the people with power to change the system are, by
@@ -153,116 +159,6 @@ definition, the system's winners. Reform lives; reform loses.
 > the box. Provincial and municipal elections run on separate
 > systems with their own dates (Lesson 29/36) — the federal
 > ballot is only a third of your civic firepower.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — run the numbers.** Real-shaped data (2019 federal,
-rounded): Liberals 33.1% → 157 seats; Conservatives 34.3% → 121;
-Bloc 7.6% → 32; NDP 16.0% → 24; Greens 6.5% → 3. (338 seats then.)
-Compute roughly what each party would get under pure PR, name who
-FPTP helped and hurt, and extract the two structural rules the
-comparison teaches.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Pure PR of 338: Conservatives ~116, Liberals ~112, NDP ~54, Bloc
-~26, Greens ~22. Reality check against FPTP: the
-<strong>Liberals</strong> won the seat count while <em>losing the
-popular vote</em> (33.1 vs 34.3) — +45 seats over proportion —
-because their vote was efficiently spread across winnable ridings;
-the <strong>Conservatives</strong> got fewer seats on more votes
-(piling up 70% margins across the Prairies wastes votes by the
-hundred thousand); the <strong>NDP lost ~30 seats</strong> and the
-<strong>Greens ~19</strong> to dispersion; the <strong>Bloc</strong>
-came out slightly ahead of proportion — 7.6% national but
-concentrated in one province. The two rules: (1) FPTP counts
-<em>where</em> votes are, not how many — efficiency beats volume
-(you can win the election losing the vote; it's happened federally
-twice recently); (2) FPTP manufactures regional monoliths — the
-Prairies look wall-to-wall blue and Toronto wall-to-wall red at
-half-to-two-thirds actual support, which then feeds the regional-
-grievance narratives (Lessons 04, 29) as if geography voted
-unanimously. It doesn't; the map exaggerates. Carry rule (2) into
-every "Alberta hates X / Toronto hates Y" conversation you'll ever
-have here.
-</details>
-
-**Exercise 2 — scenario: your first federal election.** Walk
-yourself through it as a first-time voter: registration, the
-voter information card, ID options, the advance-poll decision,
-what the ballot looks like, what happens to it after your X, and
-how you'll know the result is legitimate. One paragraph, concrete.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "A month out I check elections.ca — registered (they pulled
-my address when I filed taxes and ticked the elector box). Two
-weeks out the voter information card arrives naming my poll and
-the advance dates; I work election Monday, so I pick the Friday
-advance poll — same ballot, shorter line. I bring my driver's
-licence (or, if I had none: health card plus the hydro bill).
-Inside: a cardboard screen, a stubby pencil, a ballot listing
-five names with party labels; I mark one X beside my choice, fold
-as instructed, and the poll worker tears the counterfoil and I
-drop it in the box myself. At 9:30 that night the count happens
-at that same table — poll workers unfolding paper in front of
-scrutineers from the campaigns, results phoned in and posted
-poll-by-poll on Elections Canada's site, where I can literally
-find my own polling station's tally. Legitimacy is the boring
-part: paper, hands, witnesses, and the same rules in all 343
-ridings run by a non-partisan agency — by midnight the losers
-have conceded, and nobody anywhere is talking about the count."
-</details>
-
-**Exercise 3 — the reform stalemate.** Design question: you're
-advising a royal commission. Given the case file above, propose
-either (a) a specific replacement system for federal elections, or
-(b) a defence of keeping FPTP — and address, honestly, the three
-strongest objections your choice faces (including the political-
-economy one: how does it ever pass?).
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Strong (a) — the usual best-in-class proposal is <strong>Mixed-
-Member Proportional</strong> (MMP): keep riding MPs (preserving
-local accountability, FPTP's real virtue), add regional top-up
-seats until party totals match vote shares. Objections to answer:
-(1) permanent minority/coalition government — answer honestly:
-yes, majorities would require actual majorities; Germany and NZ
-govern; but concede Canada's confidence conventions and party
-culture would need a generation of adjustment (Lesson 27's whole
-power structure softens); (2) two classes of MP and party-list
-hacks — mitigable (open regional lists) but real; (3) political
-economy: no FPTP-majority government rationally implements it —
-the only plausible paths are a minority parliament where reform
-is the price of confidence (the mechanism exists: supply
-agreements) or a binding citizens'-assembly-plus-referendum that
-politicians pre-commit to. Strong (b) — the Westminster defence:
-FPTP's distortions are the <em>price of accountability</em> — one
-party owns outcomes (no coalition blame-shuffling), voters can
-execute governments cleanly (1993: from majority to two seats —
-try that under PR), and regional parties still break through
-when real (Bloc, Reform), proving the system registers genuine
-movements; concede the wasted-vote unfairness, the monolith-map
-distortion, and that your defence is governability-over-
-representativeness — then note (Lessons 12, 27) that ranking
-governability first is the most consistent choice in Canadian
-constitutional history. Either answer earns marks only by
-pricing its costs; the exercise's real content is that
-electoral systems are value trade-offs, not correctness
-problems.
-</details>
 
 ---
 
@@ -345,52 +241,6 @@ federal legislature — imagine 30 Texas-independence congressmen as
 a normal fixture. Plus the structural bonus: non-partisan election
 administration and boundary-drawing remove the US's procedural
 battlegrounds entirely.
-</details>
-
----
-
-## Homework
-
-The "monolith map" problem: after every election, the seat map
-paints the Prairies solid blue and urban Canada solid red, and
-commentary treats regions as unanimous blocs. Find the actual
-vote shares in one "monolithic" province from the last federal
-election (e.g., Alberta or downtown Toronto). Write a paragraph on
-the gap between map and electorate, who benefits from the
-monolith narrative, and one mechanism (electoral or discursive)
-that would surface the invisible minorities. Connect to Western
-alienation or the two-solitudes narrative from earlier lessons.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Typical findings (2021-shaped): Alberta votes ~55% Conservative —
-meaning roughly <em>45% of Albertans voted for someone else</em>
-(hundreds of thousands of Liberal, NDP, and other voters) yet
-elected almost no one; downtown Toronto's Liberal sweep sits on
-similar minorities of Conservative votes with zero seats. The
-gap: FPTP renders each region's runner-up voters invisible,
-then national discourse reifies the map — "Alberta wants,"
-"Toronto believes" — as if 100% of each place voted as its seats
-suggest. Who benefits: regional-grievance entrepreneurs on all
-sides — Western-alienation politics is more potent if Alberta is
-unanimous (its federal Liberal/NDP half-million are
-inconvenient), and dismissing "Toronto elites" is easier if
-Toronto contains no conservatives; the monolith narrative is,
-note carefully, the same simplification as Durham's "two nations
-warring" (Lesson 12) and the two-solitudes frame (Lesson 22) —
-real differences, inflated into unanimities by the
-representation system. Surfacing mechanisms: any proportional
-element (MMP's regional top-ups would elect Alberta Liberals and
-Saskatchewan New Democrats overnight, deflating the bloc
-narrative structurally); short of reform, publishing and citing
-vote-share maps instead of seat maps, and the journalistic habit
-of "X% of [region] voted otherwise." The insight worth keeping:
-some of Canada's most durable political "divides" are partly
-artifacts of its counting method — always ask whether you're
-looking at the country or at the map's compression of it.
 </details>
 
 ---

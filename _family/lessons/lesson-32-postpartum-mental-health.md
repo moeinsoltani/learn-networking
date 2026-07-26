@@ -37,6 +37,19 @@ these conditions are **treatable**, and reaching out early helps everyone.
 
 ### Baby blues vs. postpartum depression/anxiety
 
+These two get confused constantly, and the difference matters enormously, because
+one resolves on its own and the other needs treatment.
+
+The distinguishing feature is **time**, more than intensity. The baby blues arrive
+in the first few days, peak around day three to five, and lift within about two
+weeks — they are tearfulness and emotional swings on a background of hormonal
+upheaval and no sleep. Postpartum depression and anxiety can begin any time in the
+first year, and they **last beyond two weeks** and tend to deepen rather than lift.
+
+If you take one rule from this lesson: **anything that lasts past two weeks, or
+that feels severe at any point, is worth a call.** You do not need to be certain
+it qualifies.
+
 | | Baby blues | Postpartum depression / anxiety |
 |---|---|---|
 | **When** | First ~2 weeks | Can start anytime in the first year; **lasts beyond 2 weeks** |
@@ -77,44 +90,25 @@ for signs in the other, since the affected person may not see it in themselves.
 > break from reality, as an emergency.** Never respond to a struggling parent with
 > "just be grateful" — respond with support and help.
 
----
+### Where to start
 
-## Lab — Plan Together
+Learn the signs of postpartum depression and anxiety **together**, and then make
+an explicit agreement: each of you will watch for them **in the other**, and say
+something without judgment if you see them.
 
-**Exercise 1 — blues or something more?** Sort: (a) tearful and overwhelmed on day 5,
-but coping and improving; (b) persistent hopelessness, no interest in anything, and
-trouble bonding at 5 weeks; (c) hallucinations and confusion at day 10; (d) thoughts
-of harming the baby.
+That agreement is the whole point of doing this in advance. A struggling parent
+very often cannot see it in themselves — the thoughts feel like accurate
+perceptions rather than symptoms — so a partner who knows what to look for, and
+who responds with support rather than "cheer up," is frequently the reason help
+arrives early. And it runs both ways: partners get postpartum depression too, at
+rates high enough to take seriously.
 
-**Your answer:**
+Save your provider's number and a **local crisis or helpline** now, while it is
+an administrative task rather than an emergency.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Baby blues</strong> — common, first two weeks, passing. (b) <strong>Likely
-postpartum depression</strong> — persistent, beyond two weeks, affecting bonding →
-<strong>reach out to a provider</strong>. (c) <strong>Postpartum psychosis —
-emergency</strong>, seek help immediately. (d) <strong>Emergency — get urgent help
-now.</strong> The rule: brief early tearfulness that lifts is blues; persistent/severe
-symptoms need care; hallucinations or thoughts of harm are emergencies.
-</details>
-
-**Exercise 2 — the supportive response.** Your partner says, "I feel like a terrible
-mother and I can't stop crying — maybe you'd all be better off without me." What do
-you do?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Treat it as <strong>urgent</strong>. Stay calm and present, don't leave her alone,
-respond with love not judgment ("You're not a bad mother — you're unwell and this is
-treatable, and I'm here"), and <strong>get help now</strong> — call her provider, a
-crisis line, or emergency services. That last sentence hints at self-harm, which is
-an emergency. Follow up by helping arrange ongoing care. Full marks for recognising
-the urgency, staying with her, and getting professional help immediately.
-</details>
+Then say it out loud to each other: struggling would be **common and treatable**,
+and asking for help is strength, not failure. Normalising it in advance is what
+makes it possible to reach out later.
 
 ---
 
@@ -168,27 +162,6 @@ or losing touch with reality. These need <strong>urgent help immediately</strong
 Yes — <strong>partners can develop depression or anxiety</strong> after a baby too
 (paternal/partner PPD is real and under-recognised). Both partners should mind their
 own mental health and watch for signs in each other.
-</details>
-
----
-
-## Homework
-
-Learn the signs of postpartum depression and anxiety **together**, agree that each of
-you will **watch for them in the other** (and speak up without judgment), and save
-your provider's number plus a **local crisis/helpline**. Say out loud: struggling
-would be common and treatable, and asking for help is strength — not failure.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The deliverable is shared knowledge of the signs, a mutual agreement to watch out for
-each other, and crisis numbers saved in advance. Because a struggling parent often
-can't see it in themselves, a partner who knows the signs and responds with support
-(not "cheer up") can be the reason help arrives early. Normalising it now makes it far
-easier to reach out later.
 </details>
 
 ---

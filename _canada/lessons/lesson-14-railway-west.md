@@ -33,26 +33,26 @@ Montreal to the Pacific. This lesson is the story of the most audacious —
 and most compromised — infrastructure project in Canadian history, and of
 the provinces strung along it like beads.
 
-```
-   THE DOMINION ASSEMBLES
+The country assembled itself in a rush and then in a long trickle. Everything
+between 1870 and 1873 is the westward sprint, driven by the fear that if
+Canada did not claim the West, the United States would. The 1905 additions are
+the opposite: provinces created *after* settlement filled them, as the harvest
+of the railway and immigration policy. And the last two entries — 1949 and
+1999 — are a reminder that the Canadian map was still moving within living
+memory.
 
-   1867  ON, QC, NS, NB                    (Confederation)
-   1870  RUPERT'S LAND + North-Western     bought from HBC for
-         Territory acquired                £300,000 — nobody asked
-                                           the inhabitants (→ Lesson 15)
-   1870  MANITOBA (carved out, tiny,       Riel's provisional gov't
-         after armed resistance)           forces provincehood
-   1871  BRITISH COLUMBIA                  joins ON A PROMISE:
-                                           rail link within 10 years
-   1873  PRINCE EDWARD ISLAND              joins to escape its own
-                                           railway debt (irony noted)
-   1885  CPR COMPLETE — Last Spike,        4 years ahead of (revised)
-         Craigellachie, BC                 schedule
-   1898  YUKON TERRITORY                   (Klondike Gold Rush)
-   1905  ALBERTA & SASKATCHEWAN            carved from the NWT
-   1949  NEWFOUNDLAND                      (Phase 4)
-   1999  NUNAVUT                           (Phase 4)
-```
+| Year | What joined or was created | Note |
+|---|---|---|
+| 1867 | Ontario, Quebec, Nova Scotia, New Brunswick | Confederation |
+| 1870 | **Rupert's Land** and the North-Western Territory acquired | Bought from the HBC for £300,000; nobody asked the inhabitants (Lesson 15) |
+| 1870 | **Manitoba** — carved out, and initially tiny | Created after armed resistance; Riel's provisional government forced provincehood |
+| 1871 | **British Columbia** | Joined *on a promise*: a rail link within ten years |
+| 1873 | **Prince Edward Island** | Joined to escape its own railway debt — the irony is noted |
+| 1885 | **CPR complete** — the Last Spike at Craigellachie, BC | Four years ahead of the revised schedule |
+| 1898 | **Yukon Territory** | Created during the Klondike Gold Rush |
+| 1905 | **Alberta** and **Saskatchewan** | Carved from the North-West Territories |
+| 1949 | **Newfoundland** | After 82 years as a separate dominion (Phase 4) |
+| 1999 | **Nunavut** | Negotiated, Indigenous-driven (Phase 4) |
 
 ![1886 map of the Canadian Pacific Railway system, a single line binding Montreal to the Pacific coast](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_Map_of_the_Canadian_Pacific_railway_system_-_btv1b530230627.jpg/960px-A_Map_of_the_Canadian_Pacific_railway_system_-_btv1b530230627.jpg)
 
@@ -76,8 +76,8 @@ of dispossession, in one artifact.
 The new Dominion's first order of business: the West. In 1869–70 Canada
 purchased **Rupert's Land** from the HBC (Lesson 09's paper empire —
 £300,000, plus land grants around its posts). It remains one of history's
-largest land transactions — and it was, as you predicted in Lesson 09's
-lab, a deal between company and Crown in which the ~40,000 Indigenous and
+largest land transactions — and it was, exactly as Lesson 09 warned, a deal
+between a company and a Crown in which the ~40,000 Indigenous and
 Métis inhabitants were not parties. The immediate result was armed
 resistance at Red River and the negotiated creation of **Manitoba**
 (1870) — a story big enough to get its own lesson (next).
@@ -127,6 +127,26 @@ formally apologized in 2006. Hold both facts in one hand: the railway
 that made Canada possible, and the racial tariff charged to the men who
 built its hardest miles — Lesson 16 develops the pattern.
 
+The head tax also deserves a word about *how* it was done, because the method
+matters as much as the policy. Surviving certificates — the CI.5 forms — record
+a name, a home village in Guangdong, a photograph, a serial number, and a
+receipt for the tax paid. The discrimination was not mob violence; it was
+**administration**: a published tax schedule, collected at ports, netting
+Ottawa and the provinces roughly $23 million over four decades. That figure is
+worth saying aloud beside the CPR's $25 million cash subsidy — Canada charged
+the community that built the railway about what it paid the company that owned
+it.
+
+The rate was calibrated to exclude. At $500 it was roughly two years' wages,
+which meant men came and wives did not, splitting families for decades until
+the 1923 Exclusion Act sealed the door entirely. When Canada apologized in
+2006 and paid symbolic redress to surviving payers and widows, nearly all the
+original victims were dead — the state's paperwork had outlived them. Keep
+this document class in mind: Lesson 17's pass system and Lesson 20's
+internment orders are its administrative cousins. Racism kept with a receipt
+is state policy, and the receipts are precisely why later denial became
+impossible.
+
 ### What the railway then did
 
 Moved the Mounties (the **North-West Mounted Police**, founded 1873, rode
@@ -138,6 +158,30 @@ economic grievance: sell at world prices, buy at protected ones — file
 under Western alienation, Lessons 29, 35); and fixed the urban map —
 Winnipeg, Regina, Calgary, Vancouver are all, in essence, CPR decisions.
 
+### Was the CPR private or public?
+
+It is often held up as proof that megaprojects belong in private hands, so it
+is worth doing the accounting honestly. The CPR was private roughly the way a
+kite is independent of its string. The syndicate received $25 million in cash,
+twenty-five million acres of the public domain, completed sections that the
+government had already built at public expense, tax exemptions, and a
+legislated monopoly — and even with all of that it needed two emergency
+government rescues to avoid bankruptcy.
+
+No private market would have touched a railway running 3,000 kilometres
+through rock and mountains to serve 3.5 million people. The project existed
+because the state wanted a country, not because investors wanted a return; the
+return *was* the country.
+
+The Pacific Scandal's real lesson is not "keep government out," then. It is
+that when a state assigns nation-scale rents to private hands, the assignment
+process itself becomes the corruption surface — and the remedy is transparency
+in procurement, not pretending the state away. The honest summary is that
+Canada's formative megaproject was a public purpose executed through a
+subsidized private vehicle, and it delivered both the national dream and the
+self-dealing as a package. Canadians have been re-litigating that package on
+every pipeline, airport, and transit line since.
+
 {: .note }
 > **1905: two provinces, and a running theme**
 > Alberta and Saskatchewan were cut from the North-West Territories in
@@ -147,93 +191,6 @@ Winnipeg, Regina, Calgary, Vancouver are all, in essence, CPR decisions.
 > Ottawa's schedule, taxed by Ottawa's tariff, resources withheld for a
 > generation. When Lesson 35's equalization wars and Lesson 39's pipeline
 > fights seem overheated, remember they run on this substrate.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — provinces by entry date.** From memory, list the order and
-dates in which all ten provinces (and the three territories) joined or
-were created. Then check, and note which three stories the sequence tells.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-1867: Ontario, Quebec, Nova Scotia, New Brunswick. 1870: Manitoba (+ NWT
-acquired). 1871: British Columbia. 1873: PEI. 1898: Yukon. 1905: Alberta
-and Saskatchewan. 1949: Newfoundland. 1999: Nunavut. Three stories in the
-sequence: (1) the westward sprint 1870–73 — from four provinces to the
-Pacific in six years, driven by fear of American expansion; (2) the
-Prairie fill-in (1905) following settlement, not preceding it — provinces
-as harvest of the railway + immigration policy; (3) the long tail — 
-Newfoundland's 82-year holdout (a separate dominion that chose Canada by
-a 52% referendum, Lesson 21) and Nunavut as the modern, negotiated,
-Indigenous-driven addition: the map still moving within living memory.
-</details>
-
-**Exercise 2 — source work: the head-tax certificate.** A surviving CI.5
-certificate, 1918, records: name, village in Guangdong, a photograph, and
-"$500 head tax paid" — the price of legally entering Canada, for Chinese
-migrants only. Write what this document tells you about (a) who built vs
-who was welcomed, (b) the state's bookkeeping of racism, (c) why the 2006
-apology included symbolic payments to survivors and widows.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) The certificate's existence encodes the sequence: Chinese labour was
-actively recruited while the CPR needed 15,000 men for the mountains,
-then priced out the moment the Last Spike was driven — the 1885 Act
-passed the same year the railway finished. Nation-building wanted the
-work, not the workers. (b) The document is meticulous — photo, serial
-number, receipt — because the discrimination was not mob action but
-<em>administration</em>: a tax schedule, collected at ports, netting
-Ottawa and the provinces some $23 million over four decades (comparable
-to the CPR's cash subsidy, a symmetry worth saying aloud). Racism with a
-receipt is state policy, and receipts are why denial later became
-impossible. (c) The $500 rate was calibrated to exclude by price — two
-years' wages — and it split families for decades (men here, wives barred;
-then the 1923 Exclusion Act sealed it). The 2006 apology paid symbolic
-redress ($20,000) to surviving payers and widows precisely because the
-living victims were nearly gone: the state's paperwork outlived them, and
-the apology was addressed as much to the record as to the survivors.
-Keep this document class in mind — Lesson 17's pass system and Lesson
-20's internment orders are its administrative cousins.
-</details>
-
-**Exercise 3 — scenario.** A libertarian-minded friend says: "The CPR
-proves megaprojects should be private — government money just bred the
-Pacific Scandal." Give the fuller accounting: what was public, what was
-private, and what the honest lesson is.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "The CPR was private the way a kite is independent of its string.
-The 'private' syndicate received $25 million cash, twenty-five million
-acres of the public domain, completed government-built sections, tax
-exemptions, and a legislated monopoly — and still needed two emergency
-government rescues to avoid bankruptcy. No private market would touch a
-railway across 3,000 km of rock and mountain for 3.5 million customers;
-the project existed because the state wanted a country, not because
-investors wanted a return — the return <em>was</em> the country. The
-Pacific Scandal's lesson isn't 'keep government out' — it's that when
-the state assigns nation-scale rents to private hands, the assignment
-process itself becomes the corruption surface; the fix (then as now) is
-transparency in procurement, not pretending the state away. Honest
-summary: Canada's formative megaproject was a public purpose executed
-through a subsidized private vehicle, delivering both the national dream
-and the self-dealing — a package deal Canadians have been re-litigating
-on every pipeline, airport, and transit line since." (Your friend is
-free to prefer the American transcontinental model — which featured the
-Crédit Mobilier scandal, i.e., the same package.)
-</details>
 
 ---
 
@@ -310,36 +267,6 @@ to reserves through the numbered treaties and, when the buffalo
 collapsed, hunger (Lesson 17); and its first major freight, in 1885, was
 troops to crush the Métis and Cree at Batoche (Lesson 15). Both columns
 are true; Canadian historical literacy means refusing to drop either.
-</details>
-
----
-
-## Homework
-
-The 1885 Last Spike photograph (find it — it's everywhere) shows
-frock-coated directors in the mountains; Van Horne's entire speech was:
-"All I can say is that the work has been well done in every way." Write
-two alternative captions for the photo: one as the 1885 CPR publicity
-office, one as a modern museum label doing full-ledger history (who's in
-frame, who isn't, what the nine-days-to-the-front detail means). Keep
-each under 60 words.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-1885 publicity office (model): "Craigellachie, B.C., November 7, 1885 —
-Donald A. Smith drives the last spike of the Canadian Pacific Railway.
-From sea to sea, the Dominion is one: five years ahead of doubt, the
-National Dream is delivered in steel. Montreal to the Pacific in six
-days." Modern museum label (model): "Company directors mark the CPR's
-completion. Absent from the frame: the ~15,000 Chinese workers who built
-the mountain sections — hundreds died — taxed for entry that same year;
-and the Plains nations whose lands the line crossed. Months earlier, the
-railway's first strategic cargo was troops sent to defeat the Métis at
-Batoche. One photograph; a country's whole double ledger." The exercise's
-point: neither caption lies; captioning <em>is</em> historiography.
 </details>
 
 ---

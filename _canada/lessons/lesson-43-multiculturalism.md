@@ -40,32 +40,35 @@ Ukrainians loudest among them) objected: *we* are neither, and we
 built the Prairies — so bilingual-BI-cultural became
 bilingual-MULTI-cultural, and the accident became the identity.
 
-```
-   THE MODEL AND ITS RIVALS (stylized)
+The standard contrast puts the American **melting pot** against the Canadian
+**mosaic**. In the melting-pot story, newcomers arrive and assimilate into a
+single national culture. In the mosaic story, newcomers arrive and retain
+their heritage, and the nation is the sum of the retained pieces.
 
-   MELTING POT (US myth)     MOSAIC (Canadian myth)
-   arrive → assimilate to    arrive → retain heritage;
-   the national culture      the nation is the sum of
-                             retained pieces
-   ...BOTH ARE MYTHS: US retention is high (Chinatowns,
-   Little Havanas thrive); Canadian convergence is high
-   (2nd generation: language, intermarriage, values
-   converge fast). The REAL difference is OFFICIAL
-   POSTURE: the US never endorsed retention; Canada
-   funds it, constitutionalized it, and made it the
-   story citizens are told about themselves — and
-   official stories shape belonging even when they
-   exaggerate behaviour.
+Both are myths, and it is worth saying why. Cultural retention in the United
+States is in fact high — Chinatowns and Little Havanas thrive there. And
+convergence in Canada is also high: by the second generation, language,
+intermarriage, and values shift fast toward the mainstream. The behaviour in
+the two countries is far more similar than the slogans suggest.
 
-   THE MACHINERY UNDERNEATH (the real engine):
-   points selection (1967, L.21) → educated, chosen
-   migrants → geographic concentration in 3 metros
-   (L.04) → high naturalization (~85%, L.32) → voting
-   citizens in swing suburbs → ALL PARTIES court
-   immigrant voters → anti-immigration politics stays
-   electorally suicidal → consensus persists.
-   The virtue has a structure.
-```
+The real difference is **official posture**. The United States never endorsed
+retention as national policy; Canada funds it, constitutionalized it in
+section 27 of the Charter, and made it the story citizens are told about
+themselves. That matters more than the sociology, because official stories
+shape who feels they belong — even when they overstate what people actually do.
+
+Underneath the story, though, is a machine, and the machine is what keeps the
+consensus stable. It runs like this: **points-based selection** (1967, Lesson
+21) produces educated, deliberately chosen migrants, who **concentrate in
+three metros** (Lesson 04), and who **naturalize at very high rates** — around
+85% (Lesson 32). That converts newcomers into voting citizens, clustered in
+precisely the suburban ridings that decide elections. So **every party courts
+immigrant voters**, and anti-immigration politics stays electorally suicidal —
+which is why the consensus persists.
+
+The Canadian virtue, in other words, has a structure holding it up. That is
+not a cynical observation; it is the reason to expect the virtue to survive
+pressure that has broken it elsewhere.
 
 Today's demography (Lesson 24): ~23% foreign-born (G7's
 highest), visible minorities ~27% nationally — majorities in
@@ -174,148 +177,6 @@ distinction to preserve when you hear the debate.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — defend and critique, no strawmen.** Write two
-honest paragraphs: (a) multiculturalism is a demonstrable
-Canadian success; (b) multiculturalism has demonstrable
-failures and blind spots. Each paragraph must cite at least
-three specifics from this course; neither may caricature.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Success: judged by integration outcomes — the metric
-that matters — Canada leads the rich world: ~85%
-naturalization (L.32), second-generation university
-attainment exceeding old-stock Canadians, immigrant national
-identification at native levels, and majority-minority
-metros (L.04/24) functioning with low conflict; politically,
-the structure (points selection → suburban swing ridings →
-all-party courtship) has kept Canada nearly unique among
-Western democracies in having no electorally serious
-nativist party — while the official story ("you don't have
-to stop being who you were," L.32's ceremony) measurably
-speeds belonging rather than delaying it: retention and
-integration proved complements, not substitutes, which was
-1971's actual bet. (b) Failure/blind spots: the model's
-showcase outcomes ride on selection (L.16's eternal rule —
-comparing chosen skilled migrants to Europe's refugee flows
-flatters the mosaic); its symbolic layer coexists with
-material gaps it doesn't touch — racialized income
-disparities persisting into the second generation, L.41's
-credential walls (the surgeon driving the taxi is a
-multiculturalism-era artifact), L.33's policing
-disparities; it has no answer to Quebec's existential
-objection except federal-provincial silence
-(interculturalism and Bill 21 fill the vacuum, with s.33
-shielding the hard edge, L.31); and it mis-files the
-founding peoples — treating treaty nations as mosaic tiles
-(L.06/17's category error) — which the reconciliation era
-(L.24) is correcting against the framework rather than
-through it. Verdict discipline: both paragraphs are true;
-the model's honest score is "best-in-class with structural
-debts" — and the debts are named, which is itself part of
-the score.
-</details>
-
-**Exercise 2 — read the census chart.** Stylized origins
-data, share of population: 1871 — British ~60%, French ~31%,
-Indigenous ~2.5%, other European ~6%; 1971 — British ~45%,
-French ~29%, other European ~23%, visible minorities ~1%;
-2021 — British Isles ancestry ~30% (self-reported, fuzzy),
-French ~13%, visible minorities ~27% (South Asian ~7%,
-Chinese ~5%, Black ~4%...), Indigenous ~5%. Extract the
-three structural stories and the one artifact of
-measurement.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Story one — the third force's rise: 1871's two-founding-
-peoples country (91% British+French) became by 1971 a
-country where "other European" (L.16's sheep-skin coats and
-L.21's postwar waves) neared a quarter — the demographic
-fact that forced multiculturalism onto the B&B Commission's
-bilingual-bicultural frame: policy followed census. Story
-two — the points-system pivot: visible minorities ~1% in
-1971 (the year of the policy!) to ~27% by 2021 — official
-multiculturalism PRECEDED the diversity it now describes;
-1967's selection reform (L.21) did the demography, 1971's
-policy wrote the story first, an under-noticed sequence:
-Canada declared itself a mosaic while still 96% European,
-then grew into the declaration. Story three — the French
-share's fall (31% → 13%): the arithmetic behind every
-Quebec language policy (L.22/42's anxiety, quantified per
-census) and behind asymmetric-protection's rise (L.42's
-2023 Act). The measurement artifact: "British Isles ~30%,
-fuzzy" — ancestry is self-reported and increasingly
-answered as "Canadian" (the largest single response in
-recent censuses), so old-stock shares are undercounted
-noise: after 150 years, the founding categories are
-dissolving INTO the census's "Canadian" — which may be the
-chart's quietest and largest finding: the mosaic's tiles
-blur with time, exactly as the melting-pot's do; the
-models converge in the third generation, and only the
-official stories stay distinct.
-</details>
-
-**Exercise 3 — the interculturalism seminar.** Your Toronto
-book club reads a piece calling Quebec's Bill 21 "the end of
-the Canadian model." Explain to the group: what
-interculturalism actually claims, why Quebec rejects
-multiculturalism-the-word (L.22's history in the answer),
-where Bill 21 sits between model and betrayal-of-model, and
-what a fair-minded verdict sounds like.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "First, the claim: interculturalism says a small
-nation needs a declared common culture — French language,
-democratic values, laïcité's church-state separation — that
-newcomers integrate INTO, with their diversity welcomed
-inside that frame; it's not assimilation (retention is
-fine) but it rejects the mosaic's implication that Quebec
-is just one tile among many in somebody else's frame.
-Second, the history: multiculturalism-the-word arrived in
-1971 from the same Trudeau who fought Quebec nationalism —
-Quebec heard 'your nation is now one culture among 200'
-precisely when it was fighting for recognition as a
-founding people (L.22–23), so the rejection is
-constitutional wound as much as integration theory; note
-Quebec actually runs one of the world's most active
-integration states (francization courses, its own selected
-immigration, L.41) — the fight is over the story's frame,
-not over welcoming. Third, Bill 21: its defenders place it
-inside the model — laïcité as the common culture's term,
-inherited from the Quiet Revolution's liberation from
-clerical rule (L.22: a society that broke the Church's
-grip reads religious symbols in state authority
-differently); its critics note the burden lands almost
-entirely on visible religious minorities — hijab-wearing
-teachers, not lapsed Catholics — making it exclusion
-wearing integration's coat, and its s.33 shielding (L.31)
-concedes it couldn't survive rights review. Fair verdict:
-interculturalism-the-model is a legitimate, coherent
-alternative that English Canada strawmans at its peril —
-a declared trunk culture is what most nations have; Bill
-21 is that model's hard edge overreaching into individual
-conscience, contested vigorously WITHIN Quebec itself
-(Montreal vs the regions, per L.28's monolith rule). The
-end of the Canadian model it isn't — it's the Canadian
-argument (two frames, one country, managed forever,
-L.23's operating system) running exactly to spec."
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -401,59 +262,6 @@ ontology — insisting Canada's structure is founding
 pillars (Indigenous, French, English) with the mosaic
 built atop, which is in fact how the citizenship oath
 (L.32) now orders it.
-</details>
-
----
-
-## Homework
-
-The consensus-structure test: this lesson claimed Canada's
-pro-immigration consensus rests on a specific machine
-(selection + settlement + citizenship access + electoral
-inclusion + infrastructure keeping pace) rather than on
-national character. The 2020s stressed the last component.
-Write a paragraph predicting the consensus's next decade:
-which components are self-repairing, which need active
-maintenance, and what a genuine break would look like
-(distinguish it from the 2024–25 recalibration). Then a
-closing sentence: what should a NEW citizen — you, perhaps —
-do to be a maintainer rather than a free-rider of the
-machine?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Self-repairing components: electoral inclusion (demography
-compounds — suburban ridings grow more decisive each
-census, so party courtship intensifies automatically);
-citizenship access (no party gains from restricting it —
-the ~85% uptake is a stable equilibrium). Active-
-maintenance components: infrastructure pacing — the 2020s
-proved housing doesn't build itself to match targets
-(L.40's straddle blocks it), so volume must be actively
-matched to absorption or the recalibration cycle repeats;
-settlement/credential machinery (L.41's frictions erode
-the "selection works" story if surgeons keep driving
-taxis — each stranded professional is walking
-counter-evidence); and the temporary-streams integrity
-file (a two-tier market of precarious temporary workers is
-the machine's internal contradiction — permanent-track
-selection was the consensus's moral core). A genuine break
-would look like: the argument shifting from NUMBERS to
-KINDS — parties competing on ethnic or religious
-selection criteria, naturalization being made harder,
-birthright questioned — none of which the 2024–25
-recalibration touched (it cut volumes while reaffirming
-the model: maintenance, not rupture; the distinction this
-course wants you able to make on sight). Closing sentence,
-any honest version: "Maintainership means doing
-citizenship's boring verbs — file, vote, volunteer at the
-settlement agency that once helped you, correct the
-dinner-table caricature in both directions (L.36's ladder,
-L.43's evidence) — because the machine that welcomed me
-runs on participants, and I am now a component."
 </details>
 
 ---

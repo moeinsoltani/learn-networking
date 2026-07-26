@@ -40,31 +40,20 @@ Knives. Two subsequent attempts to fix that wound — **Meech Lake** and
 **Charlottetown** — failed spectacularly, nearly breaking the country
 (Lesson 22's 1995 referendum is Meech's direct child).
 
-```
-   PATRIATION AND ITS AFTERSHOCKS
+The sequence matters here more than in most lessons, because each step
+constrains the next.
 
-   1980   Referendum No + Trudeau's "renewal" promise (L.22)
-   1980–81  federal–provincial war: Trudeau threatens
-           unilateral patriation; 8 provinces (incl. Quebec)
-           form the "Gang of Eight" against him
-   Sep 1981  Supreme Court: legal unilaterally, but
-           unconstitutional-in-CONVENTION without substantial
-           provincial consent (a very Canadian ruling)
-   Nov 4–5 1981  the KITCHEN ACCORD / LONG KNIVES night:
-           Ottawa + 9 provinces cut the deal while Lévesque
-           sleeps across the river; Quebec wakes to a fait
-           accompli — and has never signed since
-   Apr 17 1982  CONSTITUTION ACT 1982: amending formula,
-           CHARTER (with s.33 override — the deal's price),
-           s.35 Indigenous rights, equalization commitment
-   1987–90  MEECH LAKE ACCORD: 5 conditions to bring Quebec
-           in ("distinct society"...) — dies at the deadline:
-           Manitoba (Elijah Harper's feather) & Newfoundland
-   1992   CHARLOTTETOWN ACCORD: everything for everyone —
-           national referendum kills it (54.3% No)
-   1995   referendum near-miss (L.22)
-   Since: nobody has touched mega-constitutional politics.
-```
+| When | What happened |
+|---|---|
+| **1980** | Quebec's referendum returns a No, and Trudeau promises constitutional "renewal" in exchange (Lesson 22) |
+| **1980–81** | Open federal–provincial war. Trudeau threatens to patriate the constitution unilaterally; eight provinces, Quebec among them, form the **"Gang of Eight"** against him |
+| **September 1981** | The Supreme Court rules — very Canadianly — that unilateral patriation would be **legal but unconstitutional by convention** without substantial provincial consent |
+| **November 4–5, 1981** | The **Kitchen Accord**, remembered in Quebec as *la nuit des longs couteaux* — the night of the long knives. Ottawa and nine provinces cut a deal in the small hours while Lévesque sleeps across the river in Hull. Quebec wakes to a done deal, and has never signed since |
+| **April 17, 1982** | The **Constitution Act, 1982**: an amending formula at last, the **Charter of Rights and Freedoms** (including the section 33 override, which was the price of the deal), section 35 recognizing Indigenous rights, and a commitment to equalization |
+| **1987–90** | The **Meech Lake Accord** — five conditions to bring Quebec in, "distinct society" among them — dies at its ratification deadline in Manitoba (Elijah Harper's feather) and Newfoundland |
+| **1992** | The **Charlottetown Accord** tries to give everyone everything, and a national referendum kills it: 54.3% No |
+| **1995** | Quebec's second referendum is a near-miss (Lesson 22) |
+| **Since** | No government has touched mega-constitutional politics again |
 
 The paradox to hold: the 1982 package is simultaneously Canada's
 proudest legal achievement (the Charter consistently polls as the top
@@ -182,116 +171,6 @@ it.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — read the architecture (ss. 1, 2, 33).** s.2 grants
-fundamental freedoms ("conscience... expression... peaceful
-assembly... association"). s.1 guarantees them "subject only to such
-reasonable limits prescribed by law as can be demonstrably justified
-in a free and democratic society." s.33 lets Parliament or a
-legislature declare a law operative "notwithstanding" ss. 2 or 7–15,
-renewable each five years. Explain the three-layer design in your
-own words, what each layer's *author* feared, and how it differs
-from the U.S. First Amendment's design.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The design: s.2 states the rights (the promise); s.1 builds
-<em>judicial</em> flexibility — courts themselves weigh whether a
-limit is reasonable and justified (the Oakes test, Lesson 31),
-meaning rights are strong presumptions, not absolutes; s.33 builds
-<em>legislative</em> flexibility — a democratic override, expensive
-in politics (you must say the quiet part aloud, on a five-year
-timer) but available. Fears encoded: s.2's authors (Trudeau's
-project) feared majorities — entrench rights beyond ordinary
-politics; s.1's authors feared American-style absolutism — a
-constitution unable to sustain hate-speech laws, reasonable gun
-rules, language policy; s.33's authors (the 1981 premiers — the
-clause was the Kitchen Accord's price) feared judges — nine
-appointees overruling elected houses on society's deepest choices.
-Contrast with the First Amendment: "Congress shall make no law" is
-single-layer absolutism — all flexibility must be smuggled in by
-judicial doctrine (and so US rights fights are fights over judges);
-the Charter puts the valves in the text, on the record, with
-authorship and expiry dates. It's Lesson 12's confidence-rule
-spirit applied to rights: power exists, but must continuously
-justify itself in the open. Whether s.33's recent normalization
-(Quebec's laïcité and language uses, Ontario's threatened uses)
-breaks the "expensive in politics" assumption is the live stress
-test — Lesson 31 takes it up.
-</details>
-
-**Exercise 2 — scenario (explaining the wound).** A new colleague
-from abroad: "Wait — Quebec never signed the constitution? How is
-it bound? Why hasn't anyone fixed this?" Four sentences for the
-mechanics, three for why every fix failed.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Mechanics: "Constitutional amendment never required every
-province's signature — the 1982 package passed with nine of ten,
-meeting the legal threshold, and the Supreme Court confirmed it
-binds Quebec like everyone else; the 'signature' Quebec withholds
-is political consent, not a legal requirement. So Quebec lives
-under a constitution it never endorsed — fully valid, permanently
-contested; its governments apply the Charter daily while keeping
-the objection formally alive. Think of it as a tenant who pays
-rent punctually while refusing on principle to sign the lease —
-the arrangement is stable precisely because both sides prefer the
-ambiguity to the showdown." Why fixes failed: "Meech Lake (1990)
-died because 'distinct society' struck much of English Canada as
-special status — and because Indigenous peoples, excluded yet
-again, killed it through Elijah Harper's procedural stand;
-Charlottetown (1992) tried to satisfy every constituency at once
-and was voted down by all of them for opposite reasons. Since
-then the settled wisdom is that reopening the constitution risks
-the country to fix a wound the country has learned to live with —
-so nobody reopens it."
-</details>
-
-**Exercise 3 — Elijah Harper's feather.** One MLA, one word
-("No"), one eagle feather — and the accord endorsed by eleven
-governments died. Write the paragraph explaining why *this* veto,
-of all vetoes, carried moral authority the premiers' signatures
-couldn't override — connecting Lessons 13, 15, and 17.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Meech proposed to amend Canada's fundamentals to
-reconcile one excluded founding people — negotiated, like 1867
-itself (Lesson 13), with the other founding peoples entirely
-absent from the table: eleven first ministers, none Indigenous,
-defining 'distinct society' for Quebec while the nations whose
-distinctness predated everyone remained a subsection of s.91(24).
-Harper's 'No' worked legally as procedure — Manitoba needed
-unanimous consent to hit the deadline — but it landed as
-jurisprudence from the longer court this course keeps meeting:
-Riel's address (Lesson 15), the treaty Elders' record (Lesson 17)
-— the insistence that agreements about a country's nature made
-over the heads of its first peoples carry a defect no signature
-count cures. The feather said it in the right grammar: not a
-filibuster's noise but a witness's refusal. And it was heard as
-legitimate across the country — including by many who mourned
-Meech — because by 1990 the Lesson 17 history was surfacing into
-public consciousness; two years later Charlottetown included the
-inherent right of self-government, the first constitutional text
-ever co-drafted with Indigenous leadership. It failed too — but
-the table had permanently gained chairs. One man, holding a
-feather, enforcing the Royal Proclamation's oldest clause:
-nothing about them, without them, ever again."
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -382,43 +261,6 @@ or 1774's Quebec Act — binding law whose legitimacy was earned
 after the fact by performance. The pattern is the course's spine:
 Canadian stability lives less in settled documents than in
 permanently managed disagreements.
-</details>
-
----
-
-## Homework
-
-Trudeau and Lévesque both died with their projects incomplete:
-Trudeau's Charter reigns, but with s.33 in it and Quebec unsigned;
-Lévesque's sovereignty lost twice, but his state-nation thrives
-inside the federation. Write each man's honest epitaph — two or
-three sentences each, in each one's own voice, conceding what he'd
-have to concede — then answer in one sentence: who won?
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Trudeau model: "I gave Canadians a charter they carry like a
-passport of the soul — and to get it, I accepted an override I
-despised and a signing table with an empty chair. I made French
-power ordinary in Ottawa and rights supreme in law; I could not
-make one people of two nations, and the clause I hated most is now
-used most against the minorities I built it for. The tree lives;
-the graft I wanted never took." Lévesque model: "I lost the
-country I wanted by fifty-four thousand votes and won almost
-everything it was for: a French state that schools its immigrants,
-runs its economy, and negotiates as a nation — inside the country
-I couldn't leave. They stole a night from me in November 1981; my
-consolation is that no Quebec premier of any party has ever
-forgiven it on my behalf. We remain — unsigned." Who won: the
-defensible one-liners are "Trudeau won the law, Lévesque won the
-society," or "Canada won — it kept both men's monuments and paid
-with permanent ambiguity," or simply "the referendum's margin
-says nobody did; the country's continuation says everybody did."
-Full marks for any answer that resists picking cleanly — by now
-you know that <em>is</em> the Canadian answer.
 </details>
 
 ---

@@ -29,12 +29,14 @@ lesson has the same shape:
 - A **"Words to know"** box — plain-English definitions and pronunciations for
   the medical terms (there are many, and they get intimidating fast).
 - **Concept** — the mental model and the big ideas.
-- **Going Deeper** — the details, tables, and specifics.
-- **Lab — Plan Together** — a scenario or checklist you work through *as a couple*,
-  then reveal a model answer.
-- **Further Reading** (reputable public-health & clinical sources), then
-  **Checkpoint** questions and a **Homework** task, each with a hidden model
-  answer.
+- **Going Deeper** — the details and specifics. Tables are always introduced by
+  text explaining what they show, so you can read the lesson straight through
+  rather than decoding a grid.
+- **Where to start** — the practical things to actually *do* at this stage,
+  written for both partners: what to book, what to pack, what to agree on, what
+  to say out loud to each other.
+- **Further Reading** (reputable public-health and clinical sources), then a few
+  **Checkpoint** questions with hidden answers, so you can check what stuck.
 
 Go at your own pace. You don't have to read it all at once — jump to the phase
 that matches where you are.

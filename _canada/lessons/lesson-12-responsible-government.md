@@ -38,26 +38,32 @@ an elected assembly — but the *executive* (governor and his councils)
 answered to London, not to the assembly. Voters could elect whoever they
 liked; power stayed with appointed cliques:
 
-```
-   THE BROKEN DESIGN (pre-1848)          THE FIX (responsible gov't)
+**Under the broken design**, London appointed the governor, and the governor
+took his advice from appointed councils of local notables. He ran everything.
+The elected assembly could vote, complain, and refuse money — but the governor
+could ignore it, and dissolve it when it became tiresome. Voters had a
+legislature but no government.
 
-   London                                London
-     │ appoints                            │ appoints
-   GOVERNOR ◄─── advice ── APPOINTED     GOVERNOR (ceremonial-izing...)
-     │                     COUNCILS        │ must call on
-   runs everything         ("Family       PREMIER + CABINET
-     ▲                     Compact" /       ▲ hold office ONLY while
-     │ can ignore          "Château         │ they command a majority in
-   ELECTED ASSEMBLY        Clique")       ELECTED ASSEMBLY
-   (votes, complains,                     (the confidence rule)
-    gets dissolved)
-```
+Those appointed councils had names, and the names stuck. In Upper Canada the
+clique was the **Family Compact**; in Lower Canada, the **Château Clique** —
+and there the grievance was national as well as democratic, since it meant an
+anglophone executive sitting on top of a francophone assembly.
 
-In Upper Canada the clique was the **Family Compact**; in Lower Canada, the
-**Château Clique** — and there the fight was also national: an anglophone
-executive over a francophone assembly. When petitions failed, both colonies
-rose in 1837. Both risings were crushed in weeks. And then — the very
-Canadian part — **the losers' cause won anyway**, peacefully, by 1848.
+**Under responsible government**, London still appoints the governor, but the
+governor becomes largely ceremonial: he must call on a premier and cabinet,
+and that cabinet holds office *only while it commands a majority in the
+elected assembly*. Lose that majority and the government falls. This is the
+**confidence rule**, and it is still the load-bearing beam of Canadian
+politics.
+
+So the difference is not whether people vote — they voted before 1848 too. It
+is whether the people who *run* things can be removed by the people who were
+*elected*.
+
+Getting from the first arrangement to the second took a decade and two
+failures. When petitions achieved nothing, both colonies rose in 1837, and
+both risings were crushed within weeks. And then came the very Canadian part:
+**the losers' cause won anyway**, peacefully, by 1848.
 
 ---
 
@@ -129,6 +135,26 @@ majorities*, French–English partnership ministries, and permanent deadlock
 between its equal halves — deadlock that becomes, in the next lesson, a
 main driver *of Confederation itself*.
 
+### Saying it in one sentence
+
+It is worth being able to define the term cleanly, because it is harder than
+it looks. A serviceable version: *responsible government means the people who
+actually run the country — the prime minister and cabinet — keep their jobs
+only as long as a majority of the politicians we elected keep voting to
+support them.*
+
+Two components carry the weight. First, the executive is **drawn from and sits
+in** the elected legislature, rather than being separately elected like a
+president. Second, it holds office **only while it commands the assembly's
+confidence** — lose a confidence vote and you resign or face the voters.
+
+Note what "responsible" is doing in the phrase. It means *answerable to*, not
+"sensible" or "honest." Two definitions go wrong in predictable ways: one
+describes ordinary democracy ("the people vote"), which cannot be right,
+because the United States has elections and does *not* have responsible
+government; the other describes integrity in office, when the term is
+structural rather than moral.
+
 {: .note }
 > **Why this beats any battle in importance**
 > Every Canadian government since — federal, provincial — lives or dies by
@@ -138,94 +164,6 @@ main driver *of Confederation itself*.
 > national template: Canada's independence (1867, 1931, 1982) arrived the
 > same way — by report, statute, and negotiation, a revolution conducted
 > entirely in paperwork.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — the one-sentence definition.** Define "responsible
-government" in a single sentence a teenager would understand — harder than
-it sounds. Then check the two components the model answer insists on.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Working version: "Responsible government means the people who actually run
-the country — the prime minister and cabinet — keep their jobs only as long
-as a majority of the politicians we elected keep voting to support them."
-The two load-bearing components: (1) the executive is <em>drawn from and
-sits in</em> the elected legislature (not a separately elected president);
-(2) it holds office <em>only while it commands the assembly's confidence</em>
-— lose a confidence vote and you resign or face the voters. "Responsible"
-here means <em>answerable to</em> the assembly (not "prudent"). Common
-failure modes in student definitions: describing mere democracy ("people
-vote") — no, the U.S. has that and does <em>not</em> have responsible
-government; or describing honesty in office — the term is structural, not
-moral.
-</details>
-
-**Exercise 2 — source work on Durham.** Two excerpts: *"I found two nations
-warring in the bosom of a single state..."* and *"...a people with no
-history, and no literature."* Plus his call to grant colonial
-self-government in domestic affairs. Assess: what did Durham get factually
-right, morally wrong, and analytically backwards — and what happened to
-each of his two recommendations?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Factually right: the diagnosis of deadlock — Lower Canada's politics
-<em>was</em> a national conflict wearing constitutional clothes, and the
-1791 design (elected assembly, unaccountable executive) <em>was</em>
-unworkable; his structural fix was exactly correct. Morally wrong: the
-contempt — "no history and no literature" for a 230-year-old society was
-false when written (and is best remembered as the insult that spurred
-French Canada to prove it wrong; Garneau wrote his monumental
-<em>Histoire du Canada</em> in direct rebuttal). Analytically backwards:
-believing assimilation was both desirable and inevitable — he
-misread la survivance (Lessons 08, 10) completely; within eight years of
-the Union built to drown the French vote, a French Canadian co-led the
-government. Scorecard: Recommendation 1 (union-for-assimilation) —
-implemented 1840, failed by 1848, produced the deadlock that forced
-Confederation; Recommendation 2 (responsible government) — resisted, then
-granted 1848, became the operating system of Canada and, eventually, of
-Westminster colonies from Australia to Barbados. One report; the Empire's
-worst insult and its best export.
-</details>
-
-**Exercise 3 — scenario.** A friend from a presidential republic asks: "So
-in 1849 a mob burned your parliament because the governor signed a bill he
-hated? Why do Canadians tell this as a *proud* story?" Explain what was
-actually being tested, and why Elgin's signature mattered more than the
-fire.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "What was on trial was whether the new rule was real. The Rebellion
-Losses Bill was deliberately painful: compensating a community that
-included recent rebels, passed by a French-and-reform majority, detested
-by the governor's own class and probably by the governor. Under the old
-system Elgin would have reserved or vetoed it — that's what governors were
-<em>for</em>. Instead he signed, stating in effect: my personal view and
-London's preference no longer govern; the elected majority does. The mob
-understood perfectly — that's <em>why</em> they burned the building; the
-fire was the old order's tantrum at its own demotion. Canadians tell it
-proudly because it's our version of a founding battle: the day the
-confidence rule beat both the Crown's discretion and street violence, with
-the constitutional loser (Elgin) behaving impeccably and thereby winning
-the longer game. Every boring, stable transfer of power since — and
-'boring transfer of power' is the rarest luxury in politics — descends
-from that signature." Bonus: note the deliberate contrast with 1776 —
-Canada's founding drama ends not with independence declared but with a
-veto <em>not</em> used.
-</details>
 
 ---
 
@@ -299,43 +237,6 @@ Terrebonne seat). They proved the alternative to both assimilation and
 separation: partnership between the two peoples as the working principle
 of Canadian government — the template Macdonald–Cartier inherit in the
 next lesson, and arguably the country's real founding partnership.
-</details>
-
----
-
-## Homework
-
-The confidence rule (1848) has never stopped running — Canadian governments
-still fall by it (six federal governments have lost confidence votes since
-1926). Sketch the chain from Elgin's 1849 signature to a hypothetical
-next-year minority government losing a budget vote: what happens at each
-step, who decides, and where in the chain the Crown's representative still
-appears. (Don't worry about precision — Lessons 25–27 will correct you;
-the goal is to test how much machinery you can already infer.)
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The chain you should be able to infer: a budget is automatically a matter
-of confidence (money is what assemblies were invented to control — the
-1837 grievances were substantially about cliques spending unvoted funds);
-losing the vote means the government has lost the assembly's confidence
-and must not continue governing. The PM then visits the governor
-general — Elgin's successor in the chain — with one of two requests:
-<em>dissolution</em> (an election, the usual outcome) or, rarely,
-<em>resignation</em> in favour of another leader who might command
-confidence (possible early in a parliament — the GG retains a sliver of
-genuine discretion here, the "reserve power," which is Elgin's role run in
-reverse and the subject of the King–Byng affair in Lesson 25). The
-election returns a new House; whoever commands its confidence — not
-necessarily the largest party! — governs. Marks for inferring: that the
-GG acts almost always on advice (1849's lesson: the Crown defers to the
-elected majority); that "confidence" attaches to specified votes (budgets,
-explicit motions); and that the whole drama runs on convention — none of
-this is written in the Constitution Acts, a very Canadian fact that
-Lesson 26 will make much of.
 </details>
 
 ---

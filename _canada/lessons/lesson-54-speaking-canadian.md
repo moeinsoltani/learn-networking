@@ -34,26 +34,37 @@ reference canon — the songs, shows, and sixty-second films that
 function as the national inside joke. Learn these and you're not
 just speaking English in Canada; you're speaking Canadian.
 
-```
-   THE DIALECT, LOCATED
+Canadian English sits precisely on a fault line, and the split is beautifully
+consistent once you see it: **spelling came from London, and objects came from
+Detroit.**
 
-   spelling:   colour, centre, cheque   (British side)
-   vocabulary: truck, gas, apartment    (American side)
-   the split:  -our/-re words UK; hard goods US — a country
-               that took spelling from London and stuff from
-               Detroit (L.11/38: the whole history, in ink)
-   sound:      "about" (the famous raising — NOT "aboot",
-               and mentioning "aboot" marks the American)
-   zed:        the letter Z. Non-negotiable. (L.48)
-   tags:       "eh?" = "right?/you with me?" (L.45)
-               "yeah, no" / "no, yeah" (L.49's decoder)
-```
+On the **British side** is the spelling — *colour*, *centre*, *cheque*, and
+the whole family of *-our* and *-re* words. On the **American side** is the
+vocabulary for physical things — *truck* rather than lorry, *gas* rather than
+petrol, *apartment* rather than flat. A country that imported its ink from
+Britain and its hardware from the United States is Lessons 11 and 38 written
+into the dictionary.
+
+A few other markers worth knowing. The **sound** most often noticed is
+Canadian raising, the vowel in *about* — and note carefully that Canadians do
+*not* say "aboot." Mentioning "aboot" marks you instantly as American. The
+letter **Z is "zed,"** not "zee," and this is non-negotiable (Lesson 48).
+And the **tags**: "eh?" functions as "right?" or "you with me?" (Lesson 45),
+while "yeah, no" and "no, yeah" are genuine grammatical constructions that
+Lesson 49's decoder will help you parse.
 
 ---
 
 ## Going Deeper
 
 ### The core lexicon (deploy immediately)
+
+Start with the everyday words that differ, because these are the ones that
+quietly mark you as new. Most are small — a different word for the same object —
+and using the Canadian version costs nothing and lands immediately. The one to
+learn first is **washroom**: not "restroom," not "toilet," and asking for it by
+the local name is the single fastest way to sound like you have been here a
+while.
 
 | Canadian | Elsewhere says | Notes |
 |---|---|---|
@@ -157,115 +168,6 @@ that adults still quote:
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — translate the paragraph.** Decode every marked item:
-*"Grab your toque, we're going out for a rip — I'll gas up, you
-run into the dep for a two-four and a bag of all-dressed. It's
-twenty klicks up the 401 to Dave's; he's being a keener about
-the potluck, eh, so his hydro bill's gonna be a gongshow with
-all those slow cookers. Total beauty though. Sorry we're late."*
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Toque — winter hat (L.51). Out for a rip — going for a drive/
-adventure (rural register; the speaker is performing casual-
-Canadian). Gas up — fill the tank (gas, not petrol — the
-American-vocabulary side of the dialect). Dep — corner store
-(Montreal English; geographic tension with "the 401" noted —
-this speaker has lived both, which happens). Two-four — case
-of 24 beers (L.52). All-dressed — the every-seasoning chip
-flavour (L.52's nationalist chip aisle). Twenty klicks —
-kilometres (L.50's metric roads). The 401 — Ontario's main
-highway, article mandatory. Keener — over-eager organizer
-(affectionate). Eh — consensus tag: "you know how he is,
-right?" Hydro bill — electricity bill (L.50). Gongshow —
-chaos (L.53's hockey word, generalized). Total beauty —
-top-tier praise of a person (L.53). "Sorry we're late" —
-punctuation (L.49). Full decode = you just read fluent
-casual Canadian; the paragraph's register (self-aware rural
-performance, affection hidden in mockery, apology as
-closer) is the dialect's soul, not just its dictionary.
-</details>
-
-**Exercise 2 — the spelling memo.** Your (Canadian) company's
-style guide is being written and an American teammate asks: "can
-we just use US spelling? It's basically the same language." Draft
-the two-paragraph reply a Canadian-raised lead would send —
-correct, warm (English-track L.18), and citing the actual system.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model reply: "Good question! It's close, but Canadian English
-is a real standard with its own dictionaries and a consistent
-rule set — we keep British -our/-re/-ce spellings (colour,
-centre, licence-the-noun, cheque for the bank kind) while
-using American vocabulary and -ize endings (organize, truck,
-apartment). Canadian users and clients notice: 'color' in our
-UI reads as 'built elsewhere,' the way 'colour' would in an
-American product. Since we're a Canadian company, I'd propose
-Canadian spelling as house style — the Canadian Press
-Caps and Spelling guide settles every edge case so we never
-debate one again." Second paragraph, the warmth + history:
-"There's a fun reason it's like this — Canada took its
-spelling from Britain and its stuff from the US (Loyalist
-founding, American neighbourhood — basically our whole
-history in ink), so the hybrid IS the standard, not a
-mistake. Happy to set the linter to en-CA so nobody has to
-actually remember any of this." Why this is the model: it
-asserts the standard without nationalism, gives the
-mechanical rule (-our/-re British, hardware American), names
-an authority (CP), solves it with tooling (the developer
-move), and teaches the L.11/38 history in one clause —
-firm content, soft delivery, which is both L.49 and the
-English track's entire Phase 3.
-</details>
-
-**Exercise 3 — canon triage.** A newcomer has one weekend to
-absorb the reference canon. Build the syllabus: six items in
-priority order with a one-line payoff for each — then name the
-item you must NOT fake familiarity with, and why.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model syllabus: (1) Three Heritage Minutes — burnt toast,
-Winnie, Naismith (fifteen minutes total; unlocks the "feels
-like a Heritage Minute" register and half the country's
-historical small talk); (2) the "I am Canadian" rant (ninety
-seconds; L.47's identity thesis, quotable); (3) The Log
-Driver's Waltz (three minutes; instant childhood-nostalgia
-citizenship — hum it and watch faces change); (4) The Hockey
-Sweater, read aloud (ten minutes; two-solitudes + hockey +
-childhood in one artifact — L.42/48/53 braided); (5) one
-Tragically Hip listen — "Ahead by a Century" or "Bobcaygeon"
-— plus five minutes on Gord Downie's farewell (the emotional
-canon's deepest current entry; L.24 connection included);
-(6) one Bob & Doug McKenzie sketch (the hoser caricature's
-source code — so you recognize the self-parody register when
-natives deploy it). The do-not-fake item: the Hip.
-Heritage Minutes can be charmingly half-known; but the Hip
-is HELD — people were in the room for that final concert,
-often crying, sometimes about someone they lost; faking
-Hip feelings is faking grief, and L.49's silent note-takers
-file it permanently. The correct newcomer move is the
-Exercise-1-of-L.53 gambit: "I only just met the Hip —
-what should I start with?" — which is not a gap in your
-Canadian-ness; it IS Canadian-ness: the country's deepest
-canon entry is best entered by asking, and everyone's
-answer is a small autobiography. Collect those.
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -353,56 +255,6 @@ Canadian at me" — simultaneously affectionate and teasing,
 which (by now you know) is the national register for
 everything beloved: the anthem, the Mounties, Tim's, and
 the country itself (L.45/47).
-</details>
-
----
-
-## Homework
-
-The capstone deployment week — and the phase's graduation: run
-five days with one advanced item per day drawn from this lesson
-(a correctly-landed "eh"; a Heritage Minute reference; a Hip
-question asked sincerely; "gongshow" at the right meeting; the
-metric-imperial mash-up executed clean — L.50). Log each landing:
-setting, reaction, and whether it felt like costume or clothing
-yet. Then write the phase's closing half-page: which of the seven
-lessons (48–54) moved you furthest from visitor toward local,
-and what remains genuinely unlearnable from outside — ending
-with your own answer to whether "speaking Canadian" is
-vocabulary or something else.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Grading the log: landings count when unremarked-upon —
-the goal is words that pass, not words that perform (a
-noticed "eh" got a smile; an unnoticed "washroom" got
-citizenship); costume-to-clothing typically flips fastest
-for the protocol layer (L.49's sorries and waves), slower
-for vocabulary, slowest for references — which is the
-correct order of acquisition and mirrors how natives got
-them (protocols drilled daily from age 3, canon absorbed
-by 12). The closing reflection's common findings: Lesson 49
-(unwritten rules) most-cited for daily transformation,
-Lesson 51 (winter) for emotional transformation, this
-lesson for belonging's final texture; the "genuinely
-unlearnable" candidates students name — the involuntary
-childhood layer (L.48's snow-day joy at 8 years old), the
-'72/2010 memories owned rather than learned — are real,
-and the honest close is that natives hold memories where
-you hold knowledge. But the course's last word goes the
-other way: L.47 established that Canada is a choice held
-together by argument and accommodation, which means the
-newcomer who CHOSE it, learned its code, pushes the
-stuck car (L.51), brings the potluck dish (L.52), asks
-about the Hip (this lesson), and says sorry on contact
-(L.49) is not imitating a Canadian — they are doing the
-thing Canadians do, which was always the only membership
-there was. "Speaking Canadian" is vocabulary for the
-first week; after that it's the kernel rule, kept warmly.
-Welcome home, eh.
 </details>
 
 ---

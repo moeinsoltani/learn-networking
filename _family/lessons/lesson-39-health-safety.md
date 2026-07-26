@@ -81,44 +81,23 @@ A baby goes from still to everywhere fast — proof the home *ahead* of crawling
 > reachable outlets, wobbly furniture, small objects, gaps at the stairs. Fix what
 > you find. It's the fastest, cheapest baby-proofing audit there is.
 
----
+### Where to start
 
-## Lab — Plan Together
+Two concrete tasks, both best done *before* your baby is mobile.
 
-**Exercise 1 — call, emergency, or home care?** Sort: (a) a 6-month-old with a mild
-cold and a low fever, feeding and playing fairly normally; (b) a 2-month-old with a
-temperature of 38.3 °C; (c) a baby struggling to breathe with a non-fading rash;
-(d) a baby with a runny nose but otherwise happy.
+**Book an infant CPR and first-aid class** if you have not. Infant technique
+differs from adult technique in ways you cannot improvise, and the confidence it
+gives you through a first year of illnesses and mishaps is worth the afternoon.
 
-**Your answer:**
+Then do the **baby's-eye-view crawl**: get down on the floor and move through
+each room the way your baby soon will. You will spot things standing height hides
+— trailing cords, an unanchored bookshelf, the low cupboard with the cleaning
+products, uncovered outlets, the gap at the top of the stairs, where hot drinks
+get put down. Turn it into a room-by-room list and work through it.
 
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) <strong>Home care / call if worried</strong> — a common viral cold; comfort,
-fluids, watch how they act. (b) <strong>Emergency — go now</strong>: fever ≥38 °C in
-a baby under 3 months. (c) <strong>Emergency — go now</strong>: breathing trouble +
-non-fading rash. (d) <strong>Home care</strong> — a happy baby with a runny nose is
-usually fine. Two are true emergencies (young-baby fever; breathing/rash); the others
-are ordinary illness.
-</details>
-
-**Exercise 2 — baby-proofing audit.** Do the "baby's-eye view" crawl in your mind
-for a living room and kitchen. List five hazards you'd fix.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Strong finds: <strong>anchor the TV/bookshelf</strong>; <strong>cover outlets</strong>
-and tuck away <strong>cords</strong> (including blind cords); <strong>gate the
-stairs</strong>; <strong>lock away chemicals/medicines</strong> and remove small
-objects/button batteries; in the kitchen, <strong>turn pot handles in</strong> and
-keep hot drinks back from edges; and never leave the baby near water. Five of these
-covers the biggest risks: tip-overs, outlets/cords, falls, poisons/choking, and
-burns/drowning.
-</details>
+Save **poison control** and your emergency numbers while you are at it. The point
+of doing all of this early is that the house is already safe on the day your baby
+starts crawling — which, reliably, is a day earlier than you expected.
 
 ---
 
@@ -174,27 +153,6 @@ Because knowing the <strong>infant choking response and CPR</strong> can
 <strong>save a life</strong> in a rare emergency — it's one of the highest-value
 preparations new parents can make. Also save <strong>poison control</strong> and
 emergency numbers.
-</details>
-
----
-
-## Homework
-
-Two concrete tasks: **book an infant CPR/first-aid class** (if you haven't), and do
-the **"baby's-eye view" crawl** through your home to make a baby-proofing to-do list
-(anchor furniture, cover outlets, gate stairs, lock away hazards, manage cords and
-hot liquids). Save **poison control** and emergency numbers.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The win is a booked first-aid class, a room-by-room baby-proofing list from a real
-"baby's-eye view" audit, and emergency numbers saved. Doing this <em>before</em> your
-baby is mobile means the home is safe by the time they're crawling — and knowing
-infant first aid gives you calm confidence for the illnesses and mishaps of a busy
-first year.
 </details>
 
 ---

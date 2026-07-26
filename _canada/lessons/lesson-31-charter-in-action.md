@@ -33,35 +33,34 @@ from the American model in one philosophical sentence: **Canadian
 rights are strong presumptions inside a balancing system, not
 absolutes.** The system has exactly three moving parts:
 
-```
-   THE CHARTER MACHINE
+The Charter is best understood as a machine with three moving parts: the
+rights themselves, a balancer that lets the state limit them, and an override
+that lets legislatures switch some of them off.
 
-   THE RIGHTS (ss. 2–23)
-   s.2   fundamental freedoms: conscience/religion,
-         expression, assembly, association
-   s.3–5 democratic rights (vote, elections every 5 yrs)
-   s.6   mobility (live/work anywhere in Canada)
-   s.7–14 legal rights: life, liberty, security (s.7);
-         search/seizure (s.8); arbitrary detention (s.9);
-         counsel (s.10); presumption of innocence (s.11)
-   s.15  equality — incl. ANALOGOUS grounds the courts
-         may add (sexual orientation was added this way)
-   s.16–23 language rights: official bilingualism +
-         minority-language education (L.42)
-        │
-        ▼
-   s.1 — THE BALANCER: all rights "subject only to such
-   reasonable limits prescribed by law as can be
-   demonstrably justified in a free and democratic
-   society" → the OAKES TEST (below): the state must
-   JUSTIFY every infringement, with evidence
-        │
-        ▼
-   s.33 — THE OVERRIDE: Parliament or a legislature may
-   declare a law operates NOTWITHSTANDING ss.2 & 7–15,
-   for renewable 5-year terms. The democratic escape
-   hatch — priced in politics, not law
-```
+**The rights** run from section 2 to section 23:
+
+| Sections | What they protect |
+|---|---|
+| **s.2** | Fundamental freedoms: conscience and religion, expression, peaceful assembly, association |
+| **ss.3–5** | Democratic rights — the right to vote, and elections at least every five years |
+| **s.6** | Mobility — the right to live and work anywhere in Canada |
+| **ss.7–14** | Legal rights: life, liberty and security of the person (s.7); protection from unreasonable search and seizure (s.8); from arbitrary detention (s.9); the right to counsel (s.10); the presumption of innocence (s.11) |
+| **s.15** | Equality — including *analogous* grounds that courts may add to the listed ones. Sexual orientation entered Canadian law exactly this way |
+| **ss.16–23** | Language rights: official bilingualism, and minority-language education (Lesson 42) |
+
+**The balancer is section 1.** Every right in the Charter is "subject only to
+such reasonable limits prescribed by law as can be demonstrably justified in a
+free and democratic society." This is not a loophole so much as a discipline:
+it means the state may limit a right, but it must *justify* the limit, with
+evidence, under the **Oakes test** set out below. Most Canadian rights
+litigation is fought here rather than over whether a right was engaged at all.
+
+**The override is section 33**, the notwithstanding clause. Parliament or a
+provincial legislature may declare that a law operates *notwithstanding*
+sections 2 and 7 through 15, for renewable five-year terms. It is the
+democratic escape hatch from judicial supremacy — and its price is political
+rather than legal, since a government using it must say so out loud and face
+the voters within five years.
 
 Remedies give it teeth: courts strike down offending laws (s.52),
 exclude tainted evidence, and order tailored remedies (s.24). Since
@@ -163,138 +162,6 @@ course's oldest theme: Canada entrenches balances, not trumps.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — run Oakes yourself.** A (hypothetical) province,
-citing distracted-driving deaths, bans **all** phone use by anyone
-under 25 anywhere in a vehicle — including passengers, including
-parked cars. A 22-year-old passenger challenges it under s.15
-(age discrimination) and s.7. Assume infringement is established;
-you're the government's lawyer, then the court. Walk each Oakes
-step honestly and give the verdict.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Government's best case: objective — reducing road deaths among
-the highest-risk cohort: pressing and substantial, easily
-(step 1 passes; it nearly always does). Rational connection —
-phone use causes distraction crashes; statistics support
-targeting young drivers: plausibly passes for <em>drivers</em>...
-and already strains for passengers and parked cars (what's the
-causal path from a parked passenger's text to a collision?).
-Minimal impairment — collapse: the ban sweeps passengers
-(no driving role), parked vehicles (no danger), and uses a
-crude age line when existing law already bans handheld use for
-<em>all</em> drivers; obvious less-intrusive alternatives
-(driver-only rules, graduated licensing restrictions —
-which Canadian provinces actually use) achieve the goal.
-Fails 2(b). Balance — unnecessary given 2(b), but the tally is
-lopsided anyway: marginal safety gain over existing law vs. a
-broad liberty/equality intrusion on a million non-drivers.
-Verdict: infringement not justified; law struck (likely with
-the passenger/parked provisions severed first if the province
-begs). The teachable core: Oakes almost never kills laws at
-"is the goal good?" — it kills them at "did you tailor the
-means?", which is why Charter litigation is really an audit of
-legislative craftsmanship, and why departments now draft with
-Oakes memos on the table: the test disciplines lawmaking
-<em>before</em> any judge sees it. That invisible discipline is
-the Charter's largest effect.
-</details>
-
-**Exercise 2 — source work: read s.33, then judge it.** The text:
-*"Parliament or the legislature of a province may expressly
-declare... that the Act or a provision thereof shall operate
-notwithstanding a provision included in section 2 or sections 7
-to 15 of this Charter."* Five-year sunset, renewable. Answer
-honestly: (a) what's the strongest case that this clause is
-*wise*; (b) the strongest that it's *poison*; (c) where the
-2019–2023 pattern moves your own needle, and why.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Wise: democratic final-say — nine unelected lawyers
-shouldn't hold absolute veto over every social question in a
-democracy (the US shows where judicial supremacy leads:
-court-capture politics, Lesson 30); s.33 keeps ultimate
-authority with people voters can fire, but forces them to
-<em>say aloud</em> "we are overriding rights," on a five-year
-clock spanning an election — accountability by confession. It
-also made the Charter possible at all (no s.33, no 1982 —
-Lesson 23), and its mere existence arguably moderates courts
-(rulings survive by persuading the public, not by being
-unanswerable). (b) Poison: rights that a majority may suspend
-are privileges — and the clause's exclusions tell you who pays:
-ss. 2 and 7–15 (expression, religion, liberty, equality) can be
-overridden, while democratic and language rights cannot —
-i.e., the rights most needed by unpopular minorities are
-precisely the overridable ones, and Bill 21 (religious
-minorities, disproportionately Muslim women) is the
-demonstration, not the hypothetical. The political-pricing
-theory assumed overrides would be rare and costly; pre-emptive
-use at zero electoral cost falsifies the assumption — the gun's
-deterrent was the taboo, and taboos don't renew themselves.
-(c) Honest needle-moves: if you began pro-s.33, the
-<em>pre-emptive</em> pattern (blocking review before it
-happens) should trouble you — confession-accountability
-requires the confession to be heard in court records and
-election campaigns, and pre-emption mutes both; if you began
-anti, note Ontario's 2022 retreat (mass labour mobilization
-made the price real) shows the political-pricing mechanism
-still fires when citizens supply the price. Which is the
-uncomfortable synthesis the course keeps delivering: Canadian
-rights are finally guaranteed by civic culture, not text —
-the parchment's valves are set by whoever shows up.
-</details>
-
-**Exercise 3 — scenario: the dinner-party absolutist.** A US
-friend: "Your hate-speech laws prove Canada doesn't have real
-free speech. The First Amendment is the only honest standard."
-Give the Canadian reply in about six sentences — comparative,
-specific, non-defensive — and concede the best American point.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Canada protects expression in s.2(b) as broadly as your
-First Amendment at step one — everything from flag-burning to
-your right to be wrong at dinner — the difference is step two:
-our constitution makes the state justify each limit publicly,
-by evidence, under the Oakes test, instead of pretending no
-limits exist. And the US pretence is exactly that — you limit
-speech constantly (defamation, obscenity, incitement, true
-threats, securities law, classified leaks); you've just
-delegated the line-drawing to judicial doctrine nobody voted
-on, while we put the balancing clause in the text and the
-burden on the government. So Keegstra upheld a narrow
-hate-propaganda ban after a full justification hearing —
-wilful promotion of hatred against identifiable groups, with
-truth as a defence — while your system protects the Nazi march
-and trusts counter-speech; those are different bets about how
-fragile pluralism is, made by a country that watched what
-propaganda does to a two-nations state versus one that's never
-had its Weimar moment. Ours costs us edge cases and
-chilling-effect risks at the margin; the concession you've
-earned: the strongest American point is that
-justified-limits regimes depend on who's doing the justifying
-— and our s.33 era shows a majority can skip the justification
-entirely, which no First Amendment government can do. Honest
-scoreboard: you have absolutism with hidden exceptions; we
-have balancing with an escape hatch — and each country's
-system is currently being stress-tested at its exact weak
-point."
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -379,64 +246,6 @@ pricing mechanism still works. Current equilibrium: contested —
 which is to say, the Charter's real guarantee is turning out to
 be (as its drafters privately knew) the civic culture around
 it.
-</details>
-
----
-
-## Homework
-
-**Phase 5 synthesis.** The phase showed one design signature
-everywhere: Crown powers nobody uses (25), a Senate that yields
-(26), a PM leashed only by confidence (27), an electoral system
-that trades fairness for governability (28), federalism's
-managed fog (29), boring judges (30), and rights with valves
-(31). Write ~250 words naming this signature — call it what you
-like ("load-bearing ambiguity," "entrenched balance,"
-"governability first") — explaining the trade it makes, when it
-fails, and whether you'd import it elsewhere. Then take the
-self-test.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Model skeleton: The signature is <em>power held in reserve,
-disciplined by convention, priced in politics</em> — Canada
-consistently declines to specify final answers (who can refuse
-dissolution, when the Senate may insist, what "distinct
-society" means, whether s.33 is legitimate), preferring
-ambiguous authority wrapped in behavioural norms. The trade:
-maximum governability and flexibility — the system bends
-around crises (King–Byng, patriation, referendums) that
-codified systems might shatter on — purchased with
-accountability fog and dependence on elite self-restraint. It
-fails exactly where the course has flagged: when an actor
-defects from the norm and pockets the ambiguity (pre-emptive
-s.33; prorogation-to-survive; a future PM testing every
-convention at once) — unwritten constitutions are only as good
-as the shame of the people operating them, and shame is a
-depleting resource in modern politics. Export verdict (either
-defensible): no — this system is path-dependent, requiring
-160 years of accumulated convention, homogeneous elite
-socialization, and a citizenry that punishes defectors; bolted
-onto a low-trust polity it delivers strongman government with
-Westminster manners. Or yes, partially — the specific
-machines (non-partisan election administration, boring-judge
-appointment, reference cases, suspended declarations) are
-modular and importable even where the ambient culture isn't.
-Best answers notice the phase's quiet dependency: every
-institution studied ultimately outsources its guarantee to
-the same place — an attentive public — which is why the next
-phase is Civic Life.
-<br><br>
-<strong>Phase 5 self-test:</strong> 1. The Crown
-reigns/confidence rules — explain. 2. Five bill stages + two
-chamber asymmetries. 3. Who becomes PM after a hung election?
-4. 39% → majority: mechanism? 5. Health care: whose
-jurisdiction, whose money? 6. Three SCC seats rule and why.
-7. Oakes' steps; where laws die. 8. s.33: theory vs 2019–23
-practice. 6/8 to proceed.
 </details>
 
 ---

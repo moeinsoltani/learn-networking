@@ -22,7 +22,7 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 > - **middlemen** — traders who buy from producers and resell at a profit, controlling access between the two.
 > - **à la façon du pays** (ah lah fah-SOHN dew pay-EE) — "in the custom of the country": marriages between traders and Indigenous women under Indigenous law.
 > - **kinship** — family relationship; in Indigenous trade culture, being family (by blood or marriage) was the precondition for doing business.
-> - **pidgin** (PIJ-in) — a simplified mixed language used only for basic trade (Michif is *not* one — see Exercise 3).
+> - **pidgin** (PIJ-in) — a simplified mixed language used only for basic trade; Michif is emphatically *not* one, and the difference matters (explained below).
 > - **dispossession** (dis-poh-ZESH-un) — having your land and property taken away.
 > - Names: **Michif** (mee-SHIF), **Assiniboine** (uh-SIN-ih-boyn), **Saulteaux** (SOH-toh), **Lachine** (lah-SHEEN), **voyageurs** (voy-ah-ZHUR).
 
@@ -35,6 +35,12 @@ demand was built: the exploration and mapping of half a continent, the
 economic logic of New France, a corporation that "owned" a third of North
 America, the birth of a new Indigenous nation — and, eventually, the
 territorial shape of modern Canada.
+
+It is worth seeing the whole chain at once, because every later argument about
+the fur trade is really an argument about who held which link. The furs were
+produced by Indigenous trappers in the interior, exchanged at posts for
+manufactured goods, carried east by canoe brigade or ship, and finally turned
+into hats in Europe:
 
 ```
    THE HAT SUPPLY CHAIN, ~1750
@@ -68,6 +74,23 @@ and set the protocols (gift exchange, kinship) under which trade happened.
 
 ### Two rival systems
 
+For most of the eighteenth century the trade was a contest between two
+companies with opposite strategies, and the contrast is the easiest way to
+remember how the West got mapped.
+
+The **Hudson's Bay Company** held a royal charter and simply waited. Its
+posts sat on the shore of Hudson Bay, and Indigenous traders brought furs
+down the rivers to them — a strategy its critics summarized as "sleeping by
+the frozen sea." It was cheap, it was low-risk, and it worked as long as
+nobody intercepted the customers.
+
+Somebody did. The Montreal traders, reorganized after the Conquest as the
+**North West Company**, had no charter and no coastline, so they competed by
+going *to* the customer — pushing thousands of kilometres inland by canoe and
+planting posts in the middle of Indigenous country. This was expensive,
+exhausting, and effective enough to nearly bankrupt the HBC, but it also
+overextended the NWC, and in 1821 the two merged under the HBC name.
+
 | | **Hudson's Bay Company** | **Montreal traders → North West Company** |
 |---|---|---|
 | Founded | 1670, by English royal charter | French system; reorganized as NWC ~1779 after the Conquest |
@@ -81,6 +104,32 @@ The competition mapped the West: NWC explorers seeking routes and customers —
 Lewis & Clark by 12 years), **Simon Fraser**, **David Thompson** (who mapped
 more of North America than anyone) — travelled with and depended on
 Indigenous guides whose knowledge the maps encoded.
+
+### The charter that "gave away" a third of Canada
+
+The HBC's 1670 charter deserves a paragraph of its own, because it is the
+origin of a legal problem Canada is still working through.
+
+Charles II granted his cousin Prince Rupert and his partners a monopoly over
+the entire watershed draining into Hudson Bay — **Rupert's Land**, nearly four
+million square kilometres — in a single document. On paper it is one of the
+largest real-estate transfers in history. On the ground it meant a handful of
+forts on the shore of the Bay and the legal right, *against other Englishmen*,
+to trade there. The Crown was allocating a business exclusivity addressed to
+European rivals, exactly as Cartier's cross had been addressed to them in
+Lesson 07.
+
+The tens of thousands of Cree, Dene, Inuit and others who actually governed
+that land were never consulted, and most of them never saw an HBC employee.
+They dealt with the posts as sovereign customers, not as subjects. The fiction
+became consequential two centuries later, when the HBC "sold" Rupert's Land to
+Canada in 1870 for £300,000 — a transaction between a company and a Crown in
+which the inhabitants were again not parties. The Métis at Red River objected
+immediately (Lesson 15), and the legal cleanup — the numbered treaties, and
+the modern land claims that followed — is still going on (Lessons 17 and 44).
+
+The short version: the charter was real as law and absurd as geography, and
+Canada inherited both properties.
 
 ### "Made Beaver": the economics
 
@@ -107,6 +156,23 @@ the trade with pemmican), its flag (the infinity symbol, flown from 1816),
 and its own political consciousness — which Canada will collide with in
 Lesson 15.
 
+Michif itself is worth pausing on, because its grammar is historical evidence.
+Languages born of unequal contact usually become **pidgins** — stripped-down
+grammars adequate for buying and selling and nothing more. Michif is the
+opposite. It fuses two *complete* systems: full French noun phrases riding on
+full Cree verb morphology, which is among the most complex in the world.
+Linguists read that as the signature of a genuinely **bilingual community**
+rather than a trading jargon — children raised hearing fluent French from one
+side of the family and fluent Cree from the other, in households where both
+were languages of prestige.
+
+Which tells you something about the society that produced it: sustained
+intermarriage between rough equals, contact that was domestic rather than
+merely commercial, and a community stable and self-aware enough to standardize
+its own blend. And the fact that the *verbs* — the load-bearing wall of any
+sentence — came from Cree quietly records whose world the daily work of the
+household ran in: the mothers'.
+
 ### What the trade changed — both ways
 
 Indigenous nations reorganized around the trade: some (Cree, Assiniboine)
@@ -130,90 +196,6 @@ dispossession is *the* hinge of Canadian Indigenous history.
 > empire, and are woven into both cherished craft traditions and (via
 > disease-era associations) painful memory in different Indigenous
 > communities.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — trace the fur.** A beaver is trapped in Cree country
-northwest of Lake Superior, winter 1770. Reconstruct its pelt's journey to a
-London hat — via the *French/NWC-style* route — naming who handles it at
-each stage and what they get. Then note how the HBC route would differ.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Cree trapper takes the beaver on his family's trapline; the pelt (worn a
-season, ideally — "coat beaver" felts best) is traded at an inland post,
-opened with pipe and gifts, priced in Made Beaver against kettles, cloth,
-powder, or a gun. A wintering clerk bales it; come spring, <strong>voyageur</strong>
-canoe brigades run the bales east — up rivers, over portages (two 40-kg
-pieces per man per carry) — to the great rendezvous at Fort William on Lake
-Superior, where winterers hand off to the Montreal brigades; those paddle the
-Ottawa River route down to Lachine/Montreal. Merchants (post-1763, mostly
-Scots — the NWC partners) sort, grade, and ship pelts to London auction;
-felt-makers strip the underfur, felt it, and a hatter blocks the hat some
-barrister buys on the Strand. Everyone in the chain is paid: the trapper in
-goods, the voyageur in wages (and famous debt), the partners in shares, the
-Crown in duties. The HBC alternative: the same pelt travels
-<em>north</em> by Indigenous hands to York Factory on the Bay and goes by
-ship straight to London — shorter European leg, longer Indigenous leg, no
-voyageurs. Two logistics networks; one hat.
-</details>
-
-**Exercise 2 — scenario.** "So a king just *gave* a company a third of
-Canada?" Explain the 1670 HBC charter honestly: what was granted, what
-"ownership" meant on the ground, and who wasn't consulted.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "In 1670 Charles II granted his cousin Rupert and partners a monopoly
-charter over the entire watershed draining into Hudson Bay — 'Rupert's
-Land,' nearly four million km², one of history's largest real-estate strokes
-of a pen. But on the ground, 'ownership' meant a handful of forts on the Bay
-shore and the legal right (against <em>other Englishmen</em>) to trade there
-— the Crown was really allocating a business exclusivity, addressed to
-European rivals, exactly like Cartier's cross in Lesson 07. The tens of
-thousands of Cree, Dene, Inuit and others actually governing that land were
-never consulted and mostly never saw an HBC man; they dealt with the posts
-as sovereign customers, not subjects. The fiction became consequential two
-centuries later, when the HBC 'sold' Rupert's Land to Canada in 1870 for
-£300,000 — a transaction between company and Crown in which the inhabitants
-again weren't parties. The Métis at Red River objected immediately (Lesson
-15), and the legal cleanup — the numbered treaties, and modern land claims —
-continues today (Lesson 17). Short version: the charter was real as law and
-absurd as geography, and Canada inherited both properties."
-</details>
-
-**Exercise 3 — the Michif test.** Michif takes its nouns (and adjectives)
-mostly from French and its verbs (the grammatical engine) from Cree. What
-does the *structure* of this language tell you about the social structure
-that produced it?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Languages born of unequal contact are usually pidgins — simplified grammars
-for minimal transactions. Michif is the opposite: it fuses two <em>complete,
-complex</em> systems — full French noun phrases riding on full Cree verb
-morphology (among the world's hardest) — which linguists take as the
-signature of a <em>bilingual community</em>, not a trading pidgin: children
-raised hearing fluent French from one parent's line and fluent Cree from the
-other's, in households where both were prestige languages. That implies
-sustained intermarriage between rough equals, domestic (not merely
-commercial) contact, and a community stable and self-conscious enough to
-standardize its blend — i.e., the language itself is evidence that the Métis
-were a genuine new people, born of partnership rather than domination. The
-verbs being Cree — the load-bearing wall — quietly records whose world the
-household's daily work ran in: the mothers'.
-</details>
 
 ---
 
@@ -296,46 +278,6 @@ their own flag from 1816 (Battle of Seven Oaks), provisional governments in
 Métis governments negotiating self-government agreements. Mixed ancestry is
 common across humanity; a flag, a language, a law of the hunt, and two
 provisional governments are what nationhood looks like.
-</details>
-
----
-
-## Homework
-
-The fur trade ran on a *relationship economy* (trade opened with gifts,
-sealed by kinship, sustained by trust) meeting a *transaction economy*
-(prices, ledgers, Made Beaver). Write a paragraph on how each side adapted
-to the other's system — then draw the modern parallel to a business context
-you know (enterprise sales? open-source maintainership? your last vendor
-negotiation?) where relationship logic and transaction logic still have to
-be translated into each other.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Historical half: the companies learned to speak relationship — post factors
-budgeted for annual gift ceremonies, learned pipe protocol, and accepted
-that trade wouldn't open without them (HBC ledgers literally carry a line
-item for gifts); marriages à la façon du pays were the deepest adaptation —
-executives becoming kin. Indigenous traders, for their part, mastered
-transaction: comparison-shopping empires, arbitraging HBC vs French prices,
-withholding supply for better terms — the factors' journals record them as
-formidable price negotiators. Neither side "converted"; each learned enough
-of the other's grammar to compose deals both could enforce. Modern parallel
-(one strong version): enterprise sales still runs on exactly this
-translation — the contract is transactional, but no seven-figure deal closes
-without the relationship layer (champions, trust, dinners, the gift economy
-of conference swag), and salespeople who treat relationship work as
-overhead lose to those who budget for it like an HBC factor. Same in
-open source: maintainers accept patches (transactions) at rates governed by
-reputation and reciprocity (relationship); a first-time contributor's PR
-"opens with gifts" — tests, docs, deference to conventions. The durable
-insight: when two economic grammars meet, the profitable skill is
-translation, and the fur trade's two centuries of successful translation —
-followed by collapse into pure dispossession when translation stopped — is
-as clean a case study as history offers.
 </details>
 
 ---

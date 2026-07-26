@@ -40,26 +40,26 @@ firmly inside the Empire — foreign policy remained London's until the
 three simultaneous emergencies**, and its architecture — federalism — was
 the price of getting French and English into one state:
 
-```
-   WHY 1867 HAPPENED — THE THREE PRESSURES
+The first emergency was **deadlock**. The Province of Canada, welded together
+in 1841 (Lesson 12), had become ungovernable: two equal halves, an informal
+convention that laws needed majorities in both, and ministries falling like
+dominoes — four in three years. Federation was the way out, and it worked
+rather like a divorce: split the province back into Ontario and Quebec, let
+each run its own affairs, and give them a shared roof for the things they
+genuinely had in common.
 
-   1. DEADLOCK  the Province of Canada (Lesson 12) was
-      ungovernable: equal halves, double majorities,
-      ministries falling like dominoes (4 in 3 years).
-      Fix: divorce-by-federation — split it back into
-      Ontario & Quebec, each running its own affairs.
+The second was **the Americans**. The Civil War had just ended, leaving a
+battle-hardened Union army of a million men on the other side of the border,
+newspapers openly discussing annexation, Irish-American **Fenian** raiders
+crossing to strike at Britain through Canada in 1866, and Washington
+cancelling the Reciprocity Treaty that had given the colonies free trade.
+Alone, each colony was indefensible. Together, perhaps not.
 
-   2. THE AMERICANS  the Civil War just ended: a million-man
-      Union army, annexationist newspapers, Fenian raids
-      across the border (1866), and the U.S. cancelling the
-      Reciprocity (free-trade) Treaty. Alone, each colony
-      was indefensible; together, maybe not.
-
-   3. RAILWAYS & MONEY  colonies drowning in railway debt,
-      needing a common market and credit to build the
-      Intercolonial line — and the Grand Trunk's London
-      bankers pushing union to protect their loans.
-```
+The third was **railways and money**. The colonies were drowning in railway
+debt, needed a common market big enough to justify more track, and wanted the
+credit to build an Intercolonial line linking the Maritimes to the
+St. Lawrence. Behind them, the Grand Trunk Railway's London bankers pushed
+hard for union — mainly to protect their loans.
 
 Add Britain's mood — tired of defending colonies that cost more than they
 returned — and union stopped being a dream and became the path of least
@@ -143,6 +143,63 @@ with **no Indigenous participation whatsoever**, while s.91(24) quietly
 made "Indians" a federal *subject matter* — the legal doorway to the
 Indian Act (Lesson 17).
 
+### How Cartier sold it to Quebec
+
+Cartier had the hardest job of the four, and how he did it explains why Quebec
+agreed to a country it could have refused. His opponents, the *rouges*, had a
+sharp line ready: Confederation was simply Durham's union enlarged —
+assimilation with extra steps.
+
+His first answer was that federation **reverses** the Union rather than
+extending it. Since 1841 French Canada had shared a single legislature in
+which it could be outvoted on everything, forever, and immigration was making
+the arithmetic worse every year. Confederation *restores a Quebec* — a
+province with a French Catholic majority controlling its own civil law,
+education, municipalities, and lands. Not the assimilation machine enlarged:
+the exit from it.
+
+His second was that **the alternative was America**. Alone, the colonies would
+fall one by one into the United States, and Louisiana showed what became of
+French-language rights there. Better a federation with written guarantees than
+a republic with a melting pot.
+
+His third was the guarantees themselves, **in writing**: section 133's
+bilingual Parliament and courts, section 93's protection of denominational
+schools, the civil law left untouched, Quebec's 65 seats fixed. And beneath
+all three he offered a larger idea — a new "political nationality," Canadian,
+in which French Canadians would be partners rather than a minority problem.
+
+History has graded him generously on structure: Quebec exists, and *la
+survivance* got its institutional fortress. The partnership's *terms*, though,
+have been contested at every crisis since, which is why Quebec's recurring
+question in Lessons 22 and 23 is always the same one — were the guarantees
+kept?
+
+### Reading an absence: section 91(24)
+
+One clause in the Act rewards the kind of close reading you gave Cartier's
+cross in Lesson 07 and the HBC charter in Lesson 09. Section 91 lists the
+federal Parliament's powers, and item 24 reads, in full: **"Indians, and Lands
+reserved for the Indians."**
+
+Ask the same three questions. *Who is speaking?* Two colonial peoples,
+negotiating the terms of their own partnership. *Who is spoken about?* The
+continent's first peoples — who appear in the document only as a **subject
+matter**, slotted into a list between fisheries and naturalization. *What does
+the grammar do?* It converts treaty partners into objects of administration.
+The Royal Proclamation had called them "Nations or Tribes… with whom We are
+connected" — parties, in a relationship. Section 91(24) makes them a topic
+within someone else's constitution, a jurisdiction like postage or ferries.
+
+Everything in Lesson 17 flows through that grammar: the Indian Act, status,
+reserves, and the residential schools, all justified as exercises of the
+jurisdiction this clause created. And the counterpoint completes the arc —
+section 35 of the Constitution Act, 1982 ("existing aboriginal and treaty
+rights… are hereby recognized and affirmed") begins the grammatical repair,
+moving Indigenous peoples from object back toward party, with modern treaties
+and self-government agreements continuing it (Lesson 44). In constitutional
+documents, the prepositions are where the power is.
+
 {: .note }
 > **"Dominion" — the polite invention**
 > The delegates wanted "Kingdom of Canada"; London vetoed it as
@@ -151,92 +208,6 @@ Indian Act (Lesson 17).
 > neither independent nor quite a colony. Inventing a diplomatic
 > euphemism to avoid irritating the Americans is, you may by now
 > recognize, foundational Canadian statecraft.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — citizenship rapid round.** From memory: (1) the date of
-Confederation; (2) the four original provinces; (3) the document; (4) the
-first PM; (5) what "Fathers of Confederation" means; (6) today's name for
-the founding holiday; (7) where the first conference met; (8) the phrase
-containing "Peace, Order."
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(1) July 1, 1867. (2) Ontario, Quebec, Nova Scotia, New Brunswick.
-(3) The British North America Act, 1867 — renamed the Constitution Act,
-1867 in 1982. (4) Sir John A. Macdonald. (5) The ~36 colonial delegates
-to the Charlottetown, Quebec, and London conferences who negotiated the
-union. (6) Canada Day (formerly Dominion Day). (7) Charlottetown, PEI —
-September 1864. (8) "Peace, Order, and good Government" (POGG), the
-federal law-making grant in s.91. All eight = citizenship-test-ready on
-this topic.
-</details>
-
-**Exercise 2 — the Cartier problem.** Put yourself in Cartier's shoes,
-1865, selling Confederation to a hostile Quebec audience (the *rouges*
-call it assimilation with extra steps — "Durham's union, enlarged").
-Write his three strongest arguments. Then check against what he actually
-argued.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Cartier's actual case: (1) <strong>Federation reverses the Union</strong>
-— since 1841 French Canada has shared one legislature where it can be
-outvoted on everything, forever, and immigration is making it worse;
-Confederation <em>restores a Quebec</em> — a province where a French
-Catholic majority controls its own civil law, education, municipalities,
-and lands. Not assimilation with extra steps; the <em>exit</em> from the
-assimilation machine. (2) <strong>The alternative is America</strong> —
-alone, the colonies fall one by one into the Union, where Louisiana
-shows the future of French rights (none). Better a federation with
-guarantees than a republic with a melting pot. (3) <strong>Guarantees in
-writing</strong> — s.133's bilingual Parliament, s.93's school
-protections, the civil law untouchable, Quebec's 65 seats fixed. He
-also offered a bigger idea: a new "political nationality" — Canadian —
-under which French Canadians would be partners, not a minority problem.
-History's grade: the structure held (Quebec exists, la survivance won
-its institutional fortress), though the partnership's terms have been
-contested at every crisis since — which is precisely why Cartier ranks
-with Macdonald and why Quebec's later question (Lesson 22) is always
-"were the guarantees kept?"
-</details>
-
-**Exercise 3 — reading an absence.** Section 91(24) of the BNA Act
-assigns to the federal Parliament: "Indians, and Lands reserved for the
-Indians." Analyze this clause the way you analyzed Cartier's cross
-(Lesson 07) and the HBC charter (Lesson 09): who is speaking, who is
-spoken about, what does the grammar do?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Who speaks: two colonial peoples negotiating their partnership. Who is
-spoken about: the continent's first peoples — present in the text only
-as a <em>subject matter</em>, listed in s.91 between "Sea Coast and
-Inland Fisheries" (24 comes after Ferries and before Naturalization) —
-nations reclassified as a jurisdiction, like fisheries or postage. The
-grammar's work: it converts treaty partners (Royal Proclamation:
-"Nations or Tribes... with whom We are connected") into objects of
-administration — not parties to the constitution but a topic within it.
-Every consequence in Lesson 17 — the Indian Act, status, reserves,
-residential schools (justified as exercising s.91(24) jurisdiction) —
-flows through this clause's grammar. The modern counterpoint completes
-the arc: s.35 of the 1982 Constitution ("existing aboriginal and treaty
-rights... are hereby recognized and affirmed") begins the grammatical
-repair — from object back toward party — and modern treaties and
-self-government agreements (Lesson 44) continue it. Constitutional
-grammar is destiny; read the prepositions.
-</details>
 
 ---
 
@@ -317,45 +288,6 @@ would protect his people better than isolation. Federalism — Canada's
 defining structure — is thus not an American import but the direct
 constitutional imprint of the French–English bargain, which is why every
 later Quebec crisis (Lessons 22–23) is fought on federalism's terrain.
-</details>
-
----
-
-## Homework
-
-Nova Scotia voted 18 of 19 seats for secessionists *months after*
-Confederation; it was reconciled with "better terms" (more money) in
-1869. Write a paragraph on what this founding episode previews about how
-Canada handles regional revolt — then list three later episodes (any era,
-guess freely) that you'd bet follow the same script: grievance →
-threat to leave → renegotiated terms → grumbling continuation. You'll
-verify your bets across Phases 4–7.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-The preview: Canada's response to secessionism is transactional, not
-martial — no Fort Sumter, no treason trials; Ottawa negotiates, pays,
-and adjusts terms, betting that grievance is more often about the deal
-than the union (Howe himself took a federal cabinet seat in 1869). The
-script's steps: regional revolt wins local elections → Ottawa concedes
-"better terms" → the revolt's leadership is co-opted → the grievance
-becomes chronic but non-fatal. Strong bets that follow it: (1) the
-Prairie/Western revolts — from the Progressives of the 1920s through the
-National Energy Program fury to the Reform Party ("The West Wants In")
-and today's Alberta grievance politics, managed with equalization
-tweaks, pipeline approvals, and cabinet seats (Lessons 35, 38); (2)
-Quebec sovereignty — two referendums answered not with force but with
-constitutional offers, recognition motions ("distinct society," "the
-Québécois form a nation"), and fiscal arrangements (Lessons 22–23); (3)
-Newfoundland's recurring fury (Churchill Falls, the cod moratorium,
-offshore revenues) settled by the Atlantic Accords — better terms,
-literally so named. Grade yourself later on the deeper question the
-pattern raises: is perpetual renegotiation a bug (nothing is ever
-settled) or the feature that has kept a barely-plausible country
-together for 160 years? This course's honest answer: yes.
 </details>
 
 ---

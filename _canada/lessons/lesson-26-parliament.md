@@ -34,30 +34,27 @@ radically unequal: the Commons is where power lives (confidence,
 Lesson 12), the Senate revises and delays, the Crown signs. Learn the
 machine this way:
 
-```
-   HOW A BILL BECOMES LAW
+A bill starts as an idea, usually the cabinet's — occasionally a backbench
+MP's, as a private member's bill — and then has to survive two chambers before
+it becomes law.
 
-   idea (usually cabinet's; occasionally a private
-   member's) 
-      │
-      ▼            HOUSE OF COMMONS (343 MPs, elected by riding)
-   FIRST READING   — introduction, no debate
-   SECOND READING  — debate & vote ON THE PRINCIPLE
-   COMMITTEE       — clause-by-clause study, witnesses,
-                     amendments (where real scrutiny lives)
-   REPORT STAGE    — House votes on committee's amendments
-   THIRD READING   — final Commons vote
-      │
-      ▼            SENATE (105, appointed to age 75)
-   same five stages again — the "sober second thought";
-   amendments bounce back to the Commons until both
-   chambers pass IDENTICAL text
-      │
-      ▼
-   ROYAL ASSENT (GG, on advice — never refused; L.25)
-      │
-   law (in force at assent, or when proclaimed)
-```
+In the **House of Commons** (343 MPs, each elected by a riding) it passes
+through five stages. **First reading** is bare introduction, with no debate.
+**Second reading** is where the House debates and votes on the *principle* of
+the bill — is this a good idea at all? **Committee stage** is where a smaller
+group studies it clause by clause, hears witnesses, and proposes amendments;
+this is where real scrutiny lives, and it is the stage that rewards paying
+attention. At **report stage** the whole House votes on what the committee
+did, and at **third reading** it takes the final Commons vote.
+
+The bill then goes to the **Senate** (105 members, appointed to age 75), where
+it passes through the same five stages again — the "sober second thought."
+Senate amendments bounce back to the Commons, and the two chambers must
+eventually pass *identical* text.
+
+Finally comes **royal assent**, given by the Governor General on advice, and
+never refused in modern practice (Lesson 25). The bill is now law — in force
+either immediately on assent or later, when the government proclaims it.
 
 Two asymmetries to memorize: **money bills must start in the
 Commons** (the 1837 grievance, constitutionalized — no taxation
@@ -135,7 +132,7 @@ structure, improve the occupants.
 
 ### Where laws actually get shaped
 
-The five-stage diagram is the skeleton; the flesh:
+The five stages above are the skeleton; here is the flesh:
 
 - **Cabinet and the PMO draft** — most law arrives written; the
   Commons' real leverage is amendment-at-committee and, in
@@ -168,115 +165,6 @@ The five-stage diagram is the skeleton; the flesh:
 > rare broken whip — a government MP voting no — read it as the
 > signal it is: either conscience carve-out (granted on moral
 > issues) or career declaration.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — trace a real bill.** Go to LEGISinfo (parl.ca) and pick
-any government bill from the current or last session. Record: its
-number (C-## = Commons origin, S-## = Senate origin), each stage it
-has passed with dates, whether the Senate amended it, and how long
-first reading → royal assent took (or how far it got). Then answer:
-where did it spend the most time, and what does that tell you?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Whatever bill you chose, the typical findings: months (often a year+)
-between introduction and assent; the longest stalls at
-committee (genuine scrutiny) or awaiting scheduling (House time is
-the government's scarcest resource — "House management" is a cabinet
-job); Senate amendments on perhaps a third of substantive bills,
-usually accepted in part. If your bill died on the Order Paper at
-prorogation or dissolution — a common fate — you've learned the
-deepest scheduling fact: bills die with the parliament that
-birthed them, which is why governments front-load their priorities
-and why an early election kills whole legislative programs. Meta-
-lesson: the five-stage diagram is a pipeline with one bottleneck
-(Commons floor time) and one quality gate (committee) — exactly like
-a deploy pipeline with limited CI capacity, if that metaphor helps
-it stick.
-</details>
-
-**Exercise 2 — scenario (the floor-crosser).** Your riding's MP —
-elected under Party A — votes against A's budget, is expelled from
-caucus, and crosses to Party B. Constituents are furious: "We voted
-for A!" Others say: "We elected *her*, not a party." Who's right in
-Canadian constitutional theory, and what are the real-world checks?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Constitutional theory is unambiguous: you elected <em>her</em> — the
-ballot names a person; the seat is the member's, not the party's,
-and crossing the floor is fully legal (no recall exists federally;
-a handful of provinces have weak recall laws). That's Burke's
-trustee model, and Westminster systems run on it. But the fury is
-also well-founded empirically: most voters choose by party/leader,
-so the personal-mandate theory rests on a fiction about voter
-behaviour — which is why floor-crossing reads as a heist: the
-crosser converts votes cast for one brand into a seat for another.
-Real-world checks: (1) the next election — crossers lose more often
-than not (voters do punish); (2) party nomination control — B must
-actually want her; (3) reputational pricing — a crosser's testimony
-is discounted forever ("if she sold them out..."). Occasional
-proposals to force by-elections on crossers keep failing — partly
-because every party has benefited from crossings, partly because
-mandatory by-elections would hand party leaders an expulsion
-weapon (expel → force by-election → eliminate dissident), making
-discipline <em>worse</em>. Net: the law protects the member; the
-electorate audits; and the ambiguity — like most in this phase —
-is load-bearing.
-</details>
-
-**Exercise 3 — Senate design review.** You're consulted on Senate
-reform. Three proposals on the table: (a) abolish it; (b) elect it
-(Triple-E: equal, elected, effective — the old Reform Party cry);
-(c) the status quo since 2016 (independent, merit-appointed).
-Give each proposal its strongest argument and its fatal(ish)
-problem — constitutional or functional — and state your
-recommendation.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Abolish — strongest: democratic hygiene; nobody can defend
-lawmaking-for-life via PM patronage from first principles, and
-several provinces manage fine unicameral. Fatal problem:
-constitutionally it requires unanimity (SCC reference, 2014) —
-i.e., Quebec and the Maritimes surrendering their guaranteed
-regional blocs, which they never will; functionally you also lose
-the one chamber with time horizons past the next election.
-(b) Elect — strongest: legitimacy plus real regional voice — an
-elected Senate could check central-Canadian Commons majorities the
-way Australia's does. Fatal problem: 7/50 amendment at minimum
-(same 2014 reference); and functionally, two elected chambers =
-American-style gridlock inside a confidence system — whose
-government falls when they deadlock? The convention that the
-Senate yields survives <em>because</em> it's unelected; electing
-it deletes the deference and the tie-breaker at once.
-(c) Status quo+ — strongest: achievable (no amendment), and
-measurably better output since 2016 (expertise, real revision,
-scandal-free-ish). Problem: an appointed chamber growing
-confident is legitimacy debt accumulating — it works until the
-first time independents block something a majority government
-truly wants, at which point the whole convention gets stress-
-tested with no democratic answer available. Defensible
-recommendation: (c) with self-restraint codified — the Canadian
-answer (improve occupants, dodge the formula) — while conceding
-it's a coping strategy, not a solution. Full marks for noticing
-this is Lesson 23's lesson generalized: when amendment is
-impossible, institutions evolve by convention, appointment, and
-restraint — Canada's constitution changes by everything except
-amendment.
-</details>
 
 ---
 
@@ -354,42 +242,6 @@ accountability is legible (the government owns everything it
 passes — no "the president proposed but Congress disposed" alibi)
 and coalition/minority arrangements actually bind, keeping
 minority parliaments functional (Lesson 27).
-</details>
-
----
-
-## Homework
-
-Attend Parliament for twenty minutes — virtually: watch a Question
-Period clip and twenty minutes of any committee hearing (both on
-ParlVU/CPAC/YouTube). Write a paragraph contrasting them: tone,
-information density, who talks, what each is *for* — and end with
-which one changed your estimate of Canadian democracy, in which
-direction.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Expected observations: QP — 35-second clips in both official
-languages, scripted indignation, answers that don't answer,
-constant standing ovations from the asker's side; information
-density near zero, but function real: the day's accountability
-agenda set in public, ministers visibly own their files, and a
-stumbling minister is career news by evening. Committee — near-empty
-room, MPs of all parties asking multi-minute questions of actual
-witnesses (officials, experts, affected citizens), frequent
-non-partisan follow-ups, visible drafting; information density
-high, audience near nil. The standard honest conclusion: Canadian
-democracy is worse than you hoped where everyone watches and
-better than you feared where no one does — and the design almost
-certainly requires both: QP disciplines through publicity,
-committees improve through obscurity. Sharpest version of the
-insight: the theatre isn't a corruption of the work; it's the
-price of admission that funds the work — a pattern you'll
-recognize from every all-hands meeting and every code review
-worth attending.
 </details>
 
 ---

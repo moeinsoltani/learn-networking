@@ -37,30 +37,30 @@ law; s.35 and modern agreements are re-making space for the
 tradition). One criminal law for the whole country (federal,
 Lesson 29); one final court over everything.
 
-```
-   THE COURT PYRAMID
+Canadian courts form a pyramid, and it is worth climbing it from the bottom,
+because that is where nearly everyone actually meets the law.
 
-                SUPREME COURT OF CANADA
-                (9 judges; 3 must be from
-                Quebec's civil-law bar — by law)
-                     ▲ (leave required for
-                     │  most appeals)
-        ┌────────────┴────────────┐
-   provincial COURTS OF APPEAL    FEDERAL COURT OF APPEAL
-        ▲                              ▲
-   SUPERIOR COURTS (per province: │ FEDERAL COURT (immigration,
-   serious crime, big civil       │ IP, judicial review of
-   cases, family; judges          │ federal agencies) + TAX COURT
-   federally appointed — a        │
-   Confederation quirk)           │
-        ▲                         │
-   PROVINCIAL COURTS — the workhorses: ~95% of criminal
-   cases start and end here; small claims; traffic;
-   most family matters. Provincially appointed.
-   + administrative tribunals (landlord-tenant, labour,
-   human rights, refugee...) where most people actually
-   meet "the law"
-```
+At the base sit the **provincial courts** — the workhorses of the system.
+Roughly 95% of criminal cases start and finish here, along with small claims,
+traffic matters, and most family disputes. Their judges are provincially
+appointed. Beside them, and just as important in practice, are the
+**administrative tribunals**: landlord-tenant boards, labour boards, human
+rights commissions, the refugee board. If you ever deal with "the law" in
+Canada, this is overwhelmingly the level you will deal with.
+
+Above them are the **superior courts**, one per province, handling serious
+crime, large civil cases, and family law. Note a Confederation quirk here: the
+courts are provincial, but their judges are appointed *federally*. Running
+alongside is the **Federal Court**, which handles immigration, intellectual
+property, and judicial review of federal agencies, together with the **Tax
+Court**.
+
+Above those sit the **provincial courts of appeal** and the **Federal Court of
+Appeal**. And at the apex is the **Supreme Court of Canada**: nine judges, of
+whom three must by law come from Quebec's civil-law bar — the direct
+descendant of the Quebec Act's bargain in Lesson 10. For most cases you cannot
+simply appeal to it; you must first be granted *leave*, and the Court takes
+only a small fraction of what is asked of it.
 
 The cultural headline, and this lesson's through-line: **Canadian
 judicial appointments are boring, and that is a national
@@ -178,114 +178,6 @@ practice.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — route the disputes.** Send each to its actual first
-forum: (a) your landlord won't return a $2,000 deposit; (b) you're
-charged with impaired driving; (c) your ex-spouse and you dispute
-child custody; (d) a contractor botched your $28,000 renovation;
-(e) you believe you were fired for your religion; (f) the federal
-government rejected your immigration application; (g) two
-provinces dispute a carbon-pricing law's validity.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-(a) Provincial landlord–tenant tribunal (not court at all — e.g.,
-Ontario's LTB, Quebec's TAL). (b) Provincial court — where ~95%
-of criminal matters resolve; jury only if you elect up on serious
-charges. (c) Family court — provincial or superior depending on
-province and relief sought (divorce itself is federal law,
-administered in superior court: the federalism split biting
-family life). (d) Small claims if at/under your province's cap
-(Ontario $35k — yes), designed for self-representation; superior
-court if over. (e) Provincial human-rights tribunal (employment
-discrimination) — or employment-standards/labour routes;
-courts later if at all. (f) Federal Court — judicial review of
-federal decision-makers. (g) Straight to the appellate stratosphere
-via reference — provincial references to courts of appeal, then
-SCC (exactly the 2021 carbon case's path). Scoring: 6+/7 means
-you've absorbed the lesson's real map — ordinary law lives in
-tribunals and provincial courts, not the marble you see on TV.
-</details>
-
-**Exercise 2 — scenario: the boring judges.** Your American
-colleague watches a US confirmation battle, then asks: "How do
-Canadians even know if a judge is conservative or liberal? Who
-fights over your Supreme Court?" Explain the machine and its
-outputs in five sentences — then give the honest caveat.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Mostly, we don't know and nobody fights — judges apply,
-an independent board shortlists, the PM picks, the nominee takes
-polite parliamentary questions with no vote, and the news cycle
-lasts a day. There are no confirmation hearings worth televising,
-no dark-money campaigns, judges' appointing-party isn't tracked
-in coverage, and retirement at 75 is automatic — so seats never
-become actuarial death-watches. The output is the point:
-Canadians broadly accept court rulings as law rather than as
-politics by other means — when governments lose constitutional
-cases, they comply and grumble, and public confidence in courts
-consistently outruns confidence in Parliament. Structure does
-the work: no judicial elections anywhere in the system, salaries
-set independently, and the Charter's s.33 (next lesson) gives
-legislatures a legal outlet other than capturing the bench.
-Honest caveat: quiet selection has costs — the bench skewed
-establishment and non-diverse for decades (first Indigenous
-justice: 2022), Charter-era judges wield real power with little
-public vetting, and our calm may be partly free-riding on not
-yet having faced a case that splits the country — boring is an
-achievement, but it's also a streak."
-</details>
-
-**Exercise 3 — the two-traditions test.** A couple marries in
-Ontario; an identical couple marries in Quebec. Neither signs any
-agreement. Both divorce after ten years. Sketch what differs in
-the legal *framework* handling their property (not the outcomes —
-the sources and style of the law), and what the coexistence of
-both systems inside one country requires of the Supreme Court.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Ontario: common-law province — property division under Ontario's
-Family Law Act (equalization of net family property), interpreted
-through decades of precedent; concepts like constructive trust
-imported from judge-made equity fill gaps; "common-law spouse"
-status exists for unmarried couples (with property rights arriving
-via trust doctrines, case by case). Quebec: the Code civil
-governs — family patrimony rules (added 1989) and matrimonial
-regimes (partnership of acquests by default) apply as coded
-principles; courts reason from the Code's articles outward;
-and — a famous difference — unmarried (de facto) couples get
-essentially <em>no</em> property regime regardless of duration
-(upheld by the SCC in <em>Eric v. Lola</em>, 2013, precisely as
-Quebec's legislative choice within its civil-law tradition —
-a quarter of Quebec couples cohabit unmarried, so this is a
-mass-scale legal divergence). Divorce itself — federal
-(Divorce Act) — overlays both identically: one country, one
-divorce law, two property universes. What the SCC must
-therefore be: institutionally bilingual and bijural — able to
-reason in code and in precedent without colonizing one with the
-other's method; hence the entrenched three Quebec seats
-(<em>Nadon</em>, 2014), civil-law clerks, and the Court's habit
-of writing civil appeals in a different doctrinal voice. The
-takeaway: Canada's legal pluralism isn't decorative — it decides
-who owns the house — and managing it is a core, daily function
-of the country's apex institutions. (And it's the 1774 bargain,
-Lesson 10, still paying rent.)
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -368,51 +260,6 @@ Persons Case itself (Lesson 19) and the Senate and Nadon
 references (Lesson 26, this lesson). Note the pattern: Canada's
 biggest constitutional moments are questions asked politely in
 advance — the national style, in litigation form.
-</details>
-
----
-
-## Homework
-
-*Jordan* (2016) set presumptive ceilings — 18 months
-(provincial court) / 30 months (superior court) from charge to
-trial's end — after which cases are stayed (dismissed for delay),
-and thousands of charges, including serious ones, have since been
-stayed. Write a paragraph defending the ruling (what incentive
-does it create, what right does it enforce, what was the
-pre-2016 equilibrium?) and a paragraph on its hardest cost (name
-the worst-case scenario honestly). End with one sentence on what
-the case teaches about rights: who pays for their enforcement?
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Defence: s.11(b) guarantees trial within a reasonable time, and
-before Jordan the right was functionally unenforceable — delay
-analysis was so mushy that the system's every actor (Crown,
-courts, governments setting budgets) could underfund and adjourn
-indefinitely, with accused persons — presumed innocent — living
-years under charge; Jordan converted a vague right into a
-deadline with a real sanction, and the incentive worked: courts
-modernized scheduling, Crowns triaged, governments appointed
-judges they'd left vacant for years — the classic demonstration
-that institutions respond to enforced constraints, not
-exhortation (the Charter's whole theory, Lesson 31, in
-miniature). Hardest cost: the sanction lands on victims, not on
-the administrators who caused the delay — the worst case is real
-and has happened: grave charges (including homicide and sexual
-assault) stayed because the system dawdled, meaning a victim's
-day in court is cancelled to discipline a bureaucracy the victim
-doesn't control; "justice delayed is justice denied" answered by
-justice denied differently. Closing sentence (any honest
-version): rights are enforced by making their violation
-expensive, and the expense always lands somewhere specific —
-Jordan chose to make society (via lost prosecutions) pay rather
-than accused persons (via lost years), which is exactly the
-kind of explicit, uncomfortable price-setting that separates a
-rights system with teeth from one with sentiments.
 </details>
 
 ---

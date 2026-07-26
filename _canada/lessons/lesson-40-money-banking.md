@@ -28,43 +28,38 @@ parent: "Phase 7: The Economy"
 Three institutions to understand, one national conversation to
 decode:
 
-```
-   THE MONEY SYSTEM
+Three pieces make up the Canadian money system, and each one has a distinctly
+Canadian character.
 
-   BANK OF CANADA (the central bank, 1935 — L.19)
-   ├─ one mandate that matters: INFLATION AT 2%
-   │  (target band 1–3%, renewed with the government
-   │  every 5 years since 1991 — among the world's
-   │  first inflation-targeting regimes)
-   ├─ the tool: the OVERNIGHT RATE, set on 8 fixed
-   │  announcement dates a year — the news events
-   │  that move every mortgage in the country
-   ├─ independent in operations, accountable in
-   │  mandate (governor ≠ politician; the Coyne
-   │  Affair of 1961 settled the boundaries)
-   └─ also: prints the (polymer, see note) money,
-      runs the payment rails, lender of last resort
+**The Bank of Canada**, founded in 1935 out of the Depression (Lesson 19), has
+one mandate that really matters: **keep inflation at 2%**, within a 1–3% band,
+under an agreement renewed with the government every five years since 1991 —
+which made Canada one of the world's first inflation-targeting economies. Its
+main tool is the **overnight rate**, announced on eight fixed dates a year;
+those announcements are the news events that move every mortgage in the
+country. The Bank is independent in its operations but accountable for its
+mandate — the governor is emphatically not a politician, a boundary settled by
+the Coyne Affair of 1961. It also prints the money, runs the payment rails,
+and acts as lender of last resort.
 
-   THE BIG FIVE (or Six) BANKS
-   RBC, TD, Scotiabank, BMO, CIBC (+ National)
-   ├─ an OLIGOPOLY BY DESIGN: national branching
-   │  since 1867 (vs America's historic unit-banking
-   │  fragmentation), high entry walls, "widely held"
-   │  ownership rules, mergers BLOCKED (1998: the
-   │  finance minister just said no)
-   └─ the trade: stability ↔ concentration
-      (fees, spreads, comfort — L.37's pattern)
+**The Big Five banks** — RBC, TD, Scotiabank, BMO, and CIBC, with National
+Bank often making it six — form an **oligopoly by design**, not by accident.
+Canadian banks have been allowed to branch nationally since 1867, unlike the
+fragmented American unit-banking tradition; entry barriers are high;
+"widely held" ownership rules prevent takeovers; and mergers have been
+blocked outright, most famously in 1998 when the finance minister simply said
+no. The trade-off is the one you will see everywhere in Canadian life:
+**stability bought with concentration** — remarkably few bank failures, and
+remarkably high fees.
 
-   THE LOONIE (CAD)
-   └─ floating since 1970; a PETRO-CURRENCY:
-      tracks oil (L.05's staples, in FX form) —
-      and a "small open economy" currency: the
-      Bank's rate decisions live in the Fed's
-      shadow (L.38's elephant, monetary edition)
-```
+**The loonie** has floated since 1970, and it behaves like a **petro-currency**:
+it tracks the oil price, which is Lesson 05's staples thesis showing up in the
+foreign-exchange market. It is also a small-open-economy currency, which means
+the Bank of Canada's rate decisions are always made in the shadow of the US
+Federal Reserve's — Lesson 38's elephant, monetary edition.
 
 The national conversation: **housing** — the largest industry
-(Lesson 37's homework), financed by these banks, insured
+(Lesson 37), financed by these banks, insured
 substantially by the state (CMHC), rate-priced by the Bank, and
 tax-advantaged into a pension substitute (Lesson 35). Money,
 banks, and housing are one braided system in Canada; this lesson
@@ -173,121 +168,6 @@ $10: Lesson 45's symbols file, in your wallet.
 
 ---
 
-## Lab — Source & Scenario
-
-**Exercise 1 — translate the announcement.** A stylized Bank of
-Canada statement: *"The Governing Council today held the policy
-rate at 2.75%. Core inflation remains near 2%, though shelter
-price inflation stays elevated. Excess supply persists in the
-economy, and the labour market has continued to ease. The
-Council remains attentive to risks from trade policy
-developments. We will proceed carefully, meeting by meeting."*
-Translate every sentence to plain English, then answer: who in
-Canada is this paragraph actually addressed to?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Translation: "We didn't change rates. Overall inflation is back
-at target — but housing costs (rent, mortgage interest) are
-still rising too fast, and we know you've noticed. The economy
-is running below capacity and unemployment is drifting up —
-i.e., rate cuts are becoming more plausible than hikes.
-Tariff politics (L.38's elephant, named in central-bank
-euphemism as 'trade policy developments') could reignite
-inflation or crush growth and we genuinely don't know which,
-so we're promising nothing. Each meeting is a fresh decision —
-don't price in a path." Addressees, in order: (1) bond
-markets — every adjective calibrates yield curves (that's why
-the prose is this lawyered); (2) mortgage-holders and banks —
-"proceed carefully" tells the third of households renewing
-soon what scenario to budget; (3) the government — "excess
-supply" politely notes that fiscal policy, not the Bank, owns
-growth now; (4) the historical record — the paragraph is
-written to be defensible in either future. Meta-skill
-acquired: central-bank statements are not descriptions but
-<em>instruments</em> — every sentence moves a price — which is
-why the Bank publishes ~300 words eight times a year and the
-country reads them like a national mood ring.
-</details>
-
-**Exercise 2 — the oil-shock walk-through.** Oil jumps from $70
-to $110 and holds. Walk the chain: the loonie, Alberta vs
-Ontario, the Bank's dilemma, and your own mortgage — connecting
-Lessons 05, 37, 38 explicitly.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-The loonie: appreciates (petro-currency — export receipts and
-investment flows chase the sands; L.05's lab in FX form), say
-toward parity territory. Alberta vs Ontario: the L.37 seesaw —
-Alberta booms (royalties refill the treasury, Fort McMurray
-rehires, the L.35 equalization grievance quiets to a murmur);
-Ontario manufacturing takes the double hit: US customers
-(L.38: 75% of exports) now face a stronger loonie AND energy
-input costs — the "Dutch disease" debate (does the petro-
-dollar hollow manufacturing?) reruns in every op-ed page,
-unresolved since the 2000s edition. The Bank's dilemma: oil
-inflation is imported and supply-driven — hiking rates can't
-drill wells, but energy feeds into headline inflation and
-expectations; meanwhile the strong dollar is already
-tightening conditions for the non-oil economy: one policy
-rate, two economies (the permanent Canadian monetary problem
-— the Bank targets the national average of a seesaw). Your
-mortgage: if the Bank hikes against the inflation, your
-renewal reprices within the five-year Canadian term structure
-(this lesson's transmission channel) — meaning a Calgary
-oil-shock can raise a Halifax teacher's monthly payment,
-which is the whole braided system in one sentence.
-</details>
-
-**Exercise 3 — the renewal cliff scenario.** Your friends
-bought in 2021: $700k mortgage at 1.9% fixed-five-year,
-~$2,930/month. It's renewal time at 4.9%. Compute the rough new
-payment, list their actual options (the honest menu), and
-extract the two system-design lessons their kitchen-table
-crisis teaches.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Rough math (25-yr original amortization, ~$610k remaining
-after five years): at 4.9% over the remaining 20 years, the
-payment runs ≈ $3,980 — roughly **+$1,050/month, a 36%
-shock**, after-tax dollars (L.35: that's ~$1,600 of pre-tax
-salary). The honest menu: (1) absorb it (budget surgery —
-the national 2023–25 experience); (2) re-extend amortization
-to 25–30 years at renewal (lower payment, more lifetime
-interest — the banks' and regulator's quiet safety valve;
-"negative amortization" made headlines for a reason);
-(3) shop the renewal (banks reprice for switchers — the
-oligopoly discovers competition exactly when you threaten to
-leave; the stress test no longer blocks straight switches);
-(4) lump-sum paydown if any windfall exists; (5) sell — into
-whatever market forced sellers create (the systemic scenario
-the L.37 homework flagged). System lessons: (1) Canada's
-five-year term structure makes monetary policy FAST and
-personal — the Bank's brake pad is your friends' kitchen
-table (US 30-year-fixed holders never feel a hiking cycle;
-Canadians ARE the transmission mechanism), which is why
-Canadian rate politics is visceral; (2) the stress test
-worked as designed — qualified at ~5.25% in 2021, your
-friends can technically pay the 4.9% renewal; the design
-lesson is that the system pre-broke this fever in 2018,
-trading some homeownership access for exactly this
-resilience: boring by construction, vindicated by episode —
-the whole lesson's thesis, at one table.
-</details>
-
----
-
 ## Further Reading
 
 | Topic | Source |
@@ -374,59 +254,6 @@ gap). The permanent pattern: the exchange rate is the
 mechanism by which Alberta's boom taxes Ontario's factories
 and vice versa — one currency, two economies, forever
 seesawing.
-</details>
-
----
-
-## Homework
-
-The straddle test: every Canadian government promises housing
-"affordability" while two-thirds of voting households hold
-their net worth in home equity — Lesson 35 predicted policy
-stops where prices would actually fall. Audit the current
-federal and your provincial housing programs (accelerator
-funds, FHSA, zoning deals, immigration recalibration, building
-targets): classify each as supply-side (build more),
-demand-side (help buyers pay more), or price-protective — and
-write a paragraph on whether the straddle can ever break, and
-what would break it. (This closes the arc from Lessons 04 →
-24 → 35 → 37 → here.)
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Expected classification: genuinely supply-side — accelerator-
-style zoning deals, apartment-construction financing,
-building-code and municipal-approval reforms (real, slow,
-the only arithmetic that works); demand-side masquerading as
-help — FHSA, first-buyer incentives, amortization extensions
-(each adds purchasing power into constrained supply: price
-fuel wearing an affordability costume — the political sweet
-spot because it subsidizes buyers without touching owners);
-price-protective by omission — the untouchable principal-
-residence exemption (L.35), stress-test calibrations that
-slow corrections, and immigration recalibration (L.24)
-framed around demand relief. The straddle analysis: it holds
-because the electoral median is an owner and the marginal
-sufferer is young/renting/new (L.24's arrival cohort) —
-underrepresented at every ballot (L.28's turnout ladder).
-What could break it, candidates: demographic arithmetic —
-each year the renter-and-locked-out cohort grows and ages
-toward electoral weight (the 2020s' first anti-price
-politics is this cohort surfacing); a rate-forced correction
-doing what policy won't (breaking prices without fingerprints
-— governments get the outcome while blaming the Bank); or
-supply actually compounding for a decade until scarcity
-politics fades (the boring resolution nobody markets).
-Honest close: the likeliest path is the Canadian one this
-course has met everywhere — no rupture, all shuffle: prices
-plateauing for years while incomes crawl up underneath,
-"affordability" achieved by a decade of nominal stagnation
-that no politician ever has to announce. The straddle
-doesn't break; it erodes — Lesson 29's federal shuffle,
-priced per square foot.
 </details>
 
 ---

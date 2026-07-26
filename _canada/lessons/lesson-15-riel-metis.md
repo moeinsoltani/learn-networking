@@ -35,33 +35,28 @@ acts. This lesson is about the two armed Métis resistances he led — and
 about why his reputation flipped, which teaches you as much about Canada
 as the events themselves.
 
-```
-   TWO RESISTANCES
+There were two resistances, sixteen years apart, and they ended in opposite
+ways — which is the first thing to get straight.
 
-   1869–70  RED RIVER                  1885  NORTH-WEST
-   ─────────────────                   ─────────────────
-   Canada buys Rupert's Land           Métis (moved west to
-   without consulting anyone           Saskatchewan), plus Cree
-   living there (L.14)                 & Assiniboine facing
-        │                              starvation; petitions
-   Métis under Riel block              ignored
-   the surveyors & governor,               │
-   form a PROVISIONAL                  Riel returns from exile;
-   GOVERNMENT (legal grey              provisional gov't at
-   zone — arguably legitimate:         Batoche; this time it's
-   no Canadian authority yet           WAR: Duck Lake, Fish
-   existed there)                      Creek, Batoche (May 1885)
-        │                                   │
-   NEGOTIATION → MANITOBA              DEFEAT → TRIAL → the
-   ACT 1870: province, land            GALLOWS, Regina,
-   promises, bilingual rights          Nov 16, 1885
-        │                                   │
-   but: the Thomas Scott               Quebec mourns a martyr;
-   execution poisons Ontario;          Ontario cheers justice —
-   Riel exiled despite three           the hanging fractures
-   elections to Parliament             Confederation's founding
-                                       partnership
-```
+**Red River, 1869–70**, began when Canada bought Rupert's Land without
+consulting a single person living on it (Lesson 14). The Métis under Riel
+stopped the surveyors, turned back the incoming governor, and formed a
+**provisional government** — a move in a genuine legal grey zone, and
+arguably legitimate, since no Canadian authority yet existed there to
+displace. It ended in *negotiation*: the Manitoba Act of 1870 created a
+province with land promises and bilingual rights. But the execution of a
+prisoner named Thomas Scott poisoned Ontario against Riel, and he was driven
+into exile despite being elected to Parliament three times.
+
+**The North-West, 1885**, began with the same grievance and worse conditions.
+The Métis had moved west to the Saskatchewan valley, and there they and their
+Cree and Assiniboine neighbours faced starvation and years of ignored
+petitions. Riel returned from exile and declared a provisional government at
+Batoche — but this time it was war: Duck Lake, Fish Creek, and finally Batoche
+in May 1885. It ended in *defeat*, a trial, and the gallows at Regina on
+November 16, 1885. Quebec mourned a martyr; Ontario cheered justice; and the
+crack that opened between them ran straight through Confederation's founding
+partnership.
 
 The through-line: **both resistances were, at bottom, about consent** —
 the same question the Royal Proclamation (Lesson 10) had answered on
@@ -140,6 +135,38 @@ were hanged at Battleford in Canada's largest mass execution, with
 students from the new Battleford residential school marched out to
 watch — a sentence you should read twice.
 
+Riel's own words at that trial are worth reading, because they explain why he
+chose to die. Addressing the jury on July 31, 1885:
+
+> "When I came into the North-West… I found the Indians suffering. I found the
+> half-breeds eating the rotten pork of the Hudson's Bay Company and getting
+> sick and weak every day… I directed my attention to help the Indians, to help
+> the half-breeds and directed my attention to plead their cause with the
+> Government."
+
+And later, flatly:
+
+> "I know that through the grace of God I am the founder of Manitoba."
+
+Look at what that speech is doing. **Legally**, it is suicide by lucidity. His
+counsel's insanity defence required him to appear deranged, and he
+methodically demonstrates the opposite — organized narrative, dates, causes,
+consequences — because being acquitted as a madman would have converted the
+Métis cause itself into a symptom. He chose the gallows over the asylum in
+order to keep the grievance *sane*.
+
+**Politically**, it redirects the trial. The question "did Riel levy war
+against the Crown" was undeniable and therefore useless to him; so he replaces
+it with "what drove starving communities to war after years of lawful
+petition," putting the government's administration of the North-West in the
+dock instead.
+
+**Historically**, he is drafting his own verdict for a later court. In 1885,
+"founder of Manitoba" was an outrageous thing for a convicted traitor to call
+himself. It is now the literal caption on his statue at the Manitoba
+Legislature. The speech is one of the rare documents in which you can watch a
+man lose his case and win his history.
+
 **The fracture:** Quebec saw a French Catholic hanged for leading his
 people; 50,000 rallied on the Champ de Mars; **Honoré Mercier** rode the
 fury to Quebec's premiership, founding the tradition of Quebec
@@ -159,99 +186,6 @@ November 16, 1885.
 > Manitoba Legislature; Manitoba's February holiday bears his name; his
 > hanging is taught — as here — as the miscarriage. When a country
 > re-labels its traitors founders, study the country, not just the man.
-
----
-
-## Lab — Source & Scenario
-
-**Exercise 1 — primary source.** From Riel's address to the jury, July
-31, 1885: *"When I came into the North-West in July, the first of July,
-1884, I found the Indians suffering. I found the half-breeds eating the
-rotten pork of the Hudson's Bay Company and getting sick and weak every
-day... I directed my attention to help the Indians, to help the
-half-breeds and directed my attention to plead their cause with the
-Government."* And later: *"I am glad the Crown have proved that I am the
-leader of the half-breeds in the North-West... I know that through the
-grace of God I am the founder of Manitoba."* What is Riel *doing* with
-this speech — legally, politically, historically?
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Legally, he is committing suicide-by-lucidity: his counsel's insanity
-defence required him to appear deranged, and he systematically
-demonstrates the opposite — organized narrative, dates, causes,
-consequences — because acquittal-as-madman would convert the Métis cause
-itself into a symptom. He chooses the gallows over the asylum to keep
-the grievance <em>sane</em>. Politically, he redirects the trial from
-"did Riel levy war" (undeniable) to "what drove starving communities to
-war after years of lawful petition" — putting the Crown's administration
-of the North-West in the dock. Historically, he is drafting his own
-verdict for the appeal court of posterity — "founder of Manitoba" was,
-in 1885, an outrageous self-description for a convicted traitor; it is
-now the literal caption on his statue at the Manitoba Legislature. The
-speech is thus one of the rare documents where you can watch a man lose
-his case and win his history — and it's why every retelling since,
-including this lesson, argues on Riel's chosen ground.
-</details>
-
-**Exercise 2 — the two obituaries.** Write two short obituaries for
-Riel, dated November 17, 1885: one for an Ontario Orange newspaper, one
-as a Manitoba Métis community would remember him today. Then note what
-each account must omit to hold together.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Ontario Orange model: "The rebel Riel has met the justice he twice
-defied. Murderer of Thomas Scott, twice leader of armed rebellion
-against the Crown, he plunged the North-West into blood and cost the
-Dominion millions and the lives of loyal volunteers. Let his end warn
-all who would raise the standard of revolt." <em>Omits:</em> the ignored
-petitions, the starvation, the withheld rations, the failed scrip, that
-Red River ended in a negotiated <em>province</em> — i.e., every cause,
-keeping only effects. Métis memory model: "Louis Riel — founder of
-Manitoba, defender of the Métis Nation — was hanged by Canada for the
-crime of insisting his people be consulted about their own country.
-Educated, elected three times, twice the voice of provisional
-governments that sought negotiation before war, he refused to plead
-madness because his people's cause was sane. The lands promised in 1870
-were stolen by process; the leader who won them was killed by process.
-We remember." <em>Omits (or must handle):</em> Thomas Scott's execution
-— the one act even sympathetic historians call Riel's catastrophic
-error — and the messianic religious turn that alienated allies including
-the Church. The exercise's yield: each ledger is internally consistent;
-history is the discipline of merging them without deleting rows.
-</details>
-
-**Exercise 3 — scenario.** A coworker sees "Louis Riel Day" on the
-Manitoba calendar and asks: "Wait — didn't Canada *execute* that guy for
-treason? How is he a holiday?" Give the four-sentence version that
-explains both facts without flattening either.
-
-**Your answer:**
-
-<details>
-<summary>Show Model Answer</summary>
-<br>
-Model: "Yes — both things are true, and the distance between them is the
-history. In 1869 Riel led the Métis of Red River in blocking a land
-transfer nobody had consulted them on, and negotiated the creation of
-Manitoba itself; in 1885 he led a second resistance in Saskatchewan
-after years of ignored petitions and real starvation, lost, and was
-hanged for treason — a verdict Quebec called martyrdom and Ontario
-called justice. For a century he was officially a traitor, but as
-Canada reassessed how the West was actually taken — the broken land
-promises, the withheld rations — Riel's 'treason' started reading as a
-demand for consent, and Parliament and Manitoba formally recognized him
-as the province's founder. So the holiday honours the founder, the
-execution record convicts the country: Canadians decided the man was
-right and the state was wrong, roughly ninety years too late."
-</details>
 
 ---
 
@@ -334,49 +268,6 @@ Revolution, and the referendums (Lesson 22). The 1885 gallows in Regina
 is, by wide agreement, where the Confederation bargain of 1867 first
 cracked — making Riel's execution as consequential for French–English
 relations as for Indigenous ones: one rope, two national wounds.
-</details>
-
----
-
-## Homework
-
-The Métis land promise (Manitoba Act s.31, 1870: 1.4 million acres for
-Métis children) was finally adjudicated in *Manitoba Métis Federation v.
-Canada* (Supreme Court, 2013): the Crown's implementation — a decade of
-delay, random allotment, scrip that speculators bought for fractions —
-breached "the honour of the Crown." Write a paragraph on what it means
-that the remedy arrived **143 years** after the promise: consider what a
-declaration (the Court issued no damages — the remedy was a formal
-declaration the promise was broken, which became the basis for
-negotiations) is worth, to whom, and what the case teaches about the
-difference between losing a war and losing a legal argument.
-
-**Your answer:**
-
-<details>
-<summary>Show Answer</summary>
-<br>
-Points a strong paragraph hits: (1) The declaration's value is
-foundational rather than compensatory — it converts a "grievance"
-(political, deniable, expiring with memory) into a <em>judicial fact</em>
-(permanent, citable, the required premise of every subsequent
-negotiation), and indeed it directly underwrote the Canada–Manitoba
-Métis Federation agreements and the modern Métis self-government
-negotiations of the 2010s–20s (Lesson 44). Riel's jury speech aimed at
-exactly this court of the future; 2013 is his appeal finally heard.
-(2) To whom it matters: not the dispossessed generation — all dead —
-but the <em>nation</em> as a continuing legal person; the case only
-worked because the Métis remained organized as a people for 143 years,
-which is itself the answer to anyone who treats Indigenous nationhood as
-sentiment. (3) The war/law distinction: the Métis lost at Batoche in
-three days and lost the land within a decade — but the legal argument
-(consent, the Crown's honour, promises bind) never died, because Canada's
-own founding documents contained it (Proclamation 1763 → Manitoba Act
-1870 → s.35 1982). A settler state that rules by law hands its victims
-the one weapon that outlasts armies: the state's need to believe its own
-promises. 143 years is an indictment of the pace — and a demonstration
-of the mechanism. The uncomfortable closing question worth writing down:
-justice-eventually is real, but what discount rate makes it justice?
 </details>
 
 ---
