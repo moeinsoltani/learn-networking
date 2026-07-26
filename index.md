@@ -95,6 +95,17 @@ doctor).
 
 [Family & Parenthood learning plan]({{ '/family/learning-plan.html' | relative_url }}){: .btn .btn-primary }
 
+### 🏛️ Software Architecture
+
+The Senior Developer → Software Architect path: the architect's role and mindset,
+quality attributes and trade-offs, structure (coupling, modularity, DDD),
+architectural styles (monolith to microservices to event-driven), distributed
+systems, data & scale, cross-cutting concerns (scalability, resilience, security,
+observability), and documenting, evaluating & evolving architecture. Labs are
+system-design exercises with model answers.
+
+[Software Architecture learning plan]({{ '/architecture/learning-plan.html' | relative_url }}){: .btn .btn-primary }
+
 ---
 
 {: .note }

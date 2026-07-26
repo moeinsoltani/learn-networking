@@ -68,6 +68,9 @@ collections:
   family:
     permalink: "/:collection/:path:output_ext"
     output: true
+  architecture:
+    permalink: "/:collection/:path:output_ext"
+    output: true
 
 just_the_docs:
   collections:
@@ -97,6 +100,9 @@ just_the_docs:
       nav_fold: true
     family:
       name: "Family & Parenthood"
+      nav_fold: true
+    architecture:
+      name: "Software Architecture"
       nav_fold: true
 
 exclude:

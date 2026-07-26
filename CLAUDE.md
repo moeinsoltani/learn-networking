@@ -1,6 +1,6 @@
 # CLAUDE.md — Linux Systems Learning Project
 
-This repo hosts **nine independent learning tracks** on one Just the Docs site:
+This repo hosts **ten independent learning tracks** on one Just the Docs site:
 - **Networking** — in the `_networking/` collection
 - **Virtualization (QEMU/KVM)** — in the `_virtualization/` collection
 - **Security & Identity** — in the `_security/` collection
@@ -10,6 +10,7 @@ This repo hosts **nine independent learning tracks** on one Just the Docs site:
 - **Canada: History & Civics** — in the `_canada/` collection (source & scenario labs, no terminal)
 - **Trees & Birds of Canada** — in the `_nature/` collection (image-heavy, look-and-identify labs, no terminal)
 - **Family & Parenthood** — in the `_family/` collection (warm life-stage guides, no terminal; general health *education*, not medical advice — every lesson carries an `{: .important }` "not a doctor" disclaimer)
+- **Software Architecture** — in the `_architecture/` collection (system-design labs, no terminal; the Senior Developer → Software Architect transition)
 
 ## Student Profile
 - Linux experience: was a beginner; has now completed the networking, virtualization,
@@ -37,7 +38,7 @@ _nature/
 _family/
 ```
 - `<track>` below means `networking`, `virtualization`, `security`, `os`,
-  `leadership`, `english`, `canada`, `nature`, or `family`.
+  `leadership`, `english`, `canada`, `nature`, `family`, or `architecture`.
 - A page's URL is `/<track>/lessons/<file>.html` (collection permalink keeps the
   `lessons/` path so relative `(lesson-NN-...)` links between phase and lesson
   pages resolve).
@@ -152,6 +153,7 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Canada: History & Civics: `_canada/learning-plan.md`
 - Trees & Birds of Canada: `_nature/learning-plan.md`
 - Family & Parenthood: `_family/learning-plan.md`
+- Software Architecture: `_architecture/learning-plan.md`
 
 ## Networking Lesson Index
 - Lesson 01: `_networking/lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
@@ -467,3 +469,37 @@ Family-track conventions:
   (curl) before finishing — several MedlinePlus/Wikipedia slugs 404'd in the first draft and
   had to be corrected. `canada.ca` is unreachable from the sandbox (can't verify), so it was
   avoided in favour of confirmable sources.
+
+## Software Architecture Lesson Index
+Phase parent pages live at `_architecture/lessons/phase-NN-name.md`. File paths follow
+`_architecture/lessons/lesson-NN-<slug>.md`. Labs are **design exercises** (a realistic
+situation → the student sketches a design / names the trade-offs in a `**Your response:**`
+field → a hidden model answer walks the reasoning). Non-terminal, text-only (ASCII diagrams,
+no images). Mark each ✓ as its file lands.
+- Phase 1 — The Architect's Role & Mindset: 01 what-architects-do ✓, 02 architectural-thinking ✓, 03 quality-attributes ✓, 04 architectural-drivers ✓
+- Phase 2 — Foundations of Structure: 05 coupling-cohesion ✓, 06 modularity-boundaries ✓, 07 domain-driven-design ✓, 08 styles-overview ✓
+- Phase 3 — Architectural Styles: 09 monoliths ✓, 10 layered-hexagonal ✓, 11 microservices ✓, 12 event-driven ✓, 13 decomposition ✓
+- Phase 4 — Distributed Systems: 14 fallacies ✓, 15 cap-consistency ✓, 16 communication ✓, 17 distributed-data ✓, 18 resilience ✓
+- Phase 5 — Data & Scale: 19 choosing-datastore ✓, 20 event-sourcing-cqrs ✓, 21 caching ✓, 22 scaling-data ✓
+- Phase 6 — Cross-Cutting Quality Attributes: 23 scalability-performance ✓, 24 security-architecture ✓, 25 observability ✓, 26 api-design ✓, 27 cloud-deployment ✓
+- Phase 7 — Documenting, Evaluating & Evolving: 28 documenting-c4 ✓, 29 adrs ✓, 30 evaluating ✓, 31 evolutionary ✓, 32 modernization ✓
+- Phase 8 — The Architect in Practice: 33 build-vs-buy ✓, 34 architect-as-communicator ✓, 35 antipatterns ✓, 36 capstone ✓
+
+*(Software Architecture track complete — lessons 01–36 all written across 8 phases. Lesson 36
+is the end-to-end design capstone. Update this index if lessons change.)*
+
+Architecture-track conventions (a non-terminal track — same section names as leadership/canada):
+- **"Words to know" box:** every lesson opens with a `{: .note }` **"Words to know"** callout
+  right after the H1, before `## Concept` — plain-English definitions of architecture jargon
+  ("connascence", "idempotency", "the eight fallacies"), with respelled pronunciations only for
+  genuinely tricky words. Keep/extend it when editing.
+- **Section names:** the second section is **Going Deeper** (not "How It Works"); the Lab is
+  titled **Lab — Design Exercise** with a `**Your response:**` field + hidden **Show Model
+  Answer** (the model answer explains the reasoning, common mistakes, and the phrasing an
+  architect uses — the point is reasoning, not one right answer).
+- **Cross-links:** the track sits on top of the systems tracks and beside leadership — cite
+  networking/OS/security/virtualization for the mechanics under the boxes, and leadership for
+  the people-judgment (ADRs ↔ leadership L7, design reviews ↔ leadership L9, influence/buy-in
+  ↔ leadership Phase 7). Core references: Richards & Ford (*Fundamentals* / *The Hard Parts*),
+  Kleppmann (*DDIA*), Evans (*DDD*), Newman (*Building Microservices*), Nygard (*Release It!*),
+  the C4 model (c4model.com), and Martin Fowler's bliki.
