@@ -10,23 +10,11 @@ parent: "Phase 6: Civic Life"
 
 # Lesson 35: Taxes and Public Money
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **marginal tax bracket** — each tax rate applies *only* to the dollars inside its income band, never to your whole income (the lesson's core idea).
-> - **withholding** — tax your employer deducts from each paycheque and sends ahead to the government.
-> - **GST / HST / PST** — the federal sales tax / the combined ("harmonized") version / a province's own sales tax.
-> - **excise tax** (EK-size) — extra tax on specific goods (alcohol, tobacco, fuel).
-> - **capital gain** — profit from selling an asset for more than you paid; the **principal residence exemption** — your own home's gain is entirely tax-free.
-> - **tax deferral** — postponing tax to a later year (the RRSP's trick).
-> - **general revenue** — the government's single big pot of tax money (not earmarked).
-> - **fiscal capacity** — how much revenue a province *could* raise at normal tax rates — what equalization measures.
-> - **CRA** — the Canada Revenue Agency (the tax authority); **T4** — the annual slip from your employer showing pay and tax withheld; **SIN** — Social Insurance Number, your tax/benefits ID.
-> - **clawback** — a benefit reduced as income rises (Lesson 34).
-> - **third rail** — an issue so politically dangerous no politician will touch it (from the electrified subway rail).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Two ideas organize everything: **marginal tax brackets** (the most
+Two ideas organize everything: **marginal tax brackets**[°](#w-marginal-tax-bracket) (the most
 misunderstood mechanism in public life) and **the tax return as
 Canada's central civic transaction** — simultaneously a bill, a
 benefits application (Lesson 34's field note), and an annual
@@ -38,7 +26,7 @@ handful of channels, and the proportions are worth knowing roughly.
 **Coming in**, personal income tax is by far the largest source at around half
 of federal revenue. Corporate tax contributes roughly 15%, the GST about 12%,
 and the rest arrives through payroll contributions, customs duties,
-carbon-related charges, and excise taxes on alcohol, tobacco, and fuel. (A
+carbon-related charges, and **excise taxes**[°](#w-excise-tax) on alcohol, tobacco, and fuel. (A
 technical note worth having: **CPP contributions are not general revenue** —
 they go into a separate invested fund, which is why the CPP is not "raidable"
 the way general taxes are.)
@@ -75,7 +63,7 @@ each province with its own schedule, producing combined top rates of roughly
 So the myth this lesson exists to kill can be stated flatly: **"my raise
 pushed me into a higher bracket, so I earn less now" is arithmetically
 impossible in Canada.** There is one grain of truth buried in it — benefit
-clawbacks (Lesson 34) can create high *effective* marginal rates for some
+**clawbacks**[°](#w-clawback) (Lesson 34) can create high *effective* marginal rates for some
 families, so an extra dollar of earnings can be worth surprisingly little.
 But gross income never falls because of a raise.
 
@@ -87,7 +75,7 @@ But gross income never falls because of a raise.
 
 - **Income tax** (federal + provincial, one return — except
   Quebec, which files separately, of course): progressive
-  brackets as set out above; employer withholding means most
+  brackets as set out above; employer **withholding**[°](#w-withholding) means most
   employees pre-pay through the year and reconcile in April.
   Canada taxes **residents on worldwide income** — residence,
   not citizenship (the US contrast, Lesson 32) — with foreign
@@ -110,7 +98,7 @@ But gross income never falls because of a raise.
   backstop provinces; consumer-facing design ended/retooled in
   2025 politics, industrial pricing continuing — a live file;
   know the mechanism (price + rebate) rather than the headline.
-- **Capital gains**: 50% inclusion (half your gain is taxed as
+- **Capital gains**[°](#w-capital-gain): 50% inclusion (half your gain is taxed as
   income — the 2024 attempt to raise the rate for large gains
   died with prorogation politics); **your principal residence
   is entirely exempt** — the single most consequential tax
@@ -138,9 +126,9 @@ unmatched free money.
 ### The return: April's ritual
 
 Tax year = calendar year; filing deadline **April 30**
-(June 15 self-employed, payment still April 30). The CRA
+(June 15 self-employed, payment still April 30). The **CRA**[°](#w-cra)
 (Canada Revenue Agency) receives; free software and volunteer
-clinics abound; most returns are simple (T4 employment slip +
+clinics abound; most returns are simple (**T4**[°](#w-t4) employment slip +
 deductions). File **even with no income**: the return triggers
 the CCB, GST credit, carbon rebates, provincial credits — the
 welfare state's delivery rail runs through it (the design
@@ -267,6 +255,24 @@ The program is defensible; the asymmetry is real; the fight
 is permanent (Lesson 13's better-terms script, fiscal
 edition).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-marginal-tax-bracket"></a>**marginal tax bracket** — each tax rate applies *only* to the dollars inside its income band, never to your whole income (the lesson's core idea).
+- <a id="w-withholding"></a>**withholding** — tax your employer deducts from each paycheque and sends ahead to the government.
+- <a id="w-gst-hst-pst"></a>**GST / HST / PST** — the federal sales tax / the combined ("harmonized") version / a province's own sales tax.
+- <a id="w-excise-tax"></a>**excise tax** (EK-size) — extra tax on specific goods (alcohol, tobacco, fuel).
+- <a id="w-capital-gain"></a>**capital gain** — profit from selling an asset for more than you paid; the <a id="w-principal-residence-exemption"></a>**principal residence exemption** — your own home's gain is entirely tax-free.
+- <a id="w-tax-deferral"></a>**tax deferral** — postponing tax to a later year (the RRSP's trick).
+- <a id="w-general-revenue"></a>**general revenue** — the government's single big pot of tax money (not earmarked).
+- <a id="w-fiscal-capacity"></a>**fiscal capacity** — how much revenue a province *could* raise at normal tax rates — what equalization measures.
+- <a id="w-cra"></a>**CRA** — the Canada Revenue Agency (the tax authority); <a id="w-t4"></a>**T4** — the annual slip from your employer showing pay and tax withheld; <a id="w-sin"></a>**SIN** — Social Insurance Number, your tax/benefits ID.
+- <a id="w-clawback"></a>**clawback** — a benefit reduced as income rises (Lesson 34).
+- <a id="w-third-rail"></a>**third rail** — an issue so politically dangerous no politician will touch it (from the electrified subway rail).
 
 ---
 

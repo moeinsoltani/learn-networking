@@ -23,18 +23,7 @@ detailed lesson later — think of this as the overview you'll come back to.*
 > trying — bring this lesson's checklists with you. Always follow your own
 > healthcare provider over anything written here.
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **preconception** (pree-kon-SEP-shun) — the time *before* you get pregnant, when you prepare your body and life.
-> - **conception** — the moment a sperm fertilises an egg; the start of pregnancy.
-> - **prenatal** (pree-NAY-tal) — "before birth"; the care and checkups during pregnancy. Also called *antenatal*.
-> - **postpartum** (post-PAR-tum) — the period *after* delivery, for both baby and recovering mother. Often called the "fourth trimester" (first ~3 months).
-> - **trimester** (try-MESS-ter) — one of the three ~13-week thirds of pregnancy.
-> - **folic acid / folate** (FOH-lik / FOH-late) — a B-vitamin taken before and in early pregnancy to help prevent serious birth defects of the brain and spine.
-> - **ovulation** (ov-yoo-LAY-shun) — when an ovary releases an egg; the few days around it are the "fertile window."
-> - **obstetrician / OB** (ob-steh-TRISH-un) — a doctor specialising in pregnancy and birth; a **midwife** is a trained professional who supports low-risk pregnancy and birth.
-> - **preeclampsia** (pree-ee-KLAMP-see-ah) — a serious pregnancy condition of high blood pressure; a key reason for the warning signs below.
-> - **SIDS** — Sudden Infant Death Syndrome; "safe sleep" habits lower the risk.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -48,7 +37,7 @@ is preparing your bodies and your life: starting folic acid, checking vaccines
 and medications, getting any ongoing health conditions well controlled, and
 sorting out the risks that are easiest to fix early.
 
-**During — pregnancy**, about forty weeks, in three trimesters. The work is
+**During — pregnancy**, about forty weeks, in three **trimesters**[°](#w-trimester). The work is
 growing the baby safely and keeping watch: regular checkups, eating and avoiding
 wisely, and knowing the warning signs that mean "call someone now."
 
@@ -92,9 +81,9 @@ ahead**.
 
 **The partner who will carry the baby, especially:**
 - **Start folic acid now.** Most people need **0.4 mg (400 mcg) daily**, ideally
-  from **2–3 months before** conception through at least the first trimester. Some
+  from **2–3 months before** **conception**[°](#w-conception) through at least the first trimester. Some
   (previous affected pregnancy, diabetes, certain medications, higher weight) need
-  a **higher dose — only on medical advice.** A prenatal multivitamin usually
+  a **higher dose — only on medical advice.** A **prenatal**[°](#w-prenatal) multivitamin usually
   includes it.
 - **Update vaccinations *before* pregnancy** — e.g. **MMR (rubella)** and
   **chickenpox (varicella)** are *live* vaccines that must be given before, not
@@ -104,7 +93,7 @@ ahead**.
   be switched to pregnancy-safe versions *before* conceiving — never stop a
   prescription on your own; ask first.
 - **See a dentist** — gum health matters and some treatment is easier done before.
-- **Learn your cycle.** Ovulation is usually ~14 days before the next period; the
+- **Learn your cycle.** **Ovulation**[°](#w-ovulation) is usually ~14 days before the next period; the
   **fertile window** is roughly the 5 days before, plus the day of, ovulation.
 
 **The other partner, for sperm health:** healthy diet, no smoking/excess alcohol,
@@ -340,6 +329,23 @@ weakness</strong> — the right response is to <strong>seek help early</strong> 
 a provider. Partners should watch for the signs too (and can experience depression
 themselves).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-preconception"></a>**preconception** (pree-kon-SEP-shun) — the time *before* you get pregnant, when you prepare your body and life.
+- <a id="w-conception"></a>**conception** — the moment a sperm fertilises an egg; the start of pregnancy.
+- <a id="w-prenatal"></a>**prenatal** (pree-NAY-tal) — "before birth"; the care and checkups during pregnancy. Also called *antenatal*.
+- <a id="w-postpartum"></a>**postpartum** (post-PAR-tum) — the period *after* delivery, for both baby and recovering mother. Often called the "fourth trimester" (first ~3 months).
+- <a id="w-trimester"></a>**trimester** (try-MESS-ter) — one of the three ~13-week thirds of pregnancy.
+- <a id="w-folic-acid-folate"></a>**folic acid / folate** (FOH-lik / FOH-late) — a B-vitamin taken before and in early pregnancy to help prevent serious birth defects of the brain and spine.
+- <a id="w-ovulation"></a>**ovulation** (ov-yoo-LAY-shun) — when an ovary releases an egg; the few days around it are the "fertile window."
+- <a id="w-obstetrician-ob"></a>**obstetrician / OB** (ob-steh-TRISH-un) — a doctor specialising in pregnancy and birth; a **midwife** is a trained professional who supports low-risk pregnancy and birth.
+- <a id="w-preeclampsia"></a>**preeclampsia** (pree-ee-KLAMP-see-ah) — a serious pregnancy condition of high blood pressure; a key reason for the warning signs below.
+- <a id="w-sids"></a>**SIDS** — Sudden Infant Death Syndrome; "safe sleep" habits lower the risk.
 
 ---
 

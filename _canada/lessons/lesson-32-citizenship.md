@@ -10,18 +10,7 @@ parent: "Phase 6: Civic Life"
 
 # Lesson 32: Citizenship — Rights and Responsibilities
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **naturalization** (natch-er-ul-eye-ZAY-shun) — becoming a citizen of a country you weren't born in.
-> - **jus soli** (yoos SOH-lee) — Latin: citizenship by *birthplace* (born on the soil); **jus sanguinis** (yoos SANG-gwin-iss) — citizenship by *parentage* (born to a citizen).
-> - **permanent resident (PR)** — someone with the right to live and work in Canada indefinitely, but not yet a citizen.
-> - **oath / affirm** — the formal promise of allegiance; "affirm" is the non-religious version.
-> - **dual citizenship** — holding two countries' citizenships at once (fully allowed by Canada); **renounce** — to formally give one up.
-> - **consular protection** — your country's embassies helping you when you're in trouble abroad.
-> - **deportation** — being legally removed from the country (possible for PRs, not citizens).
-> - **red serge** (SURJ) — the RCMP's famous red ceremonial uniform.
-> - **fealty** (FEE-ul-tee) — an old word for personal loyalty to a lord (what the oath is *not*, per the courts).
-> - **CLB** — Canadian Language Benchmarks, the official language-level scale (CLB 4 ≈ basic conversational).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -33,10 +22,10 @@ own citizenship. Today it operates on two doors and one ceremony:
 There are two doors into Canadian citizenship, and they work quite
 differently.
 
-**The first door is birth.** Canada follows *jus soli* — "right of soil":
+**The first door is birth.** Canada follows *jus soli*[°](#w-jus-soli) — "right of soil":
 anyone born on Canadian soil is a citizen, almost unconditionally, with the
 children of foreign diplomats being the main exception. It also recognizes
-*jus sanguinis* — "right of blood": a child born abroad to a Canadian parent
+*jus sanguinis*[°](#w-jus-sanguinis) — "right of blood": a child born abroad to a Canadian parent
 is a citizen, but **only in the first generation**. That limit dates from 2009
 and has been under litigation and reform since.
 
@@ -122,10 +111,10 @@ versions (Lesson 45). The perennial objection — "why swear to a
 King?" — got its legal answer in Lesson 25's decoder: courts
 (*McAteer*, Ontario CA 2014) upheld the oath by reading it as
 allegiance to **Canada's form of government personified**, not
-personal fealty to Charles Windsor; the challenge failed,
+personal **fealty**[°](#w-fealty) to Charles Windsor; the challenge failed,
 citizenship's price remains one sentence of constitutional
 symbolism. New citizens averaging ~200,000–300,000+ per year make
-this among the world's largest naturalization operations
+this among the world's largest **naturalization**[°](#w-naturalization) operations
 per-capita — and the ceremony is deliberately warm: Canada
 stage-manages belonging the way it stage-manages little else
 (Lesson 43 will ask what the warmth does and doesn't buy).
@@ -223,6 +212,23 @@ founding documents took 250 years to make. The oath now
 contains, in one sentence, this course's whole arc: Crown,
 Constitution, and treaties, joined.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-naturalization"></a>**naturalization** (natch-er-ul-eye-ZAY-shun) — becoming a citizen of a country you weren't born in.
+- <a id="w-jus-soli"></a>**jus soli** (yoos SOH-lee) — Latin: citizenship by *birthplace* (born on the soil); <a id="w-jus-sanguinis"></a>**jus sanguinis** (yoos SANG-gwin-iss) — citizenship by *parentage* (born to a citizen).
+- <a id="w-permanent-resident-pr"></a>**permanent resident (PR)** — someone with the right to live and work in Canada indefinitely, but not yet a citizen.
+- <a id="w-oath-affirm"></a>**oath / affirm** — the formal promise of allegiance; "affirm" is the non-religious version.
+- <a id="w-dual-citizenship"></a>**dual citizenship** — holding two countries' citizenships at once (fully allowed by Canada); <a id="w-renounce"></a>**renounce** — to formally give one up.
+- <a id="w-consular-protection"></a>**consular protection** — your country's embassies helping you when you're in trouble abroad.
+- <a id="w-deportation"></a>**deportation** — being legally removed from the country (possible for PRs, not citizens).
+- <a id="w-red-serge"></a>**red serge** (SURJ) — the RCMP's famous red ceremonial uniform.
+- <a id="w-fealty"></a>**fealty** (FEE-ul-tee) — an old word for personal loyalty to a lord (what the oath is *not*, per the courts).
+- <a id="w-clb"></a>**CLB** — Canadian Language Benchmarks, the official language-level scale (CLB 4 ≈ basic conversational).
 
 ---
 

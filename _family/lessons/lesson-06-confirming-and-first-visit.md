@@ -13,14 +13,7 @@ parent: "Phase 2: The First Trimester"
 {: .important }
 > General education, not medical advice — follow your own provider. When in doubt, call.
 
-{: .note }
-> **Words to know**
-> - **hCG** (human chorionic gonadotropin) — the "pregnancy hormone" that home and blood tests detect.
-> - **home pregnancy test** — a urine test you do yourself, best after a missed period.
-> - **due date / EDD** — Estimated Date of Delivery, ~40 weeks from the first day of the last period.
-> - **LMP** — Last Menstrual Period (its first day), used to date the pregnancy.
-> - **dating scan** — an early ultrasound that confirms and dates the pregnancy.
-> - **booking / first prenatal visit** — the first proper appointment, usually around 8–10 weeks.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -34,7 +27,7 @@ your options are all set up. Meanwhile, keep doing the good things from Phase 1
 
 ### Confirming it
 
-- **Home pregnancy tests** detect **hCG** in urine. They're most accurate **from
+- **Home pregnancy tests**[°](#w-home-pregnancy-test) detect **hCG**[°](#w-hcg) in urine. They're most accurate **from
   the day of a missed period** (testing too early can give a false negative). A
   positive is very reliable; if negative but your period doesn't come, test again
   in a few days.
@@ -44,9 +37,9 @@ your options are all set up. Meanwhile, keep doing the good things from Phase 1
 ### Your due date
 
 The classic estimate: **40 weeks (280 days) from the first day of your last
-period (LMP)** — a shortcut called *Naegele's rule* (LMP + 1 year − 3 months + 7
+period (LMP)** — a shortcut called *Naegele's rule* (**LMP**[°](#w-lmp) + 1 year − 3 months + 7
 days). Pregnancy is counted from the LMP, so at "8 weeks pregnant" conception was
-only ~6 weeks ago. An early **dating scan** gives the most accurate date. Remember
+only ~6 weeks ago. An early **dating scan**[°](#w-dating-scan) gives the most accurate date. Remember
 it's an *estimate*: only about 1 in 20 babies arrive exactly on the due date —
 "term" is anywhere from 37 to 42 weeks.
 
@@ -142,6 +135,19 @@ checks, <strong>blood tests</strong> (blood type &amp; Rh, anemia, immunity,
 infections), a discussion of <strong>screening options</strong>, and advice on
 nutrition/supplements and what to avoid.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-hcg"></a>**hCG** (human chorionic gonadotropin) — the "pregnancy hormone" that home and blood tests detect.
+- <a id="w-home-pregnancy-test"></a>**home pregnancy test** — a urine test you do yourself, best after a missed period.
+- <a id="w-due-date-edd"></a>**due date / EDD** — Estimated Date of Delivery, ~40 weeks from the first day of the last period.
+- <a id="w-lmp"></a>**LMP** — Last Menstrual Period (its first day), used to date the pregnancy.
+- <a id="w-dating-scan"></a>**dating scan** — an early ultrasound that confirms and dates the pregnancy.
+- <a id="w-booking-first-prenatal-visit"></a>**booking / first prenatal visit** — the first proper appointment, usually around 8–10 weeks.
 
 ---
 

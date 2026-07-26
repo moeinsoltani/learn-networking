@@ -10,30 +10,12 @@ parent: "Phase 1: The Land"
 
 # Lesson 03: Climate and the North
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **temperate** — mild, without extreme heat or cold; **maritime climate** — weather moderated (softened) by a nearby ocean; **continental climate** — inland weather with extreme swings, far from any ocean.
-> - **moderate** (verb: MOD-er-ate) — to make less extreme; oceans moderate the temperature of coastal cities.
-> - **chinook** (shih-NOOK) — a warm dry wind that blows down from the Rockies and can melt an Alberta winter day in hours.
-> - **nor'easter** (nor-EAST-er) — a powerful Atlantic winter storm (short for "northeaster").
-> - **treeline** — the line beyond which it's too cold for trees; **tundra** — the treeless land north of it; **subarctic** — the zone just south of the true Arctic.
-> - **permafrost** — ground that stays frozen all year round.
-> - **polar night / midnight sun** — weeks of winter darkness / weeks of summer daylight in the far north; **aurora** (uh-ROAR-ah) — the northern lights.
-> - **sovereignty** (SOV-rin-tee) — a country's legal control over its territory.
-> - **internal waters** vs **international strait** — waters fully controlled by one country vs a sea passage all ships may legally use; the heart of the Northwest Passage dispute.
-> - **Inuit** (IN-oo-it) — the Indigenous people of the Arctic; **Inuvik** (ih-NOO-vik) — a town in the western Arctic.
-> - **nordicity** (nor-DISS-ih-tee) — a Canadian scholars' word for "how northern" a place really is (remoteness + climate, not just latitude).
-> - **utilidor** (yoo-TIL-ih-door) — an insulated above-ground pipe casing carrying water and sewage in places where you cannot bury pipes in frozen ground.
-> - **sealift** — the once-a-year summer barge delivery of fuel, vehicles, and building materials to Arctic communities, possible only while the sea ice is open.
-> - **ice road** — a winter-only road driven directly over frozen lakes, rivers, or muskeg; it melts every spring.
-> - **hamlet** — the official name for a small incorporated community in the territories.
-> - **Canadian Rangers** — part-time army reservists who provide a military presence across the North, drawn largely from Inuit and other northern communities.
-> - **Gulf Stream** / **Labrador Current** — the warm Atlantic current flowing north-east past Newfoundland and the cold one flowing south past it; their meeting is why Atlantic Canada is so foggy and stormy.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Two ideas in this lesson. First: **Canada does not have "a" climate** — it has
-everything from a temperate rainforest where roses bloom in February
+everything from a **temperate**[°](#w-temperate) rainforest where roses bloom in February
 (Victoria) to the coldest permanently inhabited places outside Siberia and
 Antarctica. Second: **"the North" is not just a direction in Canada — it's an
 idea**, close to the core of national identity ("the True North strong and
@@ -51,10 +33,10 @@ storms.
 
 Travelling **south to north**, from anywhere, the sequence is the same
 everywhere: farmland gives way to boreal forest, the forest thins and stops at
-the treeline, the treeline gives way to tundra, and the far islands are
+the **treeline**[°](#w-treeline), the treeline gives way to **tundra**[°](#w-tundra), and the far islands are
 effectively polar desert. Everything gets colder and drier as you go, until
 trees give up entirely and the ground itself stays frozen year-round — that
-frozen ground is **permafrost**, and it is the single most important physical
+frozen ground is **permafrost**[°](#w-permafrost), and it is the single most important physical
 fact about northern Canada.
 
 Put the two directions together and you can place any Canadian city:
@@ -93,27 +75,27 @@ than distance from the sea.*
   BC's lower mainland is Canada's retirement dream and its most expensive real
   estate.
 - **The Prairies:** continental extremes. No ocean within a thousand
-  kilometres to moderate anything: −30°C snaps in winter, +30°C in summer,
-  and in Alberta the **chinook** — a warm mountain wind that can raise
+  kilometres to **moderate**[°](#w-moderate) anything: −30°C snaps in winter, +30°C in summer,
+  and in Alberta the **chinook**[°](#w-chinook) — a warm mountain wind that can raise
   Calgary's temperature 20 degrees in a few hours.
 - **Central Canada (Toronto–Montreal):** humid continental — four genuine
   seasons, including the humid summers and the freezing rain and snowstorms
   that structure Canadian small talk.
-- **Atlantic Canada:** the stormy meeting place of the warm Gulf Stream and
-  cold Labrador Current — fog capital St. John's, nor'easter blizzards,
+- **Atlantic Canada:** the stormy meeting place of the warm **Gulf Stream**[°](#w-gulf-stream) and
+  cold **Labrador Current**[°](#w-labrador-current) — fog capital St. John's, **nor'easter**[°](#w-noreaster) blizzards,
   hurricanes' northern leftovers.
-- **The North:** subarctic (long, severe winters, brief warm summers) grading
+- **The North:** **subarctic**[°](#w-subarctic) (long, severe winters, brief warm summers) grading
   into true Arctic (tundra) — plus phenomena southerners never live with:
-  **polar night and midnight sun** (Inuvik gets weeks of each) and the aurora.
+  **polar night and midnight sun** (**Inuvik**[°](#w-inuvik) gets weeks of each) and the **aurora**[°](#w-aurora).
 
 ### Three words that define the North
 
 1. **Treeline** — the wavering boundary where the boreal forest surrenders to
    tundra. It's Canada's real internal frontier, and it roughly tracks where
-   First Nations territories historically gave way to Inuit lands.
+   First Nations territories historically gave way to **Inuit**[°](#w-inuit) lands.
 2. **Permafrost** — permanently frozen ground under much of the territories
    and northern provinces. You can't lay normal foundations, pipes, or roads
-   on it (buildings stand on piles; some highways are winter-only "ice roads").
+   on it (buildings stand on piles; some highways are winter-only "**ice roads**[°](#w-ice-road)").
    As the climate warms, permafrost thaws — buckling runways and buildings,
    which is why climate change is a *present-tense infrastructure crisis* in
    the North, not a future abstraction. The Arctic is warming around **three
@@ -127,7 +109,7 @@ than distance from the sea.*
 It is worth making permafrost concrete, because it explains why almost
 everything in the North costs several times what it costs in the south.
 Imagine building the same small health centre in Ottawa and in a northern
-hamlet. Three things change completely.
+**hamlet**[°](#w-hamlet). Three things change completely.
 
 **The foundation.** You cannot pour an ordinary basement, because the heat
 leaking out of the building would melt the permafrost underneath it and the
@@ -138,10 +120,10 @@ building as the ground shifts, more often now than a generation ago.
 
 **The pipes.** Burying water and sewer lines in permanently frozen ground is
 often impossible. Communities instead run insulated above-ground conduits
-called **utilidors**, or simply truck water in and sewage out, forever. That
+called **utilidors**[°](#w-utilidor), or simply truck water in and sewage out, forever. That
 is a permanent operating cost that Ottawa never pays.
 
-**The delivery.** Materials arrive either by **sealift** — the annual summer
+**The delivery.** Materials arrive either by **sealift**[°](#w-sealift) — the annual summer
 barge, once the sea ice opens — or over a winter **ice road** that exists only
 while the ground is frozen hard enough to drive on. Miss the window and the
 project waits a full year.
@@ -153,20 +135,20 @@ a line item in every budget.
 
 Canada claims the waters of the Arctic Archipelago — including the fabled
 **Northwest Passage** — as *internal Canadian waters*. The US and others call
-the Passage an *international strait* open to all shipping. For most of
+the Passage an *international strait*[°](#w-international-strait) open to all shipping. For most of
 history the dispute was academic: the Passage was ice. Now the ice is melting,
 shipping and resource interest are rising, and Russia is militarizing its own
 Arctic — so Canada's claim needs to be *lived* to be credible. This is why
 Canada funds Arctic rangers (largely Inuit reservists), icebreakers, and
 northern infrastructure, and why Ottawa insists that "the Inuit presence for
-millennia" underwrites Canadian sovereignty — a rare case where the state's
+millennia" underwrites Canadian **sovereignty**[°](#w-sovereignty) — a rare case where the state's
 legal position leans directly on Indigenous occupation (remember this in
 Phase 2 and Lesson 44).
 
 {: .note }
 > **"North of 60"**
 > The 60th parallel is the territories' southern border and shorthand for the
-> administrative North. But *nordicity* is really about remoteness and
+> administrative North. But *nordicity*[°](#w-nordicity) is really about remoteness and
 > climate: Churchill, Manitoba (58°N) is more "northern" in every practical
 > sense than balmy Whitehorse. Most of the "provincial norths" — northern
 > Quebec, Ontario, and the Prairie provinces — share the North's isolation
@@ -241,6 +223,30 @@ which it has full control; the US (and others) consider it an
 claim by pointing to, among other things, millennia of Inuit use and
 occupation of the region.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-temperate"></a>**temperate** — mild, without extreme heat or cold; <a id="w-maritime-climate"></a>**maritime climate** — weather moderated (softened) by a nearby ocean; <a id="w-continental-climate"></a>**continental climate** — inland weather with extreme swings, far from any ocean.
+- <a id="w-moderate"></a>**moderate** (verb: MOD-er-ate) — to make less extreme; oceans moderate the temperature of coastal cities.
+- <a id="w-chinook"></a>**chinook** (shih-NOOK) — a warm dry wind that blows down from the Rockies and can melt an Alberta winter day in hours.
+- <a id="w-noreaster"></a>**nor'easter** (nor-EAST-er) — a powerful Atlantic winter storm (short for "northeaster").
+- <a id="w-treeline"></a>**treeline** — the line beyond which it's too cold for trees; <a id="w-tundra"></a>**tundra** — the treeless land north of it; <a id="w-subarctic"></a>**subarctic** — the zone just south of the true Arctic.
+- <a id="w-permafrost"></a>**permafrost** — ground that stays frozen all year round.
+- <a id="w-polar-night-midnight-sun"></a>**polar night / midnight sun** — weeks of winter darkness / weeks of summer daylight in the far north; <a id="w-aurora"></a>**aurora** (uh-ROAR-ah) — the northern lights.
+- <a id="w-sovereignty"></a>**sovereignty** (SOV-rin-tee) — a country's legal control over its territory.
+- **internal waters** vs <a id="w-international-strait"></a>**international strait** — waters fully controlled by one country vs a sea passage all ships may legally use; the heart of the Northwest Passage dispute.
+- <a id="w-inuit"></a>**Inuit** (IN-oo-it) — the Indigenous people of the Arctic; <a id="w-inuvik"></a>**Inuvik** (ih-NOO-vik) — a town in the western Arctic.
+- <a id="w-nordicity"></a>**nordicity** (nor-DISS-ih-tee) — a Canadian scholars' word for "how northern" a place really is (remoteness + climate, not just latitude).
+- <a id="w-utilidor"></a>**utilidor** (yoo-TIL-ih-door) — an insulated above-ground pipe casing carrying water and sewage in places where you cannot bury pipes in frozen ground.
+- <a id="w-sealift"></a>**sealift** — the once-a-year summer barge delivery of fuel, vehicles, and building materials to Arctic communities, possible only while the sea ice is open.
+- <a id="w-ice-road"></a>**ice road** — a winter-only road driven directly over frozen lakes, rivers, or muskeg; it melts every spring.
+- <a id="w-hamlet"></a>**hamlet** — the official name for a small incorporated community in the territories.
+- <a id="w-canadian-rangers"></a>**Canadian Rangers** — part-time army reservists who provide a military presence across the North, drawn largely from Inuit and other northern communities.
+- <a id="w-gulf-stream"></a>**Gulf Stream** / <a id="w-labrador-current"></a>**Labrador Current** — the warm Atlantic current flowing north-east past Newfoundland and the cold one flowing south past it; their meeting is why Atlantic Canada is so foggy and stormy.
 
 ---
 

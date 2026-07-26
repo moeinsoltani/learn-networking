@@ -10,20 +10,7 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 11: Loyalists and the War of 1812
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **Loyalist** — an American colonist who stayed loyal to the British Crown during the Revolution; many fled to Canada as refugees.
-> - **counter-revolution** — a movement *against* a revolution, defending the old order.
-> - **confiscation** — the state seizing someone's property; **exile** — being forced to leave your homeland.
-> - **militia** (mih-LISH-ah) — ordinary citizens (farmers, shopkeepers) called up as part-time soldiers; **regulars** — full-time professional soldiers.
-> - **impressment** — the Royal Navy's practice of seizing sailors and forcing them into service — a cause of the war.
-> - **annexation** (an-ek-SAY-shun) — one country absorbing another's territory.
-> - **confederacy** — an alliance of nations acting together (here, Tecumseh's alliance of Indigenous nations).
-> - **buffer state** — a small neutral country placed between two rivals to keep them apart (the Indigenous state Britain promised, then abandoned).
-> - **status quo ante** (STAT-us kwoh AN-tay) — Latin: "the way things were before"; the 1814 peace restored pre-war borders.
-> - **demilitarized** — with weapons and armed forces removed by agreement.
-> - **ward** — a person treated as unable to manage their own affairs, put under a guardian's control — what Canada made of its former allies (Lesson 17).
-> - Names: **Tecumseh** (teh-KUM-seh), **Shawnee** (shaw-NEE), **Thayendanegea/Joseph Brant** (thay-en-dah-NEH-geh-ah), **Haldimand** (HAL-dih-mund), **Châteauguay** (shat-oh-GAY), **Salaberry** (sal-ah-beh-REE), **Voltigeurs** (vol-tee-ZHUR), **Ghent** (GENT — a city in Belgium), **Queenston** (KWEENZ-tun).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -67,8 +54,8 @@ side.
 ### The Loyalists: refugees of a civil war
 
 The Revolution was also a civil war — perhaps a fifth of white colonists
-stayed loyal to the Crown, and with defeat came confiscation, tarring, and
-exile. About **50,000** came to British North America (with smaller waves
+stayed loyal to the Crown, and with defeat came **confiscation**[°](#w-confiscation), tarring, and
+**exile**[°](#w-exile). About **50,000** came to British North America (with smaller waves
 after):
 
 - **~35,000 to Nova Scotia** — so many that the colony split: **New
@@ -86,7 +73,7 @@ after):
   Six Nations / Caledonia land disputes in today's news — file with
   Lesson 17.
 
-For the Loyalists Britain reorganized the map: the **Constitutional Act of
+For the **Loyalists**[°](#w-loyalist) Britain reorganized the map: the **Constitutional Act of
 1791** split Quebec into **Upper Canada** (English, common law, the
 ancestor of Ontario) and **Lower Canada** (French, civil law — the Quebec
 Act's bargain preserved), each with an **elected assembly** — whose limited
@@ -94,9 +81,9 @@ powers will cause the explosions of Lesson 12.
 
 ### The War of 1812: the failed annexation
 
-Causes (American ledger): Royal Navy impressment of American sailors, trade
+Causes (American ledger): Royal Navy **impressment**[°](#w-impressment) of American sailors, trade
 interference during the Napoleonic wars, British arms flowing to
-Tecumseh's confederacy resisting U.S. expansion — and, for the "War Hawks,"
+Tecumseh's **confederacy**[°](#w-confederacy) resisting U.S. expansion — and, for the "War Hawks,"
 the standing temptation: Canada looked like "a mere matter of marching"
 (Jefferson). The U.S. declared war in June 1812 and invaded.
 
@@ -122,7 +109,7 @@ ante — nobody "won" on paper.
 ### Who actually won and lost
 
 - **Winners:** British North America (it survived — for a colony facing
-  annexation, survival *is* victory) and the idea of Canada: militia myth,
+  **annexation**[°](#w-annexation), survival *is* victory) and the idea of Canada: **militia**[°](#w-militia) myth,
   shared Anglo-French-Indigenous defence, first national heroes.
 - **Losers, decisively: the Indigenous nations.** Tecumseh's confederacy
   died with him; Britain dropped its ally's cause (an Indigenous buffer
@@ -130,7 +117,7 @@ ante — nobody "won" on paper.
   Indigenous *military* allies ended. Watch the logic of Lesson 09 turn
   over: partners are valued while needed. From here the relationship slides
   from alliance to administration (Lesson 17).
-- The border was demilitarized (Rush–Bagot, 1817) and never seriously
+- The border was **demilitarized**[°](#w-demilitarized) (Rush–Bagot, 1817) and never seriously
   fought over again — "the world's longest undefended border" starts here.
 
 There is a contradiction in that accounting worth sitting with rather than
@@ -146,7 +133,7 @@ of you.
 {: .note }
 > **The militia myth, handled with care**
 > The cherished version — farm-boy militia repelled the superpower — is
-> myth: British regulars and Indigenous allies did most of the winning.
+> myth: British **regulars**[°](#w-regulars) and Indigenous allies did most of the winning.
 > But myths are load-bearing. 1812 gave a scattered, bilingual, refugee
 > colony a shared story ("we stood together and we are not them"), and
 > nation-building runs on such stories. The historian's move — and this
@@ -235,6 +222,25 @@ broadcasters); and the instinct that rights coexist with collective order
 it. Founder effects, once more: populations select their premises, and
 premises compound.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-loyalist"></a>**Loyalist** — an American colonist who stayed loyal to the British Crown during the Revolution; many fled to Canada as refugees.
+- <a id="w-counter-revolution"></a>**counter-revolution** — a movement *against* a revolution, defending the old order.
+- <a id="w-confiscation"></a>**confiscation** — the state seizing someone's property; <a id="w-exile"></a>**exile** — being forced to leave your homeland.
+- <a id="w-militia"></a>**militia** (mih-LISH-ah) — ordinary citizens (farmers, shopkeepers) called up as part-time soldiers; <a id="w-regulars"></a>**regulars** — full-time professional soldiers.
+- <a id="w-impressment"></a>**impressment** — the Royal Navy's practice of seizing sailors and forcing them into service — a cause of the war.
+- <a id="w-annexation"></a>**annexation** (an-ek-SAY-shun) — one country absorbing another's territory.
+- <a id="w-confederacy"></a>**confederacy** — an alliance of nations acting together (here, Tecumseh's alliance of Indigenous nations).
+- <a id="w-buffer-state"></a>**buffer state** — a small neutral country placed between two rivals to keep them apart (the Indigenous state Britain promised, then abandoned).
+- <a id="w-status-quo-ante"></a>**status quo ante** (STAT-us kwoh AN-tay) — Latin: "the way things were before"; the 1814 peace restored pre-war borders.
+- <a id="w-demilitarized"></a>**demilitarized** — with weapons and armed forces removed by agreement.
+- <a id="w-ward"></a>**ward** — a person treated as unable to manage their own affairs, put under a guardian's control — what Canada made of its former allies (Lesson 17).
+- Names: **Tecumseh** (teh-KUM-seh), **Shawnee** (shaw-NEE), **Thayendanegea/Joseph Brant** (thay-en-dah-NEH-geh-ah), **Haldimand** (HAL-dih-mund), **Châteauguay** (shat-oh-GAY), **Salaberry** (sal-ah-beh-REE), **Voltigeurs** (vol-tee-ZHUR), **Ghent** (GENT — a city in Belgium), **Queenston** (KWEENZ-tun).
 
 ---
 

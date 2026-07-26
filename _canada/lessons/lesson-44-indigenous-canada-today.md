@@ -10,19 +10,7 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 44: Indigenous Canada Today
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **modern treaty / comprehensive claim** — a full land-and-government agreement negotiated today (James Bay 1975, Nisga'a 2000), unlike the 1800s numbered treaties.
-> - **self-government agreement** — a negotiated deal replacing Indian Act rule with a nation's own law-making government.
-> - **fee simple** — ordinary full private ownership of land (what modern treaties grant over core lands).
-> - **development corporation** — a nation-owned business arm investing settlement money.
-> - **economic reconciliation** — repairing the relationship through ownership: equity stakes, procurement, business.
-> - **hereditary chiefs** — leaders under a nation's pre-colonial governance system, passed through traditional law; **elected band council** — the Indian Act's elected system; both can claim to speak for a nation (the Wet'suwet'en conflict).
-> - **blood quantum** — measuring Indigenous identity by ancestry percentage (a US approach; Canadian nations define their own citizenship).
-> - **performative** — done for appearance rather than effect.
-> - **land back** — the movement to return land ownership/control to Indigenous nations.
-> - **throat singing** — the traditional Inuit vocal art (Tanya Tagaq's medium).
-> - Names: **Wet'suwet'en** (wet-SOO-wet-en), **Nisga'a** (NISS-gah), **Tsilhqot'in** (sil-KOH-teen), **Monkman** (MUNK-man), **Tagaq** (TAH-gahk), **Obomsawin** (oh-BOM-sah-win), **Abenaki** (ab-eh-NAH-kee), **Wab Kinew** (WOB kih-NOO), **Membertou** (MEM-ber-too), **Eeyou Istchee** (EE-yoo ISS-chee — the James Bay Cree territory), **Kanien'kehá:ka** (gah-nyen-geh-HAH-gah — the Mohawk).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -43,7 +31,7 @@ reserve-only image in most people's heads is decades out of date.
 
 **Government.** Nunavut (Lesson 01) is past its twenty-fifth year. Around 25
 modern treaties now cover more than 40% of Canada's land mass, and
-self-government agreements are replacing the Indian Act nation by nation —
+**self-government agreements**[°](#w-self-government-agreement) are replacing the Indian Act nation by nation —
 Lesson 17's cage being exited one door at a time rather than demolished all at
 once.
 
@@ -52,10 +40,10 @@ consult, then *Tsilhqot'in* recognizing declared title, then UNDRIP's standard
 of free, prior and informed consent. Indigenous law is now a standing fact in
 every resource boardroom in the country (Lesson 39).
 
-**Economy.** Development corporations, equity stakes in pipelines,
+**Economy.** **Development corporations**[°](#w-development-corporation), equity stakes in pipelines,
 transmission lines and mines, procurement set-asides, and roughly 60,000
 Indigenous-owned businesses — the cluster of things usually filed under
-"economic reconciliation."
+"**economic reconciliation**[°](#w-economic-reconciliation)."
 
 **Culture.** A genuine renaissance: Kent Monkman in the Met's great hall,
 Tanya Tagaq's Polaris Prize, Alanis Obomsawin's cinema, Wab Kinew becoming
@@ -83,7 +71,7 @@ The Indian Act's replacement proceeds nation-by-nation
 **modern treaties** (comprehensive claims — James Bay 1975 →
 Nisga'a 2000 → the Yukon and NWT agreements) create
 constitutionally protected self-government with law-making
-powers, land ownership in fee simple and traditional-territory
+powers, land ownership in **fee simple**[°](#w-fee-simple) and traditional-territory
 rights, and financial arrangements; **sectoral self-government**
 (education authorities in Nova Scotia's Mi'kmaw Kina'matnewey —
 graduation rates now *above* provincial average: the
@@ -139,7 +127,7 @@ treaty-making, Lesson 10, which is why Vancouver says
 happened in BC): the word is a legal description with
 billions in implications, not politeness. The debate you
 should be able to stage: critics-from-solidarity (Indigenous
-voices included) call rote acknowledgements "performative" —
+voices included) call rote acknowledgements "**performative**[°](#w-performative)" —
 naming the theft while keeping the goods, reconciliation as
 theatre (the sharpest version: "an acknowledgement without a
 rent cheque is a confession without restitution");
@@ -287,6 +275,24 @@ Both critiques are live inside nations — cite specific
 nations and bodies, never "the Indigenous view" (Lesson 06's
 rule, this lesson's refrain).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-modern-treaty-comprehensive-claim"></a>**modern treaty / comprehensive claim** — a full land-and-government agreement negotiated today (James Bay 1975, Nisga'a 2000), unlike the 1800s numbered treaties.
+- <a id="w-self-government-agreement"></a>**self-government agreement** — a negotiated deal replacing Indian Act rule with a nation's own law-making government.
+- <a id="w-fee-simple"></a>**fee simple** — ordinary full private ownership of land (what modern treaties grant over core lands).
+- <a id="w-development-corporation"></a>**development corporation** — a nation-owned business arm investing settlement money.
+- <a id="w-economic-reconciliation"></a>**economic reconciliation** — repairing the relationship through ownership: equity stakes, procurement, business.
+- <a id="w-hereditary-chiefs"></a>**hereditary chiefs** — leaders under a nation's pre-colonial governance system, passed through traditional law; <a id="w-elected-band-council"></a>**elected band council** — the Indian Act's elected system; both can claim to speak for a nation (the Wet'suwet'en conflict).
+- <a id="w-blood-quantum"></a>**blood quantum** — measuring Indigenous identity by ancestry percentage (a US approach; Canadian nations define their own citizenship).
+- <a id="w-performative"></a>**performative** — done for appearance rather than effect.
+- <a id="w-land-back"></a>**land back** — the movement to return land ownership/control to Indigenous nations.
+- <a id="w-throat-singing"></a>**throat singing** — the traditional Inuit vocal art (Tanya Tagaq's medium).
+- Names: **Wet'suwet'en** (wet-SOO-wet-en), **Nisga'a** (NISS-gah), **Tsilhqot'in** (sil-KOH-teen), **Monkman** (MUNK-man), **Tagaq** (TAH-gahk), **Obomsawin** (oh-BOM-sah-win), **Abenaki** (ab-eh-NAH-kee), **Wab Kinew** (WOB kih-NOO), **Membertou** (MEM-ber-too), **Eeyou Istchee** (EE-yoo ISS-chee — the James Bay Cree territory), **Kanien'kehá:ka** (gah-nyen-geh-HAH-gah — the Mohawk).
 
 ---
 

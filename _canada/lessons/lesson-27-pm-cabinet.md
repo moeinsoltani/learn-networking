@@ -10,19 +10,7 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 27: The Prime Minister and Cabinet
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **incumbent** (in-KUM-bent) — the current holder of an office.
-> - **minority government** — a government whose party holds under half the seats, surviving vote by vote; **coalition** — two+ parties actually sharing cabinet (rare in Canada).
-> - **supply-and-confidence agreement** — a smaller party promises to support the government on confidence votes in exchange for policy wins ("supply" = approving spending).
-> - **cabinet solidarity** — ministers must publicly support every cabinet decision or resign; **ministerial responsibility** — each minister answers to Parliament for their department.
-> - **PMO** — the Prime Minister's Office: the PM's *political* staff; **PCO** — the Privy Council Office: the *non-partisan* civil-service counterpart.
-> - **mandate letter** — the PM's published instruction letter telling each minister what to deliver.
-> - **snap election** — an election called early, by surprise, when polls look good.
-> - **"court government"** — scholar Donald Savoie's (sav-WAH) phrase for power concentrated in the PM and unelected advisers, like a royal court.
-> - **shuffle** — the PM reassigning ministers to new jobs.
-> - **lame duck** — an office-holder whose power is fading because their exit is known.
-> - Names: **Wilson-Raybould** (WIL-sun RAY-boold), **Kim Campbell**, **Meighen** (MEE-en), **24 Sussex** (SUSS-ex — the PM's official residence).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -76,11 +64,11 @@ first (rarely exercised when the loss is clear; standard when the
 result is hung). The GG (Lesson 25) calls on whoever can command
 confidence — largest party *usually*, but a smaller party with
 partners can govern (federal precedent: King in 1925 governed from
-second place with Progressive support). **Coalitions** (opposition
+second place with Progressive support). **Coalitions**[°](#w-coalition) (opposition
 parties in cabinet together) are constitutionally routine and
 politically radioactive in Canada — attempted 2008 (Lesson 25's
 prorogation), achieved federally only in wartime; the Canadian norm
-is instead the **minority government** (governing party alone,
+is instead the **minority government**[°](#w-minority-government) (governing party alone,
 surviving vote-by-vote) or, newer, the **supply-and-confidence
 agreement** (a smaller party pledges confidence-vote support for
 policy concessions — the 2022–24 Liberal–NDP arrangement being the
@@ -121,11 +109,11 @@ The **Prime Minister's Office** — partisan staff, unelected,
 answerable only to the PM (chief of staff, comms, issues
 management) — has grown since the 1970s into the government's true
 command centre: message discipline, appointment vetting, minister
-"mandate letters" (public since 2015 — the PM's written
+"**mandate letters**[°](#w-mandate-letter)" (public since 2015 — the PM's written
 instructions to each minister; read one and you know who works for
 whom). Alongside: the **Privy Council Office** (the *non-partisan*
 civil-service twin — cabinet's secretariat, the deputy ministers'
-apex). Critics from Savoie ("court government") onward argue
+apex). Critics from Savoie (**"court government"**[°](#w-court-government)) onward argue
 Canadian PMs govern more centrally than presidents — no separated
 legislature, no primaries, no independent cabinet barons — and
 every recent PM has promised cabinet government's restoration and
@@ -148,7 +136,7 @@ illegitimate, usually short-lived); and never, so far, **dismissal
 by the Crown** (the loaded-and-never-fired reserve power,
 Lesson 25). Fixed-date election laws (since 2007) set October
 dates every four years — but expressly preserve the GG's
-dissolution power, so PMs still call snap elections when polls
+dissolution power, so PMs still call **snap elections**[°](#w-snap-election) when polls
 tempt (2008, 2021: both called early by the law's own author-
 governments; both returned minorities — the electorate's opinion
 of opportunism is its own check).
@@ -247,6 +235,24 @@ PMO, and resignation-for-departmental-failure is nearly extinct —
 but they remain the grammar of accountability: Question Period,
 scandals, and resignations only make sense inside them.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-incumbent"></a>**incumbent** (in-KUM-bent) — the current holder of an office.
+- <a id="w-minority-government"></a>**minority government** — a government whose party holds under half the seats, surviving vote by vote; <a id="w-coalition"></a>**coalition** — two+ parties actually sharing cabinet (rare in Canada).
+- <a id="w-supply-and-confidence-agreement"></a>**supply-and-confidence agreement** — a smaller party promises to support the government on confidence votes in exchange for policy wins ("supply" = approving spending).
+- <a id="w-cabinet-solidarity"></a>**cabinet solidarity** — ministers must publicly support every cabinet decision or resign; <a id="w-ministerial-responsibility"></a>**ministerial responsibility** — each minister answers to Parliament for their department.
+- <a id="w-pmo"></a>**PMO** — the Prime Minister's Office: the PM's *political* staff; <a id="w-pco"></a>**PCO** — the Privy Council Office: the *non-partisan* civil-service counterpart.
+- <a id="w-mandate-letter"></a>**mandate letter** — the PM's published instruction letter telling each minister what to deliver.
+- <a id="w-snap-election"></a>**snap election** — an election called early, by surprise, when polls look good.
+- <a id="w-court-government"></a>**"court government"** — scholar Donald Savoie's (sav-WAH) phrase for power concentrated in the PM and unelected advisers, like a royal court.
+- <a id="w-shuffle"></a>**shuffle** — the PM reassigning ministers to new jobs.
+- <a id="w-lame-duck"></a>**lame duck** — an office-holder whose power is fading because their exit is known.
+- Names: **Wilson-Raybould** (WIL-sun RAY-boold), **Kim Campbell**, **Meighen** (MEE-en), **24 Sussex** (SUSS-ex — the PM's official residence).
 
 ---
 

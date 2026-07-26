@@ -14,14 +14,7 @@ parent: "Phase 2: The First Trimester"
 > General education, not medical advice. These tests are **optional** and personal;
 > a provider or genetic counsellor should guide your choices.
 
-{: .note }
-> **Words to know**
-> - **screening test** — estimates the *chance* of a condition; safe and non-invasive, but not a yes/no answer.
-> - **diagnostic test** — gives a definitive answer, but may be invasive with a small risk.
-> - **NIPT / cell-free DNA** — a blood test from ~10 weeks that screens for certain chromosome conditions.
-> - **nuchal translucency (NT)** — an ultrasound measurement (~11–14 weeks) used in first-trimester screening.
-> - **chromosome condition** — e.g. Down syndrome (trisomy 21), caused by an extra chromosome.
-> - **amniocentesis / CVS** — diagnostic tests that sample fluid or placenta; definitive, with a small miscarriage risk.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -44,12 +37,12 @@ choosing none.
 - **Dating ultrasound** — confirms the pregnancy, dates it, and checks for more
   than one baby.
 - **First-trimester combined screening** (~11–14 weeks) — an ultrasound
-  **nuchal translucency (NT)** measurement plus a blood test, giving a risk
-  estimate for chromosome conditions.
-- **NIPT / cell-free DNA** (from ~10 weeks) — a **blood test** that screens for
+  **nuchal translucency (NT)**[°](#w-nuchal-translucency-nt) measurement plus a blood test, giving a risk
+  estimate for **chromosome conditions**[°](#w-chromosome-condition).
+- **NIPT / cell-free DNA**[°](#w-nipt-cell-free-dna) (from ~10 weeks) — a **blood test** that screens for
   the common trisomies (like Down syndrome) with high accuracy; it can often also
   reveal the **baby's sex**. Still a *screen*, not a diagnosis.
-- **Diagnostic tests** — **CVS** (~11–14 weeks) or **amniocentesis** (~15+ weeks)
+- **Diagnostic tests**[°](#w-diagnostic-test) — **CVS** (~11–14 weeks) or **amniocentesis** (~15+ weeks)
   sample cells for a definitive answer; offered when a screen is higher-risk or on
   request, with counselling about the small risk.
 - **Carrier screening** — a blood test (ideally preconception) checking whether
@@ -82,7 +75,7 @@ help you think it through, especially with a family history.
 Before any test is offered to you, have the conversation that makes the rest of
 them easier: **"what would we do with the information?"**
 
-Screening tests are only useful in proportion to what you would do with a result.
+**Screening tests**[°](#w-screening-test) are only useful in proportion to what you would do with a result.
 Talking it through in advance lets you decide on purpose rather than being handed
 a choice in an appointment when you are anxious and unprepared. Write down which
 early tests you expect to want, which you expect to decline, and any questions to
@@ -150,6 +143,19 @@ prepare — and would knowing ease or increase our anxiety?"</strong> The right
 choice depends on what the results would <em>mean</em> to you; declining is a valid
 option, as is wanting the safe screens but not invasive tests.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-screening-test"></a>**screening test** — estimates the *chance* of a condition; safe and non-invasive, but not a yes/no answer.
+- <a id="w-diagnostic-test"></a>**diagnostic test** — gives a definitive answer, but may be invasive with a small risk.
+- <a id="w-nipt-cell-free-dna"></a>**NIPT / cell-free DNA** — a blood test from ~10 weeks that screens for certain chromosome conditions.
+- <a id="w-nuchal-translucency-nt"></a>**nuchal translucency (NT)** — an ultrasound measurement (~11–14 weeks) used in first-trimester screening.
+- <a id="w-chromosome-condition"></a>**chromosome condition** — e.g. Down syndrome (trisomy 21), caused by an extra chromosome.
+- <a id="w-amniocentesis-cvs"></a>**amniocentesis / CVS** — diagnostic tests that sample fluid or placenta; definitive, with a small miscarriage risk.
 
 ---
 

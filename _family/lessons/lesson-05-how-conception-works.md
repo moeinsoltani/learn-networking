@@ -14,19 +14,12 @@ parent: "Phase 1: Deciding & Preparing"
 > General education, not medical advice. If conceiving is taking longer than the
 > guidance below, see your provider — it's common and often treatable.
 
-{: .note }
-> **Words to know**
-> - **menstrual cycle** (MEN-stroo-al) — the roughly monthly hormonal cycle that releases an egg and prepares the womb.
-> - **ovulation** (ov-yoo-LAY-shun) — the release of an egg from the ovary; the key moment for conceiving.
-> - **fertile window** — the ~6 days when sex can lead to pregnancy (the 5 days before ovulation, plus ovulation day).
-> - **cervical mucus** — vaginal discharge that changes through the cycle; around ovulation it becomes clear and stretchy (like raw egg white).
-> - **basal body temperature (BBT)** — your resting temperature, which rises slightly after ovulation.
-> - **ovulation predictor kit (OPK)** — a urine test that detects the hormone surge ~1 day before ovulation.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Getting pregnant is mostly about **timing sex to the fertile window**. An egg
-lives only about **12–24 hours** after ovulation, but **sperm can survive ~5 days**
+lives only about **12–24 hours** after **ovulation**[°](#w-ovulation), but **sperm can survive ~5 days**
 inside the body — so the best window is the **few days *before* ovulation** plus
 the day itself. Hit that window and nature does the rest; miss it and even a
 perfectly healthy couple won't conceive that month.
@@ -44,7 +37,7 @@ ovulation is around **day 14**, but cycles vary a lot — the reliable rule is t
 **ovulation happens about 14 days *before* the next period starts**, not 14 days
 after the last one.
 
-The **fertile window** is the stretch of days when sex can lead to pregnancy,
+The **fertile window**[°](#w-fertile-window) is the stretch of days when sex can lead to pregnancy,
 and its shape surprises people: it runs from about **five days before
 ovulation** up to and including **ovulation day itself** — roughly six days in
 total.
@@ -111,7 +104,7 @@ Doing this once is genuinely clarifying, because it replaces a myth with a fact.
 The textbook "ovulation is day 14" applies to a 28-day cycle and to nobody else.
 If your cycles run about 29 days, you would expect ovulation around day 15 and a
 fertile window of roughly days 10 to 15 — and you can confirm it with egg-white
-cervical mucus, or an ovulation predictor kit if you like using one.
+**cervical mucus**[°](#w-cervical-mucus), or an ovulation predictor kit if you like using one.
 
 One caution worth stating plainly: the goal is *relaxed and regular*, not
 precise. Couples who turn conception into a scheduling project often make
@@ -173,6 +166,19 @@ older</strong>; or <strong>sooner</strong> if there's a known issue (irregular o
 absent periods, a known reproductive condition). Both partners are tested, and many
 causes are treatable.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-menstrual-cycle"></a>**menstrual cycle** (MEN-stroo-al) — the roughly monthly hormonal cycle that releases an egg and prepares the womb.
+- <a id="w-ovulation"></a>**ovulation** (ov-yoo-LAY-shun) — the release of an egg from the ovary; the key moment for conceiving.
+- <a id="w-fertile-window"></a>**fertile window** — the ~6 days when sex can lead to pregnancy (the 5 days before ovulation, plus ovulation day).
+- <a id="w-cervical-mucus"></a>**cervical mucus** — vaginal discharge that changes through the cycle; around ovulation it becomes clear and stretchy (like raw egg white).
+- <a id="w-basal-body-temperature-bbt"></a>**basal body temperature (BBT)** — your resting temperature, which rises slightly after ovulation.
+- <a id="w-ovulation-predictor-kit-opk"></a>**ovulation predictor kit (OPK)** — a urine test that detects the hormone surge ~1 day before ovulation.
 
 ---
 

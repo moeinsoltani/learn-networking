@@ -10,20 +10,7 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 16: Peopling the Prairies
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **homestead** (HOME-sted) — a free government farm plot (160 acres = a **quarter-section**) earned by living on it and farming it for three years ("**proving up**").
-> - **sod house** — a first home built from blocks of prairie earth, because the open prairie had no trees for lumber.
-> - **stalwart** (STAWL-wert) — strong, tough, dependable.
-> - **bloc settlement** — an area settled by one ethnic group together (a Ukrainian district, a Mennonite district).
-> - **chain migration** — settled immigrants bringing over relatives, who bring more relatives.
-> - **diaspora** (dy-ASS-por-ah) — a people living spread outside their homeland.
-> - **Order-in-Council** — a government decree made by cabinet alone, without a vote in Parliament.
-> - **continuous-journey rule** — the 1908 regulation requiring one non-stop voyage from your birth country — impossible from India on purpose.
-> - **pacifist** (PASS-ih-fist) — someone who refuses all violence and war; **sect** — a small religious group.
-> - **Doukhobors** (DOO-kuh-borz) and **Mennonites** (MEN-uh-nites) — pacifist Christian farming communities from the Russian Empire.
-> - **Sikh** (SEEK) — a member of the Sikh religion of Punjab, India; a **gurdwara** (GURD-wah-rah) is a Sikh temple.
-> - Names: **Sifton** (SIF-tun), **Laurier** (LOR-ee-ay), **Galicia** (gah-LISH-ah — a region then in Austria-Hungary, now Ukraine/Poland), **Komagata Maru** (koh-mah-GAH-tah MAH-roo), **Gimli** (GHIM-lee), **Vegreville** (VEG-reh-vil).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -33,14 +20,14 @@ Prairie population grew roughly *tenfold*, two new provinces were created
 (1905), and the wheat economy that Lesson 05 promised came online. The
 same period perfected the other half of Canadian immigration policy:
 deciding, with bureaucratic precision, **who was unwanted** — through the
-Head Tax, the continuous-journey rule, and outright exclusion.
+Head Tax, the **continuous-journey rule**[°](#w-continuous-journey-rule), and outright exclusion.
 
 Hold both machines in view at once; they were operated by the same
 department:
 
 **The door stood wide open** for British and American farmers, and — more
 surprisingly to the Canada of the day — for Ukrainians, Poles, Germans,
-Scandinavians, and Doukhobors: Clifford Sifton's "stalwart peasants in
+Scandinavians, and Doukhobors: Clifford Sifton's "**stalwart**[°](#w-stalwart) peasants in
 sheep-skin coats." What waited on the other side was land, and a great deal of
 it. Under the Dominion Lands Act of 1872, a settler could claim 160 acres for a
 $10 fee and three years of residence and improvement.
@@ -50,7 +37,7 @@ specific. Chinese immigrants paid a Head Tax that climbed from $50 to $500,
 and after 1923 were excluded almost entirely until 1947. South Asians were
 stopped by the continuous-journey rule of 1908, tested and enforced against
 the *Komagata Maru* in 1914. Black Americans were turned away by a
-"climate unsuitability" doctrine, complete with an Order-in-Council drafted in
+"climate unsuitability" doctrine, complete with an **Order-in-Council**[°](#w-order-in-council) drafted in
 1911. And in the 1930s and 40s, Jews fleeing Nazism met the policy summarized
 in the phrase "None is too many" (Lesson 20).
 
@@ -75,7 +62,7 @@ for ten generations, with a stout wife and a half-dozen children."*
 Note what the sentence does: it ranks *farming pedigree over British
 ethnicity* — a genuine scandal to Anglo-Canada, which wanted Britons —
 while remaining entirely a ranking system. Sifton wanted eastern
-Europeans because they would stay on brutal homesteads Britons
+Europeans because they would stay on brutal **homesteads**[°](#w-homestead) Britons
 abandoned.
 
 The land side: the **Dominion Lands Act (1872)** offered 160-acre
@@ -90,25 +77,25 @@ Métis river lots it replaced.
 ### Who came, and what they built
 
 - **Ukrainians** (~170,000 by 1914, from Austro-Hungarian Galicia and
-  Bukovyna): the archetypal sheep-skin coats — bloc settlements across
+  Bukovyna): the archetypal sheep-skin coats — **bloc settlements**[°](#w-bloc-settlement) across
   the parkland belt; onion-domed churches on the horizon; initially
   despised ("Sifton's pets"), eventually canonical. Canada now has one
-  of the world's largest Ukrainian diasporas (~1.3 million), which is
+  of the world's largest Ukrainian **diasporas**[°](#w-diaspora) (~1.3 million), which is
   why Canada's response to the 2022 invasion of Ukraine was
   domestically personal.
-- **Doukhobors** (~7,500 in 1899): Russian pacifist sect, passage partly
+- **Doukhobors** (~7,500 in 1899): Russian **pacifist**[°](#w-pacifist) **sect**[°](#w-sect), passage partly
   funded by Tolstoy's royalties; communal villages in Saskatchewan;
   later clashes over oaths and individual homesteads.
 - **Scandinavians, Germans, Poles, Romanians, Hungarians, Icelanders**
   (Gimli, Manitoba — the largest Icelandic community outside Iceland),
-  **Mennonites**, and vast numbers of **Britons and American Midwest
+  **Mennonites**[°](#w-mennonites), and vast numbers of **Britons and American Midwest
   farmers** (the largest single streams).
 - The cities boomed in step: Winnipeg — the "Chicago of the North," the
   grain-exchange gateway through which the whole harvest and every
   settler passed — grew from ~8,000 (1881) to ~136,000 (1911).
 
 Homestead reality check: a quarter-section "free" farm meant a first
-winter in a **sod house** (no trees on the open prairie), breaking
+winter in a **sod house**[°](#w-sod-house) (no trees on the open prairie), breaking
 virgin sod behind oxen, −40° without the shelterbelts that didn't exist
 yet, and a 40–57% national abandonment rate before patent. The
 sheep-skin coats stayed at higher rates than anyone — Sifton's actuarial
@@ -124,7 +111,7 @@ bet paying off in endurance.
   country of birth, at a time when no direct India–Canada steamship
   route existed. Regulation as ban, deniability by design. Its test:
   the **Komagata Maru**, 1914 — a chartered ship carrying 376 Punjabi
-  passengers (mostly Sikh veterans of the British Army) held in
+  passengers (mostly **Sikh**[°](#w-sikh) veterans of the British Army) held in
   Vancouver harbour for two months, denied, and escorted out by the
   navy; on return to Calcutta, British police fire killed ~20. Formal
   Canadian apology: 2016.
@@ -227,6 +214,25 @@ sequel to dispossession; it was its purpose — the National Policy's
 three parts (tariff, railway, immigration) assumed the clearing as
 step zero.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-homestead"></a>**homestead** (HOME-sted) — a free government farm plot (160 acres = a **quarter-section**) earned by living on it and farming it for three years ("**proving up**").
+- <a id="w-sod-house"></a>**sod house** — a first home built from blocks of prairie earth, because the open prairie had no trees for lumber.
+- <a id="w-stalwart"></a>**stalwart** (STAWL-wert) — strong, tough, dependable.
+- <a id="w-bloc-settlement"></a>**bloc settlement** — an area settled by one ethnic group together (a Ukrainian district, a Mennonite district).
+- <a id="w-chain-migration"></a>**chain migration** — settled immigrants bringing over relatives, who bring more relatives.
+- <a id="w-diaspora"></a>**diaspora** (dy-ASS-por-ah) — a people living spread outside their homeland.
+- <a id="w-order-in-council"></a>**Order-in-Council** — a government decree made by cabinet alone, without a vote in Parliament.
+- <a id="w-continuous-journey-rule"></a>**continuous-journey rule** — the 1908 regulation requiring one non-stop voyage from your birth country — impossible from India on purpose.
+- <a id="w-pacifist"></a>**pacifist** (PASS-ih-fist) — someone who refuses all violence and war; <a id="w-sect"></a>**sect** — a small religious group.
+- **Doukhobors** (DOO-kuh-borz) and <a id="w-mennonites"></a>**Mennonites** (MEN-uh-nites) — pacifist Christian farming communities from the Russian Empire.
+- <a id="w-sikh"></a>**Sikh** (SEEK) — a member of the Sikh religion of Punjab, India; a **gurdwara** (GURD-wah-rah) is a Sikh temple.
+- Names: **Sifton** (SIF-tun), **Laurier** (LOR-ee-ay), **Galicia** (gah-LISH-ah — a region then in Austria-Hungary, now Ukraine/Poland), **Komagata Maru** (koh-mah-GAH-tah MAH-roo), **Gimli** (GHIM-lee), **Vegreville** (VEG-reh-vil).
 
 ---
 

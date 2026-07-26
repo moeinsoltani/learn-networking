@@ -10,18 +10,7 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 47: What Is a Canadian? (Capstone)
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **capstone** — the final stone that completes a building; a course's crowning final project.
-> - **thesis** (THEE-siss) — the central claim an essay argues for; the course's "**method-thesis**" = Canada is a method (permanent negotiation), not a finished identity.
-> - **counterweight** — here: a region or nation whose reality disproves any simple national story.
-> - **hyphenated Canadian** — an identity joining origin + Canada (Ukrainian-Canadian); once an insult, now policy.
-> - **parasitic** — living off something else; "not American" is parasitic because it needs its rival to exist.
-> - **old-stock** — informal term for families in Canada for many generations.
-> - **la survivance** (lah sur-vee-VAWNSS) — Quebec's survival tradition (Lesson 08); **POGG** — "Peace, Order, and good Government" (Lesson 13).
-> - **alibi** (AL-ih-by) — an excuse that deflects blame; the essay must decide whether "slowly, in public" is a virtue or an alibi.
-> - **romanticize** — to describe something as prettier than it really is.
-> - **koan / liturgy / mosaic** — see Lessons 45–46 and 43; the capstone reuses the whole vocabulary.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -36,7 +25,7 @@ one is incomplete, and each traces back to a lesson you have already done.
 
 **"Not American."** The founding negative — Lesson 11's Loyalists and the War
 of 1812, Lesson 38's elephant. It is true and remarkably durable, and it is
-also parasitic: an identity that requires its rival to keep existing.
+also **parasitic**[°](#w-parasitic): an identity that requires its rival to keep existing.
 
 **The mosaic.** Lesson 43's official story. True as a posture, exaggerated as
 sociology, and conspicuously silent about the two founding pillars it sits on
@@ -63,7 +52,7 @@ rather than a thing already finished.
 behavioural pattern, accommodation as a reflex, that outsiders regularly
 mistake for mere niceness.
 
-And the thesis this course has been assembling since Lesson 10,
+And the **thesis**[°](#w-thesis) this course has been assembling since Lesson 10,
 now stated plainly: **Canada is not a completed identity but a
 method — a country held together by argument, accommodation,
 and choice, permanently renegotiated and never finalized.** The
@@ -71,7 +60,7 @@ unsigned constitution that binds (L.23), two anthems in one
 tune (L.45), treaties still being performed (L.17), a
 federation that shuffles instead of settling (L.29) — the
 pattern was never a failure to become a nation; it *is* the
-nation. Your capstone task: test that thesis, or beat it with
+nation. Your **capstone**[°](#w-capstone) task: test that thesis, or beat it with
 your own.
 
 ---
@@ -98,7 +87,7 @@ of these is a seat map pretending to be the country
 
 ### The hyphen and the oath
 
-**Hyphenated Canadians** — Ukrainian-Canadian,
+**Hyphenated Canadians**[°](#w-hyphenated-canadian) — Ukrainian-Canadian,
 Somali-Canadian, Chinese-Canadian — were once an accusation
 (L.16/18's "enemy aliens"); official multiculturalism
 (L.43) made the hyphen policy, and the data (L.43's
@@ -118,7 +107,7 @@ method — its supply and its exhaustion.
 
 ### The method, stress-tested honestly
 
-Your essay should not romanticize. The method's failures
+Your essay should not **romanticize**[°](#w-romanticize). The method's failures
 are documented in your own coursework: the argument-and-
 accommodation country *excluded by design* for its first
 century (the Act, the Head Tax, the None-is-too-many file —
@@ -138,7 +127,7 @@ courts enforcing old promises (L.15/17/42), the oath
 rewritten to widen the table (L.32) — are the method
 correcting itself, slowly, in public, on the record.
 Whether "slowly, in public, on the record" is a national
-virtue or a national alibi is precisely the judgment call
+virtue or a national **alibi**[°](#w-alibi) is precisely the judgment call
 your essay exists to make.
 
 {: .note }
@@ -149,7 +138,7 @@ your essay exists to make.
 > phases. It is a superset of the real citizenship test;
 > 15 out of any 20 clears that test's threshold, but you
 > should be aiming to clear 17. 3. Then do the one thing no lesson can:
-> have the conversation. Find a Canadian — old-stock,
+> have the conversation. Find a Canadian — **old-stock**[°](#w-old-stock),
 > new-oath, Québécois, Cree, Newfoundlander — and ask
 > them this lesson's question. You now know enough to
 > hear their answer properly, which was the course's
@@ -386,6 +375,23 @@ file, not the fault (L.24/32). — Score it, note the
 phases that cost you, reread those, and then go have the
 conversation. Course complete. Welcome to the argument.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-capstone"></a>**capstone** — the final stone that completes a building; a course's crowning final project.
+- <a id="w-thesis"></a>**thesis** (THEE-siss) — the central claim an essay argues for; the course's "**method-thesis**" = Canada is a method (permanent negotiation), not a finished identity.
+- <a id="w-counterweight"></a>**counterweight** — here: a region or nation whose reality disproves any simple national story.
+- <a id="w-hyphenated-canadian"></a>**hyphenated Canadian** — an identity joining origin + Canada (Ukrainian-Canadian); once an insult, now policy.
+- <a id="w-parasitic"></a>**parasitic** — living off something else; "not American" is parasitic because it needs its rival to exist.
+- <a id="w-old-stock"></a>**old-stock** — informal term for families in Canada for many generations.
+- <a id="w-la-survivance"></a>**la survivance** (lah sur-vee-VAWNSS) — Quebec's survival tradition (Lesson 08); <a id="w-pogg"></a>**POGG** — "Peace, Order, and good Government" (Lesson 13).
+- <a id="w-alibi"></a>**alibi** (AL-ih-by) — an excuse that deflects blame; the essay must decide whether "slowly, in public" is a virtue or an alibi.
+- <a id="w-romanticize"></a>**romanticize** — to describe something as prettier than it really is.
+- <a id="w-koan-liturgy-mosaic"></a>**koan / liturgy / mosaic** — see Lessons 45–46 and 43; the capstone reuses the whole vocabulary.
 
 ---
 

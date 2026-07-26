@@ -14,13 +14,7 @@ parent: "Phase 6: The Newborn"
 > General education, not medical advice. Safe-sleep guidance is important and
 > evidence-based — follow current official guidance and your provider.
 
-{: .note }
-> **Words to know**
-> - **SIDS** — Sudden Infant Death Syndrome: the sudden, unexplained death of a baby, usually in sleep. Safe-sleep habits lower the risk.
-> - **room-sharing** — baby sleeps in the parents' room, in their *own* sleep space (recommended). Not the same as bed-sharing.
-> - **bed-sharing / co-sleeping in an adult bed** — sleeping with the baby *in* an adult bed; carries higher risk.
-> - **swaddle** — snug wrapping that can soothe a young baby (stop once they can roll).
-> - **tummy time** — supervised play on the tummy while **awake** (not for sleep).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -62,7 +56,7 @@ the baby back in their own space before you sleep.
 - **Swaddling** can soothe a young baby, but keep it snug at the chest and loose at
   the hips, don't overheat, and **stop swaddling once the baby shows signs of
   rolling** (a swaddled baby who rolls to their front is at risk).
-- **Tummy time** is important — but only while **awake and supervised**. It builds
+- **Tummy time**[°](#w-tummy-time) is important — but only while **awake and supervised**. It builds
   neck and shoulder strength and prevents flat spots. It is *never* a sleep position.
 
 {: .note }
@@ -142,6 +136,18 @@ baby who rolls onto their front is at risk). <strong>Tummy time</strong> is
 supervised play on the tummy while <strong>awake</strong> — it builds strength and
 prevents flat spots; it is never a sleep position.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-sids"></a>**SIDS** — Sudden Infant Death Syndrome: the sudden, unexplained death of a baby, usually in sleep. Safe-sleep habits lower the risk.
+- <a id="w-room-sharing"></a>**room-sharing** — baby sleeps in the parents' room, in their *own* sleep space (recommended). Not the same as bed-sharing.
+- <a id="w-bed-sharing-co-sleeping-in-an-adult-bed"></a>**bed-sharing / co-sleeping in an adult bed** — sleeping with the baby *in* an adult bed; carries higher risk.
+- <a id="w-swaddle"></a>**swaddle** — snug wrapping that can soothe a young baby (stop once they can roll).
+- <a id="w-tummy-time"></a>**tummy time** — supervised play on the tummy while **awake** (not for sleep).
 
 ---
 

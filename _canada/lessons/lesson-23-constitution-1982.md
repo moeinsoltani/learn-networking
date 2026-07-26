@@ -10,27 +10,14 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 23: The Constitution Comes Home
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **patriation** (pay-tree-AY-shun) — a made-in-Canada word: bringing the constitution "home" from Britain so Canada could amend it itself.
-> - **entrenched** — locked into the constitution, beyond the reach of ordinary laws.
-> - **constitutional convention** — an unwritten rule of politics that is binding in practice but not enforceable in court.
-> - **unilateral** (yoo-nih-LAT-er-ul) — done by one party alone, without the others' agreement.
-> - **fait accompli** (fet ah-kom-PLEE) — French: a thing already done, presented so it cannot be undone.
-> - **veto** (VEE-toh) — the power to block a decision single-handedly.
-> - **notwithstanding clause (s.33)** — "notwithstanding" = "despite"; the clause lets a legislature declare a law valid *despite* certain Charter rights, for renewable 5-year periods.
-> - **parliamentary supremacy** — the older British principle that parliament's laws cannot be struck down by courts (the Charter ended this in Canada).
-> - **accord** — a formal agreement between governments; **ratification** — the follow-up approvals that make it law.
-> - **"distinct society"** — Meech Lake's proposed constitutional recognition of Quebec's uniqueness.
-> - **MLA** — Member of the Legislative Assembly (a provincial parliament member); **unanimous consent** — agreement of every single member, letting a legislature skip normal delays.
-> - Names: **Chrétien** (kray-tee-EN), **Meech Lake** (MEECH), **Bourassa** (boo-RASS-ah), **Elijah Harper** (ih-LY-jah), **Oji-Cree** (OH-jee-KREE), **Hull** (HULL — the Quebec city facing Ottawa, now Gatineau), **la nuit des longs couteaux** (lah NWEE day LON koo-TOH — "the night of the long knives").
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 April 17, 1982, on a rainy Parliament Hill: the Queen signs, and
 Canada's constitution finally lives in Canada — 115 years after
 Confederation, 51 after the Statute of Westminster parked it in London
-(Lesson 19). **Patriation** brought three things: an **amending
+(Lesson 19). **Patriation**[°](#w-patriation) brought three things: an **amending
 formula** (the problem that took the 51 years), the **Charter of
 Rights and Freedoms** (Trudeau's monument, and since then the centre
 of Canadian law and identity), and a **wound**: it was done **over
@@ -47,10 +34,10 @@ constrains the next.
 |---|---|
 | **1980** | Quebec's referendum returns a No, and Trudeau promises constitutional "renewal" in exchange (Lesson 22) |
 | **1980–81** | Open federal–provincial war. Trudeau threatens to patriate the constitution unilaterally; eight provinces, Quebec among them, form the **"Gang of Eight"** against him |
-| **September 1981** | The Supreme Court rules — very Canadianly — that unilateral patriation would be **legal but unconstitutional by convention** without substantial provincial consent |
+| **September 1981** | The Supreme Court rules — very Canadianly — that **unilateral**[°](#w-unilateral) patriation would be **legal but unconstitutional by convention** without substantial provincial consent |
 | **November 4–5, 1981** | The **Kitchen Accord**, remembered in Quebec as *la nuit des longs couteaux* — the night of the long knives. Ottawa and nine provinces cut a deal in the small hours while Lévesque sleeps across the river in Hull. Quebec wakes to a done deal, and has never signed since |
 | **April 17, 1982** | The **Constitution Act, 1982**: an amending formula at last, the **Charter of Rights and Freedoms** (including the section 33 override, which was the price of the deal), section 35 recognizing Indigenous rights, and a commitment to equalization |
-| **1987–90** | The **Meech Lake Accord** — five conditions to bring Quebec in, "distinct society" among them — dies at its ratification deadline in Manitoba (Elijah Harper's feather) and Newfoundland |
+| **1987–90** | The **Meech Lake Accord** — five conditions to bring Quebec in, **"distinct society"**[°](#w-distinct-society) among them — dies at its **ratification**[°](#w-ratification) deadline in Manitoba (Elijah Harper's feather) and Newfoundland |
 | **1992** | The **Charlottetown Accord** tries to give everyone everything, and a national referendum kills it: 54.3% No |
 | **1995** | Quebec's second referendum is a near-miss (Lesson 22) |
 | **Since** | No government has touched mega-constitutional politics again |
@@ -74,11 +61,11 @@ Supreme Court's September 1981 Solomon ruling — *legal, but
 conventionally improper without substantial consent* — forced one
 last conference. On the night of November 4–5, federal justice
 minister **Jean Chrétien** and provincial counterparts sketched the
-compromise (the "Kitchen Accord"): Charter + amending formula, with
-two prices — the **notwithstanding clause (s.33)**, letting
+compromise (the "Kitchen **Accord**[°](#w-accord)"): Charter + amending formula, with
+two prices — the **notwithstanding clause (s.33)**[°](#w-notwithstanding-clause-s-33), letting
 legislatures override core Charter sections for renewable 5-year
 terms (the provinces' insurance against judge-rule), and dropping
-Quebec's traditional **veto** (the amending formula went to
+Quebec's traditional **veto**[°](#w-veto) (the amending formula went to
 7-provinces/50%-population, with unanimity for a short list). The
 nine anglophone premiers signed by morning; **Lévesque, lodged across
 the river in Hull, was not in the room**. Quebec's telling:
@@ -91,9 +78,9 @@ fact is the signature page.
 ### What 1982 actually contains
 
 - **The Charter of Rights and Freedoms** — Lesson 31 tours it
-  properly; here, its constitutional novelties: entrenched (no
+  properly; here, its constitutional novelties: **entrenched**[°](#w-entrenched) (no
   ordinary statute can override), judicially enforced (courts strike
-  legislation — ending parliamentary supremacy in the British sense),
+  legislation — ending **parliamentary supremacy**[°](#w-parliamentary-supremacy) in the British sense),
   but with two Canadian valves: **s.1** (rights subject to
   "reasonable limits demonstrably justified in a free and democratic
   society") and **s.33** (the override). Rights with adjustable
@@ -126,8 +113,8 @@ elections changed governments; "distinct society" polled badly in
 English Canada (two objections braided: Trudeau's — special status
 betrays equal citizenship; and a popular one — why Quebec and not
 us/Indigenous peoples/women?); and in the final week, in Manitoba's
-legislature, **Elijah Harper** — Oji-Cree MLA — softly said "No,
-Mr. Speaker," holding an eagle feather, denying the unanimous consent
+legislature, **Elijah Harper** — Oji-Cree **MLA**[°](#w-mla) — softly said "No,
+Mr. Speaker," holding an eagle feather, denying the **unanimous consent**[°](#w-unanimous-consent)
 needed to expedite: Indigenous peoples had been left out of Meech
 entirely, *again*, and one man's procedural "no" spoke Lesson 13's
 whole grammar lesson. Manitoba missed the deadline; Newfoundland
@@ -262,6 +249,25 @@ after the fact by performance. The pattern is the course's spine:
 Canadian stability lives less in settled documents than in
 permanently managed disagreements.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-patriation"></a>**patriation** (pay-tree-AY-shun) — a made-in-Canada word: bringing the constitution "home" from Britain so Canada could amend it itself.
+- <a id="w-entrenched"></a>**entrenched** — locked into the constitution, beyond the reach of ordinary laws.
+- <a id="w-constitutional-convention"></a>**constitutional convention** — an unwritten rule of politics that is binding in practice but not enforceable in court.
+- <a id="w-unilateral"></a>**unilateral** (yoo-nih-LAT-er-ul) — done by one party alone, without the others' agreement.
+- <a id="w-fait-accompli"></a>**fait accompli** (fet ah-kom-PLEE) — French: a thing already done, presented so it cannot be undone.
+- <a id="w-veto"></a>**veto** (VEE-toh) — the power to block a decision single-handedly.
+- <a id="w-notwithstanding-clause-s-33"></a>**notwithstanding clause (s.33)** — "notwithstanding" = "despite"; the clause lets a legislature declare a law valid *despite* certain Charter rights, for renewable 5-year periods.
+- <a id="w-parliamentary-supremacy"></a>**parliamentary supremacy** — the older British principle that parliament's laws cannot be struck down by courts (the Charter ended this in Canada).
+- <a id="w-accord"></a>**accord** — a formal agreement between governments; <a id="w-ratification"></a>**ratification** — the follow-up approvals that make it law.
+- <a id="w-distinct-society"></a>**"distinct society"** — Meech Lake's proposed constitutional recognition of Quebec's uniqueness.
+- <a id="w-mla"></a>**MLA** — Member of the Legislative Assembly (a provincial parliament member); <a id="w-unanimous-consent"></a>**unanimous consent** — agreement of every single member, letting a legislature skip normal delays.
+- Names: **Chrétien** (kray-tee-EN), **Meech Lake** (MEECH), **Bourassa** (boo-RASS-ah), **Elijah Harper** (ih-LY-jah), **Oji-Cree** (OH-jee-KREE), **Hull** (HULL — the Quebec city facing Ottawa, now Gatineau), **la nuit des longs couteaux** (lah NWEE day LON koo-TOH — "the night of the long knives").
 
 ---
 

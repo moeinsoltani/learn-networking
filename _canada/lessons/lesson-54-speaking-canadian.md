@@ -10,17 +10,7 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 54: Speaking Canadian
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **lexicon** (LEK-sih-kon) — a vocabulary set; **dialect** — a language variety with its own words, sounds, and rules.
-> - **register** (in linguistics) — the style level of speech: formal, casual, joking, rural, etc.
-> - **tag** (in linguistics) — a small word added to a sentence to invite agreement ("eh?", "right?").
-> - **Canadian raising** — the real sound shift in "about/house/out" that Americans mishear as "aboot."
-> - **loanword** — a word borrowed from another language ("dep" from French *dépanneur*).
-> - **hoser** (HOH-zer) — the parody rural Canadian (toque, beer, "take off, eh") invented by Bob & Doug McKenzie.
-> - **PSA** — public-service announcement (the Hinterland Who's Who wildlife spots).
-> - **canon** — the shared list of references everyone knows (Lesson 52).
-> - Names: **Penfield** (PEN-feeld — the brain surgeon of the "burnt toast" Heritage Minute), **Roch Carrier** (ROCK kar-ee-AY — author of *The Hockey Sweater*), **Stompin' Tom Connors** (STOMP-in TOM), **Bobcaygeon** (bob-KAY-jun — the Ontario town in the Tragically Hip song), **Naismith** (NAY-smith — basketball's Canadian inventor).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,8 +19,8 @@ Britons and vaguely British to Americans, and its owners insist
 it's neither. The differences are small, systematic, and — this is
 the point — **identity-bearing**: every "washroom," "grade 9,"
 "zed," and "toque" is a tiny flag. This closing lesson installs
-the lexicon, the spelling truce, the famous "eh," and the shared
-reference canon — the songs, shows, and sixty-second films that
+the **lexicon**[°](#w-lexicon), the spelling truce, the famous "eh," and the shared
+reference **canon**[°](#w-canon) — the songs, shows, and sixty-second films that
 function as the national inside joke. Learn these and you're not
 just speaking English in Canada; you're speaking Canadian.
 
@@ -46,10 +36,10 @@ Britain and its hardware from the United States is Lessons 11 and 38 written
 into the dictionary.
 
 A few other markers worth knowing. The **sound** most often noticed is
-Canadian raising, the vowel in *about* — and note carefully that Canadians do
+**Canadian raising**[°](#w-canadian-raising), the vowel in *about* — and note carefully that Canadians do
 *not* say "aboot." Mentioning "aboot" marks you instantly as American. The
 letter **Z is "zed,"** not "zee," and this is non-negotiable (Lesson 48).
-And the **tags**: "eh?" functions as "right?" or "you with me?" (Lesson 45),
+And the **tags**[°](#w-tag): "eh?" functions as "right?" or "you with me?" (Lesson 45),
 while "yeah, no" and "no, yeah" are genuine grammatical constructions that
 Lesson 49's decoder will help you parse.
 
@@ -83,7 +73,7 @@ while.
 | parkade | parking garage | Western Canada |
 | pencil crayons | coloured pencils | every Canadian childhood (L.48) |
 | garburator | garbage disposal | the West's finest word |
-| give'r | go all-out | "just give'r" — rural/hoser register |
+| give'r | go all-out | "just give'r" — rural/**hoser**[°](#w-hoser) **register**[°](#w-register) |
 | out for a rip | out for a drive/good time | ditto |
 | gongshow | chaos | hockey-born, general-purpose (L.53) |
 | the 401 / the QEW | I-90-style numbers | Ontario highways take "the" |
@@ -162,8 +152,8 @@ that adults still quote:
 > natives about Canada before they start (L.49's earned-teasing
 > rule — they always start; your move is the grin and the
 > counter-example). And in Montreal, sprinkle the French
-> loanwords guilt-free — dep, terrasse, "the metro" — Montreal
-> English is its own beautiful dialect (L.42) and using it is
+> **loanwords**[°](#w-loanword) guilt-free — dep, terrasse, "the metro" — Montreal
+> English is its own beautiful **dialect**[°](#w-dialect) (L.42) and using it is
 > respect.
 
 ---
@@ -256,6 +246,22 @@ which (by now you know) is the national register for
 everything beloved: the anthem, the Mounties, Tim's, and
 the country itself (L.45/47).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-lexicon"></a>**lexicon** (LEK-sih-kon) — a vocabulary set; <a id="w-dialect"></a>**dialect** — a language variety with its own words, sounds, and rules.
+- <a id="w-register"></a>**register** (in linguistics) — the style level of speech: formal, casual, joking, rural, etc.
+- <a id="w-tag"></a>**tag** (in linguistics) — a small word added to a sentence to invite agreement ("eh?", "right?").
+- <a id="w-canadian-raising"></a>**Canadian raising** — the real sound shift in "about/house/out" that Americans mishear as "aboot."
+- <a id="w-loanword"></a>**loanword** — a word borrowed from another language ("dep" from French *dépanneur*).
+- <a id="w-hoser"></a>**hoser** (HOH-zer) — the parody rural Canadian (toque, beer, "take off, eh") invented by Bob & Doug McKenzie.
+- <a id="w-psa"></a>**PSA** — public-service announcement (the Hinterland Who's Who wildlife spots).
+- <a id="w-canon"></a>**canon** — the shared list of references everyone knows (Lesson 52).
+- Names: **Penfield** (PEN-feeld — the brain surgeon of the "burnt toast" Heritage Minute), **Roch Carrier** (ROCK kar-ee-AY — author of *The Hockey Sweater*), **Stompin' Tom Connors** (STOMP-in TOM), **Bobcaygeon** (bob-KAY-jun — the Ontario town in the Tragically Hip song), **Naismith** (NAY-smith — basketball's Canadian inventor).
 
 ---
 

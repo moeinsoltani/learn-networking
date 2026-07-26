@@ -12,23 +12,15 @@ parent: "Phase 6: The Newborn"
 
 {: .important }
 > General education, not medical advice. If feeding is painful or you're worried
-> about the baby getting enough, ask a provider or lactation consultant early —
+> about the baby getting enough, ask a provider or **lactation consultant**[°](#w-lactation-consultant) early —
 > help makes a huge difference. **Fed is what matters** (Lesson 27 covers formula).
 
-{: .note }
-> **Words to know**
-> - **colostrum** (koh-LOSS-trum) — the thick, golden first milk, rich in antibodies (small amounts are enough at first).
-> - **latch** — how the baby attaches to the breast; a good, deep latch is comfortable and effective.
-> - **supply and demand** — milk production rises to match how much the baby feeds.
-> - **cluster feeding** — periods of very frequent feeding (often evenings), which is normal.
-> - **engorgement** — breasts becoming overly full, hard, and sore.
-> - **mastitis** (mass-TY-tiss) — a painful breast inflammation/infection needing prompt care.
-> - **lactation consultant** — a specialist who helps with breastfeeding.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Breastfeeding is natural, but it's also a **learned skill** — for both mother and
-baby — and it's often **hard at first**. Milk works on **supply and demand**: the
+baby — and it's often **hard at first**. Milk works on **supply and demand**[°](#w-supply-and-demand): the
 more the baby feeds, the more milk is made. The two things that make or break the
 early days are a **good latch** and **frequent feeding** — and **getting help
 early** if it hurts or you're unsure. And the golden rule of this whole topic:
@@ -39,17 +31,17 @@ formula-fed baby (Lesson 27).
 
 ### The early days
 
-- The first milk is **colostrum** — thick, golden, antibody-rich, and produced in
+- The first milk is **colostrum**[°](#w-colostrum) — thick, golden, antibody-rich, and produced in
   **small amounts** (a newborn's stomach is tiny, so that's enough).
 - Your **milk "comes in"** (increases and changes) around **day 3–5**; before that,
   frequent feeding of colostrum is normal and important.
 - Feed **on demand, 8–12 times in 24 hours**, watching cues rather than the clock.
-  **Cluster feeding** (lots of feeds close together, often evening) is normal and
+  **Cluster feeding**[°](#w-cluster-feeding) (lots of feeds close together, often evening) is normal and
   boosts supply — not a sign of low milk.
 
 ### A good latch
 
-A comfortable, effective latch: the baby's mouth is **wide open** and takes in a
+A comfortable, effective **latch**[°](#w-latch): the baby's mouth is **wide open** and takes in a
 big mouthful of breast (not just the nipple), chin touching the breast, lips
 flanged out. It should feel like tugging, **not sharp pain**. Different **positions**
 (cradle, cross-cradle, football/rugby hold, lying down) suit different mothers —
@@ -67,8 +59,8 @@ of the breast.
 ### Common problems (and that help exists)
 
 - **Sore nipples** — usually a latch issue; get it checked.
-- **Engorgement** — overly full breasts; frequent feeding and comfort measures help.
-- **Mastitis** — a red, painful, hot area with flu-like feelings/fever; **contact a
+- **Engorgement**[°](#w-engorgement) — overly full breasts; frequent feeding and comfort measures help.
+- **Mastitis**[°](#w-mastitis) — a red, painful, hot area with flu-like feelings/fever; **contact a
   provider promptly** (it's treatable, sometimes needs antibiotics; keep feeding
   unless told otherwise).
 - **Low-supply worries** — often unfounded (cluster feeding and fussiness get
@@ -159,6 +151,20 @@ endure. <strong>Mastitis</strong> is a painful, red, hot breast inflammation wit
 flu-like symptoms/fever — <strong>contact a provider promptly</strong> (it's treatable,
 often while continuing to feed).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-colostrum"></a>**colostrum** (koh-LOSS-trum) — the thick, golden first milk, rich in antibodies (small amounts are enough at first).
+- <a id="w-latch"></a>**latch** — how the baby attaches to the breast; a good, deep latch is comfortable and effective.
+- <a id="w-supply-and-demand"></a>**supply and demand** — milk production rises to match how much the baby feeds.
+- <a id="w-cluster-feeding"></a>**cluster feeding** — periods of very frequent feeding (often evenings), which is normal.
+- <a id="w-engorgement"></a>**engorgement** — breasts becoming overly full, hard, and sore.
+- <a id="w-mastitis"></a>**mastitis** (mass-TY-tiss) — a painful breast inflammation/infection needing prompt care.
+- <a id="w-lactation-consultant"></a>**lactation consultant** — a specialist who helps with breastfeeding.
 
 ---
 

@@ -14,14 +14,7 @@ parent: "Phase 6: The Newborn"
 > General education, not medical advice. For a young baby, trust your instincts —
 > when in doubt, call your provider. Lesson 30 covers the true red flags.
 
-{: .note }
-> **Words to know**
-> - **newborn / neonate** — a baby in its first ~4 weeks.
-> - **fontanelles** (fon-tah-NELZ) — the soft spots on a baby's head where the skull bones haven't fused yet.
-> - **vernix** (VER-nix) — the white, creamy coating some babies are born with.
-> - **meconium** (meh-KOH-nee-um) — the sticky, dark-green first poops.
-> - **reflex** — an automatic movement (rooting, sucking, grasping, startling).
-> - **feeding cues** — early signs a baby is hungry (rooting, hands to mouth) before crying.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -35,10 +28,10 @@ held close** — and communicate the only way they can, by **crying**.
 
 ### What newborns are like
 
-- **Appearance:** a temporarily **cone-shaped head** (from birth), **vernix**,
+- **Appearance:** a temporarily **cone-shaped head** (from birth), **vernix**[°](#w-vernix),
   blotchy or peeling skin, puffy eyes, sometimes swollen genitals or breast buds
   (from mum's hormones), a drying **umbilical cord stump**, and soft spots
-  (**fontanelles**) on the head — all normal.
+  (**fontanelles**[°](#w-fontanelles)) on the head — all normal.
 - **Reflexes:** **rooting** (turning toward a touch on the cheek, looking to feed),
   **sucking**, **grasping** your finger, and the **Moro/startle** (flinging arms out
   at a sudden noise). These fade over the early months.
@@ -50,9 +43,9 @@ held close** — and communicate the only way they can, by **crying**.
 ### What they need (and their "output")
 
 Feed, sleep, warmth, a clean diaper, and closeness — that's the whole job, on
-repeat. Watch **feeding cues** (rooting, hands to mouth, mouthing) and feed
+repeat. Watch **feeding cues**[°](#w-feeding-cues) (rooting, hands to mouth, mouthing) and feed
 *before* the crying stage. Their diapers tell you a lot: the first poops are dark
-**meconium**, then colour changes; and enough **wet diapers** (building to ~6+ a
+**meconium**[°](#w-meconium), then colour changes; and enough **wet diapers** (building to ~6+ a
 day after the first week) is a key "getting enough milk" sign (Lessons 26–27).
 
 ### Normal things that scare new parents
@@ -139,6 +132,19 @@ No. You <strong>cannot spoil a newborn</strong> by holding or responding to them
 meeting their needs quickly and offering closeness builds security. Newborns need
 comfort and contact as much as feeding.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-newborn-neonate"></a>**newborn / neonate** — a baby in its first ~4 weeks.
+- <a id="w-fontanelles"></a>**fontanelles** (fon-tah-NELZ) — the soft spots on a baby's head where the skull bones haven't fused yet.
+- <a id="w-vernix"></a>**vernix** (VER-nix) — the white, creamy coating some babies are born with.
+- <a id="w-meconium"></a>**meconium** (meh-KOH-nee-um) — the sticky, dark-green first poops.
+- <a id="w-reflex"></a>**reflex** — an automatic movement (rooting, sucking, grasping, startling).
+- <a id="w-feeding-cues"></a>**feeding cues** — early signs a baby is hungry (rooting, hands to mouth) before crying.
 
 ---
 

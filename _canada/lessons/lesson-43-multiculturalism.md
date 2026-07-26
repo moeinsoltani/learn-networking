@@ -10,44 +10,32 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 43: Multiculturalism
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **multiculturalism** — the official policy that newcomers may keep their heritage; Canada is the sum of its cultures.
-> - **melting pot** vs **mosaic** (moh-ZAY-ik) — the US image (cultures melt into one) vs the Canadian image (distinct tiles forming one picture); both are partly myths.
-> - **interculturalism** — Quebec's alternative model: diversity welcomed *into* a declared common francophone culture.
-> - **"third force"** — 1960s term for Canadians neither British nor French (Ukrainians, Germans, Italians…), whose objection created multiculturalism.
-> - **nativist** (NAY-tih-vist) — politics hostile to immigrants; **parallel societies** — the fear of communities living separately from the mainstream.
-> - **settlement services** — funded programs (language classes, job help) that integrate newcomers.
-> - **assimilation** vs **integration** — being absorbed and losing your culture vs joining fully while keeping it.
-> - **second generation** — the Canadian-born children of immigrants (the key measure of whether integration works).
-> - **strawman** — misrepresenting an opponent's argument into a weak version so it's easy to knock down.
-> - **s.27** — the Charter clause requiring interpretation consistent with Canada's multicultural heritage.
-> - Names: **Baltej Dhillon** (BAHL-tej DIL-un — the Mountie who won the right to wear a turban, 1990), **laïcité** (lah-ee-see-TAY — Lesson 22).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 In 1971, Canada became the **first country on Earth to adopt
 multiculturalism as official state policy** — Trudeau Sr.
-announcing "multiculturalism within a bilingual framework"; the
+announcing "**multiculturalism**[°](#w-multiculturalism) within a bilingual framework"; the
 **Multiculturalism Act (1988)** legislated it; **Charter s.27**
 constitutionalized it as an interpretive lens ("this Charter shall
 be interpreted in a manner consistent with the preservation and
 enhancement of the multicultural heritage of Canadians"). The
 origin was characteristically Canadian — a *by-product*: the
 1960s B&B Commission (Lesson 42) proposed a bicultural
-French-English Canada, and the "third force" (Lesson 16's
+French-English Canada, and the **"third force"**[°](#w-third-force) (Lesson 16's
 Ukrainians loudest among them) objected: *we* are neither, and we
 built the Prairies — so bilingual-BI-cultural became
 bilingual-MULTI-cultural, and the accident became the identity.
 
 The standard contrast puts the American **melting pot** against the Canadian
-**mosaic**. In the melting-pot story, newcomers arrive and assimilate into a
+**mosaic**[°](#w-mosaic). In the melting-pot story, newcomers arrive and assimilate into a
 single national culture. In the mosaic story, newcomers arrive and retain
 their heritage, and the nation is the sum of the retained pieces.
 
 Both are myths, and it is worth saying why. Cultural retention in the United
 States is in fact high — Chinatowns and Little Havanas thrive there. And
-convergence in Canada is also high: by the second generation, language,
+convergence in Canada is also high: by the **second generation**[°](#w-second-generation), language,
 intermarriage, and values shift fast toward the mainstream. The behaviour in
 the two countries is far more similar than the slogans suggest.
 
@@ -74,7 +62,7 @@ Today's demography (Lesson 24): ~23% foreign-born (G7's
 highest), visible minorities ~27% nationally — majorities in
 Toronto and Vancouver; the 2020s brought the consensus's first
 real stress test (housing/volume, L.24/40), and Quebec runs a
-declared alternative model (*interculturalism*). This lesson
+declared alternative model (*interculturalism*[°](#w-interculturalism)). This lesson
 holds the celebration and the critiques in one hand, per the
 course's standing rule.
 
@@ -90,10 +78,10 @@ mock); anti-racism programs; institutional accommodation
 norms (uniforms — the Mountie turban decision, 1990, the
 emblematic case: the national symbol itself adapted);
 citizenship pedagogy (the mosaic as taught self-image,
-L.32's ceremony speech); s.27's interpretive nudge in
+L.32's ceremony speech); **s.27**[°](#w-s-27)'s interpretive nudge in
 Charter cases. The heavier lifting is done by the adjacent
-machinery: points selection, settlement services (~$2B/yr —
-among the world's most funded integration programs), s.15
+machinery: points selection, **settlement services**[°](#w-settlement-services) (~$2B/yr —
+among the world's most funded **integration**[°](#w-integration) programs), s.15
 equality and human-rights codes (L.31/33), and birthright
 citizenship. Fair summary: multiculturalism is the brand;
 the integration state is the product.
@@ -126,7 +114,7 @@ distinction to preserve when you hear the debate.
 ### The critiques, seriously stated
 
 - **From the right/cohesionist:** official retention risks
-  parallel societies, slows the shared-identity formation a
+  **parallel societies**[°](#w-parallel-societies), slows the shared-identity formation a
   country needs, and funds difference where it should fund
   common ground; some imported conflicts (diaspora
   politics) land in Canadian streets. Counter-evidence
@@ -169,7 +157,7 @@ distinction to preserve when you hear the debate.
 > plus *selection, settlement funding, citizenship access,
 > and electoral inclusion* is the strength — the adjectives
 > carry the sentence. Deploy accordingly: against the
-> nativist, the outcomes data; against the triumphalist,
+> **nativist**[°](#w-nativist), the outcomes data; against the triumphalist,
 > the selection asterisk and the L.41 frictions; against
 > both, the observation that the consensus is a built
 > structure, not a national virtue gene — structures need
@@ -263,6 +251,24 @@ pillars (Indigenous, French, English) with the mosaic
 built atop, which is in fact how the citizenship oath
 (L.32) now orders it.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-multiculturalism"></a>**multiculturalism** — the official policy that newcomers may keep their heritage; Canada is the sum of its cultures.
+- **melting pot** vs <a id="w-mosaic"></a>**mosaic** (moh-ZAY-ik) — the US image (cultures melt into one) vs the Canadian image (distinct tiles forming one picture); both are partly myths.
+- <a id="w-interculturalism"></a>**interculturalism** — Quebec's alternative model: diversity welcomed *into* a declared common francophone culture.
+- <a id="w-third-force"></a>**"third force"** — 1960s term for Canadians neither British nor French (Ukrainians, Germans, Italians…), whose objection created multiculturalism.
+- <a id="w-nativist"></a>**nativist** (NAY-tih-vist) — politics hostile to immigrants; <a id="w-parallel-societies"></a>**parallel societies** — the fear of communities living separately from the mainstream.
+- <a id="w-settlement-services"></a>**settlement services** — funded programs (language classes, job help) that integrate newcomers.
+- **assimilation** vs <a id="w-integration"></a>**integration** — being absorbed and losing your culture vs joining fully while keeping it.
+- <a id="w-second-generation"></a>**second generation** — the Canadian-born children of immigrants (the key measure of whether integration works).
+- <a id="w-strawman"></a>**strawman** — misrepresenting an opponent's argument into a weak version so it's easy to knock down.
+- <a id="w-s-27"></a>**s.27** — the Charter clause requiring interpretation consistent with Canada's multicultural heritage.
+- Names: **Baltej Dhillon** (BAHL-tej DIL-un — the Mountie who won the right to wear a turban, 1990), **laïcité** (lah-ee-see-TAY — Lesson 22).
 
 ---
 

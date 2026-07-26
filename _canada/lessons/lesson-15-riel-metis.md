@@ -10,25 +10,13 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 15: Riel and the Métis Resistances
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **provisional government** — a temporary government formed to run things until a permanent, recognized one exists.
-> - **high treason** (TREE-zun) — the crime of making war against your own country's Crown; the most serious offence in the law.
-> - **court-martial** (court-MAR-shul) — a military court trial; **the gallows** (GAL-ohz) — the structure used for hanging.
-> - **scrip** (SKRIP) — a paper certificate the government gave Métis people, exchangeable for land or money; most were bought up cheaply by speculators.
-> - **speculator** — someone who buys assets cheaply hoping to resell at profit.
-> - **Orangeman** — a member of the Orange Order, a militantly Protestant, anti-Catholic society powerful in old Ontario.
-> - **amnesty** (AM-nes-tee) — an official pardon for political offences; **exile** — forced absence from your country.
-> - **asylum** (uh-SY-lum) — here: a psychiatric hospital (old usage).
-> - **martyr** (MAR-ter) — someone killed for a cause, honoured by its supporters.
-> - **exonerated** (eg-ZON-er-ay-ted) — officially cleared of guilt; **posthumously** (POSS-chuh-muss-lee) — after death.
-> - Names: **Riel** (ree-EL), **Métis** (may-TEE), **Batoche** (bah-TOSH), **Gabriel Dumont** (doo-MON), **Poundmaker** (Cree: Pîtikwahanapiwiyin), **Mercier** (mair-see-AY), **Assiniboine** (uh-SIN-ih-boyn).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 No figure in Canadian history carries more contradictory labels than
-**Louis Riel**: traitor, hanged for high treason in 1885 — and Father of
-Confederation (Manitoba's founder), folk hero, martyr, and, since 1992 by
+**Louis Riel**: traitor, hanged for **high treason**[°](#w-high-treason) in 1885 — and Father of
+Confederation (Manitoba's founder), folk hero, **martyr**[°](#w-martyr), and, since 1992 by
 parliamentary resolution, founder of Manitoba honoured across the country
 with statues and a provincial holiday (**Louis Riel Day**). Same man, same
 acts. This lesson is about the two armed Métis resistances he led — and
@@ -41,19 +29,19 @@ ways — which is the first thing to get straight.
 **Red River, 1869–70**, began when Canada bought Rupert's Land without
 consulting a single person living on it (Lesson 14). The Métis under Riel
 stopped the surveyors, turned back the incoming governor, and formed a
-**provisional government** — a move in a genuine legal grey zone, and
+**provisional government**[°](#w-provisional-government) — a move in a genuine legal grey zone, and
 arguably legitimate, since no Canadian authority yet existed there to
 displace. It ended in *negotiation*: the Manitoba Act of 1870 created a
 province with land promises and bilingual rights. But the execution of a
 prisoner named Thomas Scott poisoned Ontario against Riel, and he was driven
-into exile despite being elected to Parliament three times.
+into **exile**[°](#w-exile) despite being elected to Parliament three times.
 
 **The North-West, 1885**, began with the same grievance and worse conditions.
 The Métis had moved west to the Saskatchewan valley, and there they and their
 Cree and Assiniboine neighbours faced starvation and years of ignored
 petitions. Riel returned from exile and declared a provisional government at
 Batoche — but this time it was war: Duck Lake, Fish Creek, and finally Batoche
-in May 1885. It ended in *defeat*, a trial, and the gallows at Regina on
+in May 1885. It ended in *defeat*, a trial, and **the gallows**[°](#w-the-gallows) at Regina on
 November 16, 1885. Quebec mourned a martyr; Ontario cheered justice; and the
 crack that opened between them ran straight through Confederation's founding
 partnership.
@@ -86,18 +74,18 @@ created the province — tiny ("the postage-stamp province"), but with
 French/English official bilingualism, denominational schools, and
 **s.31: 1.4 million acres reserved for Métis children**. Then the poison
 pill: Riel's government court-martialed and executed **Thomas Scott**, a
-violent Ontario Orangeman prisoner — a legally defensible, politically
+violent Ontario **Orangeman**[°](#w-orangeman) prisoner — a legally defensible, politically
 catastrophic act. Ontario put a bounty on Riel; the military expedition
 sent west harassed the Métis; the s.31 lands were delivered through a
-scrip system so slow and fraud-riddled that most Métis lands passed to
-speculators (in 2013 the Supreme Court held the Crown had failed its
+**scrip**[°](#w-scrip) system so slow and fraud-riddled that most Métis lands passed to
+**speculators**[°](#w-speculator) (in 2013 the Supreme Court held the Crown had failed its
 honour on exactly this promise). Manitoba's Métis majority became a
 dispossessed minority within a decade; many moved west to the
 Saskatchewan valley — where the story repeats, harder. Riel, though
 elected to Parliament three times, could never take his seat; amnestied
 on condition of five years' exile, he ended up a schoolteacher in
 Montana — increasingly gripped by a religious mission (he had spent
-1876–78 in Quebec asylums; his sanity is the trial's central knot).
+1876–78 in Quebec **asylums**[°](#w-asylum); his sanity is the trial's central knot).
 
 ### The North-West, 1885: resistance that was crushed
 
@@ -269,6 +257,24 @@ is, by wide agreement, where the Confederation bargain of 1867 first
 cracked — making Riel's execution as consequential for French–English
 relations as for Indigenous ones: one rope, two national wounds.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-provisional-government"></a>**provisional government** — a temporary government formed to run things until a permanent, recognized one exists.
+- <a id="w-high-treason"></a>**high treason** (TREE-zun) — the crime of making war against your own country's Crown; the most serious offence in the law.
+- <a id="w-court-martial"></a>**court-martial** (court-MAR-shul) — a military court trial; <a id="w-the-gallows"></a>**the gallows** (GAL-ohz) — the structure used for hanging.
+- <a id="w-scrip"></a>**scrip** (SKRIP) — a paper certificate the government gave Métis people, exchangeable for land or money; most were bought up cheaply by speculators.
+- <a id="w-speculator"></a>**speculator** — someone who buys assets cheaply hoping to resell at profit.
+- <a id="w-orangeman"></a>**Orangeman** — a member of the Orange Order, a militantly Protestant, anti-Catholic society powerful in old Ontario.
+- <a id="w-amnesty"></a>**amnesty** (AM-nes-tee) — an official pardon for political offences; <a id="w-exile"></a>**exile** — forced absence from your country.
+- <a id="w-asylum"></a>**asylum** (uh-SY-lum) — here: a psychiatric hospital (old usage).
+- <a id="w-martyr"></a>**martyr** (MAR-ter) — someone killed for a cause, honoured by its supporters.
+- <a id="w-exonerated"></a>**exonerated** (eg-ZON-er-ay-ted) — officially cleared of guilt; <a id="w-posthumously"></a>**posthumously** (POSS-chuh-muss-lee) — after death.
+- Names: **Riel** (ree-EL), **Métis** (may-TEE), **Batoche** (bah-TOSH), **Gabriel Dumont** (doo-MON), **Poundmaker** (Cree: Pîtikwahanapiwiyin), **Mercier** (mair-see-AY), **Assiniboine** (uh-SIN-ih-boyn).
 
 ---
 

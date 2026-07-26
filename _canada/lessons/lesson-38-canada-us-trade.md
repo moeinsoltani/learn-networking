@@ -10,19 +10,7 @@ parent: "Phase 7: The Economy"
 
 # Lesson 38: The Elephant Next Door
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **asymmetry** (ay-SIM-eh-tree) — an unbalanced relationship: the US is 75% of Canada's trade; Canada is a small share of America's.
-> - **production sharing** — one industry spread across two countries, with parts crossing the border many times before the product is finished.
-> - **stumpage** (STUM-pij) — the fee a company pays a province to cut timber on Crown land — the heart of the softwood dispute.
-> - **countervailing duty** — an extra import tax meant to cancel out a foreign government's subsidy; **anti-dumping** — duties against goods sold below "fair" price.
-> - **supply management** — Canada's system of production quotas + huge tariffs protecting dairy, poultry, and eggs; a **quota** (KWOH-tah) — a licensed production limit.
-> - **retaliation** — answering tariffs with your own tariffs, aimed to hurt politically.
-> - **lobbying** — professionally persuading legislators; a **lobby** — an organized interest group doing it.
-> - **gravity model** — the economics rule that trade grows with market size and closeness, and shrinks with distance — why diversification away from the US keeps failing.
-> - **USMCA / CUSMA** — the current North American trade agreement (2020), NAFTA's successor.
-> - **Section 232** — the US law letting a president impose tariffs on "national security" grounds.
-> - **sunset / review clause** — a built-in expiry or renegotiation date.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,7 +20,7 @@ friendly and even-tempered is the beast... one is affected by every
 twitch and grunt."* Fifty-plus years later it remains the single
 most accurate sentence ever spoken about the Canadian economy:
 
-The asymmetry is the whole story, and it is best felt through a few numbers.
+The **asymmetry**[°](#w-asymmetry) is the whole story, and it is best felt through a few numbers.
 About **75% of Canadian exports go to the United States**, and roughly **50%
 of Canadian imports come from there**. Taken together it is one of the largest
 bilateral trading relationships in world history, with China contesting the
@@ -68,7 +56,7 @@ structural.
 
 ### What actually crosses the border
 
-Not mostly finished goods — **production sharing**: the auto
+Not mostly finished goods — **production sharing**[°](#w-production-sharing): the auto
 industry is one factory with a border through it (a part can
 cross six times before a car ships — why tariffs on Canada
 instantly wound Michigan); **energy** — Canada is the US's
@@ -89,7 +77,7 @@ the 2022 convoy blockade of it moved auto production within
 
 - **Softwood lumber** — the longest-running trade fight in the
   relationship (rounds since the 1980s; roots older): the US
-  lumber lobby argues Canadian stumpage (provincial Crown-land
+  lumber **lobby**[°](#w-lobby) argues Canadian **stumpage**[°](#w-stumpage) (provincial Crown-land
   timber fees, Lesson 05/29 — provinces own the forests) is a
   subsidy; the US applies duties; Canada wins at
   panels/WTO more often than not; settlements lapse; repeat.
@@ -98,7 +86,7 @@ the 2022 convoy blockade of it moved auto production within
   redesign land tenure for peace.
 - **Supply management (dairy, poultry, eggs)** — Canada's
   quota-and-tariff system guaranteeing farmer incomes (tariffs
-  ~200–300% over quota): every negotiation's US demand, every
+  ~200–300% over **quota**[°](#w-quota)): every negotiation's US demand, every
   Canadian government's untouchable (Quebec and Ontario dairy
   ridings, all parties pledged — the political economy of
   Lesson 35: entrenched policy serving a
@@ -106,8 +94,8 @@ the 2022 convoy blockade of it moved auto production within
   defended as food sovereignty and rural survival). USMCA
   pried the door open ~3.6%; the structure stands.
 - **Autos & steel/aluminum national-security tariffs** — the
-  2018 Section 232 tariffs (steel/aluminum, on *Canada*, as a
-  security threat — Ottawa's response mixed retaliation with
+  2018 **Section 232**[°](#w-section-232) tariffs (steel/aluminum, on *Canada*, as a
+  security threat — Ottawa's response mixed **retaliation**[°](#w-retaliation) with
   bewilderment) previewed the 2020s reality: US trade law's
   unilateral instruments can hit Canada at presidential
   discretion, agreement or no agreement. The USMCA's quotas,
@@ -122,7 +110,7 @@ Canada is the world's most enthusiastic user of dispute
 mechanisms (FTA Chapter 19 was Canada's 1988 red line;
 its USMCA survival a declared victory), because rules are the
 small party's only leverage; (2) **the Team Canada charm
-swarm** — premiers, ministers, and business lobbying US
+swarm** — premiers, ministers, and business **lobbying**[°](#w-lobbying) US
 *states* and Congress with the "9 million American jobs
 depend on Canada trade" map (every congressional district
 has a number, deliberately); (3) **precision retaliation** —
@@ -130,7 +118,7 @@ tariff lists tuned to politically sensitive states (Kentucky
 bourbon, Wisconsin dairy — the 2018 list was a political
 science paper); (4) **diversification announcements** — CETA
 (Europe), CPTPP (Pacific), endlessly announced, marginally
-used (the gravity model always wins: trade follows proximity
+used (the **gravity model**[°](#w-gravity-model) always wins: trade follows proximity
 and the US is *right there*); (5) **domestic compensation** —
 whoever the deal exposes gets paid (dairy compensation
 packages after each agreement, Lesson 13's better-terms
@@ -239,6 +227,24 @@ diplomacy of asymmetry — Canada cannot make itself
 indispensable in Washington's eyes, so it makes itself
 expensive to ignore and cheap to accommodate.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-asymmetry"></a>**asymmetry** (ay-SIM-eh-tree) — an unbalanced relationship: the US is 75% of Canada's trade; Canada is a small share of America's.
+- <a id="w-production-sharing"></a>**production sharing** — one industry spread across two countries, with parts crossing the border many times before the product is finished.
+- <a id="w-stumpage"></a>**stumpage** (STUM-pij) — the fee a company pays a province to cut timber on Crown land — the heart of the softwood dispute.
+- <a id="w-countervailing-duty"></a>**countervailing duty** — an extra import tax meant to cancel out a foreign government's subsidy; <a id="w-anti-dumping"></a>**anti-dumping** — duties against goods sold below "fair" price.
+- <a id="w-supply-management"></a>**supply management** — Canada's system of production quotas + huge tariffs protecting dairy, poultry, and eggs; a <a id="w-quota"></a>**quota** (KWOH-tah) — a licensed production limit.
+- <a id="w-retaliation"></a>**retaliation** — answering tariffs with your own tariffs, aimed to hurt politically.
+- <a id="w-lobbying"></a>**lobbying** — professionally persuading legislators; a <a id="w-lobby"></a>**lobby** — an organized interest group doing it.
+- <a id="w-gravity-model"></a>**gravity model** — the economics rule that trade grows with market size and closeness, and shrinks with distance — why diversification away from the US keeps failing.
+- <a id="w-usmca-cusma"></a>**USMCA / CUSMA** — the current North American trade agreement (2020), NAFTA's successor.
+- <a id="w-section-232"></a>**Section 232** — the US law letting a president impose tariffs on "national security" grounds.
+- <a id="w-sunset-review-clause"></a>**sunset / review clause** — a built-in expiry or renegotiation date.
 
 ---
 

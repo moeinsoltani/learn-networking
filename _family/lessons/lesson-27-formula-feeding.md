@@ -14,13 +14,7 @@ parent: "Phase 6: The Newborn"
 > General education, not medical advice. Follow the formula tin's instructions and
 > your provider's guidance exactly, especially on preparation and amounts.
 
-{: .note }
-> **Words to know**
-> - **infant formula** — a manufactured breast-milk substitute, nutritionally complete for babies.
-> - **combination / mixed feeding** — using both breast milk and formula.
-> - **paced bottle feeding** — feeding slowly and responsively, letting the baby control the pace.
-> - **sterilising** — cleaning bottles/teats thoroughly (especially important early on).
-> - **on demand** — feeding in response to hunger cues rather than a fixed schedule.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -48,7 +42,7 @@ there is no guilt owed for how a healthy baby is fed.
 
 ### How much and how often
 
-Feed **on demand**, watching cues (rooting, hands to mouth, fussing) rather than
+Feed **on demand**[°](#w-on-demand), watching cues (rooting, hands to mouth, fussing) rather than
 forcing a schedule. Amounts increase as the baby grows (the tin and your provider
 give age/weight guides), but babies vary — a content baby with plenty of wet/dirty
 diapers and steady weight gain is getting enough. Don't force the baby to finish a
@@ -56,7 +50,7 @@ bottle; let them stop when full.
 
 ### Feed responsively — and together
 
-**Paced bottle feeding** — holding the baby fairly upright, keeping the bottle
+**Paced bottle feeding**[°](#w-paced-bottle-feeding) — holding the baby fairly upright, keeping the bottle
 horizontal so milk flows slowly, and pausing — lets the baby control the pace and
 reduces overfeeding and gas. Bottle-feeding is also a chance for **bonding**: hold
 the baby close, make eye contact, and enjoy it. A real bonus: **both parents (and
@@ -141,6 +135,18 @@ the bonding — especially helpful for <strong>night feeds</strong> and letting 
 mother rest and recover. (Other reasons families choose it include supply, medical
 needs, and returning to work.)
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-infant-formula"></a>**infant formula** — a manufactured breast-milk substitute, nutritionally complete for babies.
+- <a id="w-combination-mixed-feeding"></a>**combination / mixed feeding** — using both breast milk and formula.
+- <a id="w-paced-bottle-feeding"></a>**paced bottle feeding** — feeding slowly and responsively, letting the baby control the pace.
+- <a id="w-sterilising"></a>**sterilising** — cleaning bottles/teats thoroughly (especially important early on).
+- <a id="w-on-demand"></a>**on demand** — feeding in response to hunger cues rather than a fixed schedule.
 
 ---
 

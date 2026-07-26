@@ -10,21 +10,7 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 19: Between the Wars
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **general strike** — when workers across *all* industries in a place stop work at once; **collective bargaining** — workers negotiating pay as a united group through a union.
-> - **Bolshevism** (BOHL-sheh-vizm) — Russian-revolution communism; in 1919 the establishment's all-purpose scare word.
-> - **sedition / seditious libel** (sih-DISH-un) — the crime of speech that supposedly stirs rebellion against the state.
-> - **magistrate** (MAJ-iss-trate) — a judge in a lower court.
-> - **reference case** — a government asking the courts a legal question directly, without a normal lawsuit.
-> - **Privy Council** (PRIV-ee) — here: the Judicial Committee of the Privy Council in London, then the Empire's highest court of appeal.
-> - **"living tree" doctrine** — the rule that a constitution grows with the times instead of staying frozen at its writing.
-> - **eugenics** (yoo-JEN-iks) — the discredited movement to "improve" the population by controlling who could have children; **sterilization** — surgery making someone unable to reproduce.
-> - **amending formula** — the agreed rules for *who must consent* before a constitution can be changed.
-> - **relief** — 1930s word for welfare payments; **relief camps** — work camps for unemployed single men.
-> - **drought** (DROWT) — a long period without rain; the **Palliser Triangle** (PAL-ih-ser) — the dry prairie region hit hardest.
-> - **manifesto** (man-ih-FESS-toh) — a public declaration of a movement's beliefs and plans.
-> - Names: **Woodsworth** (WOODZ-worth), **McClung** (muh-KLUNG), **Sankey** (SANK-ee), **Aberhart** (AB-er-hart), **Rowell–Sirois** (ROH-el seer-WAH), **CCF** (say the letters) — the socialist party that became today's **NDP**.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -43,9 +29,9 @@ releases later in the century.
 | Event | What it set in motion |
 |---|---|
 | **1919 — Winnipeg General Strike** | Labour politics as a permanent force, a lasting "foreign agitator" panic, and the career of J.S. Woodsworth |
-| **1929 — the Persons Case** | Women legally "persons," and therefore eligible for the Senate; and the "living tree" doctrine that lets the constitution grow |
+| **1929 — the Persons Case** | Women legally "persons," and therefore eligible for the Senate; and the **"living tree" doctrine**[°](#w-living-tree-doctrine) that lets the constitution grow |
 | **1931 — Statute of Westminster** | Legislative independence from Britain — with the constitution itself left in London "for safekeeping" (Lesson 23) |
-| **1929–39 — the Depression** | A Prairie catastrophe of drought and collapsed wheat prices; relief camps and the On-to-Ottawa Trek (1935); brand-new parties — the CCF, ancestor of the NDP and of medicare, and Social Credit; the Bank of Canada (1935); and the Rowell–Sirois inquiry, whose logic becomes equalization |
+| **1929–39 — the Depression** | A Prairie catastrophe of **drought**[°](#w-drought) and collapsed wheat prices; **relief camps**[°](#w-relief-camps) and the On-to-Ottawa Trek (1935); brand-new parties — the **CCF**[°](#w-ccf), ancestor of the NDP and of medicare, and Social Credit; the Bank of Canada (1935); and the Rowell–Sirois inquiry, whose logic becomes equalization |
 
 The mental model: the interwar years are **Canada's independence and its
 welfare state both being conceived** — the first by statute, the second
@@ -62,7 +48,7 @@ metal-trades men to telephone operators ("Hello Girls") — walked out
 over wages, inflation (prices had doubled in the war), and the right to
 bargain collectively. The city split into strike committee (which kept
 milk and bread moving) and the establishment's Citizens' Committee,
-which read Bolshevism into everything (Winnipeg's strike leaders were
+which read **Bolshevism**[°](#w-bolshevism) into everything (Winnipeg's strike leaders were
 mostly British-born social-gospel types; the "foreign Bolshevik" framing
 targeted, once again, Lesson 16's East Europeans). Ottawa sided with
 capital: Mounties charged a crowd on **Bloody Saturday** (June 21 — two
@@ -80,10 +66,10 @@ Section 24 of the BNA Act let the GG summon "qualified **persons**" to
 the Senate; the government's lawyers held this excluded women (common-law
 precedent: women were persons "in matters of pains and penalties, not
 rights and privileges"). Alberta's **Famous Five** — **Emily Murphy**
-(the Empire's first woman magistrate, whose appointment had been
+(the Empire's first woman **magistrate**[°](#w-magistrate), whose appointment had been
 challenged on exactly this ground), **Nellie McClung** (Lesson 18's
 suffrage general), Henrietta Muir Edwards, Louise McKinney, Irene
-Parlby — forced a reference case. The Supreme Court said no (1928);
+Parlby — forced a **reference case**[°](#w-reference-case). The Supreme Court said no (1928);
 the Empire's real top court, the **Judicial Committee of the Privy
 Council**, said yes (1929), in the most-quoted sentence of Canadian
 constitutional law — Lord Sankey: the exclusion of women was "a relic
@@ -95,7 +81,7 @@ Murphy: too troublesome), and the **living tree doctrine** — Canada's
 official interpretive philosophy, the reason the Charter (Lesson 31)
 is read expansively rather than by founders' intent. October 18 is
 Persons Day. Required honesty: several of the Five, Murphy especially,
-were also eugenics advocates (Alberta's Sexual Sterilization Act,
+were also **eugenics**[°](#w-eugenics) advocates (Alberta's Sexual **Sterilization**[°](#w-sterilization) Act,
 1928–72, disproportionately hit Indigenous and disabled women) —
 Canadian commemoration now standardly carries both facts, and so
 should you.
@@ -110,7 +96,7 @@ could apply to Canada without consent; Canada gained full treaty and
 foreign-policy capacity (first legation: Washington, 1927 — Vincent
 Massey). The one carve-out, at *Canada's own request*: amendment of
 the BNA Act stayed in Britain — federal and provincial governments
-couldn't agree on an amending formula, so the constitution stayed
+couldn't agree on an **amending formula**[°](#w-amending-formula), so the constitution stayed
 "in a British safety-deposit box" for **51 more years**. Remember the
 reason (domestic deadlock, not imperial refusal): it is the entire
 setup for Lesson 23.
@@ -121,7 +107,7 @@ Canada's export-staples economy (Lesson 05) made it the developed
 world's second-hardest-hit country: GDP down ~40%, unemployment near
 30%, wheat prices down two-thirds — and on the Prairies the market
 collapse coincided with **the drought**: eight years of dust storms,
-grasshoppers, and crop failure in the Palliser Triangle; Saskatchewan's
+grasshoppers, and crop failure in the **Palliser Triangle**[°](#w-palliser-triangle); Saskatchewan's
 per-capita income fell ~70% and the province that immigration built
 (Lesson 16) began emptying. Single unemployed men were warehoused in
 military-run **relief camps** (20¢/day); in 1935 more than a thousand
@@ -131,7 +117,7 @@ hundreds injured.
 
 What the misery built:
 
-- **New parties, Prairie-made:** the **CCF** (Regina Manifesto, 1933:
+- **New parties, Prairie-made:** the **CCF** (Regina **Manifesto**[°](#w-manifesto), 1933:
   "No CCF Government will rest content until it has eradicated
   capitalism") — parliamentary socialism, farm-labour alliance,
   Woodsworth presiding; and **Social Credit** (Alberta 1935, "Bible
@@ -244,6 +230,26 @@ direct Depression descendant. (Also creditable: the Bank of Canada,
 unemployment insurance, and the Rowell–Sirois logic that became
 equalization.)
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-general-strike"></a>**general strike** — when workers across *all* industries in a place stop work at once; <a id="w-collective-bargaining"></a>**collective bargaining** — workers negotiating pay as a united group through a union.
+- <a id="w-bolshevism"></a>**Bolshevism** (BOHL-sheh-vizm) — Russian-revolution communism; in 1919 the establishment's all-purpose scare word.
+- <a id="w-sedition-seditious-libel"></a>**sedition / seditious libel** (sih-DISH-un) — the crime of speech that supposedly stirs rebellion against the state.
+- <a id="w-magistrate"></a>**magistrate** (MAJ-iss-trate) — a judge in a lower court.
+- <a id="w-reference-case"></a>**reference case** — a government asking the courts a legal question directly, without a normal lawsuit.
+- <a id="w-privy-council"></a>**Privy Council** (PRIV-ee) — here: the Judicial Committee of the Privy Council in London, then the Empire's highest court of appeal.
+- <a id="w-living-tree-doctrine"></a>**"living tree" doctrine** — the rule that a constitution grows with the times instead of staying frozen at its writing.
+- <a id="w-eugenics"></a>**eugenics** (yoo-JEN-iks) — the discredited movement to "improve" the population by controlling who could have children; <a id="w-sterilization"></a>**sterilization** — surgery making someone unable to reproduce.
+- <a id="w-amending-formula"></a>**amending formula** — the agreed rules for *who must consent* before a constitution can be changed.
+- <a id="w-relief"></a>**relief** — 1930s word for welfare payments; <a id="w-relief-camps"></a>**relief camps** — work camps for unemployed single men.
+- <a id="w-drought"></a>**drought** (DROWT) — a long period without rain; the <a id="w-palliser-triangle"></a>**Palliser Triangle** (PAL-ih-ser) — the dry prairie region hit hardest.
+- <a id="w-manifesto"></a>**manifesto** (man-ih-FESS-toh) — a public declaration of a movement's beliefs and plans.
+- Names: **Woodsworth** (WOODZ-worth), **McClung** (muh-KLUNG), **Sankey** (SANK-ee), **Aberhart** (AB-er-hart), **Rowell–Sirois** (ROH-el seer-WAH), <a id="w-ccf"></a>**CCF** (say the letters) — the socialist party that became today's **NDP**.
 
 ---
 

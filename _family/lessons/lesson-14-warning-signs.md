@@ -15,13 +15,7 @@ parent: "Phase 3: Mid & Late Pregnancy"
 > guide, not a diagnosis. The overriding rule: **when in doubt, call.** Providers
 > would always rather hear from you.
 
-{: .note }
-> **Words to know**
-> - **warning sign / red flag** — a symptom that means "contact your provider promptly."
-> - **decreased fetal movement** — the baby moving noticeably less than its normal pattern.
-> - **preterm labour** — labour before 37 weeks (contractions, pressure, leaking, or a "show" early).
-> - **triage** (TREE-ahzh) — quickly sorting what needs urgent attention from what can wait.
-> - **waters breaking** — the amniotic sac releasing fluid (a gush or a steady trickle).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -38,7 +32,7 @@ it: **if something feels wrong, call — you never need to justify checking.**
 {: .warning }
 > **Contact your provider (or seek urgent care) for any of these:**
 > - **Vaginal bleeding**
-> - **Fluid leaking or gushing** (waters breaking) — note the time
+> - **Fluid leaking or gushing** (**waters breaking**[°](#w-waters-breaking)) — note the time
 > - **The baby moving much less** than usual (from ~28 weeks especially)
 > - **Severe or constant abdominal pain**
 > - A **severe headache, vision changes, or sudden swelling** of face/hands
@@ -145,6 +139,18 @@ staffed and <em>expect</em> these calls; a call that turns out to be nothing is 
 <strong>success, not a false alarm</strong>. Embarrassment should never delay
 checking on you or the baby.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-warning-sign-red-flag"></a>**warning sign / red flag** — a symptom that means "contact your provider promptly."
+- <a id="w-decreased-fetal-movement"></a>**decreased fetal movement** — the baby moving noticeably less than its normal pattern.
+- <a id="w-preterm-labour"></a>**preterm labour** — labour before 37 weeks (contractions, pressure, leaking, or a "show" early).
+- <a id="w-triage"></a>**triage** (TREE-ahzh) — quickly sorting what needs urgent attention from what can wait.
+- <a id="w-waters-breaking"></a>**waters breaking** — the amniotic sac releasing fluid (a gush or a steady trickle).
 
 ---
 

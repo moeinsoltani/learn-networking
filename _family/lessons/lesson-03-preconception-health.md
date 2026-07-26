@@ -12,16 +12,9 @@ parent: "Phase 1: Deciding & Preparing"
 
 {: .important }
 > General education, not medical advice. The whole point of this lesson is to
-> send you to a real preconception visit — go, and bring your questions.
+> send you to a real **preconception visit**[°](#w-preconception-visit) — go, and bring your questions.
 
-{: .note }
-> **Words to know**
-> - **preconception visit** — a checkup *before* trying to conceive, to optimise health.
-> - **immunity** — protection against a disease, from past infection or vaccination.
-> - **rubella** (roo-BEL-ah) — "German measles"; dangerous in pregnancy, so immunity is checked beforehand.
-> - **teratogen** (teh-RAT-oh-jen) — anything (some medicines, substances) that can cause birth defects.
-> - **chronic condition** — a long-term health issue (diabetes, thyroid problems, high blood pressure).
-> - **live vaccine** — a vaccine using a weakened germ (e.g. MMR, chickenpox); given *before*, not during, pregnancy.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -43,16 +36,16 @@ Your provider will typically review:
 
 - **Your history** — past pregnancies, periods, surgeries, family and genetic
   history, and your partner's history too.
-- **Medications & supplements** — to spot any **teratogens** and switch them to
+- **Medications & supplements** — to spot any **teratogens**[°](#w-teratogen) and switch them to
   pregnancy-safe versions *before* you conceive. **Never stop a prescription on
   your own** — some conditions are more dangerous untreated than the drug is.
-- **Immunity & vaccines** — checking **rubella** and chickenpox immunity (these
-  **live vaccines** must be given *before* pregnancy, then you wait ~1 month), and
+- **Immunity & vaccines** — checking **rubella**[°](#w-rubella) and chickenpox **immunity**[°](#w-immunity) (these
+  **live vaccines**[°](#w-live-vaccine) must be given *before* pregnancy, then you wait ~1 month), and
   updating flu and COVID.
 - **Bloodwork & screening** — often blood count (anemia), blood type, thyroid,
   sometimes blood sugar, and STI screening (some infections affect fertility and
   pregnancy).
-- **Chronic conditions** — getting them well-controlled (below).
+- **Chronic conditions**[°](#w-chronic-condition) — getting them well-controlled (below).
 - **Lifestyle** — folic acid, weight, smoking, alcohol (covered fully in Lesson
   04), and a **dental** check-up (gum disease is linked to pregnancy
   complications).
@@ -161,6 +154,19 @@ and are switched in advance; <strong>thyroid disorder</strong> — affects ferti
 and early brain development; <strong>epilepsy</strong> — some anti-seizure drugs
 are teratogenic and may be adjusted by a specialist beforehand.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-preconception-visit"></a>**preconception visit** — a checkup *before* trying to conceive, to optimise health.
+- <a id="w-immunity"></a>**immunity** — protection against a disease, from past infection or vaccination.
+- <a id="w-rubella"></a>**rubella** (roo-BEL-ah) — "German measles"; dangerous in pregnancy, so immunity is checked beforehand.
+- <a id="w-teratogen"></a>**teratogen** (teh-RAT-oh-jen) — anything (some medicines, substances) that can cause birth defects.
+- <a id="w-chronic-condition"></a>**chronic condition** — a long-term health issue (diabetes, thyroid problems, high blood pressure).
+- <a id="w-live-vaccine"></a>**live vaccine** — a vaccine using a weakened germ (e.g. MMR, chickenpox); given *before*, not during, pregnancy.
 
 ---
 

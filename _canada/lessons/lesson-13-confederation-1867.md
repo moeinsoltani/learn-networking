@@ -10,21 +10,7 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 13: Confederation, 1867
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **Confederation** — in Canada, always means the 1867 union that created the country (capital C).
-> - **Dominion** (duh-MIN-yun) — the invented name for Canada's new status: self-governing but still inside the British Empire.
-> - **statute** (STATCH-oot) — a written law passed by a parliament; **royal assent** — the Crown's formal signature that makes a bill law; **ratify** — to formally approve an agreement.
-> - **federation / federalism** — a system with two levels of government (national + provincial), each supreme in its own areas; **unitary state** — the opposite: one central government only.
-> - **division of powers** — the constitutional lists (s.91 federal, s.92 provincial) saying which level controls what.
-> - **representation by population ("rep-by-pop")** — seats in parliament proportional to population.
-> - **Senate** — the appointed upper chamber; "**sober second thought**" = its job of calmly reviewing the elected House's work.
-> - **denominational schools** (dih-nom-ih-NAY-shun-ul) — schools run by a religious group (Catholic or Protestant).
-> - **tariff** (TAIR-if) — a tax on imported goods; **Reciprocity** (ress-ih-PROSS-ih-tee) — the free-trade treaty with the US that was cancelled.
-> - **Fenians** (FEE-nee-unz) — Irish-American raiders who attacked Canada in 1866 hoping to hurt Britain.
-> - **secessionist** (sih-SESH-un-ist) — someone who wants their region to leave the union.
-> - **euphemism** (YOO-fem-izm) — a soft word chosen to avoid saying something bluntly.
-> - Names: **Macdonald**, **Cartier** (kar-tee-AY), **Charlottetown** (SHAR-lut-town), **Tupper** (TUP-er), **Tilley** (TIL-ee); **bleus/rouges** (BLUH / ROOZH) — Quebec's conservative and liberal parties of the era.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,11 +18,11 @@ On July 1, 1867, the **British North America Act** united four colonies —
 Ontario, Quebec, Nova Scotia, New Brunswick — into "**One Dominion under
 the Name of Canada**." No war of independence, no founding massacre: a
 merger, negotiated at two conferences by three dozen lawyers and
-businessmen, ratified as an ordinary statute of the British Parliament.
+businessmen, ratified as an ordinary **statute**[°](#w-statute) of the British Parliament.
 
 The right mental model is neither "birth of a free nation" (Canada stayed
 firmly inside the Empire — foreign policy remained London's until the
-20th century) nor "mere paperwork." Confederation was **a solution to
+20th century) nor "mere paperwork." **Confederation**[°](#w-confederation) was **a solution to
 three simultaneous emergencies**, and its architecture — federalism — was
 the price of getting French and English into one state:
 
@@ -52,7 +38,7 @@ The second was **the Americans**. The Civil War had just ended, leaving a
 battle-hardened Union army of a million men on the other side of the border,
 newspapers openly discussing annexation, Irish-American **Fenian** raiders
 crossing to strike at Britain through Canada in 1866, and Washington
-cancelling the Reciprocity Treaty that had given the colonies free trade.
+cancelling the **Reciprocity**[°](#w-reciprocity) Treaty that had given the colonies free trade.
 Alone, each colony was indefensible. Together, perhaps not.
 
 The third was **railways and money**. The colonies were drowning in railway
@@ -79,11 +65,11 @@ option*.
   conference whose result it then declined to join until 1873 — hence
   "Birthplace of Confederation."
 - **Quebec, October 1864.** The engineering: 72 Resolutions drafting the
-  whole federal design — two chambers, division of powers, the works.
+  whole federal design — two chambers, **division of powers**[°](#w-division-of-powers), the works.
 - **London, 1866–67.** Final text; the BNA Act passed Westminster (the
   Lords debated it, one member noted, with less interest than a dog
-  tax); royal assent March 29, 1867; in force **July 1, 1867** —
-  celebrated as Dominion Day, renamed **Canada Day** in 1982.
+  tax); **royal assent**[°](#w-royal-assent) March 29, 1867; in force **July 1, 1867** —
+  celebrated as **Dominion**[°](#w-dominion) Day, renamed **Canada Day** in 1982.
 
 ### The people: know these four
 
@@ -120,7 +106,7 @@ Of the ~36 **Fathers of Confederation**, carry four:
   the fault lines of every federal–provincial war since (Lesson 29).
 - **Westminster machinery** (Lesson 12's prize, now constitutional): an
   elected **House of Commons** by representation-by-population (Brown's
-  cause), an appointed **Senate** with fixed regional blocs (the small
+  cause), an appointed **Senate**[°](#w-senate) with fixed regional blocs (the small
   provinces' price for rep-by-pop — sober second thought, Lesson 26).
 - **Minority guarantees**: s.133 — French *and* English in the federal
   Parliament and courts and in Quebec's; s.93 — protection of
@@ -206,7 +192,7 @@ documents, the prepositions are where the power is.
 > needlessly provocative to Washington. "Dominion" — biblical, grand,
 > vague — was the compromise: a new word for a new thing, a state
 > neither independent nor quite a colony. Inventing a diplomatic
-> euphemism to avoid irritating the Americans is, you may by now
+> **euphemism**[°](#w-euphemism) to avoid irritating the Americans is, you may by now
 > recognize, foundational Canadian statecraft.
 
 ---
@@ -289,6 +275,26 @@ defining structure — is thus not an American import but the direct
 constitutional imprint of the French–English bargain, which is why every
 later Quebec crisis (Lessons 22–23) is fought on federalism's terrain.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-confederation"></a>**Confederation** — in Canada, always means the 1867 union that created the country (capital C).
+- <a id="w-dominion"></a>**Dominion** (duh-MIN-yun) — the invented name for Canada's new status: self-governing but still inside the British Empire.
+- <a id="w-statute"></a>**statute** (STATCH-oot) — a written law passed by a parliament; <a id="w-royal-assent"></a>**royal assent** — the Crown's formal signature that makes a bill law; <a id="w-ratify"></a>**ratify** — to formally approve an agreement.
+- <a id="w-federation-federalism"></a>**federation / federalism** — a system with two levels of government (national + provincial), each supreme in its own areas; <a id="w-unitary-state"></a>**unitary state** — the opposite: one central government only.
+- <a id="w-division-of-powers"></a>**division of powers** — the constitutional lists (s.91 federal, s.92 provincial) saying which level controls what.
+- <a id="w-representation-by-population-rep-by-pop"></a>**representation by population ("rep-by-pop")** — seats in parliament proportional to population.
+- <a id="w-senate"></a>**Senate** — the appointed upper chamber; "**sober second thought**" = its job of calmly reviewing the elected House's work.
+- <a id="w-denominational-schools"></a>**denominational schools** (dih-nom-ih-NAY-shun-ul) — schools run by a religious group (Catholic or Protestant).
+- <a id="w-tariff"></a>**tariff** (TAIR-if) — a tax on imported goods; <a id="w-reciprocity"></a>**Reciprocity** (ress-ih-PROSS-ih-tee) — the free-trade treaty with the US that was cancelled.
+- <a id="w-fenians"></a>**Fenians** (FEE-nee-unz) — Irish-American raiders who attacked Canada in 1866 hoping to hurt Britain.
+- <a id="w-secessionist"></a>**secessionist** (sih-SESH-un-ist) — someone who wants their region to leave the union.
+- <a id="w-euphemism"></a>**euphemism** (YOO-fem-izm) — a soft word chosen to avoid saying something bluntly.
+- Names: **Macdonald**, **Cartier** (kar-tee-AY), **Charlottetown** (SHAR-lut-town), **Tupper** (TUP-er), **Tilley** (TIL-ee); <a id="w-bleus-rouges"></a>**bleus/rouges** (BLUH / ROOZH) — Quebec's conservative and liberal parties of the era.
 
 ---
 

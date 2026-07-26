@@ -10,26 +10,14 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 48: Growing Up Canadian
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **shibboleth** (SHIB-oh-leth) — a small word or habit that instantly reveals whether you belong to a group ("grade 9" vs "9th grade").
-> - **sugar shack** (in Quebec: *cabane à sucre*, kah-BAN ah SOOK-rr) — the maple-syrup farm you visit in early spring to eat syrup poured on snow.
-> - **recorder** — the cheap plastic flute every Canadian child is forced to learn in music class.
-> - **house league** — the friendly, everyone-plays level of kids' sports (opposite of competitive "rep" teams).
-> - **pledge sheet** — the form where neighbours promise money per kilometre for a charity run.
-> - **PA (system)** — the loudspeaker system in schools ("announcements over the PA").
-> - **prom** — the formal graduation dance; **sleepover camp** — summer camp where kids stay for weeks.
-> - **cottage / cabin / camp** — the summer lake house; the word depends on region (Lesson 54 maps it).
-> - **potluck** — a shared meal where every guest brings a dish.
-> - **4-H** — a rural youth club (farming/skills); **powwow** (POW-wow) — an Indigenous celebration with dancing, drumming, and regalia; **Katimavik** (kah-TIM-ah-vik) — a national youth-volunteering program.
-> - Names: **Terry Fox** — the runner with an amputated leg who ran across Canada for cancer research in 1980 (Lesson 53 tells the full story).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 When two Canadian adults meet, they can run a whole conversation on a
 shared childhood neither has mentioned before: the pizza day, the
-snow-day radio vigil, the Terry Fox Run, the recorder unit in music
-class, the field trip to the sugar shack or the science centre. None
+snow-day radio vigil, the **Terry Fox**[°](#w-terry-fox) Run, the **recorder**[°](#w-recorder) unit in music
+class, the field trip to the **sugar shack**[°](#w-sugar-shack) or the science centre. None
 of it is in Discover Canada. All of it is what "being Canadian" is
 actually made of for the people you'll work and live with — and this
 lesson is your borrowed childhood, so the references land.
@@ -69,7 +57,7 @@ that everyone does and nobody thinks of as rituals.
 - **Structure:** public school is free, local, and where ~92% of kids
   go; kindergarten around age 5, then Grades 1–12 (Quebec ends at
   Grade 11 and inserts CEGEP — L.22's education reforms live on).
-  You say "**grade 9**," never "9th grade" — instant shibboleth.
+  You say "**grade 9**," never "9th grade" — instant **shibboleth**[°](#w-shibboleth).
   Education is provincial (L.29), so details differ by province;
   there's no national curriculum and no national exam.
 - **Texture:** no uniforms at most public schools; teachers addressed
@@ -87,7 +75,7 @@ that everyone does and nobody thinks of as rituals.
   retroactively grateful).
 - **High school:** part-time jobs from ~15–16 (grocery store,
   Timmies — L.45 — lifeguarding) are normal and respected;
-  driver's licence at 16 as the freedom event; "prom" exists but
+  driver's licence at 16 as the freedom event; "**prom**[°](#w-prom)" exists but
   smaller-stakes than the US movie version; graduation is
   celebrated but university admissions have no SAT — marks and
   province-specific applications instead.
@@ -100,7 +88,7 @@ summers are short, luminous, and treated as sacred. The institutions:
 map the vocabulary), the provincial-park camping trip, the lake you
 swam in until your lips went blue, mosquitoes as the national bird
 (joke — L.54 will teach you to make it), and day camps or the
-mythic **sleepover camp** with canoes and campfire songs — the canoe
+mythic **sleepover camp**[°](#w-sleepover-camp) with canoes and campfire songs — the canoe
 being the fur trade's canoe (L.09), demoted to childhood in three
 centuries. Not every family has a cottage (they're expensive and
 regional); *every* family has access to the public version —
@@ -114,7 +102,7 @@ but soft.
   abroad more than on porches at home.
 - **Multicultural as default, not event:** in the big cities (L.04,
   L.43) a school photo *is* the census; kids grow up assuming the
-  potluck has samosas, pierogi, and jollof, and that "where's your
+  **potluck**[°](#w-potluck) has samosas, pierogi, and jollof, and that "where's your
   family from?" is a normal, friendly question with a long answer.
 - **Safety-net childhood:** the paediatrician visits, the
   vaccinations, the broken arm at the rink — no bill arrives
@@ -223,6 +211,24 @@ explains the Tim Hortons cup in every rink lobby photo (L.45).
 Both phrases are complete sociologies in two words — which is
 what this phase exists to make audible.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-shibboleth"></a>**shibboleth** (SHIB-oh-leth) — a small word or habit that instantly reveals whether you belong to a group ("grade 9" vs "9th grade").
+- <a id="w-sugar-shack"></a>**sugar shack** (in Quebec: *cabane à sucre*, kah-BAN ah SOOK-rr) — the maple-syrup farm you visit in early spring to eat syrup poured on snow.
+- <a id="w-recorder"></a>**recorder** — the cheap plastic flute every Canadian child is forced to learn in music class.
+- <a id="w-house-league"></a>**house league** — the friendly, everyone-plays level of kids' sports (opposite of competitive "rep" teams).
+- <a id="w-pledge-sheet"></a>**pledge sheet** — the form where neighbours promise money per kilometre for a charity run.
+- <a id="w-pa-system"></a>**PA (system)** — the loudspeaker system in schools ("announcements over the PA").
+- <a id="w-prom"></a>**prom** — the formal graduation dance; <a id="w-sleepover-camp"></a>**sleepover camp** — summer camp where kids stay for weeks.
+- <a id="w-cottage-cabin-camp"></a>**cottage / cabin / camp** — the summer lake house; the word depends on region (Lesson 54 maps it).
+- <a id="w-potluck"></a>**potluck** — a shared meal where every guest brings a dish.
+- <a id="w-4-h"></a>**4-H** — a rural youth club (farming/skills); <a id="w-powwow"></a>**powwow** (POW-wow) — an Indigenous celebration with dancing, drumming, and regalia; <a id="w-katimavik"></a>**Katimavik** (kah-TIM-ah-vik) — a national youth-volunteering program.
+- Names: <a id="w-terry-fox"></a>**Terry Fox** — the runner with an amputated leg who ran across Canada for cancer research in 1980 (Lesson 53 tells the full story).
 
 ---
 

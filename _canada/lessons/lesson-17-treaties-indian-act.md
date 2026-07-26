@@ -10,22 +10,7 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 17: Treaties, the Indian Act, and Residential Schools
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **treaty** (TREE-tee) — a formal agreement between nations; **cede / surrender** — to give up land or rights in such an agreement.
-> - **annuity** (ah-NYOO-ih-tee) — a small fixed payment made every year, forever.
-> - **reserve** — land set aside for a First Nation, legally held by the Crown "for" the band, not owned by it.
-> - **band** — a First Nations community as defined by the Indian Act; **status** — the state's legal definition of who counts as an "Indian."
-> - **ward** — a person treated as legally unable to manage their own affairs, placed under a guardian (Lesson 11's word, now made law).
-> - **Indian agent** — the government official who controlled daily life on each reserve; the **pass system** — his written permission required to leave the reserve.
-> - **enfranchisement** (en-FRAN-chize-ment) — here: gaining full citizenship (the vote) *at the price of* losing Indian status — the Act's designed "exit."
-> - **inalienable** (in-AY-lee-en-ah-bul) — legally impossible to sell, mortgage, or transfer.
-> - **boilerplate** — standard legal wording copied into every contract without discussion.
-> - **medicine chest clause** — Treaty 6's promise of medicines at the agent's house, read by courts as a health-care obligation.
-> - **residential school** — a church-run boarding school Indigenous children were forced into, designed to erase their language and culture.
-> - **TRC** — the Truth and Reconciliation Commission (2008–2015); **cultural genocide** (JEN-oh-side) — destroying a people *as a people* (language, culture, families) without mass killing.
-> - **repatriation** (ree-pay-tree-AY-shun) — returning taken things (regalia, remains) to their home community.
-> - Names: **potlatch** (POT-latch) and **sun dance** — major ceremonies, banned 1885–1951 (Lesson 06); **Kamloops** (KAM-loops).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -37,21 +22,21 @@ was taken:
 The first instrument was the **Numbered Treaties (1871–1921)** — eleven
 agreements covering the Prairies, northern Ontario, and portions of BC and the
 Northwest Territories. The Crown's written text had the land "ceded, released,
-surrendered" in exchange for reserves, small annual payments, schools, and
+surrendered" in exchange for **reserves**[°](#w-reserve), small annual payments, schools, and
 hunting rights. The nations' understanding, carried in oral record, was
 something else entirely: sharing, kinship, and mutual aid — "as long as the
 sun shines" — and emphatically not the extinguishment of anything. That gap is
-the subject of most Canadian treaty litigation today.
+the subject of most Canadian **treaty**[°](#w-treaty) litigation today.
 
 The second was the **Indian Act (1876)**, which is still in force. It gave the
 state the power to define who legally counts as an "Indian." It placed reserve
-land in the Crown's hands and band councils under a minister's oversight,
-administered locally by Indian agents and, in practice until 1951, by a pass
+land in the Crown's hands and **band**[°](#w-band) councils under a minister's oversight,
+administered locally by **Indian agents**[°](#w-indian-agent) and, in practice until 1951, by a pass
 system restricting movement off reserve. It banned the potlatch and the sun
 dance from 1885 to 1951, and from 1927 to 1951 it banned hiring lawyers to
-pursue land claims. And it offered "enfranchisement" — an exit in which full
+pursue land claims. And it offered "**enfranchisement**[°](#w-enfranchisement)" — an exit in which full
 citizenship was priced at identity: take a university degree, a military
-uniform, or the vote, and lose your status. Not until **1960** could a status
+uniform, or the vote, and lose your **status**[°](#w-status). Not until **1960** could a status
 Indian vote federally without giving up being one.
 
 The third was the **residential school system (roughly 1883–1996)**: about 139
@@ -86,9 +71,9 @@ enforce their real meaning is the spine of Lesson 44.
 Between 1871 and 1921, Crown commissioners and First Nations concluded
 Treaties 1–11 — the settlement belt first (1–7, 1871–77, as the buffalo
 collapsed), the resource North later (8–11, once gold/oil made it
-urgent). What the Crown's boilerplate says: the nations "cede, release,
+urgent). What the Crown's **boilerplate**[°](#w-boilerplate) says: the nations "cede, release,
 surrender and yield up" the land forever, receiving reserves (often
-~one square mile per family of five), small annuities ($5 per person at
+~one square mile per family of five), small **annuities**[°](#w-annuity) ($5 per person at
 Treaty 6 rates — never indexed; still paid, now symbolic), ammunition
 and twine, schools on request, and continued hunting/fishing on
 unoccupied Crown land.
@@ -98,7 +83,7 @@ commissioners' *own notes*, and the interpreters' accounts: a
 relationship of sharing and mutual aid — land shared "to the depth of a
 plough," peace and kinship "as long as the sun shines, the grass grows
 and the rivers flow," help in famine (Treaty 6's famine clause and
-**medicine chest clause** — the textual seed courts later read toward
+**medicine chest clause**[°](#w-medicine-chest-clause) — the textual seed courts later read toward
 health obligations). The concept of *selling land forever* had no
 equivalent in the legal systems of nations for whom land was not
 property but relation. Two parties signed two different treaties on the
@@ -125,22 +110,22 @@ never replaced — **it is still in force**:
   *gained* it. (Partly fixed 1985, with fixes-of-the-fix continuing
   into the 2010s; the membership tangles it created are live politics.)
 - **Land:** reserves are Crown land "reserved for" bands — not owned;
-  historically inalienable, unmortgageable (a structural block on
+  historically **inalienable**[°](#w-inalienable), unmortgageable (a structural block on
   capital formation that Lesson 44's economic story must overcome), and
   shrinkable (surrenders under pressure took prime parcels for towns
   and railways).
 - **Governance:** traditional systems displaced by band councils under
   the Minister; the **Indian agent** on each reserve controlled
-  movement (the **pass system**, 1885–~1940s: leaving the reserve
+  movement (the **pass system**[°](#w-pass-system), 1885–~1940s: leaving the reserve
   required his written pass — never statutory, enforced anyway),
   rations, and daily life.
 - **Culture banned:** the **potlatch** (Lesson 06's Pacific coast
-  economy of status-through-giving) and the **sun dance** were criminal
+  economy of status-through-giving) and the **sun dance**[°](#w-sun-dance) were criminal
   offences 1885–1951; regalia confiscated (some still in museums —
-  repatriation is current events).
+  **repatriation**[°](#w-repatriation) is current events).
 - **Legal disarmament:** from 1927 to 1951, raising money or hiring a
   lawyer to pursue land claims was itself illegal — the state
-  criminalizing being sued by its wards.
+  criminalizing being sued by its **wards**[°](#w-ward).
 - **Enfranchisement:** the Act's declared exit — full citizenship in
   exchange for ceasing to be legally Indian. University graduation,
   professional licensure, even (until 1920s reforms) military service
@@ -200,7 +185,7 @@ rations-and-passes leverage, by the RCMP collecting children.
 Deliberately distant from home; siblings separated; hair cut; numbers
 assigned; **languages beaten out** — the explicit design being, in the
 era's own words, "to kill the Indian in the child." Chronic
-underfunding met tuberculosis: the TRC documented 3,200+ child deaths
+underfunding met tuberculosis: the **TRC**[°](#w-trc) documented 3,200+ child deaths
 (estimates run well past 6,000), many buried in school cemeteries whose
 locations the 2021 ground-radar surveys (Kamloops and after) returned
 to national attention — Lesson 24 completes this arc through the
@@ -340,6 +325,27 @@ last school closed in 1996; the 2021 ground-penetrating-radar findings
 at former school sites returned the history to the centre of national
 life (Lesson 24).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-treaty"></a>**treaty** (TREE-tee) — a formal agreement between nations; <a id="w-cede-surrender"></a>**cede / surrender** — to give up land or rights in such an agreement.
+- <a id="w-annuity"></a>**annuity** (ah-NYOO-ih-tee) — a small fixed payment made every year, forever.
+- <a id="w-reserve"></a>**reserve** — land set aside for a First Nation, legally held by the Crown "for" the band, not owned by it.
+- <a id="w-band"></a>**band** — a First Nations community as defined by the Indian Act; <a id="w-status"></a>**status** — the state's legal definition of who counts as an "Indian."
+- <a id="w-ward"></a>**ward** — a person treated as legally unable to manage their own affairs, placed under a guardian (Lesson 11's word, now made law).
+- <a id="w-indian-agent"></a>**Indian agent** — the government official who controlled daily life on each reserve; the <a id="w-pass-system"></a>**pass system** — his written permission required to leave the reserve.
+- <a id="w-enfranchisement"></a>**enfranchisement** (en-FRAN-chize-ment) — here: gaining full citizenship (the vote) *at the price of* losing Indian status — the Act's designed "exit."
+- <a id="w-inalienable"></a>**inalienable** (in-AY-lee-en-ah-bul) — legally impossible to sell, mortgage, or transfer.
+- <a id="w-boilerplate"></a>**boilerplate** — standard legal wording copied into every contract without discussion.
+- <a id="w-medicine-chest-clause"></a>**medicine chest clause** — Treaty 6's promise of medicines at the agent's house, read by courts as a health-care obligation.
+- <a id="w-residential-school"></a>**residential school** — a church-run boarding school Indigenous children were forced into, designed to erase their language and culture.
+- <a id="w-trc"></a>**TRC** — the Truth and Reconciliation Commission (2008–2015); <a id="w-cultural-genocide"></a>**cultural genocide** (JEN-oh-side) — destroying a people *as a people* (language, culture, families) without mass killing.
+- <a id="w-repatriation"></a>**repatriation** (ree-pay-tree-AY-shun) — returning taken things (regalia, remains) to their home community.
+- Names: **potlatch** (POT-latch) and <a id="w-sun-dance"></a>**sun dance** — major ceremonies, banned 1885–1951 (Lesson 06); **Kamloops** (KAM-loops).
 
 ---
 

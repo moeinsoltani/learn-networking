@@ -10,20 +10,7 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 24: Reconciliation and the Canada of Today
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **reconciliation** (rek-un-sil-ee-AY-shun) — repairing the relationship between Canada and Indigenous peoples: truth first, then redress and structural change.
-> - **White Paper** — a government document proposing a policy (the famous 1969 one proposed abolishing Indian status).
-> - **Aboriginal title** — Indigenous nations' legal ownership-type right to their traditional lands; **duty to consult** — the Crown's obligation to consult nations before acting on their lands.
-> - **class action** — one lawsuit brought on behalf of thousands of people harmed the same way.
-> - **UNDRIP** (UN-drip) — the UN Declaration on the Rights of Indigenous Peoples.
-> - **MMIWG** — Missing and Murdered Indigenous Women and Girls (the national crisis and the 2019 inquiry into it).
-> - **land acknowledgement** — the practice of naming, at the start of an event, whose traditional territory you are on.
-> - **visible minority** — Statistics Canada's term for people who are non-white and non-Indigenous.
-> - **denialism** — refusing to accept well-documented historical facts.
-> - **ground-penetrating radar** — technology that detects disturbed soil (possible graves) without digging.
-> - **special interlocutor** (in-ter-LOK-yoo-ter) — an official appointed to investigate an issue and recommend action.
-> - Names: **Calder** (KAWL-der), **Nisga'a** (NISS-gah), **Tsilhqot'in** (sil-KOH-teen), **Delgamuukw** (del-gah-MOOK), **Oka** (OH-kah), **Kamloops** (KAM-loops), **Mary Simon** — first Indigenous Governor General, an Inuk (EE-nook) from northern Quebec.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -38,17 +25,17 @@ organizing or by the courts, rather than offered from within.
 
 | Year | What happened |
 |---|---|
-| **1969** | The **White Paper** proposes abolishing Indian status altogether. Indigenous opposition — the "Red Paper" — kills it, and in doing so *creates* the modern national political movement |
-| **1973–** | The **Calder** case establishes that Aboriginal title exists in Canadian law, opening the era of modern treaties (James Bay 1975; Nisga'a 2000) |
+| **1969** | The **White Paper**[°](#w-white-paper) proposes abolishing Indian status altogether. Indigenous opposition — the "Red Paper" — kills it, and in doing so *creates* the modern national political movement |
+| **1973–** | The **Calder** case establishes that **Aboriginal title**[°](#w-aboriginal-title) exists in Canadian law, opening the era of modern treaties (James Bay 1975; Nisga'a 2000) |
 | **1990** | Elijah Harper blocks Meech Lake (Lesson 23); the **Oka Crisis** — a 78-day armed standoff over a golf-course expansion onto Mohawk burial ground |
 | **1996** | The **last residential school closes** (Gordon's, Saskatchewan); the Royal Commission on Aboriginal Peoples reports |
 | **1999** | **Nunavut** is created — an Inuit-majority territory |
-| **2006** | The **Residential Schools Settlement**, the largest class action in Canadian history |
-| **2008** | Prime Minister Harper's **apology** in the House of Commons; the Truth and Reconciliation Commission is created |
+| **2006** | The **Residential Schools Settlement**, the largest **class action**[°](#w-class-action) in Canadian history |
+| **2008** | Prime Minister Harper's **apology** in the House of Commons; the Truth and **Reconciliation**[°](#w-reconciliation) Commission is created |
 | **2015** | The **TRC final report**: the finding of "cultural genocide," and **94 Calls to Action** |
-| **2016** | Canada adopts **UNDRIP**, the UN Declaration on the Rights of Indigenous Peoples (given legal force in 2021) |
+| **2016** | Canada adopts **UNDRIP**[°](#w-undrip), the UN Declaration on the Rights of Indigenous Peoples (given legal force in 2021) |
 | **2019** | The **MMIWG inquiry** reports on missing and murdered Indigenous women and girls, with a finding of genocide |
-| **2021** | Ground-penetrating radar indicates 215 unmarked graves at **Kamloops** — a national convulsion. September 30 becomes the **National Day for Truth and Reconciliation** (Orange Shirt Day); **Mary Simon** becomes the first Indigenous Governor General |
+| **2021** | **Ground-penetrating radar**[°](#w-ground-penetrating-radar) indicates 215 unmarked graves at **Kamloops** — a national convulsion. September 30 becomes the **National Day for Truth and Reconciliation** (Orange Shirt Day); **Mary Simon**[°](#w-mary-simon) becomes the first Indigenous Governor General |
 | **2022** | **Pope Francis** travels to Canada and apologizes for the Church's role in the schools |
 
 The second arc is demographic: the Canada doing this reckoning is no
@@ -98,7 +85,7 @@ well under a fifth "complete" a decade on; the structural items
 other school sites) turned the TRC's documented history into a
 national emotional event: flags at half-mast for months, orange
 shirts everywhere, statues down — and a backlash discourse
-("denialism" entered the Canadian vocabulary). September 30 now
+("**denialism**[°](#w-denialism)" entered the Canadian vocabulary). September 30 now
 institutionalizes the memory annually (Lesson 18
 principle: the asymmetric calendar, hardest case).
 
@@ -118,7 +105,7 @@ ruling; child-welfare compensation orders in the tens of
 billions). **Column B — the unfinished:** dozens of long-term
 drinking-water advisories persisted into the 2020s (the target
 date blown repeatedly); Indigenous people are ~5% of the
-population and ~30%+ of the federally incarcerated; the MMIWG
+population and ~30%+ of the federally incarcerated; the **MMIWG**[°](#w-mmiwg)
 crisis (the 2019 inquiry's finding: genocide); child-welfare
 apprehension rates exceeding residential schools' at their peak;
 suicide epidemics in northern communities; the Indian Act — still
@@ -130,7 +117,7 @@ stopped denying, started paying, and not yet finished changing.**
 
 Today's Canada, by the numbers that matter for everything after
 this lesson: ~41 million (2024); ~23% foreign-born (rising);
-visible minorities ~27% and majority in Toronto and Vancouver;
+**visible minorities**[°](#w-visible-minority) ~27% and majority in Toronto and Vancouver;
 top source countries India, China, Philippines (the 1967 points
 system + Lesson 43's streams doing exactly what they were designed
 to do); French mother tongue ~21% and falling as a national share
@@ -147,7 +134,7 @@ what Canada is" — is intact but no longer unexamined.
 {: .note }
 > **"Should I feel guilty?" — the standard newcomer's question**
 > You'll meet this lesson's history at citizenship class, at
-> September 30 assemblies, in land acknowledgements — and if you
+> September 30 assemblies, in **land acknowledgements**[°](#w-land-acknowledgement) — and if you
 > arrived last decade, none of it was done in your name. The
 > serviceable distinction: **guilt attaches to acts; responsibility
 > attaches to membership.** Joining Canada means joining a going
@@ -243,6 +230,25 @@ shrinking national weight sharpens Quebec's language politics
 reckoning with its original founding creates the civic question
 of Lesson 43 — how newcomers inherit both the pride and the file.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-reconciliation"></a>**reconciliation** (rek-un-sil-ee-AY-shun) — repairing the relationship between Canada and Indigenous peoples: truth first, then redress and structural change.
+- <a id="w-white-paper"></a>**White Paper** — a government document proposing a policy (the famous 1969 one proposed abolishing Indian status).
+- <a id="w-aboriginal-title"></a>**Aboriginal title** — Indigenous nations' legal ownership-type right to their traditional lands; <a id="w-duty-to-consult"></a>**duty to consult** — the Crown's obligation to consult nations before acting on their lands.
+- <a id="w-class-action"></a>**class action** — one lawsuit brought on behalf of thousands of people harmed the same way.
+- <a id="w-undrip"></a>**UNDRIP** (UN-drip) — the UN Declaration on the Rights of Indigenous Peoples.
+- <a id="w-mmiwg"></a>**MMIWG** — Missing and Murdered Indigenous Women and Girls (the national crisis and the 2019 inquiry into it).
+- <a id="w-land-acknowledgement"></a>**land acknowledgement** — the practice of naming, at the start of an event, whose traditional territory you are on.
+- <a id="w-visible-minority"></a>**visible minority** — Statistics Canada's term for people who are non-white and non-Indigenous.
+- <a id="w-denialism"></a>**denialism** — refusing to accept well-documented historical facts.
+- <a id="w-ground-penetrating-radar"></a>**ground-penetrating radar** — technology that detects disturbed soil (possible graves) without digging.
+- <a id="w-special-interlocutor"></a>**special interlocutor** (in-ter-LOK-yoo-ter) — an official appointed to investigate an issue and recommend action.
+- Names: **Calder** (KAWL-der), **Nisga'a** (NISS-gah), **Tsilhqot'in** (sil-KOH-teen), **Delgamuukw** (del-gah-MOOK), **Oka** (OH-kah), **Kamloops** (KAM-loops), <a id="w-mary-simon"></a>**Mary Simon** — first Indigenous Governor General, an Inuk (EE-nook) from northern Quebec.
 
 ---
 

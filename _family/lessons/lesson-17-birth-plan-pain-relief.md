@@ -12,16 +12,9 @@ parent: "Phase 4: Getting Ready for Birth"
 
 {: .important }
 > General education, not medical advice. Your provider will guide what's available
-> and safe for your birth; a birth plan is a preference list, not a guarantee.
+> and safe for your birth; a **birth plan**[°](#w-birth-plan) is a preference list, not a guarantee.
 
-{: .note }
-> **Words to know**
-> - **birth plan** — a written list of your *preferences* for labour and birth, held flexibly.
-> - **epidural** (ep-ih-DUR-al) — an injection near the spine that numbs pain from the waist down; the most effective labour pain relief.
-> - **nitrous oxide / "gas and air"** — a breathable gas that takes the edge off contractions.
-> - **induction** — starting labour artificially with medication or other methods.
-> - **assisted delivery** — using forceps or a vacuum to help the baby out.
-> - **skin-to-skin** — placing the naked baby on the parent's bare chest right after birth.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -42,9 +35,9 @@ choice, and — importantly — **no medals for going without.**
 - **Pain relief preferences:** what you'd like to try, and what you'd want if you
   change your mind.
 - **Positions & mobility:** freedom to move, water (bath/shower), upright positions.
-- **Interventions:** your preferences about induction, monitoring, assisted
+- **Interventions:** your preferences about **induction**[°](#w-induction), monitoring, assisted
   delivery — discussed with your provider.
-- **Right after birth:** **skin-to-skin**, **delayed cord clamping**, who cuts the
+- **Right after birth:** **skin-to-skin**[°](#w-skin-to-skin), **delayed cord clamping**, who cuts the
   cord, first feeding (breast/bottle), and newborn procedures.
 
 Share it with your provider and partner, and write it in the spirit of "here's what
@@ -55,7 +48,7 @@ matters to us — we understand things may change."
 It is worth understanding the whole menu before labour, because that is when you
 can actually weigh it up. In labour itself, the person best placed to decide is
 in pain and the partner is usually anxious — a poor moment to learn what an
-epidural involves for the first time.
+**epidural**[°](#w-epidural) involves for the first time.
 
 The options run roughly from least to most medical, and they are not a ladder you
 are obliged to climb in order or a test of endurance. Many people use several
@@ -78,7 +71,7 @@ Whatever gets you and your baby through safely is a good choice.
 ### Interventions, briefly
 
 Sometimes labour needs help: an **induction** to get it going, extra **monitoring**,
-or an **assisted delivery** (forceps/vacuum) or C-section (Lesson 22) if needed.
+or an **assisted delivery**[°](#w-assisted-delivery) (forceps/vacuum) or C-section (Lesson 22) if needed.
 Understanding these in advance means they feel less alarming if they come up. Your
 provider should explain the *why* and get your consent.
 
@@ -159,6 +152,19 @@ mother and baby healthy. A "successful birth" is a <strong>healthy</strong> one,
 however it happens — adapting the plan is exactly what a good, flexible plan is for,
 not a personal shortcoming.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-birth-plan"></a>**birth plan** — a written list of your *preferences* for labour and birth, held flexibly.
+- <a id="w-epidural"></a>**epidural** (ep-ih-DUR-al) — an injection near the spine that numbs pain from the waist down; the most effective labour pain relief.
+- <a id="w-nitrous-oxide-gas-and-air"></a>**nitrous oxide / "gas and air"** — a breathable gas that takes the edge off contractions.
+- <a id="w-induction"></a>**induction** — starting labour artificially with medication or other methods.
+- <a id="w-assisted-delivery"></a>**assisted delivery** — using forceps or a vacuum to help the baby out.
+- <a id="w-skin-to-skin"></a>**skin-to-skin** — placing the naked baby on the parent's bare chest right after birth.
 
 ---
 

@@ -15,14 +15,7 @@ parent: "Phase 8: The First Year"
 > the whole first year. Sleep approaches are personal — do what fits your family and
 > ask your provider with concerns.
 
-{: .note }
-> **Words to know**
-> - **circadian rhythm** (sir-KAY-dee-an) — the internal day/night body clock, which develops over the first months.
-> - **sleep cycle** — the repeating stages of sleep; babies wake between cycles (normal).
-> - **drowsy but awake** — putting a baby down sleepy but not fully asleep, to help them learn to settle.
-> - **sleep regression** — a temporary stretch of worse sleep (often around developmental leaps or teething).
-> - **sleep training** — various methods to help a baby fall asleep/resettle independently (a personal choice).
-> - **self-settling** — a baby's ability to fall back asleep on their own.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -39,7 +32,7 @@ of the work.
 
 - **Newborn (0–3 months):** sleeps a lot, in short bursts, no rhythm; wakes to feed
   around the clock.
-- **~2–4 months:** a **circadian rhythm** develops — night stretches lengthen, and
+- **~2–4 months:** a **circadian rhythm**[°](#w-circadian-rhythm) develops — night stretches lengthen, and
   a rough day/night pattern emerges.
 - **Later in the first year:** naps consolidate (often down to ~2 a day), and many
   (not all) babies sleep longer stretches at night — with plenty of normal
@@ -48,7 +41,7 @@ of the work.
 ### Realistic expectations
 
 **Night wakings are normal and common well into the first year** — babies wake
-between sleep cycles and often need help resettling, and many still wake to feed.
+between **sleep cycles**[°](#w-sleep-cycle) and often need help resettling, and many still wake to feed.
 "Sleeping through the night" (a marketing-ish phrase) happens on very different
 timelines and isn't a measure of good parenting. Comparison here causes needless
 misery.
@@ -73,7 +66,7 @@ more structured ones. Do what fits your baby and your values; it's not required.
 
 ### Disruptions are normal
 
-**Sleep regressions** (temporary worse patches, often around developmental leaps),
+**Sleep regressions**[°](#w-sleep-regression) (temporary worse patches, often around developmental leaps),
 **teething**, illness, and travel all disrupt sleep — usually temporarily. And mind
 the **parents' sleep** too: shifts, naps, and shared nights (Lesson 35) keep you
 functioning.
@@ -159,6 +152,19 @@ methods (from gentle/gradual to brief cry-based) from around <strong>4–6 month
 to help a baby fall asleep independently, but responsive, gentle approaches are
 equally valid. There's no single right answer — do what fits your baby and values.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-circadian-rhythm"></a>**circadian rhythm** (sir-KAY-dee-an) — the internal day/night body clock, which develops over the first months.
+- <a id="w-sleep-cycle"></a>**sleep cycle** — the repeating stages of sleep; babies wake between cycles (normal).
+- <a id="w-drowsy-but-awake"></a>**drowsy but awake** — putting a baby down sleepy but not fully asleep, to help them learn to settle.
+- <a id="w-sleep-regression"></a>**sleep regression** — a temporary stretch of worse sleep (often around developmental leaps or teething).
+- <a id="w-sleep-training"></a>**sleep training** — various methods to help a baby fall asleep/resettle independently (a personal choice).
+- <a id="w-self-settling"></a>**self-settling** — a baby's ability to fall back asleep on their own.
 
 ---
 

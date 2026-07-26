@@ -13,20 +13,14 @@ parent: "Phase 3: Mid & Late Pregnancy"
 {: .important }
 > General education, not medical advice — follow your own provider. When in doubt, call.
 
-{: .note }
-> **Words to know**
-> - **quickening** — the first time the mother feels the baby move (often ~16–22 weeks).
-> - **anatomy scan** — the detailed mid-pregnancy ultrasound (~18–22 weeks) that checks the baby's organs and growth.
-> - **placenta** (plah-SEN-tah) — the organ that feeds the baby and removes waste, via the umbilical cord.
-> - **round ligament pain** — a sharp or achy pain in the lower belly/groin as ligaments stretch; common and harmless.
-> - **linea nigra** (LIN-ee-ah NY-grah) — a dark line that can appear down the belly; normal and fades after birth.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Weeks 14–27 are often the **best** stretch of pregnancy: the first-trimester
 nausea and exhaustion usually fade, energy returns, the bump becomes real, and —
 the magic moment — you start to **feel the baby move**. It's also when the big
-**anatomy scan** happens. Many couples describe this as the trimester where
+**anatomy scan**[°](#w-anatomy-scan) happens. Many couples describe this as the trimester where
 pregnancy becomes joyful and tangible.
 
 ## Going Deeper
@@ -36,14 +30,14 @@ pregnancy becomes joyful and tangible.
 - **Energy returns** and appetite comes back — enjoy it.
 - **Movement (quickening):** first as flutters (~16–22 weeks; earlier if it's not
   your first), later as clear kicks. Feeling regular movement becomes reassuring.
-- **A growing bump** and body changes: **round ligament pain** (sharp pulls in the
+- **A growing bump** and body changes: **round ligament pain**[°](#w-round-ligament-pain) (sharp pulls in the
   lower belly — normal), backache, stuffy nose and tender gums (extra blood flow),
-  skin changes like the **linea nigra** and stretch marks (normal; they fade).
+  skin changes like the **linea nigra**[°](#w-linea-nigra) and stretch marks (normal; they fade).
 
 ### The anatomy scan (~18–22 weeks)
 
 This detailed ultrasound is a milestone. It checks the baby's **organs, brain,
-heart, spine, and limbs**, measures **growth**, checks the **placenta's** position
+heart, spine, and limbs**, measures **growth**, checks the **placenta's**[°](#w-placenta) position
 and the fluid around the baby, and confirms the due date. It can usually reveal the
 **sex** if you want to know (you can ask them not to tell you). It's exciting, but
 its real job is a health check — most scans are reassuring.
@@ -135,6 +129,18 @@ stretching), the <strong>linea nigra</strong> (dark belly line) and stretch mark
 a stuffy nose or tender gums (extra blood flow), backache, and returning appetite/
 energy. All are normal.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-quickening"></a>**quickening** — the first time the mother feels the baby move (often ~16–22 weeks).
+- <a id="w-anatomy-scan"></a>**anatomy scan** — the detailed mid-pregnancy ultrasound (~18–22 weeks) that checks the baby's organs and growth.
+- <a id="w-placenta"></a>**placenta** (plah-SEN-tah) — the organ that feeds the baby and removes waste, via the umbilical cord.
+- <a id="w-round-ligament-pain"></a>**round ligament pain** — a sharp or achy pain in the lower belly/groin as ligaments stretch; common and harmless.
+- <a id="w-linea-nigra"></a>**linea nigra** (LIN-ee-ah NY-grah) — a dark line that can appear down the belly; normal and fades after birth.
 
 ---
 

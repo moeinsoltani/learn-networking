@@ -10,19 +10,7 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 20: The Second World War
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **plebiscite** (PLEB-ih-site) — a direct national yes/no vote on one question (similar to a referendum).
-> - **convoy** — merchant ships sailing together under warship escort; **U-boat** (YOO-boat) — a German submarine.
-> - **garrison** (GAIR-ih-sun) — troops stationed to defend a place; **POW** — prisoner of war.
-> - **War Measures Act** — the 1914 emergency law letting cabinet rule by decree, suspending normal rights (used for both world wars' internments; replaced by the Emergencies Act, 1988).
-> - **confiscate** — for the state to seize property; **redress** (rih-DRESS) — compensation for a past wrong.
-> - **extraterritorial** — legally treated as outside the country it is physically in.
-> - **estuary** (ESS-choo-air-ee) — the wide mouth of a river where it meets the sea (the Scheldt).
-> - **crown corporation** — a company owned by the government (CBC, Canada Post).
-> - **middle power** — a country influential through diplomacy and alliances rather than raw strength — Canada's brand.
-> - **the Holocaust** (HOL-oh-kost) — Nazi Germany's murder of six million Jews.
-> - Names: **Dieppe** (dee-EP), **Juno** (JOO-noh), **Scheldt** (SKELT), **Ortona** (or-TOH-nah), **Caen** (KAHN), **Falaise** (fah-LEZ), **Margriet** (mar-GREET), **Mackenzie King** (muh-KEN-zee), **Mulroney** (mul-ROH-nee), **St. Louis** (saint LOO-iss).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -38,7 +26,7 @@ The war has two halves that have to be held together, because Canadians tend
 to remember one and forget the other.
 
 **Abroad**, the longest campaign was the **Battle of the Atlantic** — the
-navy's war of convoy escort against the U-boats, fought for nearly six years.
+navy's war of **convoy**[°](#w-convoy) escort against the **U-boats**[°](#w-u-boat), fought for nearly six years.
 Then the land battles, in an order worth knowing: **Hong Kong** in 1941, where
 some 2,000 Canadians were sent and all were lost, killed or taken prisoner;
 **Dieppe** in 1942, the disaster that cost 907 dead in a single morning;
@@ -56,7 +44,7 @@ which trained more than 130,000 aircrew and earned Canada the nickname "the
 aerodrome of democracy." It also produced two acts the country later
 apologized for. In 1942, roughly **22,000 Japanese Canadians** were removed
 from the BC coast and their property confiscated and sold — apology and
-redress came in 1988. And in 1939 the **MS St. Louis**, carrying Jewish
+**redress**[°](#w-redress) came in 1988. And in 1939 the **MS St. Louis**, carrying Jewish
 refugees, was turned away under the policy remembered by the phrase "None is
 too many" — apology in 2018. By the war's end the welfare state had begun
 (family allowance, the veterans' charter) and Canada was a founding member of
@@ -81,7 +69,7 @@ its habit of late apology were both minted.
   man-made blast, ~2,000 dead; file for connections). U-boats sank
   ships within sight of the St. Lawrence shore.
 - **Hong Kong (December 1941):** 1,975 Canadians sent to an
-  indefensible garrison weeks before Japan attacked; all were killed or
+  indefensible **garrison**[°](#w-garrison) weeks before Japan attacked; all were killed or
   captured — the POWs enduring years in camps at ~30% death rates. The
   war's first Canadian land battle, and its bitterest "why."
 - **Dieppe (August 19, 1942):** the raid on the French port — ~5,000
@@ -102,12 +90,12 @@ its habit of late apology were both minted.
   First Canadian Army — the largest formation ever commanded by a
   Canadian — fought as one of the campaign's three great armies.
 - **The Scheldt and the Netherlands (1944–45):** Canada's signature
-  campaign — clearing the flooded Scheldt estuary to open Antwerp
+  campaign — clearing the flooded Scheldt **estuary**[°](#w-estuary) to open Antwerp
   (miserable, half-forgotten, decisive), then liberating the
   Netherlands through the Hunger Winter, ending the war as the Dutch
   liberators. The gratitude is institutional: the Dutch royal family
   had sheltered in Ottawa (Princess Margriet was born there — the
-  maternity ward declared extraterritorial so she'd be born "in the
+  maternity ward declared **extraterritorial**[°](#w-extraterritorial) so she'd be born "in the
   Netherlands"), and the Netherlands sends **100,000+ tulip bulbs
   every year** — Ottawa's Canadian Tulip Festival is the war's
   loveliest receipt.
@@ -121,7 +109,7 @@ governed the war with one fixed star: **no repeat of 1917**
 (Lesson 18). His method was calculated ambiguity, peak-form in the
 era's most famous Canadian sentence: *"Not necessarily conscription,
 but conscription if necessary."* The sequence: overseas conscription
-ruled out (1939) → national plebiscite (1942) asking release from that
+ruled out (1939) → national **plebiscite**[°](#w-plebiscite) (1942) asking release from that
 promise — **English Canada 80% yes, Quebec 73% no** (the survey says
 everything) → power taken but shelved → finally invoked November 1944
 after infantry losses; ~13,000 conscripts sent, ~2,500 reached the
@@ -135,7 +123,7 @@ Lesson 22's referendums.
 ### The home front's two great shames
 
 - **Japanese Canadian internment (1942–49):** weeks after Pearl
-  Harbor, under the War Measures Act, ~22,000 Japanese Canadians —
+  Harbor, under the **War Measures Act**[°](#w-war-measures-act), ~22,000 Japanese Canadians —
   **75% of them British subjects/Canadian-born** — were removed from
   a 100-mile BC coastal zone to camps and farms inland. Distinct from
   the U.S. version, worse in two respects: their **property was
@@ -151,7 +139,7 @@ Lesson 22's referendums.
   U.S., asked Canada last; Ottawa refused (an immigration official,
   asked how many Jews Canada should admit, had already supplied the
   era's epitaph: "None is too many"). The ship returned to Europe;
-  254 of its passengers died in the Holocaust. Canada admitted fewer
+  254 of its passengers died in **the Holocaust**[°](#w-the-holocaust). Canada admitted fewer
   Jewish refugees per capita than nearly any Western state, 1933–45.
   Formal apology: 2018 (Trudeau). When Lesson 43 celebrates Canada's
   refugee tradition, this is its "before" photo — the tradition is a
@@ -170,7 +158,7 @@ corporations, and a foreign-policy identity: founding member of the
 UN (1945), of NATO (1949 — a Canadian push, the "Canadian article"
 Article 2 on economic cooperation), with Lesson 21's peacekeeping
 invention already loading. Population 11 million; seat at every
-table. The war is when "middle power" — Canada's entire diplomatic
+table. The war is when "**middle power**[°](#w-middle-power)" — Canada's entire diplomatic
 brand — was coined and earned.
 
 {: .note }
@@ -268,6 +256,24 @@ practice of documented, delayed apology (Head Tax 2006, Komagata
 Maru 2016, residential schools 2008) becoming almost an institution
 itself, which Lesson 24 examines.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-plebiscite"></a>**plebiscite** (PLEB-ih-site) — a direct national yes/no vote on one question (similar to a referendum).
+- <a id="w-convoy"></a>**convoy** — merchant ships sailing together under warship escort; <a id="w-u-boat"></a>**U-boat** (YOO-boat) — a German submarine.
+- <a id="w-garrison"></a>**garrison** (GAIR-ih-sun) — troops stationed to defend a place; <a id="w-pow"></a>**POW** — prisoner of war.
+- <a id="w-war-measures-act"></a>**War Measures Act** — the 1914 emergency law letting cabinet rule by decree, suspending normal rights (used for both world wars' internments; replaced by the Emergencies Act, 1988).
+- <a id="w-confiscate"></a>**confiscate** — for the state to seize property; <a id="w-redress"></a>**redress** (rih-DRESS) — compensation for a past wrong.
+- <a id="w-extraterritorial"></a>**extraterritorial** — legally treated as outside the country it is physically in.
+- <a id="w-estuary"></a>**estuary** (ESS-choo-air-ee) — the wide mouth of a river where it meets the sea (the Scheldt).
+- <a id="w-crown-corporation"></a>**crown corporation** — a company owned by the government (CBC, Canada Post).
+- <a id="w-middle-power"></a>**middle power** — a country influential through diplomacy and alliances rather than raw strength — Canada's brand.
+- <a id="w-the-holocaust"></a>**the Holocaust** (HOL-oh-kost) — Nazi Germany's murder of six million Jews.
+- Names: **Dieppe** (dee-EP), **Juno** (JOO-noh), **Scheldt** (SKELT), **Ortona** (or-TOH-nah), **Caen** (KAHN), **Falaise** (fah-LEZ), **Margriet** (mar-GREET), **Mackenzie King** (muh-KEN-zee), **Mulroney** (mul-ROH-nee), **St. Louis** (saint LOO-iss).
 
 ---
 

@@ -13,20 +13,13 @@ parent: "Phase 2: The First Trimester"
 {: .important }
 > General education, not medical advice — follow your own provider. When in doubt, call.
 
-{: .note }
-> **Words to know**
-> - **trimester** — one of the three ~13-week thirds of pregnancy; the first is weeks 1–13.
-> - **embryo → fetus** — the developing baby is called an *embryo* until ~8 weeks, then a *fetus*.
-> - **morning sickness** — nausea (with or without vomiting) that can strike at *any* time of day.
-> - **hyperemesis gravidarum** (hy-per-EM-eh-sis) — severe, persistent pregnancy vomiting that needs medical treatment.
-> - **food aversion** — a sudden strong dislike of foods or smells you used to like.
-> - **hormones** — chemical messengers (like hCG, progesterone) that cause many early symptoms.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-The first trimester is a paradox: **the least to show, the most going on.** From
+The first **trimester**[°](#w-trimester) is a paradox: **the least to show, the most going on.** From
 the outside, nothing; on the inside, the baby's brain, heart, spine, and organs
-are all forming, and the mother's hormones surge — which is why this is often the
+are all forming, and the mother's **hormones**[°](#w-hormones) surge — which is why this is often the
 **most physically rough** trimester (nausea, bone-deep fatigue) even though there's
 no bump yet. It usually eases as the second trimester begins.
 
@@ -49,7 +42,7 @@ hormonal shift underway, and almost all of it eases in the second trimester. It
 helps to know that the symptoms below are *expected* rather than warning signs —
 and that most of them have something practical that genuinely helps.
 
-Two notes before the list. Nausea is the famous one, and "morning sickness" is a
+Two notes before the list. Nausea is the famous one, and "**morning sickness**[°](#w-morning-sickness)" is a
 misleading name: it can arrive at any hour. And fatigue in these weeks is not
 ordinary tiredness — it is a heaviness that surprises people who have never
 experienced it, and it is not a sign of weakness or poor fitness.
@@ -68,7 +61,7 @@ experienced it, and it is not a sign of weakness or poor fitness.
 Most first-trimester misery is normal, but contact your provider for:
 
 - **Vomiting so severe** you can't keep fluids or food down, or you're losing
-  weight — this may be **hyperemesis gravidarum**, which is treatable (don't just
+  weight — this may be **hyperemesis gravidarum**[°](#w-hyperemesis-gravidarum), which is treatable (don't just
   tough it out).
 - **Vaginal bleeding or severe/one-sided abdominal pain** (see Lesson 10 on early
   loss and ectopic pregnancy — some of these are urgent).
@@ -159,6 +152,19 @@ keep fluids or food down</strong> or you're losing weight — this may be
 <strong>hyperemesis gravidarum</strong>, which is treatable and shouldn't just be
 endured. (Also call for bleeding, severe/one-sided pain, or fever.)
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-trimester"></a>**trimester** — one of the three ~13-week thirds of pregnancy; the first is weeks 1–13.
+- <a id="w-embryo-fetus"></a>**embryo → fetus** — the developing baby is called an *embryo* until ~8 weeks, then a *fetus*.
+- <a id="w-morning-sickness"></a>**morning sickness** — nausea (with or without vomiting) that can strike at *any* time of day.
+- <a id="w-hyperemesis-gravidarum"></a>**hyperemesis gravidarum** (hy-per-EM-eh-sis) — severe, persistent pregnancy vomiting that needs medical treatment.
+- <a id="w-food-aversion"></a>**food aversion** — a sudden strong dislike of foods or smells you used to like.
+- <a id="w-hormones"></a>**hormones** — chemical messengers (like hCG, progesterone) that cause many early symptoms.
 
 ---
 

@@ -11,18 +11,11 @@ parent: "Phase 8: The First Year"
 # Lesson 37: Development & Milestones
 
 {: .important }
-> General education, not medical advice. Milestones are **guides with wide normal
+> General education, not medical advice. **Milestones**[°](#w-milestone) are **guides with wide normal
 > ranges**, not deadlines — but if you're worried or notice the red flags below,
 > ask your provider. Early support helps.
 
-{: .note }
-> **Words to know**
-> - **milestone** — a typical skill babies gain by a rough age (smiling, sitting, first words).
-> - **gross motor** — big movements (rolling, sitting, crawling, walking).
-> - **fine motor** — small hand skills (grasping, the pincer grasp).
-> - **pincer grasp** — picking up small things with thumb and forefinger (~9–12 months).
-> - **receptive vs. expressive language** — understanding words vs. saying them.
-> - **regression** — losing a skill the baby previously had (worth mentioning to a provider).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -54,7 +47,7 @@ due date rather than the birth date — for the whole first couple of years.
 | **4–6 months** | **Roll over**, reach and grab, explore with the mouth |
 | **6–8 months** | **Sit** (with then without support), babble ("bababa") |
 | **7–10 months** | **Crawl** (some skip it), pass objects hand to hand |
-| **9–12 months** | **Pull to stand**, cruise along furniture, **pincer grasp**, wave |
+| **9–12 months** | **Pull to stand**, cruise along furniture, **pincer grasp**[°](#w-pincer-grasp), wave |
 | **~12 months** | Maybe first **words** and first steps (many walk a bit later — normal) |
 
 These are **approximate**. Reaching things earlier or later within a broad window is
@@ -80,7 +73,7 @@ matter.
 Milestone *variation* is normal, but mention to your provider if the baby:
 
 - **Isn't meeting many milestones**, or there's a **big, persistent lag**.
-- **Loses skills** they previously had (**regression**).
+- **Loses skills** they previously had (**regression**[°](#w-regression)).
 - **Doesn't respond to sounds/voices** or make eye contact.
 - **Isn't babbling or gesturing** by around the expected times.
 - Has very **stiff or very floppy** muscle tone, or strongly favours one side.
@@ -171,6 +164,19 @@ persistent lag; not babbling/gesturing by the expected times; or very stiff/very
 floppy tone. Raising these early allows helpful support if needed (often it's just
 reassurance).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-milestone"></a>**milestone** — a typical skill babies gain by a rough age (smiling, sitting, first words).
+- <a id="w-gross-motor"></a>**gross motor** — big movements (rolling, sitting, crawling, walking).
+- <a id="w-fine-motor"></a>**fine motor** — small hand skills (grasping, the pincer grasp).
+- <a id="w-pincer-grasp"></a>**pincer grasp** — picking up small things with thumb and forefinger (~9–12 months).
+- <a id="w-receptive-vs-expressive-language"></a>**receptive vs. expressive language** — understanding words vs. saying them.
+- <a id="w-regression"></a>**regression** — losing a skill the baby previously had (worth mentioning to a provider).
 
 ---
 

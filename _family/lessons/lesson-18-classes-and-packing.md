@@ -14,13 +14,7 @@ parent: "Phase 4: Getting Ready for Birth"
 > General education, not medical advice. Follow your provider's and hospital's
 > specific guidance on what to bring and when.
 
-{: .note }
-> **Words to know**
-> - **prenatal / childbirth class** — a course teaching labour, birth, and newborn basics (sometimes "antenatal class").
-> - **infant CPR** — emergency resuscitation for a baby; often taught in classes.
-> - **hospital bag** — the packed bag you grab when labour starts.
-> - **colostrum** (koh-LOSS-trum) — the first thick milk; a class will mention early feeding.
-> - **maternity pad** — a large absorbent pad for the bleeding after birth.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -63,7 +57,7 @@ for the **partner**, who is often the one who ends up with nothing to eat at
 | ID, health card, paperwork, birth plan | Going-home outfit + a spare | Snacks, water, phone + **charger** |
 | Comfy loose clothes, robe, warm socks, slippers | A couple of sleepers/onesies | Change of clothes, toiletries |
 | Toiletries, lip balm, hair tie | Swaddle/blanket | Cash/change, a pillow |
-| **Maternity pads**, nursing bra | (Hospital usually provides diapers; check) | List of people to call/text |
+| **Maternity pads**[°](#w-maternity-pad), nursing bra | (Hospital usually provides diapers; check) | List of people to call/text |
 | Going-home outfit (still bump-sized), snacks | **Car seat installed in the car** | Camera; patience and encouragement |
 
 Keep the bag by the door. Install and check the **car seat** in advance — many
@@ -150,6 +144,18 @@ The <strong>route to hospital</strong>, <strong>who drives</strong> (plus a
 <strong>pets or older children</strong>, and <strong>saved provider/hospital
 numbers</strong> in both phones.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-prenatal-childbirth-class"></a>**prenatal / childbirth class** — a course teaching labour, birth, and newborn basics (sometimes "antenatal class").
+- <a id="w-infant-cpr"></a>**infant CPR** — emergency resuscitation for a baby; often taught in classes.
+- <a id="w-hospital-bag"></a>**hospital bag** — the packed bag you grab when labour starts.
+- <a id="w-colostrum"></a>**colostrum** (koh-LOSS-trum) — the first thick milk; a class will mention early feeding.
+- <a id="w-maternity-pad"></a>**maternity pad** — a large absorbent pad for the bleeding after birth.
 
 ---
 

@@ -10,18 +10,7 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 18: The First World War
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **armistice** (ARM-iss-tiss) — an agreement to stop fighting; the WWI Armistice took effect November 11, 1918.
-> - **conscription** (kun-SKRIP-shun) — forcing citizens by law to serve in the army (also called "the draft").
-> - **corps** (KOR — the "ps" is silent) — a large army formation of several divisions; a **division** ≈ 15,000–20,000 soldiers.
-> - **barrage** (buh-RAHZH) — massed artillery fire; a **creeping barrage** moves forward just ahead of advancing soldiers.
-> - **suffrage** (SUF-rij) — the right to vote; a **suffragist** campaigned for women's votes; **franchise** — another word for the right to vote; **enfranchise** — to grant it.
-> - **internment** — imprisoning civilians without trial during wartime; an "**enemy alien**" was a resident born in an enemy country.
-> - **khaki election** (KAH-kee — the army uniform colour) — an election fought in wartime on war issues.
-> - **casualties** (KAZH-ul-teez) — all soldiers killed, wounded, or captured (not only deaths).
-> - **autonomous** (aw-TON-oh-muss) — self-governing.
-> - Names: **Ypres** (EE-pruh), **Vimy** (VIM-ee), **the Somme** (SUM), **Passchendaele** (PASH-en-dale), **Beaumont-Hamel** (boh-mon-ah-MEL), **Amiens** (am-YAN), **Mons** (MONZ), **Versailles** (vair-SIGH), **Currie** (KUR-ee), **McCrae** (muh-KRAY), **Guelph** (GWELF), **Borden** (BOR-den), **Bourassa** (boo-RASS-ah), **Pegahmagabow** (peg-ah-MAG-ah-bow).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -31,9 +20,9 @@ much*. Four years later, a country of not quite eight million had put
 **~620,000 in uniform** and buried **~61,000** (with 172,000 wounded) —
 proportionally, as if today's Canada lost over 300,000 dead. The war
 industrialized the economy, enfranchised women, tore open the
-French–English seam (conscription), and ended with Canada signing the
-Treaty of Versailles *as itself* — an autonomous signature bought with
-those casualties.
+French–English seam (**conscription**[°](#w-conscription)), and ended with Canada signing the
+Treaty of Versailles *as itself* — an **autonomous**[°](#w-autonomous) signature bought with
+those **casualties**[°](#w-casualties).
 
 The arc of those four years is worth having in order, because almost every
 Canadian war memorial refers to one of its moments.
@@ -44,7 +33,7 @@ Canadian war memorial refers to one of its moments.
 | **1915** | **Ypres**: the first German gas attack on the Western Front, and the Canadians hold the line. John McCrae, a doctor from Guelph, writes *In Flanders Fields* |
 | **1916** | The **Somme**; and at **Beaumont-Hamel** on July 1, Newfoundland's regiment is destroyed in about thirty minutes. Newfoundland was then a separate dominion — which is why July 1 there is Memorial Day first and Canada Day never quite |
 | **1917** | **Vimy Ridge** (April 9–12): all four Canadian divisions attack together for the first time and take a ridge thought impregnable. Then the **conscription crisis**: volunteers dry up, Borden imposes the draft, and Quebec erupts |
-| **1918** | The **Hundred Days**: the Canadian Corps used as shock troops from Amiens to Mons. Armistice on November 11 — Remembrance Day, and the poppy |
+| **1918** | The **Hundred Days**: the Canadian **Corps**[°](#w-corps) used as shock troops from Amiens to Mons. **Armistice**[°](#w-armistice) on November 11 — Remembrance Day, and the poppy |
 | **1919** | **Versailles**: Canada signs the treaty separately and joins the League of Nations in its own right |
 
 Two stories, then — the one carved on monuments (**Vimy: "the birth of
@@ -62,7 +51,7 @@ formation — the **Canadian Corps**, four divisions, by 1917 commanded
 by a Canadian, **Sir Arthur Currie** (a former Victoria realtor and
 militia officer; by war's end regarded among the finest generals of
 the war). The Corps' method — meticulous rehearsal, platoon-level
-initiative, creeping barrages, counter-battery science — made it, with
+initiative, creeping **barrages**[°](#w-barrage), counter-battery science — made it, with
 the Australians, the Allies' battering ram of 1918.
 
 - **Ypres (April 1915):** first massed chlorine gas attack of the
@@ -88,7 +77,7 @@ rates than the general population, from nations whose members mostly
 could not vote — snipers Francis Pegahmagabow and Henry Norwest among
 the war's deadliest); No. 2 Construction Battalion, the segregated
 Black unit that had to fight to be allowed to serve; and the
-internment of ~8,500 "enemy aliens," mostly Ukrainians (Lesson 16's
+**internment**[°](#w-internment) of ~8,500 "enemy aliens," mostly Ukrainians (Lesson 16's
 settlers) — Canada's first mass internment, dress rehearsal for
 Lesson 20's.
 
@@ -103,7 +92,7 @@ Saskatchewan, Alberta 1916 (the Prairie suffragists — **Nellie
 McClung** et al. — Lesson 19 finishes this story); federally, the 1917
 Wartime Elections Act enfranchised soldiers' female relatives (while
 stripping the vote from "enemy-alien" naturalized citizens — read that
-twice: the franchise engineered for a conscription election), then
+twice: the **franchise**[°](#w-franchise) engineered for a conscription election), then
 most women over 21 in 1918.
 
 ### The conscription crisis: the seam tears
@@ -117,7 +106,7 @@ restricting French-language schooling: "the Prussians are next door,"
 said Henri Bourassa), saw the war as Empire's business. PM **Robert
 Borden**, after visiting the front, forced the **Military Service
 Act** (1917), formed a Union government with pro-conscription
-Liberals, and won the khaki election of December 1917 — carrying
+Liberals, and won the **khaki election**[°](#w-khaki-election) of December 1917 — carrying
 English Canada, losing Quebec 62 seats to 3.
 
 Result: **Easter 1918, anti-conscription riots in Quebec City**; the
@@ -263,6 +252,23 @@ is policy, not just progress. (Full universality was decades away:
 Asian Canadians voted federally only from 1947–48, status Indians
 without conditions only from 1960.)
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-armistice"></a>**armistice** (ARM-iss-tiss) — an agreement to stop fighting; the WWI Armistice took effect November 11, 1918.
+- <a id="w-conscription"></a>**conscription** (kun-SKRIP-shun) — forcing citizens by law to serve in the army (also called "the draft").
+- <a id="w-corps"></a>**corps** (KOR — the "ps" is silent) — a large army formation of several divisions; a **division** ≈ 15,000–20,000 soldiers.
+- <a id="w-barrage"></a>**barrage** (buh-RAHZH) — massed artillery fire; a **creeping barrage** moves forward just ahead of advancing soldiers.
+- <a id="w-suffrage"></a>**suffrage** (SUF-rij) — the right to vote; a **suffragist** campaigned for women's votes; <a id="w-franchise"></a>**franchise** — another word for the right to vote; <a id="w-enfranchise"></a>**enfranchise** — to grant it.
+- <a id="w-internment"></a>**internment** — imprisoning civilians without trial during wartime; an "**enemy alien**" was a resident born in an enemy country.
+- <a id="w-khaki-election"></a>**khaki election** (KAH-kee — the army uniform colour) — an election fought in wartime on war issues.
+- <a id="w-casualties"></a>**casualties** (KAZH-ul-teez) — all soldiers killed, wounded, or captured (not only deaths).
+- <a id="w-autonomous"></a>**autonomous** (aw-TON-oh-muss) — self-governing.
+- Names: **Ypres** (EE-pruh), **Vimy** (VIM-ee), **the Somme** (SUM), **Passchendaele** (PASH-en-dale), **Beaumont-Hamel** (boh-mon-ah-MEL), **Amiens** (am-YAN), **Mons** (MONZ), **Versailles** (vair-SIGH), **Currie** (KUR-ee), **McCrae** (muh-KRAY), **Guelph** (GWELF), **Borden** (BOR-den), **Bourassa** (boo-RASS-ah), **Pegahmagabow** (peg-ah-MAG-ah-bow).
 
 ---
 

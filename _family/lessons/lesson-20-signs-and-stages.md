@@ -14,21 +14,14 @@ parent: "Phase 5: Labour & Delivery"
 > General education, not medical advice. Follow your provider's specific guidance
 > on when to go in — and call sooner if anything on the warning list happens.
 
-{: .note }
-> **Words to know**
-> - **contraction** — the tightening of the womb muscle that opens the cervix and pushes the baby out.
-> - **the "show"** — the mucus plug releasing (sometimes blood-tinged); a sign labour may be near.
-> - **waters breaking** — the amniotic sac releasing fluid (a gush or trickle).
-> - **cervix** (SUR-vix) — the neck of the womb, which thins and opens ("dilates") in labour.
-> - **dilation** — how open the cervix is, measured in cm (up to ~10 cm = fully open).
-> - **latent / active labour** — the early, slower phase vs. the faster, intense phase of the first stage.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Labour has recognisable **signs it's starting** and predictable **stages**. Knowing
 them replaces "is this it?!" panic with a calm sense of where you are and what to
 do. The headline: **early labour is often long and slow** (best spent resting at
-home), and you go to your birth place when contractions become **regular, strong,
+home), and you go to your birth place when **contractions**[°](#w-contraction) become **regular, strong,
 and close together** — or immediately if a warning sign appears.
 
 ## Going Deeper
@@ -37,8 +30,8 @@ and close together** — or immediately if a warning sign appears.
 
 - **Regular contractions** that get **stronger, longer, and closer together** and
   don't stop when you rest (unlike Braxton Hicks, Lesson 12).
-- **The "show"** — the mucus plug comes away, sometimes blood-tinged.
-- **Waters breaking** — a gush or steady trickle of fluid (note the **time and
+- **The "show"**[°](#w-the-show) — the mucus plug comes away, sometimes blood-tinged.
+- **Waters breaking**[°](#w-waters-breaking) — a gush or steady trickle of fluid (note the **time and
   colour**).
 - A persistent **low backache** or period-like cramps.
 
@@ -56,7 +49,7 @@ your baby.
 
 | Stage | What happens | Rough duration |
 |---|---|---|
-| **First (latent)** | Cervix thins and opens to ~6 cm; contractions build | Often the **longest**, hours; usually best at home resting |
+| **First (latent)** | **Cervix**[°](#w-cervix) thins and opens to ~6 cm; contractions build | Often the **longest**, hours; usually best at home resting |
 | **First (active)** | Cervix opens ~6→10 cm; contractions strong, regular | Faster and intense; you'll usually be at your birth place |
 | **Second** | Fully open; **pushing**; baby is born | Minutes to a few hours |
 | **Third** | The **placenta** is delivered | ~5–30 minutes after baby |
@@ -151,6 +144,19 @@ place. Skip it and go in <strong>immediately</strong> for: waters breaking with
 green/brown/bloody fluid, vaginal bleeding, reduced fetal movement, contractions
 before 37 weeks, being GBS positive, or a sense something is wrong.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-contraction"></a>**contraction** — the tightening of the womb muscle that opens the cervix and pushes the baby out.
+- <a id="w-the-show"></a>**the "show"** — the mucus plug releasing (sometimes blood-tinged); a sign labour may be near.
+- <a id="w-waters-breaking"></a>**waters breaking** — the amniotic sac releasing fluid (a gush or trickle).
+- <a id="w-cervix"></a>**cervix** (SUR-vix) — the neck of the womb, which thins and opens ("dilates") in labour.
+- <a id="w-dilation"></a>**dilation** — how open the cervix is, measured in cm (up to ~10 cm = fully open).
+- <a id="w-latent-active-labour"></a>**latent / active labour** — the early, slower phase vs. the faster, intense phase of the first stage.
 
 ---
 

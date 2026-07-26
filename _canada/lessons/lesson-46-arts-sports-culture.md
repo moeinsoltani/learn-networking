@@ -10,18 +10,7 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 46: Arts, Sports, and the Shared Culture
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **CanCon** — "Canadian content": the legal quotas requiring radio/TV to carry Canadian music and shows; **CRTC** — the broadcast regulator enforcing them; **MAPL** — the points system certifying a song as Canadian.
-> - **quota** — a required minimum share (35% Canadian music on radio).
-> - **discoverability** — how easily an algorithm surfaces something to you; the streaming-era battleground.
-> - **NFB** — the National Film Board, Canada's public documentary studio.
-> - **téléroman** (tay-lay-roh-MAWN) — Quebec's hugely popular nightly serial dramas.
-> - **star system** — a self-sustaining celebrity industry; Quebec runs its own, invisible to English Canada.
-> - **the Original Six** — the NHL's six founding-era teams (two Canadian: Montreal, Toronto).
-> - **dynasty** — a team dominating for years; **the Summit Series** — the 1972 Canada–USSR showdown.
-> - **koan** (KOH-ahn) — see Lesson 45: the no-Stanley-Cup-since-1993 riddle.
-> - Names: **Massey** (MASS-ee), **Gord Downie** (DOW-nee), **Munro** (mun-ROH), **Richler** (RICH-ler), **Arcand** (ar-KAWN), **Villeneuve** (veel-NUV), **Wickenheiser** (WIK-en-hy-zer), **Gretzky** (GRET-skee), **the Habs** (HABZ — the Montreal Canadiens).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -41,23 +30,23 @@ has a date and a reason.
 | **1939** | The **National Film Board**, and with it Canada's documentary tradition (Alanis Obomsawin, Lesson 44) |
 | **1951** | The **Massey Commission** — the founding cultural-policy report, which framed the choice as "the state or the States" |
 | **1957** | The **Canada Council for the Arts**, funding artists directly, as Massey had recommended |
-| **1971** | **CanCon rules** — the CRTC's Canadian-content quotas for radio and television. This is the reason the radio plays The Tragically Hip |
-| **2023** | The **Online Streaming Act** — CanCon logic applied to Netflix and Spotify, which is the 1951 question asked again about a new pipe |
+| **1971** | **CanCon rules** — the **CRTC**[°](#w-crtc)'s Canadian-content **quotas**[°](#w-quota) for radio and television. This is the reason the radio plays The Tragically Hip |
+| **2023** | The **Online Streaming Act** — **CanCon**[°](#w-cancon) logic applied to Netflix and Spotify, which is the 1951 question asked again about a new pipe |
 
 And then there is the ice, which functions as the country's other shared
 church. The touchstones a Canadian assumes you know: the **1972 Summit
 Series** against the Soviets, played as a cold-war passion play; Gretzky; the
 Canadiens–Leafs schism that runs through families; the women's Olympic
-dynasty; Sidney Crosby's golden goal in 2010; and the beautiful agony of the
+**dynasty**[°](#w-dynasty); Sidney Crosby's golden goal in 2010; and the beautiful agony of the
 McDavid era — **no Canadian team has won the Stanley Cup since 1993**, a fact
-that functions less like a statistic than like a national koan.
+that functions less like a statistic than like a national **koan**[°](#w-koan).
 
 Two honest frames to carry: the machinery *worked* (a
 recognizable Canadian culture exists and exports — from Anne of
 Green Gables to Drake) — and its premise is permanently
 contested (protection vs crutch; and Quebec's culture, note,
 needed less machinery: the language was the wall, L.42, behind
-which a complete star system — *le star-système québécois* —
+which a complete **star system**[°](#w-star-system) — *le star-système québécois* —
 thrives largely unknown to English Canada: the two solitudes'
 most cheerful example).
 
@@ -107,13 +96,13 @@ permanent political football — defund-the-CBC is a standing
 platform plank, L.28's party map); the Canada Council;
 **CanCon quotas** (1971 — commercial radio must play ~35%
 Canadian music, TV carry Canadian programming, certified by
-the MAPL system's points). The verdict data: pre-1971,
+the **MAPL**[°](#w-mapl) system's points). The verdict data: pre-1971,
 Canadian artists were curiosities on their own radio;
 post-quota, an industry — the machinery incubated the
 Guess Who → Rush → **The Tragically Hip** (the canonical
 case: superstars at home, cult abroad — their 2016 farewell
 concert, broadcast by CBC, watched by a third of the
-country, PM in the crowd: the Summit Series of sad dad
+country, PM in the crowd: **the Summit Series**[°](#w-the-summit-series) of sad dad
 rock) → Céline, Shania, Alanis, Drake, The Weeknd, Bieber
 (the streaming-era irony: Toronto artists now dominate
 global charts *without* needing the wall — Drake is the
@@ -138,7 +127,7 @@ audiences), its film tradition (Denys Arcand's Oscar;
 Villeneuve and Dolan graduating to global cinema), its
 music economy (Cowboys Fringants stadiums), its talk shows
 (*Tout le monde en parle* setting the province's weekly
-agenda), the **téléroman** as social institution. The
+agenda), the **téléroman**[°](#w-teleroman) as social institution. The
 structural note: Quebec's cultural confidence needed
 quotas less because French *is* the quota — which is
 either the argument for Bill 101 (L.22) or against CanCon
@@ -262,6 +251,23 @@ proof that walls work (Quebec's confidence), and proof
 that anglo-Canada's walls are fighting language-gravity
 that Quebec never faced (the CanCon skeptic's rejoinder).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-cancon"></a>**CanCon** — "Canadian content": the legal quotas requiring radio/TV to carry Canadian music and shows; <a id="w-crtc"></a>**CRTC** — the broadcast regulator enforcing them; <a id="w-mapl"></a>**MAPL** — the points system certifying a song as Canadian.
+- <a id="w-quota"></a>**quota** — a required minimum share (35% Canadian music on radio).
+- <a id="w-discoverability"></a>**discoverability** — how easily an algorithm surfaces something to you; the streaming-era battleground.
+- <a id="w-nfb"></a>**NFB** — the National Film Board, Canada's public documentary studio.
+- <a id="w-teleroman"></a>**téléroman** (tay-lay-roh-MAWN) — Quebec's hugely popular nightly serial dramas.
+- <a id="w-star-system"></a>**star system** — a self-sustaining celebrity industry; Quebec runs its own, invisible to English Canada.
+- <a id="w-the-original-six"></a>**the Original Six** — the NHL's six founding-era teams (two Canadian: Montreal, Toronto).
+- <a id="w-dynasty"></a>**dynasty** — a team dominating for years; <a id="w-the-summit-series"></a>**the Summit Series** — the 1972 Canada–USSR showdown.
+- <a id="w-koan"></a>**koan** (KOH-ahn) — see Lesson 45: the no-Stanley-Cup-since-1993 riddle.
+- Names: **Massey** (MASS-ee), **Gord Downie** (DOW-nee), **Munro** (mun-ROH), **Richler** (RICH-ler), **Arcand** (ar-KAWN), **Villeneuve** (veel-NUV), **Wickenheiser** (WIK-en-hy-zer), **Gretzky** (GRET-skee), **the Habs** (HABZ — the Montreal Canadiens).
 
 ---
 

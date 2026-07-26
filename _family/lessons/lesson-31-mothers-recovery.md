@@ -11,17 +11,10 @@ parent: "Phase 7: Recovery & the New Family"
 # Lesson 31: Mother's Physical Recovery
 
 {: .important }
-> General education, not medical advice. Postpartum warning signs can appear for
+> General education, not medical advice. **Postpartum**[°](#w-postpartum) warning signs can appear for
 > **up to a year** — when in doubt, call. See the red-flag box below.
 
-{: .note }
-> **Words to know**
-> - **postpartum** (post-PAR-tum) — the period after birth; the "fourth trimester" is roughly the first 3 months.
-> - **lochia** (LOH-kee-ah) — the normal vaginal bleeding/discharge after birth, lasting weeks.
-> - **afterpains** — cramps as the womb shrinks back down, often stronger during breastfeeding.
-> - **perineum** (pair-ih-NEE-um) — the area that may have torn or been cut and stitched.
-> - **pelvic floor** — the muscles supporting the bladder/womb; birth can weaken them.
-> - **6-week check** — a postnatal checkup for the mother around six weeks after birth.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -35,9 +28,9 @@ without fear, and lets the partner protect that recovery.
 
 ### What's normal in recovery
 
-- **Lochia** — vaginal bleeding that's heavier at first and tapers over several
+- **Lochia**[°](#w-lochia) — vaginal bleeding that's heavier at first and tapers over several
   weeks (like a long period, gradually lightening).
-- **Afterpains** — cramps as the uterus shrinks; often stronger during
+- **Afterpains**[°](#w-afterpains) — cramps as the uterus shrinks; often stronger during
   breastfeeding (that's the hormones doing their job).
 - **Perineal soreness or stitches** (after a tear/episiotomy) — keep the area clean;
   ice, sitz baths, and comfort measures help.
@@ -48,8 +41,8 @@ without fear, and lets the partner protect that recovery.
 
 ### It takes time — the "fourth trimester"
 
-The **6-week check** is a milestone, **not** a finish line — full recovery
-(muscles, pelvic floor, energy, tissues) often takes **months**. Rest, good
+The **6-week check**[°](#w-6-week-check) is a milestone, **not** a finish line — full recovery
+(muscles, **pelvic floor**[°](#w-pelvic-floor), energy, tissues) often takes **months**. Rest, good
 nutrition, hydration, and **help with everything else** are the recipe. Discourage
 any rush to "get the body back"; healing and caring for a newborn is more than
 enough.
@@ -152,6 +145,19 @@ breathing</strong> or <strong>leg pain/swelling</strong> (possible clot — emer
 <strong>severe headache/vision changes</strong> (blood pressure); or <strong>thoughts
 of harming yourself or the baby</strong>. These can occur for up to a year.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-postpartum"></a>**postpartum** (post-PAR-tum) — the period after birth; the "fourth trimester" is roughly the first 3 months.
+- <a id="w-lochia"></a>**lochia** (LOH-kee-ah) — the normal vaginal bleeding/discharge after birth, lasting weeks.
+- <a id="w-afterpains"></a>**afterpains** — cramps as the womb shrinks back down, often stronger during breastfeeding.
+- <a id="w-perineum"></a>**perineum** (pair-ih-NEE-um) — the area that may have torn or been cut and stitched.
+- <a id="w-pelvic-floor"></a>**pelvic floor** — the muscles supporting the bladder/womb; birth can weaken them.
+- <a id="w-6-week-check"></a>**6-week check** — a postnatal checkup for the mother around six weeks after birth.
 
 ---
 

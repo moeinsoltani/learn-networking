@@ -13,14 +13,7 @@ parent: "Phase 3: Mid & Late Pregnancy"
 {: .important }
 > General education, not medical advice — follow your own provider. When in doubt, call.
 
-{: .note }
-> **Words to know**
-> - **Braxton Hicks** — "practice" contractions: irregular, usually painless tightenings that are *not* labour.
-> - **kick counts** — tracking the baby's movements to make sure they stay active.
-> - **GBS (Group B Strep)** — a common bacterium screened for near the end; if present, antibiotics are given in labour.
-> - **breech** — when the baby is positioned bottom- or feet-first instead of head-first.
-> - **nesting** — a burst of energy to clean and prepare the home before birth.
-> - **edema** (eh-DEE-mah) — swelling, usually in the feet/ankles; mild is common, sudden/severe is not.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -36,7 +29,7 @@ the baby's movements.
 
 Backache, **heartburn**, mild **swelling** of feet and ankles, shortness of breath
 (the baby crowds your lungs), frequent urination and pelvic pressure (the baby
-drops lower), trouble sleeping, and **Braxton Hicks** contractions. These are
+drops lower), trouble sleeping, and **Braxton Hicks**[°](#w-braxton-hicks) contractions. These are
 uncomfortable but normal. Relief: good posture, pillows for sleep, small frequent
 meals for heartburn, resting your feet, and staying gently active.
 
@@ -75,9 +68,9 @@ gadgets — trust the pattern and call if it changes.
 - **Appointments** become every 2 weeks, then weekly.
 - **GBS swab** (~35–37 weeks) — if positive, you'll get antibiotics in labour to
   protect the baby.
-- **Baby's position** is checked; if **breech** near term, options are discussed.
+- **Baby's position** is checked; if **breech**[°](#w-breech) near term, options are discussed.
 - Finish the **hospital bag**, **birth plan**, and **car seat** (Lessons 17–19).
-  Many feel a **nesting** urge — channel it, but don't overdo it.
+  Many feel a **nesting**[°](#w-nesting) urge — channel it, but don't overdo it.
 - **Sleep on your side** in late pregnancy (either side; left is often suggested) —
   avoid lying flat on your back for long.
 
@@ -158,6 +151,19 @@ don't wait.
 signs <strong>before 37 weeks</strong> may be <strong>preterm labour</strong> and
 should prompt a call to your provider.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-braxton-hicks"></a>**Braxton Hicks** — "practice" contractions: irregular, usually painless tightenings that are *not* labour.
+- <a id="w-kick-counts"></a>**kick counts** — tracking the baby's movements to make sure they stay active.
+- <a id="w-gbs-group-b-strep"></a>**GBS (Group B Strep)** — a common bacterium screened for near the end; if present, antibiotics are given in labour.
+- <a id="w-breech"></a>**breech** — when the baby is positioned bottom- or feet-first instead of head-first.
+- <a id="w-nesting"></a>**nesting** — a burst of energy to clean and prepare the home before birth.
+- <a id="w-edema"></a>**edema** (eh-DEE-mah) — swelling, usually in the feet/ankles; mild is common, sudden/severe is not.
 
 ---
 

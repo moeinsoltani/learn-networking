@@ -10,19 +10,7 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 31: The Charter in Action
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **infringement** (in-FRINJ-ment) — a limiting or violation of a right.
-> - **the Oakes test** (OAKS) — the court checklist deciding whether a rights limit is justified (explained below).
-> - **proportionality** — the requirement that a law's harm to rights be in proportion to its benefit; **minimal impairment** — limiting the right as little as reasonably possible.
-> - **analogous grounds** (ah-NAL-oh-gus) — new categories of discrimination courts may add to s.15's list (sexual orientation was added this way).
-> - **override** — s.33's power to make a law operate despite certain rights; a **sunset clause** — an automatic expiry date (s.33's five years).
-> - **remedy** — what a court orders to fix a rights violation; **strike down** — declare a law invalid; **suspended declaration** — striking a law but delaying the effect so Parliament can redraft.
-> - **pre-emptive** — done in advance, before courts can rule.
-> - **chilling effect** — when fear of punishment silences even legal speech.
-> - **expropriation** (eks-proh-pree-AY-shun) — the government taking private property (with compensation, by statute — not a Charter right in Canada).
-> - **"dialogue"** — the Canadian idea that courts and legislatures answer each other (ruling → redraft → re-ruling) rather than one having the final word.
-> - Names: **Morgentaler** (MOR-gen-tah-ler), **Keegstra** (KEEG-strah), **Oakes** (OAKS), **Bedford**, **Carter** — landmark cases are known by the parties' names.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -34,7 +22,7 @@ rights are strong presumptions inside a balancing system, not
 absolutes.** The system has exactly three moving parts:
 
 The Charter is best understood as a machine with three moving parts: the
-rights themselves, a balancer that lets the state limit them, and an override
+rights themselves, a balancer that lets the state limit them, and an **override**[°](#w-override)
 that lets legislatures switch some of them off.
 
 **The rights** run from section 2 to section 23:
@@ -62,14 +50,14 @@ democratic escape hatch from judicial supremacy — and its price is political
 rather than legal, since a government using it must say so out loud and face
 the voters within five years.
 
-Remedies give it teeth: courts strike down offending laws (s.52),
+**Remedies**[°](#w-remedy) give it teeth: courts **strike down**[°](#w-strike-down) offending laws (s.52),
 exclude tainted evidence, and order tailored remedies (s.24). Since
 1982 the Charter has remade criminal procedure, legalized abortion
 access (*Morgentaler*, 1988 — striking the criminal framework) and
-same-sex marriage's path, structured end-of-life law (*Carter*,
+same-sex marriage's path, structured end-of-life law (*Carter*[°](#w-carter),
 2015), and become — polls are consistent — the single most cherished
 symbol of Canadian identity, *including in Quebec* (Lesson 23's
-paradox). One number for scale: s.15's open "analogous grounds"
+paradox). One number for scale: s.15's open "**analogous grounds**[°](#w-analogous-grounds)"
 design means the equality clause has *grown* since enactment —
 the living tree (Lesson 19), planted deliberately.
 
@@ -81,14 +69,14 @@ the living tree (Lesson 19), planted deliberately.
 
 *R. v. Oakes* (1986) turned s.1's sentence into a checklist the
 government must satisfy **after** a claimant proves an
-infringement:
+**infringement**[°](#w-infringement):
 
 1. **Pressing and substantial objective** — is the law's goal
    important enough to justify limiting a right?
-2. **Proportionality**, three sub-steps:
+2. **Proportionality**[°](#w-proportionality), three sub-steps:
    a. **Rational connection** — does the measure actually further
       the goal?
-   b. **Minimal impairment** — does it limit the right as little
+   b. **Minimal impairment**[°](#w-minimal-impairment) — does it limit the right as little
       as reasonably possible? (Most cases die here — "you could
       have achieved this less intrusively.")
    c. **Balance** — do the benefits outweigh the harm to the
@@ -119,7 +107,7 @@ language reform (Bill 96, 2022); Ontario invoked it for election-
 finance rules (2021) and threatened it for wage caps and a
 strike ban (2022 — retreated under union fury); Saskatchewan used
 it for school pronoun policy (2023). The emerging pattern —
-**pre-emptive** use (invoking before courts even rule) —
+**pre-emptive**[°](#w-pre-emptive) use (invoking before courts even rule) —
 neutralizes judicial review entirely, converting "dialogue
 between courts and legislatures" into a monologue. The unsettled
 questions your newspaper will be arguing about: can courts at
@@ -135,7 +123,7 @@ Canadian constitutional law is actually made of.
 Parliamentary supremacy survives in the seams: s.1 and s.33 as
 designed valves; property rights deliberately omitted (unlike
 the US 5th Amendment — a CCF-era legacy and provincial demand;
-expropriation is statutory politics, not constitutional
+**expropriation**[°](#w-expropriation) is statutory politics, not constitutional
 litigation); no economic/social rights (housing, health as
 rights have repeatedly failed under s.7); and the Charter binds
 only *state* action — private discrimination is handled by
@@ -247,6 +235,24 @@ which is to say, the Charter's real guarantee is turning out to
 be (as its drafters privately knew) the civic culture around
 it.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-infringement"></a>**infringement** (in-FRINJ-ment) — a limiting or violation of a right.
+- <a id="w-the-oakes-test"></a>**the Oakes test** (OAKS) — the court checklist deciding whether a rights limit is justified (explained below).
+- <a id="w-proportionality"></a>**proportionality** — the requirement that a law's harm to rights be in proportion to its benefit; <a id="w-minimal-impairment"></a>**minimal impairment** — limiting the right as little as reasonably possible.
+- <a id="w-analogous-grounds"></a>**analogous grounds** (ah-NAL-oh-gus) — new categories of discrimination courts may add to s.15's list (sexual orientation was added this way).
+- <a id="w-override"></a>**override** — s.33's power to make a law operate despite certain rights; a <a id="w-sunset-clause"></a>**sunset clause** — an automatic expiry date (s.33's five years).
+- <a id="w-remedy"></a>**remedy** — what a court orders to fix a rights violation; <a id="w-strike-down"></a>**strike down** — declare a law invalid; <a id="w-suspended-declaration"></a>**suspended declaration** — striking a law but delaying the effect so Parliament can redraft.
+- <a id="w-pre-emptive"></a>**pre-emptive** — done in advance, before courts can rule.
+- <a id="w-chilling-effect"></a>**chilling effect** — when fear of punishment silences even legal speech.
+- <a id="w-expropriation"></a>**expropriation** (eks-proh-pree-AY-shun) — the government taking private property (with compensation, by statute — not a Charter right in Canada).
+- <a id="w-dialogue"></a>**"dialogue"** — the Canadian idea that courts and legislatures answer each other (ruling → redraft → re-ruling) rather than one having the final word.
+- Names: **Morgentaler** (MOR-gen-tah-ler), **Keegstra** (KEEG-strah), **Oakes** (OAKS), **Bedford**, <a id="w-carter"></a>**Carter** — landmark cases are known by the parties' names.
 
 ---
 

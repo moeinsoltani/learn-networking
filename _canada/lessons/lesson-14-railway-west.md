@@ -10,20 +10,7 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 14: The Railway and the West
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **transcontinental** — crossing the whole continent, ocean to ocean.
-> - **CPR** — the Canadian Pacific Railway, the company and the line itself; the **Last Spike** — the final nail of the track, driven in 1885.
-> - **syndicate** (SIN-dih-kit) — a group of investors formed to finance one big venture.
-> - **magnate** (MAG-nayt) — a very rich, powerful business person.
-> - **subsidy** (SUB-sih-dee) — government money given to support a private company or activity.
-> - **monopoly clause** — the CPR's legal guarantee that no competing line could be built near it for 20 years.
-> - **Head Tax** — the special entry fee charged only to Chinese immigrants (1885–1923).
-> - **National Policy** — Macdonald's three-part program: protective tariffs + railway + immigration.
-> - **Mounties / NWMP** — the North-West Mounted Police, ancestors of today's RCMP (national police).
-> - **whisky forts** — illegal American trading posts selling alcohol on the plains, which the Mounties were sent to shut down.
-> - **redress** (rih-DRESS) — compensation for a past wrong.
-> - Names: **Craigellachie** (kray-GHEL-ah-kee), **Van Horne** (van HORN), **Guangdong** (gwahng-DONG — a province in southern China), **Batoche** (bah-TOSH), **Fraser Canyon** (FRAY-zer).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -48,7 +35,7 @@ memory.
 | 1870 | **Manitoba** — carved out, and initially tiny | Created after armed resistance; Riel's provisional government forced provincehood |
 | 1871 | **British Columbia** | Joined *on a promise*: a rail link within ten years |
 | 1873 | **Prince Edward Island** | Joined to escape its own railway debt — the irony is noted |
-| 1885 | **CPR complete** — the Last Spike at Craigellachie, BC | Four years ahead of the revised schedule |
+| 1885 | **CPR complete** — the **Last Spike**[°](#w-last-spike) at Craigellachie, BC | Four years ahead of the revised schedule |
 | 1898 | **Yukon Territory** | Created during the Klondike Gold Rush |
 | 1905 | **Alberta** and **Saskatchewan** | Carved from the North-West Territories |
 | 1949 | **Newfoundland** | After 82 years as a separate dominion (Phase 4) |
@@ -56,7 +43,7 @@ memory.
 
 ![1886 map of the Canadian Pacific Railway system, a single line binding Montreal to the Pacific coast](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_Map_of_the_Canadian_Pacific_railway_system_-_btv1b530230627.jpg/960px-A_Map_of_the_Canadian_Pacific_railway_system_-_btv1b530230627.jpg)
 
-*The finished line, as the CPR itself drew it in 1886 — one thin thread of rail
+*The finished line, as the **CPR**[°](#w-cpr) itself drew it in 1886 — one thin thread of rail
 binding Montreal to the Pacific across the Shield, the Prairies, and the
 mountains, the year after the last spike at Craigellachie. Map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_Map_of_the_Canadian_Pacific_railway_system_-_btv1b530230627.jpg).*
 
@@ -92,19 +79,19 @@ muskeg and four mountain ranges, for a country of 3.5 million. Critics
 called it "an act of insane recklessness." It nearly was:
 
 - **The Pacific Scandal (1873):** it emerged that the railway charter had
-  gone to shipping magnate Sir Hugh Allan after Allan funnelled ~$350,000
+  gone to shipping **magnate**[°](#w-magnate) Sir Hugh Allan after Allan funnelled ~$350,000
   into Macdonald's 1872 campaign (the telegram that killed him: *"I must
   have another ten thousand"*). Macdonald's government fell — Canada's
   first great political scandal, establishing a national tradition of
   infrastructure + party financing = trouble. The Liberals under
   Mackenzie built slowly, in pieces; Macdonald returned (1878) with a
-  **National Policy** — protective tariffs, railway, immigration: the
+  **National Policy**[°](#w-national-policy) — protective tariffs, railway, immigration: the
   three-part nation-building program that framed Canadian economics for
   half a century (Lesson 38 will show you its long shadow).
 - **The CPR syndicate (1881–85):** a new private company (Stephen, Smith,
   and — running construction — the American William Van Horne) got
   colossal public support: $25M cash, **25 million acres** of prairie
-  land, tax exemptions, and a 20-year monopoly clause. Even so it nearly
+  land, tax exemptions, and a 20-year **monopoly clause**[°](#w-monopoly-clause). Even so it nearly
   went bankrupt twice; what saved it the second time was the 1885
   North-West Resistance — the CPR moved troops west in nine days (versus
   months in 1870), Parliament gratefully voted the final loans, and the
@@ -121,7 +108,7 @@ explosives, the tunnels, the ledges. Estimates of the dead run from
 several hundred to over a thousand ("a Chinese worker under every mile of
 mountain track," the saying went). The country's thanks, months after the
 Last Spike: the **Chinese Immigration Act of 1885**, imposing a $50
-**Head Tax** on Chinese entrants — raised to $500 (two years' wages) by
+**Head Tax**[°](#w-head-tax) on Chinese entrants — raised to $500 (two years' wages) by
 1903, replaced in 1923 by outright exclusion (until 1947). Canada
 formally apologized in 2006. Hold both facts in one hand: the railway
 that made Canada possible, and the racial tariff charged to the men who
@@ -133,14 +120,14 @@ a name, a home village in Guangdong, a photograph, a serial number, and a
 receipt for the tax paid. The discrimination was not mob violence; it was
 **administration**: a published tax schedule, collected at ports, netting
 Ottawa and the provinces roughly $23 million over four decades. That figure is
-worth saying aloud beside the CPR's $25 million cash subsidy — Canada charged
+worth saying aloud beside the CPR's $25 million cash **subsidy**[°](#w-subsidy) — Canada charged
 the community that built the railway about what it paid the company that owned
 it.
 
 The rate was calibrated to exclude. At $500 it was roughly two years' wages,
 which meant men came and wives did not, splitting families for decades until
 the 1923 Exclusion Act sealed the door entirely. When Canada apologized in
-2006 and paid symbolic redress to surviving payers and widows, nearly all the
+2006 and paid symbolic **redress**[°](#w-redress) to surviving payers and widows, nearly all the
 original victims were dead — the state's paperwork had outlived them. Keep
 this document class in mind: Lesson 17's pass system and Lesson 20's
 internment orders are its administrative cousins. Racism kept with a receipt
@@ -150,7 +137,7 @@ impossible.
 ### What the railway then did
 
 Moved the Mounties (the **North-West Mounted Police**, founded 1873, rode
-west *before* the rails — to clear the whisky forts and, frankly, to
+west *before* the rails — to clear the **whisky forts**[°](#w-whisky-forts) and, frankly, to
 prepare the ground for settlement; they become the RCMP and a national
 symbol, Lesson 45); moved the settlers (Lesson 16's millions); moved the
 wheat out and the tariff-protected goods in (the Prairies' founding
@@ -162,7 +149,7 @@ Winnipeg, Regina, Calgary, Vancouver are all, in essence, CPR decisions.
 
 It is often held up as proof that megaprojects belong in private hands, so it
 is worth doing the accounting honestly. The CPR was private roughly the way a
-kite is independent of its string. The syndicate received $25 million in cash,
+kite is independent of its string. The **syndicate**[°](#w-syndicate) received $25 million in cash,
 twenty-five million acres of the public domain, completed sections that the
 government had already built at public expense, tax exemptions, and a
 legislated monopoly — and even with all of that it needed two emergency
@@ -268,6 +255,25 @@ collapsed, hunger (Lesson 17); and its first major freight, in 1885, was
 troops to crush the Métis and Cree at Batoche (Lesson 15). Both columns
 are true; Canadian historical literacy means refusing to drop either.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-transcontinental"></a>**transcontinental** — crossing the whole continent, ocean to ocean.
+- <a id="w-cpr"></a>**CPR** — the Canadian Pacific Railway, the company and the line itself; the <a id="w-last-spike"></a>**Last Spike** — the final nail of the track, driven in 1885.
+- <a id="w-syndicate"></a>**syndicate** (SIN-dih-kit) — a group of investors formed to finance one big venture.
+- <a id="w-magnate"></a>**magnate** (MAG-nayt) — a very rich, powerful business person.
+- <a id="w-subsidy"></a>**subsidy** (SUB-sih-dee) — government money given to support a private company or activity.
+- <a id="w-monopoly-clause"></a>**monopoly clause** — the CPR's legal guarantee that no competing line could be built near it for 20 years.
+- <a id="w-head-tax"></a>**Head Tax** — the special entry fee charged only to Chinese immigrants (1885–1923).
+- <a id="w-national-policy"></a>**National Policy** — Macdonald's three-part program: protective tariffs + railway + immigration.
+- <a id="w-mounties-nwmp"></a>**Mounties / NWMP** — the North-West Mounted Police, ancestors of today's RCMP (national police).
+- <a id="w-whisky-forts"></a>**whisky forts** — illegal American trading posts selling alcohol on the plains, which the Mounties were sent to shut down.
+- <a id="w-redress"></a>**redress** (rih-DRESS) — compensation for a past wrong.
+- Names: **Craigellachie** (kray-GHEL-ah-kee), **Van Horne** (van HORN), **Guangdong** (gwahng-DONG — a province in southern China), **Batoche** (bah-TOSH), **Fraser Canyon** (FRAY-zer).
 
 ---
 

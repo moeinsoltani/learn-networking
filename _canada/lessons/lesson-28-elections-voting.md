@@ -10,26 +10,13 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 28: Elections and Voting
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **first-past-the-post (FPTP)** — the candidate with the most votes wins the riding, even without a majority.
-> - **plurality** (ploor-AL-ih-tee) — the most votes without necessarily half; **majority** — more than half.
-> - **popular vote** — the raw national vote totals (which FPTP does *not* directly reward).
-> - **wasted votes** — votes that elect nobody (all votes for losing candidates, and surplus votes for winners).
-> - **strategic voting** — voting for a likelier winner you can accept instead of your true favourite.
-> - **proportional representation (PR)** — any system where seats match vote shares; **MMP** — mixed-member proportional (riding MPs + top-up seats); **ranked ballot** — ranking candidates 1, 2, 3 instead of one X.
-> - **gerrymandering** (JERR-ee-man-der-ing) — politicians drawing district boundaries to favour themselves (a US problem; Canada uses independent commissions).
-> - **scrutineer** (skroo-tih-NEER) — a party's observer who watches the vote count.
-> - **expatriate** (eks-PAT-ree-ut) — a citizen living abroad.
-> - **brokerage party** — a party that builds broad coalitions across regions/classes rather than serving one ideology.
-> - **kingmaker** — a smaller party whose support decides who governs.
-> - **counterfoil** — the tear-off numbered stub of a ballot (proves the ballot is genuine without identifying you).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 A Canadian federal election is **343 separate simultaneous local
 elections**, each electing one MP by **first-past-the-post** (FPTP):
-most votes in the riding wins the seat, no majority required, no
+most votes in the riding wins the seat, no **majority**[°](#w-majority) required, no
 second round, nothing carried over. The national "result" is just
 the sum of the local ones — and that summation step is where the
 famous distortions live:
@@ -74,14 +61,14 @@ correctly.
 ### The mechanics of voting
 
 - **Who votes:** citizens 18+ — including prisoners (the Supreme
-  Court struck the ban, 2002) and expatriates (restored 2019); the
+  Court struck the ban, 2002) and **expatriates**[°](#w-expatriate) (restored 2019); the
   register updates from tax and licensing data, and registration is
   possible at the polling station itself, on election day, with
   modest ID. Design intent: maximize access, minimize drama.
 - **How:** paper ballot, pencil, single X. Advance polls, mail
   ballots, and any-Elections-Canada-office voting make the day
   itself optional. Employers owe you three consecutive free hours.
-  Count: by hand, at each poll, candidate scrutineers watching —
+  Count: by hand, at each poll, candidate **scrutineers**[°](#w-scrutineer) watching —
   no machines federally, which is why Canadian election-integrity
   discourse is nearly empty; there's nothing to conspiratorialize
   about a pencil.
@@ -96,7 +83,7 @@ correctly.
   Senate races, by design.
 - **Ridings:** boundaries redrawn every decade by **independent
   commissions** (not legislatures — Canada structurally lacks US-
-  style gerrymandering; the 2024 map's 343 reflects population
+  style **gerrymandering**[°](#w-gerrymandering); the 2024 map's 343 reflects population
   growth, with the constitutional floors — PEI's four, the
   grandfather clauses — overweighting small provinces as
   Confederation's bargain requires, Lesson 26).
@@ -109,7 +96,7 @@ Laurier to Trudeau *fils*), **Conservatives** (the 2003 merger of
 the old Progressive Conservatives with Reform/Alliance —
 Macdonald's lineage through several reorganizations; centre-right),
 **NDP** (the CCF's heir, Lesson 19 — social democratic, medicare's
-parent, frequent minority-parliament kingmaker), **Bloc Québécois**
+parent, frequent minority-parliament **kingmaker**[°](#w-kingmaker)), **Bloc Québécois**
 (Lesson 23's Meech child — sovereignist, runs candidates only in
 Quebec; periodically Quebec's largest federal party, a permanent
 FPTP beneficiary), and the **Greens** (perennial FPTP victim). The
@@ -124,21 +111,21 @@ politics has a supply side.
 
 **For:** local MP accountability (one name owns your riding);
 simplicity; usually manufactures stable majorities from
-pluralities (governments can govern — the system's British soul
+**pluralities**[°](#w-plurality) (governments can govern — the system's British soul
 prioritizes governability, as this phase keeps finding);
 regional parties get seats where they're genuinely strong.
 **Against:** majorities without majorities (39% → 100% of power);
-wasted votes (everything not for the winner); punishes dispersed
+**wasted votes**[°](#w-wasted-votes) (everything not for the winner); punishes dispersed
 support (Greens/NDP chronically under-seated; the Bloc over-seated
 relative to national share); regional exaggeration (a party can
 sweep a province's seats on half its votes, making regions look
 more monolithic than they are — Western alienation and Quebec
 solitudes are partly FPTP optical artifacts, a genuinely important
-point); and strategic voting (voters gaming "who can win here"
+point); and **strategic voting**[°](#w-strategic-voting) (voters gaming "who can win here"
 rather than voting sincerely).
 
-**The eternal reform debate:** proportional representation (PR) or
-ranked ballots surface constantly — 2015's winning platform
+**The eternal reform debate:** **proportional representation (PR)**[°](#w-proportional-representation-pr) or
+**ranked ballots**[°](#w-ranked-ballot) surface constantly — 2015's winning platform
 famously promised "the last FPTP election," then abandoned it
 (the committee recommended PR; the government wanted ranked
 ballots — which polls suggested would favour it; stalemate;
@@ -242,6 +229,25 @@ a normal fixture. Plus the structural bonus: non-partisan election
 administration and boundary-drawing remove the US's procedural
 battlegrounds entirely.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-first-past-the-post-fptp"></a>**first-past-the-post (FPTP)** — the candidate with the most votes wins the riding, even without a majority.
+- <a id="w-plurality"></a>**plurality** (ploor-AL-ih-tee) — the most votes without necessarily half; <a id="w-majority"></a>**majority** — more than half.
+- <a id="w-popular-vote"></a>**popular vote** — the raw national vote totals (which FPTP does *not* directly reward).
+- <a id="w-wasted-votes"></a>**wasted votes** — votes that elect nobody (all votes for losing candidates, and surplus votes for winners).
+- <a id="w-strategic-voting"></a>**strategic voting** — voting for a likelier winner you can accept instead of your true favourite.
+- <a id="w-proportional-representation-pr"></a>**proportional representation (PR)** — any system where seats match vote shares; <a id="w-mmp"></a>**MMP** — mixed-member proportional (riding MPs + top-up seats); <a id="w-ranked-ballot"></a>**ranked ballot** — ranking candidates 1, 2, 3 instead of one X.
+- <a id="w-gerrymandering"></a>**gerrymandering** (JERR-ee-man-der-ing) — politicians drawing district boundaries to favour themselves (a US problem; Canada uses independent commissions).
+- <a id="w-scrutineer"></a>**scrutineer** (skroo-tih-NEER) — a party's observer who watches the vote count.
+- <a id="w-expatriate"></a>**expatriate** (eks-PAT-ree-ut) — a citizen living abroad.
+- <a id="w-brokerage-party"></a>**brokerage party** — a party that builds broad coalitions across regions/classes rather than serving one ideology.
+- <a id="w-kingmaker"></a>**kingmaker** — a smaller party whose support decides who governs.
+- <a id="w-counterfoil"></a>**counterfoil** — the tear-off numbered stub of a ballot (proves the ballot is genuine without identifying you).
 
 ---
 

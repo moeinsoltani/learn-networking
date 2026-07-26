@@ -10,27 +10,13 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 30: Courts and the Law
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **common law** — law built from judges' past decisions (**precedent**, PRESS-ih-dent), England's tradition; **civil law** — law organized in one comprehensive written **code**, France's tradition (Quebec's private law).
-> - **bijural** (by-JOOR-ul) — running both legal traditions in one country, as Canada does.
-> - **tort** (TORT) — a civil wrong (negligence, defamation) you can sue over.
-> - **notary** (NOH-tah-ree) — in Quebec, a distinct legal profession handling property, wills, and contracts.
-> - **tribunal** (try-BYOO-nul) — a specialized, less formal decision-body (landlord–tenant, human rights) where most everyday disputes actually go.
-> - **judicial review** — a court checking whether a government decision or law was legal.
-> - **leave to appeal** — a court's *permission* to bring an appeal (the Supreme Court chooses its cases).
-> - **stay / stayed** (STAY) — a case halted permanently or temporarily (Jordan stays = charges dismissed for delay).
-> - **bail** — release from custody while awaiting trial.
-> - **beyond a reasonable doubt** — the criminal standard of proof: near-certainty, not just "probably guilty."
-> - **sentencing circle** — an Indigenous-tradition process where community members help shape a sentence.
-> - **legal aid** — government-funded lawyers for those who can't pay; **self-represented** — arguing your own case without a lawyer.
-> - Names: ***R.* in case names** = Rex/Regina (Latin: the King/Queen — i.e., the Crown prosecuting), **Gladue** (GLAD-yoo), **Nadon** (nah-DON), **Comeau** (KOH-moh), **O'Bonsawin** (oh-BON-sah-win).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Canada runs on **three legal traditions in one system**: English
-**common law** everywhere except private law in Quebec, which runs on
-the **civil law** of the *Code civil du Québec* (the Quebec Act's
+**common law**[°](#w-common-law) everywhere except private law in Quebec, which runs on
+the **civil law**[°](#w-civil-law) of the *Code civil du Québec* (the Quebec Act's
 bargain, Lesson 10, still operating daily) — and, increasingly
 recognized, **Indigenous legal orders** (Lesson 06's Great Law was
 law; s.35 and modern agreements are re-making space for the
@@ -52,7 +38,7 @@ Above them are the **superior courts**, one per province, handling serious
 crime, large civil cases, and family law. Note a Confederation quirk here: the
 courts are provincial, but their judges are appointed *federally*. Running
 alongside is the **Federal Court**, which handles immigration, intellectual
-property, and judicial review of federal agencies, together with the **Tax
+property, and **judicial review**[°](#w-judicial-review) of federal agencies, together with the **Tax
 Court**.
 
 Above those sit the **provincial courts of appeal** and the **Federal Court of
@@ -78,11 +64,11 @@ worth understanding precisely because so few countries manage it.
 
 - **Common law** (all provinces/territories except Quebec's private
   law): judge-made precedent accumulating case by case — contracts,
-  torts, property evolve through decisions; statutes overlay.
+  **torts**[°](#w-tort), property evolve through decisions; statutes overlay.
 - **Civil law** (Quebec private law): a comprehensive code —
   principles first, cases as application; the Code civil (1994,
   succeeding the 1866 code) governs family, property, contracts,
-  civil liability. Practical consequences: notaries as a distinct
+  civil liability. Practical consequences: **notaries**[°](#w-notary) as a distinct
   profession, different matrimonial-property defaults, and a
   distinct legal culture — which is why **three of nine SCC seats
   are statutorily Quebec's** (the Court must be able to hear civil
@@ -91,7 +77,7 @@ worth understanding precisely because so few countries manage it.
 - **Indigenous legal orders**: from *Delgamuukw*'s oral-history
   evidence (Lesson 06) through s.35 jurisprudence (Lesson 24's
   arc) to modern self-government agreements and Indigenous courts
-  (sentencing circles; *Gladue* principles — judges must consider
+  (**sentencing circles**[°](#w-sentencing-circle); *Gladue* principles — judges must consider
   Indigenous offenders' circumstances and alternatives to prison,
   a direct response to Lesson 24's incarceration numbers). Status
   honestly: recognition growing, integration genuinely unsettled —
@@ -103,10 +89,10 @@ worth understanding precisely because so few countries manage it.
 Federal Criminal Code; provincial administration (police,
 prosecutions, courts — Lesson 29). The essentials a citizen should
 know: **presumption of innocence** (Charter s.11(d)); Crown must
-prove **beyond a reasonable doubt**; no capital punishment
+prove **beyond a reasonable doubt**[°](#w-beyond-a-reasonable-doubt); no capital punishment
 (abolished 1976; last hanging 1962); jury trials for serious
 charges (12 jurors, unanimity for conviction — Lesson 33 walks
-your jury duty); bail as the rule, detention the exception
+your jury duty); **bail**[°](#w-bail) as the rule, detention the exception
 (s.11(e), perpetually contested in practice); and sentencing
 philosophy that weighs rehabilitation alongside denunciation —
 Canadian incarceration runs ~⅙ the US rate (with Lesson 24's
@@ -152,12 +138,12 @@ prices.
 
 The pyramid's dirty secret: most Canadians can't afford its
 middle floors. Superior-court civil litigation runs tens of
-thousands of dollars; legal aid covers only the poorest and
+thousands of dollars; **legal aid**[°](#w-legal-aid) covers only the poorest and
 mostly criminal/family emergencies; the response is the growth
 of **small claims courts** (up to $35,000 in Ontario — designed
 for self-representation), **administrative tribunals**
 (landlord–tenant, employment standards, human-rights — where
-ordinary life's disputes actually go), self-represented
+ordinary life's disputes actually go), **self-represented**[°](#w-self-represented)
 litigants clogging family courts, and delay so severe the SCC
 imposed constitutional trial deadlines (*Jordan*, 2016 — cases
 die if the system dawdles). When Lesson 33 tours "the justice
@@ -261,6 +247,26 @@ references (Lesson 26, this lesson). Note the pattern: Canada's
 biggest constitutional moments are questions asked politely in
 advance — the national style, in litigation form.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-common-law"></a>**common law** — law built from judges' past decisions (**precedent**, PRESS-ih-dent), England's tradition; <a id="w-civil-law"></a>**civil law** — law organized in one comprehensive written **code**, France's tradition (Quebec's private law).
+- <a id="w-bijural"></a>**bijural** (by-JOOR-ul) — running both legal traditions in one country, as Canada does.
+- <a id="w-tort"></a>**tort** (TORT) — a civil wrong (negligence, defamation) you can sue over.
+- <a id="w-notary"></a>**notary** (NOH-tah-ree) — in Quebec, a distinct legal profession handling property, wills, and contracts.
+- <a id="w-tribunal"></a>**tribunal** (try-BYOO-nul) — a specialized, less formal decision-body (landlord–tenant, human rights) where most everyday disputes actually go.
+- <a id="w-judicial-review"></a>**judicial review** — a court checking whether a government decision or law was legal.
+- <a id="w-leave-to-appeal"></a>**leave to appeal** — a court's *permission* to bring an appeal (the Supreme Court chooses its cases).
+- <a id="w-stay-stayed"></a>**stay / stayed** (STAY) — a case halted permanently or temporarily (Jordan stays = charges dismissed for delay).
+- <a id="w-bail"></a>**bail** — release from custody while awaiting trial.
+- <a id="w-beyond-a-reasonable-doubt"></a>**beyond a reasonable doubt** — the criminal standard of proof: near-certainty, not just "probably guilty."
+- <a id="w-sentencing-circle"></a>**sentencing circle** — an Indigenous-tradition process where community members help shape a sentence.
+- <a id="w-legal-aid"></a>**legal aid** — government-funded lawyers for those who can't pay; <a id="w-self-represented"></a>**self-represented** — arguing your own case without a lawyer.
+- Names: ***R.* in case names** = Rex/Regina (Latin: the King/Queen — i.e., the Crown prosecuting), **Gladue** (GLAD-yoo), **Nadon** (nah-DON), **Comeau** (KOH-moh), **O'Bonsawin** (oh-BON-sah-win).
 
 ---
 

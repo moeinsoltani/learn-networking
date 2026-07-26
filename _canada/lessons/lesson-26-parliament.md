@@ -10,21 +10,7 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 26: Parliament — Commons and Senate
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **bill** — a proposed law; a **reading** — each of the formal stages a bill passes through (the names are historical; nobody reads it aloud three times).
-> - **money bill** — a bill that taxes or spends; must start in the elected Commons.
-> - **the Speaker** — the elected referee of Commons debate.
-> - **Question Period ("QP")** — the daily 45 minutes when opposition MPs grill ministers.
-> - **Official Opposition** — the largest party not in government; its job is to challenge the government.
-> - **caucus** (KAW-kus) — all the MPs (and senators) of one party, as a group.
-> - **the whip / party discipline** — the party officer (and the practice) ensuring MPs vote the party line; a **free vote** — a rare vote where MPs may choose freely.
-> - **backbencher** — an ordinary MP with no cabinet job (they sit in the back rows); a **private member's bill** — a bill proposed by one, not by the government.
-> - **by-election** — an election in a single riding between general elections (e.g., after an MP resigns).
-> - **the Order Paper** — Parliament's official agenda of pending business; bills "die on the Order Paper" when a parliament ends.
-> - **Hansard** (HAN-serd) — the word-for-word official transcript of everything said in Parliament.
-> - **unicameral** (yoo-nih-KAM-er-ul) — having one legislative chamber (all provinces are; Ottawa has two = **bicameral**).
-> - **bagman** — slang: a party's fundraiser.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -34,8 +20,8 @@ radically unequal: the Commons is where power lives (confidence,
 Lesson 12), the Senate revises and delays, the Crown signs. Learn the
 machine this way:
 
-A bill starts as an idea, usually the cabinet's — occasionally a backbench
-MP's, as a private member's bill — and then has to survive two chambers before
+A **bill**[°](#w-bill) starts as an idea, usually the cabinet's — occasionally a backbench
+MP's, as a **private member's bill**[°](#w-private-members-bill) — and then has to survive two chambers before
 it becomes law.
 
 In the **House of Commons** (343 MPs, each elected by a riding) it passes
@@ -87,16 +73,16 @@ chamber survives in a democracy: it behaves.
   survive QP doesn't last.
 - **Government vs opposition:** the largest confidence-commanding
   party governs; the largest party not in government is the
-  **Official Opposition** ("His Majesty's Loyal Opposition" — the
+  **Official Opposition**[°](#w-official-opposition) ("His Majesty's Loyal Opposition" — the
   adjective is load-bearing: opposing the *government* is service to
   the *state*, the Crown/government separation of Lesson 25 doing
   daily work). **Party discipline** is ferocious by international
   standards: MPs almost always vote the party line — the whip's
   power flows from confidence logic (every government bill is
-  quasi-existential) plus leader control of candidacies. Free votes
+  quasi-existential) plus leader control of candidacies. **Free votes**[°](#w-free-vote)
   are rare and noted; crossing the floor is legal, dramatic, and
   usually career-defining.
-- **Private members' bills:** backbenchers' lottery-drawn chances;
+- **Private members' bills:** **backbenchers**[°](#w-backbencher)' lottery-drawn chances;
   most die, some become landmarks (medical assistance in dying's
   precursors, anthem lyrics — "in all of us command," 2018).
 
@@ -125,7 +111,7 @@ partisanship — and an unresolved question: an appointed chamber
 that takes itself *seriously* is a more assertive rival to the
 Commons, which nobody voted for either. Reform's box canyon
 (Lesson 23): electing it or abolishing it requires the amending
-formula — 7/50 at minimum, unanimity by some readings — i.e.,
+formula — 7/50 at minimum, unanimity by some **readings**[°](#w-reading) — i.e.,
 Meech-tier politics. So Canada iterates on appointment quality
 instead. Pattern recognition, once more: unable to fix the
 structure, improve the occupants.
@@ -145,7 +131,7 @@ The five stages above are the skeleton; here is the flesh:
   criminal-procedure cleanups) — and its committee studies
   (aging, mental health, mass media — the Kirby and Davey
   reports) have repeatedly set national agendas years early.
-- **Hansard** records everything verbatim (the transcript's name
+- **Hansard**[°](#w-hansard) records everything verbatim (the transcript's name
   is British inheritance); committee evidence, votes, and every
   bill's status live publicly on Parliament's LEGISinfo — Canadian
   legislation is genuinely trackable by citizens, and this
@@ -159,7 +145,7 @@ The five stages above are the skeleton; here is the flesh:
 > government; voters choose primarily by party and leader, so the
 > MP's mandate is arguably *to* support the platform; and
 > discipline is what makes minority parliaments navigable
-> (agreements bind because leaders deliver their caucuses). Costs:
+> (agreements bind because leaders deliver their **caucuses**[°](#w-caucus)). Costs:
 > local representation thins, talent chafes, and the Commons can
 > feel like an electoral college that meets daily. When you see a
 > rare broken whip — a government MP voting no — read it as the
@@ -243,6 +229,26 @@ passes — no "the president proposed but Congress disposed" alibi)
 and coalition/minority arrangements actually bind, keeping
 minority parliaments functional (Lesson 27).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-bill"></a>**bill** — a proposed law; a <a id="w-reading"></a>**reading** — each of the formal stages a bill passes through (the names are historical; nobody reads it aloud three times).
+- <a id="w-money-bill"></a>**money bill** — a bill that taxes or spends; must start in the elected Commons.
+- <a id="w-the-speaker"></a>**the Speaker** — the elected referee of Commons debate.
+- <a id="w-question-period-qp"></a>**Question Period ("QP")** — the daily 45 minutes when opposition MPs grill ministers.
+- <a id="w-official-opposition"></a>**Official Opposition** — the largest party not in government; its job is to challenge the government.
+- <a id="w-caucus"></a>**caucus** (KAW-kus) — all the MPs (and senators) of one party, as a group.
+- <a id="w-the-whip-party-discipline"></a>**the whip / party discipline** — the party officer (and the practice) ensuring MPs vote the party line; a <a id="w-free-vote"></a>**free vote** — a rare vote where MPs may choose freely.
+- <a id="w-backbencher"></a>**backbencher** — an ordinary MP with no cabinet job (they sit in the back rows); a <a id="w-private-members-bill"></a>**private member's bill** — a bill proposed by one, not by the government.
+- <a id="w-by-election"></a>**by-election** — an election in a single riding between general elections (e.g., after an MP resigns).
+- <a id="w-the-order-paper"></a>**the Order Paper** — Parliament's official agenda of pending business; bills "die on the Order Paper" when a parliament ends.
+- <a id="w-hansard"></a>**Hansard** (HAN-serd) — the word-for-word official transcript of everything said in Parliament.
+- <a id="w-unicameral"></a>**unicameral** (yoo-nih-KAM-er-ul) — having one legislative chamber (all provinces are; Ottawa has two = **bicameral**).
+- <a id="w-bagman"></a>**bagman** — slang: a party's fundraiser.
 
 ---
 

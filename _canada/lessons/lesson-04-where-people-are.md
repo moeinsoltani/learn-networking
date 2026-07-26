@@ -10,17 +10,7 @@ parent: "Phase 1: The Land"
 
 # Lesson 04: Where the People Are
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **corridor** — a long narrow strip of connected cities; *the* corridor in Canada = Quebec City to Windsor.
-> - **census** (SEN-sus) — the official government count of the population, done every five years in Canada.
-> - **urbanized** — living in cities rather than the countryside; **metro (metropolitan area)** — a big city plus all its suburbs counted together.
-> - **archipelago** (ar-kih-PEL-ah-go) — a group of islands; used here as a picture of Canada's separated "islands" of settlement.
-> - **oligopoly** (ol-ih-GOP-uh-lee) — a market controlled by only a few big companies (Canada's banks, airlines, telecoms).
-> - **Western alienation** (ay-lee-en-AY-shun) — the long-running feeling in western provinces that federal politics ignores them.
-> - **fly-in community** — a remote settlement with no road at all; reachable only by airplane (or winter ice road).
-> - **riding** — Canadian word for an electoral district (a seat in Parliament).
-> - **Gatineau** (GAT-ih-no) — the Quebec city across the river from Ottawa.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,7 +22,7 @@ than half of them live in one short stretch of it.**
 
 ![Population density map of Canada, 2016 census — nearly the whole country under 1 person per square kilometre, with dense pockets hugging the southern border](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Population_Density_Map_of_Canada_%282016%29.png/960px-Population_Density_Map_of_Canada_%282016%29.png)
 
-*Population, honestly drawn (2016 census): the darkest green is **fewer than 1
+*Population, honestly drawn (2016 **census**[°](#w-census)): the darkest green is **fewer than 1
 person per km²** — that's most of the country. The warm-coloured pockets hugging
 the US border are Vancouver, Calgary–Edmonton, Winnipeg, and — brightest of all —
 the ~1,100 km **Quebec City–Windsor corridor** (Toronto, Montreal, Ottawa…)
@@ -40,7 +30,7 @@ holding more than half of all Canadians. Map: [Wikimedia Commons](https://common
 
 The standard statistics: roughly **two-thirds of Canadians live within 100 km
 of the US border**, and the overwhelming majority within about 200 km. Canada
-is also — against its wilderness image — one of the world's most **urbanized**
+is also — against its wilderness image — one of the world's most **urbanized**[°](#w-urbanized)
 countries: over 80% of Canadians live in cities, and about a third in just
 three metros (Toronto, Montreal, Vancouver).
 
@@ -58,9 +48,9 @@ unimaginable emptiness starting an hour's drive north.
   Hamilton) is Canada's Main Street: over half the population, most of the
   manufacturing and finance, the capital, and the two biggest cities, all on
   the Great Lakes–St. Lawrence Lowlands from Lesson 02.
-- The rest of populated Canada is best imagined as an **archipelago** —
+- The rest of populated Canada is best imagined as an **archipelago**[°](#w-archipelago) —
   islands of settlement separated by Shield, mountains, or prairie distance:
-  the Vancouver–Victoria cluster, the Calgary–Edmonton corridor, Winnipeg,
+  the Vancouver–Victoria cluster, the Calgary–Edmonton **corridor**[°](#w-corridor), Winnipeg,
   Saskatoon–Regina, and the Atlantic cities. Between the islands: hours of
   nothing.
 
@@ -69,7 +59,7 @@ unimaginable emptiness starting an hour's drive north.
 Canada's urban hierarchy is unusually top-heavy. Three metros — Toronto,
 Montreal, Vancouver — hold roughly a third of the entire country between them,
 and there is a long gap before the next tier of Calgary, Edmonton, and
-Ottawa–Gatineau, each around a million and a half. After that the drop is
+Ottawa–**Gatineau**[°](#w-gatineau), each around a million and a half. After that the drop is
 steep: no other metro reaches a million and a half. Compare this with a
 country like Germany, where a dozen cities are of broadly similar weight, and
 you can see why Canadian national debates so often turn out to be arguments
@@ -120,9 +110,9 @@ clusters near the crossings.
 ### Consequences you'll meet all course long
 
 - **Politics:** seats follow people, so Ontario + Quebec elect a majority of
-  Parliament — fueling Western alienation (Phases 5, 8).
+  Parliament — fueling **Western alienation**[°](#w-western-alienation) (Phases 5, 8).
 - **Economics:** a handful of city markets + huge service distances = the
-  famous oligopolies (telecom, airlines, banks, groceries) and their prices
+  famous **oligopolies**[°](#w-oligopoly) (telecom, airlines, banks, groceries) and their prices
   (Phase 7).
 - **Housing:** when 80% of a G7 country funnels into a few metros, Toronto
   and Vancouver housing becomes a national obsession (Lesson 40).
@@ -202,6 +192,22 @@ mythology of wilderness and small towns, and the gap between metro Canada,
 rural Canada, and the remote (largely Indigenous) fly-in communities is one of
 the country's deepest dividing lines (Lessons 44 and 47).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-corridor"></a>**corridor** — a long narrow strip of connected cities; *the* corridor in Canada = Quebec City to Windsor.
+- <a id="w-census"></a>**census** (SEN-sus) — the official government count of the population, done every five years in Canada.
+- <a id="w-urbanized"></a>**urbanized** — living in cities rather than the countryside; <a id="w-metro-metropolitan-area"></a>**metro (metropolitan area)** — a big city plus all its suburbs counted together.
+- <a id="w-archipelago"></a>**archipelago** (ar-kih-PEL-ah-go) — a group of islands; used here as a picture of Canada's separated "islands" of settlement.
+- <a id="w-oligopoly"></a>**oligopoly** (ol-ih-GOP-uh-lee) — a market controlled by only a few big companies (Canada's banks, airlines, telecoms).
+- <a id="w-western-alienation"></a>**Western alienation** (ay-lee-en-AY-shun) — the long-running feeling in western provinces that federal politics ignores them.
+- <a id="w-fly-in-community"></a>**fly-in community** — a remote settlement with no road at all; reachable only by airplane (or winter ice road).
+- <a id="w-riding"></a>**riding** — Canadian word for an electoral district (a seat in Parliament).
+- <a id="w-gatineau"></a>**Gatineau** (GAT-ih-no) — the Quebec city across the river from Ottawa.
 
 ---
 

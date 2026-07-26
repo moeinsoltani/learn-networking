@@ -10,33 +10,21 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 12: Rebellion and Responsible Government
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **the executive** — the people who actually run the government (governor, ministers); **the assembly / legislature** — the elected body that passes laws.
-> - **confidence** — here: the ongoing support of a majority of elected members; losing a "confidence vote" means the government must resign or call an election.
-> - **responsible government** — "responsible" = *answerable to* the elected assembly (not "sensible"); the whole lesson defines it.
-> - **clique** (KLEEK) — a small closed group holding power for itself; the **Family Compact** and **Château Clique** (shah-TOH KLEEK) were the ruling cliques of the two colonies.
-> - **Tory** (TOR-ee) — a Conservative, especially a defender of the old privileged order.
-> - **martial law** (MAR-shul) — rule by the army, with normal courts and rights suspended.
-> - **dissolve / dissolution** — formally ending a parliament so an election happens.
-> - **ministry / cabinet** — the group of ministers governing together; **premier** — a head of government (today: of a province).
-> - **reserve / veto a bill** — a governor refusing (or delaying) royal approval so a passed bill does not become law.
-> - **cross the floor** — to leave your party and join the other side.
-> - Names: **Papineau** (pap-ee-NOH), **Patriotes** (pat-ree-OT), **LaFontaine** (lah-fon-TEN), **Elgin** (EL-ghin, hard "g"), **Durham** (DUR-um), **St-Eustache** (sant-oo-STASH), **Yonge Street** (YUNG — Toronto's main street).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 This lesson explains where Canada's *actual operating system* comes from.
 Not the Charter, not Confederation — the deeper rule underneath both:
 **the government must hold the confidence of the elected assembly, or it
-falls.** That's "responsible government," and Canada got it not from a
+falls.** That's "**responsible government**[°](#w-responsible-government)," and Canada got it not from a
 revolution but from two *failed* rebellions, one insulting report, and a
 decade of disciplined parliamentary politics.
 
 The problem, 1791–1837: the Constitutional Act (Lesson 11) gave each Canada
 an elected assembly — but the *executive* (governor and his councils)
 answered to London, not to the assembly. Voters could elect whoever they
-liked; power stayed with appointed cliques:
+liked; power stayed with appointed **cliques**[°](#w-clique):
 
 **Under the broken design**, London appointed the governor, and the governor
 took his advice from appointed councils of local notables. He ran everything.
@@ -50,7 +38,7 @@ and there the grievance was national as well as democratic, since it meant an
 anglophone executive sitting on top of a francophone assembly.
 
 **Under responsible government**, London still appoints the governor, but the
-governor becomes largely ceremonial: he must call on a premier and cabinet,
+governor becomes largely ceremonial: he must call on a **premier**[°](#w-premier) and cabinet,
 and that cabinet holds office *only while it commands a majority in the
 elected assembly*. Lose that majority and the government falls. This is the
 **confidence rule**, and it is still the load-bearing beam of Canadian
@@ -75,7 +63,7 @@ both risings were crushed within weeks. And then came the very Canadian part:
   movement — dominant in the assembly for years, its *92 Resolutions*
   demanding an elected executive rebuffed by London — slid into armed
   revolt in November 1837. Real battles (St-Denis a Patriote victory;
-  St-Charles and St-Eustache crushing defeats), martial law, a second
+  St-Charles and St-Eustache crushing defeats), **martial law**[°](#w-martial-law), a second
   rising in 1838, villages burned, 12 hanged, dozens exiled to Australia.
 - **Upper Canada:** almost farce by comparison — **William Lyon
   Mackenzie** (fiery Toronto newspaperman, the city's first mayor) led a
@@ -122,11 +110,11 @@ Elgin**, who accepted the reformers' ministry.
 
 **The proof test, 1849:** the LaFontaine–Baldwin government passed the
 Rebellion Losses Bill (compensating Lower Canadians — including former
-rebels — for 1837 property damage). Tory Montreal exploded; Elgin was
+rebels — for 1837 property damage). **Tory**[°](#w-tory) Montreal exploded; Elgin was
 pelted; **the mob burned down the Parliament building in Montreal**. Elgin
 loathed the bill — and signed it, because the elected majority had passed
 it. That signature is the moment responsible government became real: the
-Crown's representative bowing to the confidence rule *under maximum
+Crown's representative bowing to the **confidence**[°](#w-confidence) rule *under maximum
 provocation*. (It's also why Montreal stopped being the capital —
 Lesson 01's Ottawa story begins in this fire.)
 
@@ -143,7 +131,7 @@ actually run the country — the prime minister and cabinet — keep their jobs
 only as long as a majority of the politicians we elected keep voting to
 support them.*
 
-Two components carry the weight. First, the executive is **drawn from and sits
+Two components carry the weight. First, **the executive**[°](#w-the-executive) is **drawn from and sits
 in** the elected legislature, rather than being separately elected like a
 president. Second, it holds office **only while it commands the assembly's
 confidence** — lose a confidence vote and you resign or face the voters.
@@ -238,6 +226,24 @@ separation: partnership between the two peoples as the working principle
 of Canadian government — the template Macdonald–Cartier inherit in the
 next lesson, and arguably the country's real founding partnership.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-the-executive"></a>**the executive** — the people who actually run the government (governor, ministers); <a id="w-the-assembly-legislature"></a>**the assembly / legislature** — the elected body that passes laws.
+- <a id="w-confidence"></a>**confidence** — here: the ongoing support of a majority of elected members; losing a "confidence vote" means the government must resign or call an election.
+- <a id="w-responsible-government"></a>**responsible government** — "responsible" = *answerable to* the elected assembly (not "sensible"); the whole lesson defines it.
+- <a id="w-clique"></a>**clique** (KLEEK) — a small closed group holding power for itself; the **Family Compact** and **Château Clique** (shah-TOH KLEEK) were the ruling cliques of the two colonies.
+- <a id="w-tory"></a>**Tory** (TOR-ee) — a Conservative, especially a defender of the old privileged order.
+- <a id="w-martial-law"></a>**martial law** (MAR-shul) — rule by the army, with normal courts and rights suspended.
+- <a id="w-dissolve-dissolution"></a>**dissolve / dissolution** — formally ending a parliament so an election happens.
+- <a id="w-ministry-cabinet"></a>**ministry / cabinet** — the group of ministers governing together; <a id="w-premier"></a>**premier** — a head of government (today: of a province).
+- <a id="w-reserve-veto-a-bill"></a>**reserve / veto a bill** — a governor refusing (or delaying) royal approval so a passed bill does not become law.
+- <a id="w-cross-the-floor"></a>**cross the floor** — to leave your party and join the other side.
+- Names: **Papineau** (pap-ee-NOH), **Patriotes** (pat-ree-OT), **LaFontaine** (lah-fon-TEN), **Elgin** (EL-ghin, hard "g"), **Durham** (DUR-um), **St-Eustache** (sant-oo-STASH), **Yonge Street** (YUNG — Toronto's main street).
 
 ---
 

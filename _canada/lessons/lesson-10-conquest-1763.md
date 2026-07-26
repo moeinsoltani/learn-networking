@@ -10,23 +10,11 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 10: The Conquest and Its Bargain
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **conquest** (KON-kwest) — taking a territory by military force; in Quebec, **la Conquête** (lah kon-KET) means the British conquest of 1759–60 specifically.
-> - **assimilate** — to force a people to abandon their language, religion, and customs and become like the rulers.
-> - **cede / cession** (SEED / SESH-un) — to formally give up territory (usually in a treaty).
-> - **capitulate** (kah-PIT-you-late) — to formally surrender.
-> - **proclamation** — an official public announcement by the Crown with the force of law.
-> - **siege / besieged** (SEEJ / bih-SEEJD) — surrounding a city with an army until it surrenders; **musket** — the long gun of the era.
-> - **test oath** — a religious oath that Catholics could not honestly swear, used to shut them out of public office.
-> - **Magna Carta** (MAG-nah KAR-tah) — England's famous 1215 charter limiting the king's power; used here as a metaphor for a foundational rights document.
-> - **casus belli** (KAH-soos BEL-ee) — Latin: an event used to justify starting a war.
-> - **"Intolerable Acts"** — the American colonists' name for the British laws of 1774 they found unacceptable.
-> - Names: **Wolfe** (WOOLF), **Montcalm** (mont-KAHM), **Louisbourg** (LOO-ee-burg), **Guadeloupe** (gwah-duh-LOOP), **Pontiac** (PON-tee-ak), **Odawa** (oh-DAH-wah), **Sainte-Foy** (sant-FWAH), **Voltaire** (vol-TAIR), **Carleton** (KARL-tun).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Fifteen minutes of musket fire on a field outside Quebec City, September 13,
+Fifteen minutes of **musket**[°](#w-musket) fire on a field outside Quebec City, September 13,
 1759 — and the French empire in North America was finished. But the truly
 Canadian part of the story is what happened *next*: Britain, having
 conquered 70,000 French Catholics, decided **not to assimilate them** — and
@@ -46,11 +34,11 @@ today. Here is the sequence:
 | 1754–63 | The **Seven Years' War** — Britain against France, worldwide; Americans call its North American theatre the French and Indian War |
 | 1755 | The **Acadian deportation** begins (Lesson 08) |
 | 1759 | **Plains of Abraham**: Wolfe defeats Montcalm outside Quebec; both generals die |
-| 1760 | Montreal falls; New France capitulates |
+| 1760 | Montreal falls; New France **capitulates**[°](#w-capitulate) |
 | 1763 | **Treaty of Paris** — France cedes Canada and keeps the sugar island of Guadeloupe instead |
 | 1763 | **Royal Proclamation** — British rule organized, and Indigenous lands west of the mountains formally reserved |
 | 1763–66 | **Pontiac's War** forces Britain to actually honour that reservation |
-| 1774 | **Quebec Act** — the bargain with the Canadiens, and one of America's "Intolerable Acts" |
+| 1774 | **Quebec Act** — the bargain with the Canadiens, and one of America's **"Intolerable Acts"**[°](#w-intolerable-acts) |
 
 One era's two foundational documents — the **Royal Proclamation** for
 Indigenous rights, the **Quebec Act** for French survival — are both still
@@ -75,7 +63,7 @@ on the **Plains of Abraham**. It lasted about a quarter of an hour;
 symbolism. Montreal capitulated in 1760.
 
 Two details worth keeping: the French *won* the rematch at Sainte-Foy in
-1760 (militarily, the Conquest was closer than the myth), and what decided
+1760 (militarily, the **Conquest**[°](#w-conquest) was closer than the myth), and what decided
 Canada's fate was the Royal Navy — the relief fleet that sailed up the
 St. Lawrence in spring 1760 flew British colours. Colonies were won in the
 Atlantic.
@@ -102,13 +90,13 @@ Niagara except Detroit and forced Britain to treat Indigenous nations as
 powers — established the legal doctrine that **Indigenous title exists and
 survives colonization until formally treated away**. It's referenced in
 Section 25 of the Charter and underpins every treaty (Lesson 17) and every
-modern land claim (Lesson 44). Canadians call it the "Indian Magna Carta";
+modern land claim (Lesson 44). Canadians call it the "Indian **Magna Carta**[°](#w-magna-carta)";
 American colonists called it an outrage against their westward speculation —
 count it among the causes of their revolution.
 
 ### Reading the Proclamation's key sentence
 
-The Proclamation's central clause is worth reading in the original, slowly,
+The **Proclamation's**[°](#w-proclamation) central clause is worth reading in the original, slowly,
 because Canadian land law has been arguing with it for 260 years:
 
 > "And whereas it is just and reasonable, and essential to our Interest, and
@@ -151,7 +139,7 @@ neutral) Quebec required accommodation. The Quebec Act:
   criminal law remained) — the ancestor of Quebec's Civil Code today
   (Lesson 30);
 - **Guaranteed free practice of Catholicism** and allowed the Church its
-  tithes — and replaced the anti-Catholic test oath, letting Catholics hold
+  tithes — and replaced the anti-Catholic **test oath**[°](#w-test-oath), letting Catholics hold
   office (decades before Britain itself emancipated Catholics);
 - **Kept the seigneurial system** (Lesson 08);
 - Extended Quebec's boundaries deep into the Ohio country;
@@ -164,7 +152,7 @@ Revolution invaded Canada in 1775–76, the Canadiens largely declined to
 rise, and Quebec stayed British. The Americans, meanwhile, listed the
 Quebec Act among the **Intolerable Acts** — established popery and arbitrary
 government on their flank. The same law: Canada's founding accommodation,
-America's casus belli. You will rarely find the two countries'
+America's **casus belli**[°](#w-casus-belli). You will rarely find the two countries'
 political cultures diverging more legibly.
 
 ### Why Quebec is "still on about 1759"
@@ -297,6 +285,24 @@ western land speculation blocked — helping push the colonies to revolution.
 The same statute is a founding accommodation in one national story and a
 tyranny in the other.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-conquest"></a>**conquest** (KON-kwest) — taking a territory by military force; in Quebec, **la Conquête** (lah kon-KET) means the British conquest of 1759–60 specifically.
+- <a id="w-assimilate"></a>**assimilate** — to force a people to abandon their language, religion, and customs and become like the rulers.
+- <a id="w-cede-cession"></a>**cede / cession** (SEED / SESH-un) — to formally give up territory (usually in a treaty).
+- <a id="w-capitulate"></a>**capitulate** (kah-PIT-you-late) — to formally surrender.
+- <a id="w-proclamation"></a>**proclamation** — an official public announcement by the Crown with the force of law.
+- <a id="w-siege-besieged"></a>**siege / besieged** (SEEJ / bih-SEEJD) — surrounding a city with an army until it surrenders; <a id="w-musket"></a>**musket** — the long gun of the era.
+- <a id="w-test-oath"></a>**test oath** — a religious oath that Catholics could not honestly swear, used to shut them out of public office.
+- <a id="w-magna-carta"></a>**Magna Carta** (MAG-nah KAR-tah) — England's famous 1215 charter limiting the king's power; used here as a metaphor for a foundational rights document.
+- <a id="w-casus-belli"></a>**casus belli** (KAH-soos BEL-ee) — Latin: an event used to justify starting a war.
+- <a id="w-intolerable-acts"></a>**"Intolerable Acts"** — the American colonists' name for the British laws of 1774 they found unacceptable.
+- Names: **Wolfe** (WOOLF), **Montcalm** (mont-KAHM), **Louisbourg** (LOO-ee-burg), **Guadeloupe** (gwah-duh-LOOP), **Pontiac** (PON-tee-ak), **Odawa** (oh-DAH-wah), **Sainte-Foy** (sant-FWAH), **Voltaire** (vol-TAIR), **Carleton** (KARL-tun).
 
 ---
 

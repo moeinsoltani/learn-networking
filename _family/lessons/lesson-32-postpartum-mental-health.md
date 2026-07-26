@@ -15,14 +15,7 @@ parent: "Phase 7: Recovery & the New Family"
 > **common and treatable** — seeking help is a strength. **Thoughts of harming
 > yourself or the baby, or losing touch with reality, need urgent help now.**
 
-{: .note }
-> **Words to know**
-> - **baby blues** — brief, common low mood/tearfulness in the first ~2 weeks after birth.
-> - **postpartum depression (PPD)** — a longer, more serious depression after birth; common and treatable.
-> - **postpartum anxiety** — intense, persistent worry/panic after birth.
-> - **postpartum psychosis** — a rare, serious emergency (confusion, hallucinations, losing touch with reality).
-> - **paternal PPD** — depression in the non-birthing partner (yes, it happens).
-> - **perinatal** — during pregnancy and the first year after birth.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -40,7 +33,7 @@ these conditions are **treatable**, and reaching out early helps everyone.
 These two get confused constantly, and the difference matters enormously, because
 one resolves on its own and the other needs treatment.
 
-The distinguishing feature is **time**, more than intensity. The baby blues arrive
+The distinguishing feature is **time**, more than intensity. The **baby blues**[°](#w-baby-blues) arrive
 in the first few days, peak around day three to five, and lift within about two
 weeks — they are tearfulness and emotional swings on a background of hormonal
 upheaval and no sleep. Postpartum depression and anxiety can begin any time in the
@@ -64,7 +57,7 @@ therapy, support, sometimes medication that can be compatible with breastfeeding
 
 ### It is NOT a failure or "being a bad parent"
 
-PPD and postpartum anxiety are **medical conditions**, not weakness, not a verdict
+PPD and **postpartum anxiety**[°](#w-postpartum-anxiety) are **medical conditions**, not weakness, not a verdict
 on your love for your baby. Many wonderful parents experience them. Shame keeps
 people silent; the antidote is naming it as normal and getting help early.
 
@@ -163,6 +156,19 @@ Yes — <strong>partners can develop depression or anxiety</strong> after a baby
 (paternal/partner PPD is real and under-recognised). Both partners should mind their
 own mental health and watch for signs in each other.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-baby-blues"></a>**baby blues** — brief, common low mood/tearfulness in the first ~2 weeks after birth.
+- <a id="w-postpartum-depression-ppd"></a>**postpartum depression (PPD)** — a longer, more serious depression after birth; common and treatable.
+- <a id="w-postpartum-anxiety"></a>**postpartum anxiety** — intense, persistent worry/panic after birth.
+- <a id="w-postpartum-psychosis"></a>**postpartum psychosis** — a rare, serious emergency (confusion, hallucinations, losing touch with reality).
+- <a id="w-paternal-ppd"></a>**paternal PPD** — depression in the non-birthing partner (yes, it happens).
+- <a id="w-perinatal"></a>**perinatal** — during pregnancy and the first year after birth.
 
 ---
 

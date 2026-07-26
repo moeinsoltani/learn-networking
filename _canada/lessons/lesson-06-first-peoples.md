@@ -10,27 +10,7 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 06: The First Peoples
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **pre-contact** — the time *before* Europeans arrived in the Americas ("contact" = the first meetings between Indigenous peoples and Europeans).
-> - **Indigenous** (in-DIJ-uh-nus) — the peoples who were here first, before any settlers. In Canada it is an umbrella word covering three groups (below), never the name of a single culture.
-> - **confederacy** (kun-FED-er-uh-see) — a group of separate nations that join together under one shared council, while each keeps its own identity.
-> - **Inuit** (say: IN-oo-it) — the Indigenous people of the Arctic. One person is an **Inuk** (EE-nook). Their language is **Inuktitut** (ih-NOOK-tih-toot).
-> - **Métis** (may-TEE — French spelling, the "s" is silent) — a distinct nation descended from First Nations mothers and European fur-trader fathers. Their language is **Michif** (mee-SHIF).
-> - **Haudenosaunee** (hoe-dee-no-SHOW-nee) — "People of the Longhouse"; the confederacy also called the **Iroquois** (EAR-uh-kwah).
-> - **Anishinaabe** (ah-nish-ih-NAH-beh) — the people also known as **Ojibwe** (oh-JIB-way).
-> - **Mi'kmaq** (MIG-mah) — the First Nation of the Atlantic region. **Haida** (HY-dah) — the seafaring nation of Haida Gwaii, islands off the Pacific coast. **Cree** (KREE) — the largest and most widespread First Nation. **Dene** (DEH-neh) — the nations of the northern forests of the Northwest Territories and the western Subarctic. **Blackfoot** (BLAK-foot) — the confederacy of bison-hunting nations of the southern Alberta plains. **Wendat/Huron** (WEN-dat / HYUR-on) — farming nations of what is now southern Ontario.
-> - **the Prairies** (PRAIR-eez) — Canada's three flat, grassland provinces in the middle of the country: Manitoba, Saskatchewan, Alberta (Lesson 02). "Prairie" is just the French word for grassland.
-> - **boreal** (BORE-ee-ul) — from *Boreas*, the Greek god of the north wind; it simply means "northern." The **boreal forest** is the enormous belt of evergreen trees (spruce, pine, fir) that stretches right across northern Canada.
-> - **treeline** — the northern limit beyond which it is too cold for trees to grow. North of it is **tundra**: open, treeless ground.
-> - **obsidian** (ob-SID-ee-un) — a natural black volcanic glass. Chipped, it takes a razor edge, so it was prized for blades and traded over enormous distances — which is how archaeologists can trace ancient trade routes.
-> - **sedentary** (SED-en-tair-ee) — living permanently in one place (the opposite of moving with the seasons).
-> - **matrilineal** (mat-rih-LIN-ee-ul) — family membership and inheritance passed down through the *mother's* side.
-> - **potlatch** (POT-latch) — a Pacific-coast ceremony where a leader gains status by *giving away* wealth, not keeping it.
-> - **wampum** (WAHM-pum) — belts of shell beads whose patterns recorded treaties and laws; a physical record for an oral tradition.
-> - **oral tradition** — history, law, and knowledge passed on by trained speech and memory instead of writing.
-> - **polity** (POL-ih-tee) — a formal word for any organized political unit (a nation, state, or confederacy).
-> - **unceded** (un-SEE-ded) — land that was never given up by treaty or lost in war.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -41,23 +21,23 @@ unrelated language *families* — more linguistic diversity than Europe),
 different economies, different political systems, and often no more in common
 with each other than Portugal has with Finland.
 
-The essential correction to make in your head right now: "Indigenous" is a
-category like "European," not a culture. A Haida carver on the Pacific coast,
-a Cree hunter in the boreal forest, a Mohawk farmer-diplomat in the eastern
+The essential correction to make in your head right now: "**Indigenous**[°](#w-indigenous)" is a
+category like "European," not a culture. A **Haida**[°](#w-haida) carver on the Pacific coast,
+a **Cree**[°](#w-cree) hunter in the **boreal**[°](#w-boreal) forest, a Mohawk farmer-diplomat in the eastern
 woodlands, and an Inuk seal hunter on Baffin Island lived in worlds as
 different from one another as any four peoples on Earth.
 
 If "Indigenous" is an umbrella, it helps to know what is under it, because
 Canadian law puts three groups there. Section 35 of the Constitution Act,
 1982 — the section that recognizes and affirms Aboriginal rights — names
-"the Indian, Inuit and Métis peoples of Canada." Those three are the
+"the Indian, **Inuit**[°](#w-inuit) and **Métis**[°](#w-metis) peoples of Canada." Those three are the
 groupings you will meet in every news story, land claim, and government
 program for the rest of this course:
 
 - **First Nations** are the many nations who lived mostly *south* of the
-  treeline: today more than 600 communities (called "bands" in the law)
-  speaking around 50 languages — Cree, Ojibwe/Anishinaabe, Mohawk, Mi'kmaq,
-  Haida, Dene, Blackfoot and hundreds more. This is by far the largest and
+  **treeline**[°](#w-treeline): today more than 600 communities (called "bands" in the law)
+  speaking around 50 languages — Cree, Ojibwe/**Anishinaabe**[°](#w-anishinaabe), Mohawk, **Mi'kmaq**[°](#w-mikmaq),
+  Haida, **Dene**[°](#w-dene), **Blackfoot**[°](#w-blackfoot) and hundreds more. This is by far the largest and
   most internally varied of the three.
 - **Inuit** are the people of the Arctic, *north* of the treeline, across the
   tundra and coasts from the Yukon to Labrador. They share one language
@@ -67,7 +47,7 @@ program for the rest of this course:
   contact. They descend from the fur-trade marriages of First Nations women
   and European (largely French and Scottish) traders, and grew into a people
   with their own language (Michif), their own culture, and a homeland centred
-  on the Red River and the Prairies.
+  on the Red River and **the Prairies**[°](#w-the-prairies).
 
 {: .note }
 > **Why does the Constitution say "Indian"?**
@@ -122,10 +102,10 @@ With that in mind, here are the main cultural regions and who lived in them:
 
 | Region | Peoples (examples) | Way of life |
 |---|---|---|
-| **Pacific Northwest coast** | Haida, Tsimshian, Nuu-chah-nulth, Coast Salish | The salmon economy — dense, *sedentary* villages without agriculture; cedar plank houses, ocean canoes, totem poles, and the **potlatch** (status through giving, later banned by Canada — Lesson 17) |
+| **Pacific Northwest coast** | Haida, Tsimshian, Nuu-chah-nulth, Coast Salish | The salmon economy — dense, *sedentary*[°](#w-sedentary) villages without agriculture; cedar plank houses, ocean canoes, totem poles, and the **potlatch**[°](#w-potlatch) (status through giving, later banned by Canada — Lesson 17) |
 | **Plateau & Cordillera interior** | Interior Salish, Dakelh | Salmon rivers plus hunting, between mountain ranges |
-| **Plains** | Blackfoot Confederacy, Plains Cree, Assiniboine | Bison culture: mobile, tipi-based, organized around the herds (communal hunts like Head-Smashed-In Buffalo Jump ran for 5,000+ years); transformed by the horse in the 1700s |
-| **Eastern Woodlands (farmers)** | **Haudenosaunee** (Mohawk, Oneida, Onondaga, Cayuga, Seneca — later Tuscarora), Wendat (Huron) | Agriculture — corn, beans, squash, the "Three Sisters" — supporting towns of longhouses; sophisticated confederacy politics; *matrilineal* clans where clan mothers chose (and could depose) chiefs |
+| **Plains** | Blackfoot **Confederacy**[°](#w-confederacy), Plains Cree, Assiniboine | Bison culture: mobile, tipi-based, organized around the herds (communal hunts like Head-Smashed-In Buffalo Jump ran for 5,000+ years); transformed by the horse in the 1700s |
+| **Eastern Woodlands (farmers)** | **Haudenosaunee**[°](#w-haudenosaunee) (Mohawk, Oneida, Onondaga, Cayuga, Seneca — later Tuscarora), Wendat (Huron) | Agriculture — corn, beans, squash, the "Three Sisters" — supporting towns of longhouses; sophisticated confederacy politics; *matrilineal*[°](#w-matrilineal) clans where clan mothers chose (and could depose) chiefs |
 | **Eastern Woodlands & Subarctic (hunters)** | Cree, Ojibwe (Anishinaabe), Innu, Dene, Mi'kmaq | Mobile hunting, fishing, and trapping across the boreal forest — the peoples who would become the fur trade's indispensable partners |
 | **Arctic** | **Inuit** | Sea-mammal hunting (seal, whale, walrus) plus caribou; technologies of genius for the hardest climate on Earth — the kayak, the igloo, the qulliq (oil lamp), tailored skin clothing |
 
@@ -148,7 +128,7 @@ continuously operating political systems in the world. When you reach the
 arguments about federalism in Phase 5, remember that Canadians were not
 inventing power-sharing on this continent — they were late to it.
 
-The Great Law survives as oral tradition, later written down. Its founding
+The Great Law survives as **oral tradition**[°](#w-oral-tradition), later written down. Its founding
 moment reads like this:
 
 > "I, Dekanawidah, and the confederated chiefs now uproot the tallest pine
@@ -159,7 +139,7 @@ That is a *constitution*: a founding text creating a federation, with
 institutions (the council fire, the roll of fifty chiefs), procedures
 (consensus, and condolence ceremonies to replace a chief who dies), and a
 founding story — burying the weapons beneath the Tree of Peace. It was
-transmitted by trained memory with professional precision, with **wampum**
+transmitted by trained memory with professional precision, with **wampum**[°](#w-wampum)
 belts serving as the physical record of each agreement. This is why
 historians avoid the word "prehistory" for this period: "prehistory" implies
 nothing happened until Europeans wrote it down, which gets the situation
@@ -167,7 +147,7 @@ exactly backwards.
 
 **Trade.** Goods moved across the continent long before any European road
 existed. Pacific shells reached the Prairies; copper from Lake Superior
-reached the Atlantic; obsidian travelled across whole mountain ranges. This
+reached the Atlantic; **obsidian**[°](#w-obsidian) travelled across whole mountain ranges. This
 matters practically: when the fur trade arrived, it did not build a
 transportation network. It plugged into one that had been running for
 millennia, along the same rivers and portages.
@@ -181,7 +161,7 @@ Lessons 17 and 44.
 
 ### Population, and what to call people
 
-Estimates for the pre-contact population of what is now Canada range from
+Estimates for the **pre-contact**[°](#w-pre-contact) population of what is now Canada range from
 roughly 200,000 to over two million. What is certain is that European diseases
 — smallpox above all — later killed a large majority, in some regions ninety
 per cent. Keep that in mind every time you meet the claim that Europeans found
@@ -199,7 +179,7 @@ viewpoint where there are many nations with different — sometimes directly
 opposing — interests. On a given pipeline, one First Nation may be an equity
 partner while its neighbour is in court fighting it. Name the specific nation
 or organization instead, and treat disagreement among Indigenous nations as
-ordinary politics between polities, exactly as you would among European
+ordinary politics between **polities**[°](#w-polity), exactly as you would among European
 states.
 
 ### Whose land are you on?
@@ -208,7 +188,7 @@ One habit you will meet immediately in Canada is the **land acknowledgement**:
 meetings, concerts, and school assemblies often open by naming the nation
 whose territory the venue sits on. It is worth knowing that this is not
 purely ceremonial language. In much of British Columbia, including Vancouver,
-no historic treaty was ever signed, so the land is legally **unceded** — never
+no historic treaty was ever signed, so the land is legally **unceded**[°](#w-unceded) — never
 surrendered by treaty, never taken by conquest — which is why institutions
 there say "the unceded territories of the Musqueam, Squamish and
 Tsleil-Waututh." That is a description of an unresolved legal fact. Elsewhere,
@@ -301,6 +281,32 @@ so societies organized for mobility: portable tipis, flexible bands that
 massed for communal hunts and dispersed afterwards. Societies shape themselves
 around how their calories move.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-pre-contact"></a>**pre-contact** — the time *before* Europeans arrived in the Americas ("contact" = the first meetings between Indigenous peoples and Europeans).
+- <a id="w-indigenous"></a>**Indigenous** (in-DIJ-uh-nus) — the peoples who were here first, before any settlers. In Canada it is an umbrella word covering three groups (below), never the name of a single culture.
+- <a id="w-confederacy"></a>**confederacy** (kun-FED-er-uh-see) — a group of separate nations that join together under one shared council, while each keeps its own identity.
+- <a id="w-inuit"></a>**Inuit** (say: IN-oo-it) — the Indigenous people of the Arctic. One person is an **Inuk** (EE-nook). Their language is **Inuktitut** (ih-NOOK-tih-toot).
+- <a id="w-metis"></a>**Métis** (may-TEE — French spelling, the "s" is silent) — a distinct nation descended from First Nations mothers and European fur-trader fathers. Their language is **Michif** (mee-SHIF).
+- <a id="w-haudenosaunee"></a>**Haudenosaunee** (hoe-dee-no-SHOW-nee) — "People of the Longhouse"; the confederacy also called the **Iroquois** (EAR-uh-kwah).
+- <a id="w-anishinaabe"></a>**Anishinaabe** (ah-nish-ih-NAH-beh) — the people also known as **Ojibwe** (oh-JIB-way).
+- <a id="w-mikmaq"></a>**Mi'kmaq** (MIG-mah) — the First Nation of the Atlantic region. <a id="w-haida"></a>**Haida** (HY-dah) — the seafaring nation of Haida Gwaii, islands off the Pacific coast. <a id="w-cree"></a>**Cree** (KREE) — the largest and most widespread First Nation. <a id="w-dene"></a>**Dene** (DEH-neh) — the nations of the northern forests of the Northwest Territories and the western Subarctic. <a id="w-blackfoot"></a>**Blackfoot** (BLAK-foot) — the confederacy of bison-hunting nations of the southern Alberta plains. <a id="w-wendat-huron"></a>**Wendat/Huron** (WEN-dat / HYUR-on) — farming nations of what is now southern Ontario.
+- <a id="w-the-prairies"></a>**the Prairies** (PRAIR-eez) — Canada's three flat, grassland provinces in the middle of the country: Manitoba, Saskatchewan, Alberta (Lesson 02). "Prairie" is just the French word for grassland.
+- <a id="w-boreal"></a>**boreal** (BORE-ee-ul) — from *Boreas*, the Greek god of the north wind; it simply means "northern." The **boreal forest** is the enormous belt of evergreen trees (spruce, pine, fir) that stretches right across northern Canada.
+- <a id="w-treeline"></a>**treeline** — the northern limit beyond which it is too cold for trees to grow. North of it is **tundra**: open, treeless ground.
+- <a id="w-obsidian"></a>**obsidian** (ob-SID-ee-un) — a natural black volcanic glass. Chipped, it takes a razor edge, so it was prized for blades and traded over enormous distances — which is how archaeologists can trace ancient trade routes.
+- <a id="w-sedentary"></a>**sedentary** (SED-en-tair-ee) — living permanently in one place (the opposite of moving with the seasons).
+- <a id="w-matrilineal"></a>**matrilineal** (mat-rih-LIN-ee-ul) — family membership and inheritance passed down through the *mother's* side.
+- <a id="w-potlatch"></a>**potlatch** (POT-latch) — a Pacific-coast ceremony where a leader gains status by *giving away* wealth, not keeping it.
+- <a id="w-wampum"></a>**wampum** (WAHM-pum) — belts of shell beads whose patterns recorded treaties and laws; a physical record for an oral tradition.
+- <a id="w-oral-tradition"></a>**oral tradition** — history, law, and knowledge passed on by trained speech and memory instead of writing.
+- <a id="w-polity"></a>**polity** (POL-ih-tee) — a formal word for any organized political unit (a nation, state, or confederacy).
+- <a id="w-unceded"></a>**unceded** (un-SEE-ded) — land that was never given up by treaty or lost in war.
 
 ---
 

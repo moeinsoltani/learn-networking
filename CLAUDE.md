@@ -142,7 +142,14 @@ accordingly, and new/edited lessons in them **must follow these rules**:
   pattern the table illustrates, and defer only the *details* to the table. A
   `### Heading` immediately followed by `| Column |` is exactly the thing the
   student objected to.
-- **Define every unusual word in the "Words to know" box**, including ordinary
+- **The glossary lives in the footer, not the top.** Each lesson ends with a
+  `## Words to Know` section; the first mention of each term in the body is bolded
+  and carries a small `[°](#w-slug)` link down to its entry, and each entry is
+  anchored with `<a id="w-slug"></a>` before the bolded term. A one-line italic
+  pointer sits under the H1 (in `family`, under the `{: .important }` disclaimer)
+  explaining the ° convention. Multi-term bullets need one anchor **per term**, or
+  the links break.
+- **Define every unusual word in that box**, including ordinary
   English words a non-native reader may not know (boreal, prairie, obsidian) and
   every proper name used in the body (Haida, Dene, Blackfoot — the box must cover
   *all* of them, not a sample).

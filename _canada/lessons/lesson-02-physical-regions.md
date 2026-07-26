@@ -10,24 +10,12 @@ parent: "Phase 1: The Land"
 
 # Lesson 02: Physical Regions
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **physical region** — a large area of land defined by its landscape (rock, soil, mountains), not by political borders.
-> - **Canadian Shield** — the huge horseshoe of ancient bare rock around Hudson Bay; "shield" here is a geology term, not a real shield.
-> - **Cordillera** (kor-dih-YAIR-ah) — a system of parallel mountain ranges; **Appalachian** (ap-uh-LAY-chun) — the old, worn-down mountains of the east.
-> - **archipelago** (ar-kih-PEL-ah-go) — a group of many islands.
-> - **igneous rock** (IG-nee-us) — rock formed from cooled molten material; the oldest, hardest kind.
-> - **glacier** (GLAY-sher) — a slow-moving mass of ice; in the ice ages, glaciers covered Canada and scraped the land.
-> - **fertile** — good for growing crops; **eroded** — worn down slowly by wind, water, or ice.
-> - **navigable** (NAV-ih-guh-bul) — deep and calm enough for ships to travel on.
-> - **boreal forest** (BORE-ee-ul) — the belt of northern evergreen forest; **tundra** (TUN-drah) — cold treeless plains; **muskeg** (MUSS-keg) — northern swampy bog.
-> - **permafrost** — ground that stays frozen all year (Lesson 03 covers it fully).
-> - **hydro / hydroelectricity** — electricity made from falling water; Canadians say "hydro" to mean electric power in general.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Canada is not one landscape; it's **seven**, and each one dictated what humans
-could do on it. Learn the seven physical regions and you get, for free, the
+could do on it. Learn the seven **physical regions**[°](#w-physical-region) and you get, for free, the
 logic of where cities grew, what each province sells, and why the population
 map looks the way it does.
 
@@ -35,11 +23,11 @@ map looks the way it does.
 
 *The seven regions, highlighted (boundaries approximate — made for this
 lesson): the **Western Cordillera**'s mountain wall (purple), the flat
-**Interior Plains** (yellow), the **Canadian Shield** horseshoe wrapping
+**Interior Plains** (yellow), the **Canadian Shield**[°](#w-canadian-shield) horseshoe wrapping
 Hudson Bay (red — note it appears on *both* sides of the bay), the low,
 swampy **Hudson Bay Lowlands** at the bay's southern rim (teal), the tiny
 **Great Lakes–St. Lawrence Lowlands** (green — most Canadians live in that
-little patch), the worn **Appalachian** hills of the Atlantic provinces
+little patch), the worn **Appalachian**[°](#w-appalachian) hills of the Atlantic provinces
 (orange), and the **Arctic Archipelago** across the top (blue). Base relief
 map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canada_relief_map_2.svg).*
 
@@ -61,33 +49,33 @@ each one hands its inhabitants a single, obvious way to make a living, and
 that living then shapes the province's politics.
 
 Three of them are essentially **unusable**: the Canadian Shield is bare rock,
-the Hudson Bay Lowlands are bog, and the Arctic Archipelago is tundra and sea
+the Hudson Bay Lowlands are bog, and the Arctic **Archipelago**[°](#w-archipelago) is **tundra**[°](#w-tundra) and sea
 ice. Together they are most of Canada's map and almost none of its population.
 Two more are **difficult but valuable**: the Appalachian region of the east has
 poor soil but magnificent harbours, so its people turned to the sea; the
-Western Cordillera is too vertical to farm but heavy with forest, minerals, and
+Western **Cordillera**[°](#w-cordillera) is too vertical to farm but heavy with forest, minerals, and
 salmon. That leaves two **generous** regions: the Interior Plains, flat and
-fertile enough to grow grain and, as it turned out, sitting on oil; and the
+**fertile**[°](#w-fertile) enough to grow grain and, as it turned out, sitting on oil; and the
 small Great Lakes–St. Lawrence Lowlands, which has the best soil, the mildest
-weather, and a navigable route to the ocean all at once.
+weather, and a **navigable**[°](#w-navigable) route to the ocean all at once.
 
 Read the table with that grouping in mind — the last column is the one that
 explains modern Canada.
 
 | Region | Where | Land | Human consequence |
 |---|---|---|---|
-| **Canadian Shield** | Horseshoe around Hudson Bay: most of QC, ON's north, MB/SK/NT edges, Labrador | Ancient igneous rock, thin soil, endless lakes and boreal forest | Nearly useless for farming → almost empty; spectacularly rich in **minerals** (nickel, gold, copper, uranium) and **hydro** → mining towns (Sudbury, Timmins) and dams |
+| **Canadian Shield** | Horseshoe around Hudson Bay: most of QC, ON's north, MB/SK/NT edges, Labrador | Ancient **igneous rock**[°](#w-igneous-rock), thin soil, endless lakes and **boreal forest**[°](#w-boreal-forest) | Nearly useless for farming → almost empty; spectacularly rich in **minerals** (nickel, gold, copper, uranium) and **hydro** → mining towns (Sudbury, Timmins) and dams |
 | **Great Lakes–St. Lawrence Lowlands** | Windsor→Quebec City strip | Flat, fertile, mild (for Canada), water highway | Best farmland + best transport → **the population and industrial core**: Toronto, Montreal, Ottawa, Hamilton |
-| **Appalachian** | The Maritimes, NL island, southern QC edge | Old, eroded mountains; thin soils; superb harbours | Farming poor, so life faced the **sea**: fishing, shipbuilding, ports (Halifax, St. John's) |
+| **Appalachian** | The Maritimes, NL island, southern QC edge | Old, **eroded**[°](#w-eroded) mountains; thin soils; superb harbours | Farming poor, so life faced the **sea**: fishing, shipbuilding, ports (Halifax, St. John's) |
 | **Interior Plains** | MB–SK–AB between Shield and Rockies | Flat-to-rolling grassland; fertile but dry; brutal winters | **Wheat and canola** (once the fur trade's prairie), then **oil and gas** beneath (Alberta) |
 | **Western Cordillera** | BC and Yukon | Young, high mountain ranges (Rockies, Coast Mountains); rainforest coast | Farming scarce → **forestry, mining, salmon**; population squeezed into valleys and the Vancouver delta |
-| **Hudson Bay Lowlands** | Swampy rim south of Hudson Bay | Muskeg (bog), permafrost patches | Nearly uninhabited; polar bears outnumber people near Churchill |
+| **Hudson Bay Lowlands** | Swampy rim south of Hudson Bay | **Muskeg**[°](#w-muskeg) (bog), **permafrost**[°](#w-permafrost) patches | Nearly uninhabited; polar bears outnumber people near Churchill |
 | **Arctic Archipelago & tundra** | Nunavut, NT's north, northern QC/Labrador coasts | Tundra, permafrost, sea ice; no trees | Inuit homeland; tiny fly-in communities; Lesson 03's subject |
 
 ### Why the Shield matters more than its emptiness suggests
 
 The Shield is Canada's vault. Its rock is among the oldest on Earth, scraped
-bare by glaciers that dumped the topsoil *southward* (Ontario's and the US
+bare by **glaciers**[°](#w-glacier) that dumped the topsoil *southward* (Ontario's and the US
 Midwest's farms are, in a sense, made of the Shield's stolen soil). What the
 glaciers left: exposed mineral riches, and a drainage-scrambled landscape of
 **two million lakes** feeding rivers ideal for hydroelectricity. Mining and
@@ -196,6 +184,24 @@ Lakes, which made it the corridor for trade, immigration, and industry. Dense
 population then compounds politically: more people → more parliamentary seats →
 more attention (Phase 5's federalism lessons pick up the grievance).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-physical-region"></a>**physical region** — a large area of land defined by its landscape (rock, soil, mountains), not by political borders.
+- <a id="w-canadian-shield"></a>**Canadian Shield** — the huge horseshoe of ancient bare rock around Hudson Bay; "shield" here is a geology term, not a real shield.
+- <a id="w-cordillera"></a>**Cordillera** (kor-dih-YAIR-ah) — a system of parallel mountain ranges; <a id="w-appalachian"></a>**Appalachian** (ap-uh-LAY-chun) — the old, worn-down mountains of the east.
+- <a id="w-archipelago"></a>**archipelago** (ar-kih-PEL-ah-go) — a group of many islands.
+- <a id="w-igneous-rock"></a>**igneous rock** (IG-nee-us) — rock formed from cooled molten material; the oldest, hardest kind.
+- <a id="w-glacier"></a>**glacier** (GLAY-sher) — a slow-moving mass of ice; in the ice ages, glaciers covered Canada and scraped the land.
+- <a id="w-fertile"></a>**fertile** — good for growing crops; <a id="w-eroded"></a>**eroded** — worn down slowly by wind, water, or ice.
+- <a id="w-navigable"></a>**navigable** (NAV-ih-guh-bul) — deep and calm enough for ships to travel on.
+- <a id="w-boreal-forest"></a>**boreal forest** (BORE-ee-ul) — the belt of northern evergreen forest; <a id="w-tundra"></a>**tundra** (TUN-drah) — cold treeless plains; <a id="w-muskeg"></a>**muskeg** (MUSS-keg) — northern swampy bog.
+- <a id="w-permafrost"></a>**permafrost** — ground that stays frozen all year (Lesson 03 covers it fully).
+- <a id="w-hydro-hydroelectricity"></a>**hydro / hydroelectricity** — electricity made from falling water; Canadians say "hydro" to mean electric power in general.
 
 ---
 

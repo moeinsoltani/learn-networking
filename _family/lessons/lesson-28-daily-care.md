@@ -14,20 +14,13 @@ parent: "Phase 6: The Newborn"
 > General education, not medical advice. When something about your baby's skin,
 > cord, or care worries you, ask your provider — and see Lesson 30 for red flags.
 
-{: .note }
-> **Words to know**
-> - **umbilical cord stump** — the small remainder of the cord; it dries and falls off in ~1–3 weeks.
-> - **diaper rash** — sore, red skin in the diaper area; usually preventable and treatable.
-> - **sponge bath** — washing with a damp cloth (used until the cord falls off).
-> - **cradle cap** — flaky, scaly patches on the scalp; harmless and common.
-> - **baby acne** — small bumps on a newborn's face; harmless and passes.
-> - **fontanelle** — a soft spot on the head; handle gently, but it's tougher than it looks.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 The daily-care basics — **diapering, bathing, cord care, dressing, and handling** —
 are quickly learned and soon become second nature. Most of it is simpler than new
-parents fear, and many "problems" (dry skin, baby acne, cradle cap) are **normal and
+parents fear, and many "problems" (dry skin, **baby acne**[°](#w-baby-acne), **cradle cap**[°](#w-cradle-cap)) are **normal and
 self-resolving**. This lesson gives you the confidence to handle the everyday
 looking-after without second-guessing every step.
 
@@ -45,7 +38,7 @@ blistering, or not improving. The **cord stump** should be kept outside the diap
 ### Bathing
 
 Newborns don't need daily baths — **2–3 times a week** is plenty (more drying is
-worse for their skin). Until the **cord stump falls off**, stick to **sponge baths**.
+worse for their skin). Until the **cord stump falls off**, stick to **sponge baths**[°](#w-sponge-bath).
 Then:
 
 - Use **warm (not hot) water** — test with your elbow/wrist — and support the head
@@ -148,6 +141,19 @@ falls off on its own in ~1–3 weeks. Call the provider for signs of
 Any two: <strong>cradle cap</strong> (flaky scalp patches), <strong>baby acne</strong>,
 and <strong>dry/peeling skin</strong> — all common, harmless, and self-resolving.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-umbilical-cord-stump"></a>**umbilical cord stump** — the small remainder of the cord; it dries and falls off in ~1–3 weeks.
+- <a id="w-diaper-rash"></a>**diaper rash** — sore, red skin in the diaper area; usually preventable and treatable.
+- <a id="w-sponge-bath"></a>**sponge bath** — washing with a damp cloth (used until the cord falls off).
+- <a id="w-cradle-cap"></a>**cradle cap** — flaky, scaly patches on the scalp; harmless and common.
+- <a id="w-baby-acne"></a>**baby acne** — small bumps on a newborn's face; harmless and passes.
+- <a id="w-fontanelle"></a>**fontanelle** — a soft spot on the head; handle gently, but it's tougher than it looks.
 
 ---
 

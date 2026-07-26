@@ -10,27 +10,14 @@ parent: "Phase 6: Civic Life"
 
 # Lesson 34: The Social Safety Net
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **safety net** — the set of programs that catch people when life goes wrong (job loss, illness, old age).
-> - **income-tested / means-tested** — a benefit that shrinks as your income rises; a **clawback** — the reduction itself (OAS is "clawed back" at high incomes).
-> - **universality** — a program covering everyone regardless of income; **free at point of use** — no bill when you receive the service (paid via taxes instead).
-> - **extra-billing** — a doctor charging patients on top of the public payment (banned).
-> - **pharmacare** (FARM-ah-care) — public coverage of prescription drugs.
-> - **triage** (TREE-ahzh) — sorting patients by urgency, not by arrival order or ability to pay.
-> - **premium** — a regular insurance payment (EI premiums come off each paycheque).
-> - **prorated** (PRO-ray-ted) — reduced proportionally (OAS pays 10/40ths after 10 of 40 years' residence).
-> - **totalization treaty** — an agreement letting your working years in two countries count together for pension eligibility.
-> - **RRSP / TFSA / RESP / FHSA** (say the letters) — the registered savings accounts; Lesson 35 decodes them.
-> - **gig worker** — someone doing app-based or freelance jobs without employee status (mostly outside EI).
-> - **OAS / CPP / GIS / EI / CCB** — Old Age Security, Canada Pension Plan, Guaranteed Income Supplement, Employment Insurance, Canada Child Benefit.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Map the programs by life event and the whole system becomes
 legible:
 
-The easiest way to hold the safety net in your head is not as a list of
+The easiest way to hold the **safety net**[°](#w-safety-net) in your head is not as a list of
 programs but as a set of answers to life events. Here is what catches you,
 when.
 
@@ -44,7 +31,7 @@ alongside it.
 point of use. What it does *not* cover is the famous set of gaps: prescription
 drugs outside hospital, dental care, vision, physiotherapy, and
 mental-health therapy. Workplace benefits fill some of those for some people,
-and new federal dental and pharmacare programs are slowly filling others.
+and new federal dental and **pharmacare**[°](#w-pharmacare) programs are slowly filling others.
 
 **When you lose a job**, Employment Insurance replaces roughly 55% of your
 earnings up to a cap, provided you have enough insured hours. Below that sits
@@ -83,7 +70,7 @@ The **Canada Health Act (1984)** sets five conditions on federal
 money (Lesson 21's spending power): **public administration,
 comprehensiveness, universality, portability, accessibility** —
 operationally: medically necessary **physician and hospital**
-services, free at point of use, no extra-billing. What it never
+services, **free at point of use**[°](#w-free-at-point-of-use), no **extra-billing**[°](#w-extra-billing). What it never
 covered: prescription drugs outside hospital (Canada was long
 the only universal-healthcare country without universal
 pharmacare — a national pharmacare act began phased coverage in
@@ -97,7 +84,7 @@ out-of-pocket) — the "universal" system is a universal *core*.
 Delivery is provincial (thirteen systems), family doctors are
 mostly private practices billing the public plan (Lesson 21's
 1962 compromise), and the system's real currency is **waiting**:
-triage is by urgency, so emergencies move fast and hips,
+**triage**[°](#w-triage) is by urgency, so emergencies move fast and hips,
 scans, and specialists queue — the standing trade-off (and
 political football) of the design. Portability means your
 Ontario card works in Manitoba; travel *abroad* uninsured is
@@ -262,6 +249,25 @@ lowest, and university tuition at a fraction of US sticker;
 the floor exists everywhere and holds. Accurate summary: a
 universal core with market edges — bounded on both sides.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-safety-net"></a>**safety net** — the set of programs that catch people when life goes wrong (job loss, illness, old age).
+- <a id="w-income-tested-means-tested"></a>**income-tested / means-tested** — a benefit that shrinks as your income rises; a <a id="w-clawback"></a>**clawback** — the reduction itself (OAS is "clawed back" at high incomes).
+- <a id="w-universality"></a>**universality** — a program covering everyone regardless of income; <a id="w-free-at-point-of-use"></a>**free at point of use** — no bill when you receive the service (paid via taxes instead).
+- <a id="w-extra-billing"></a>**extra-billing** — a doctor charging patients on top of the public payment (banned).
+- <a id="w-pharmacare"></a>**pharmacare** (FARM-ah-care) — public coverage of prescription drugs.
+- <a id="w-triage"></a>**triage** (TREE-ahzh) — sorting patients by urgency, not by arrival order or ability to pay.
+- <a id="w-premium"></a>**premium** — a regular insurance payment (EI premiums come off each paycheque).
+- <a id="w-prorated"></a>**prorated** (PRO-ray-ted) — reduced proportionally (OAS pays 10/40ths after 10 of 40 years' residence).
+- <a id="w-totalization-treaty"></a>**totalization treaty** — an agreement letting your working years in two countries count together for pension eligibility.
+- <a id="w-rrsp-tfsa-resp-fhsa"></a>**RRSP / TFSA / RESP / FHSA** (say the letters) — the registered savings accounts; Lesson 35 decodes them.
+- <a id="w-gig-worker"></a>**gig worker** — someone doing app-based or freelance jobs without employee status (mostly outside EI).
+- <a id="w-oas-cpp-gis-ei-ccb"></a>**OAS / CPP / GIS / EI / CCB** — Old Age Security, Canada Pension Plan, Guaranteed Income Supplement, Employment Insurance, Canada Child Benefit.
 
 ---
 

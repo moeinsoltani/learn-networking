@@ -10,19 +10,7 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 49: The Unwritten Rules
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **kernel** (KER-nul) — computing metaphor: the core program everything else runs on; here, the one rule generating all the others.
-> - **understatement** — deliberately saying less than you mean ("not bad" = great); the Canadian dialect's engine.
-> - **softener / hedging** — words that cushion a message ("just," "maybe," "I wonder if…") — see the English track, Lesson 15.
-> - **small talk** — light social conversation with no real information ("how's it going?" is a greeting, not a question).
-> - **RSVP** (say the letters; from French *répondez s'il vous plaît*) — the request to confirm whether you're coming; answering it is mandatory manners.
-> - **potluck** — a meal where every guest brings a dish to share.
-> - **"Irish goodbye"** — leaving a party silently without farewells (efficient elsewhere; rude here).
-> - **passive-aggressive** — expressing anger indirectly (cold silence, pointed notes) instead of openly.
-> - **rec league** (recreational) — casual adult sports leagues; a main way Canadians make friends.
-> - **LCBO** — Ontario's government liquor store (Lesson 50).
-> - **high-context / low-context culture** — cultures where meaning lives in shared context and hints vs in explicit words; Canada sits mid-spectrum.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -48,10 +36,10 @@ home — that last one is not optional and surprises many newcomers.
 Below protocol is **grammar**, which is where non-native speakers most often
 get caught. Canadians soften everything ("just wondering if maybe we
 could…") and understate everything: "not bad" means *great*, and "interesting"
-may well mean *terrible*. Learning to hear the understatement is worth more
+may well mean *terrible*. Learning to hear the **understatement**[°](#w-understatement) is worth more
 than learning the vocabulary.
 
-And at the bottom, the **kernel** — the rule all the others are implementations
+And at the bottom, the **kernel**[°](#w-kernel) — the rule all the others are implementations
 of: **don't make it weird for everyone else.** Noise, line-cutting, boasting,
 open conflict, strong smells, and unsolicited opinions all violate it. Once
 you can see the kernel, the rest of the stack stops looking like a list of
@@ -108,7 +96,7 @@ mid-spectrum dialect — calibrate, don't assume.
   "oh you don't have to" don't mean it. Bring/wear decent socks.
 - **Invitations:** "bring anything?" expects "what can I bring?";
   arrive within ~15 minutes of the time (dinner) or fashionably
-  later (parties); potluck is a beloved default (L.52); RSVP
+  later (parties); **potluck**[°](#w-potluck) is a beloved default (L.52); **RSVP**[°](#w-rsvp)
   actually means answer; hosts open with drink offers and end with
   the famously long Canadian goodbye (announce leaving → 20 more
   minutes of doorway conversation → "okay, we're really going").
@@ -122,7 +110,7 @@ mid-spectrum dialect — calibrate, don't assume.
 - **Queue theology:** the line is sacred and self-organizing; even
   bus stops form implicit queues; cutting produces not shouting
   but a lethal murmured "excuse me, the line's back there" and
-  permanent moral judgment. At Tim's or the LCBO, order
+  permanent moral judgment. At Tim's or the **LCBO**[°](#w-lcbo), order
   efficiently once you're up — line-blocking is the sin.
 - **Personal space & volume:** arm's-length-plus, quiet-voiced in
   public; sunglasses-nod or small smile to strangers on trails and
@@ -135,10 +123,10 @@ Politeness ≠ friendship, agreement, or passivity. The honest
 footnotes: Canadians are **welcoming but slow to deep friendship**
 (networks form in school/work/teams and calcify — the standing
 newcomer complaint, L.43's lived edge; joining things is the only
-reliable solvent: rec leagues, volunteering — L.36 — kids' school
+reliable solvent: **rec leagues**[°](#w-rec-league), volunteering — L.36 — kids' school
 committees). Politeness **coexists with real exclusion** — the
 course has given you the files (L.16/17/24/43); "nice" has never
-meant "just." And conflict-aversion has a passive-aggressive
+meant "just." And conflict-aversion has a **passive-aggressive**[°](#w-passive-aggressive)
 shadow: the note taped to the shared microwave, the "per my last
 email," the neighbour who never mentions the fence but mentions
 the fence to everyone else. Reading Canadian anger requires
@@ -229,6 +217,24 @@ rule compiled for a different surface (a winter-country,
 see-them-again-tomorrow social design, per this lesson's
 opening theory).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-kernel"></a>**kernel** (KER-nul) — computing metaphor: the core program everything else runs on; here, the one rule generating all the others.
+- <a id="w-understatement"></a>**understatement** — deliberately saying less than you mean ("not bad" = great); the Canadian dialect's engine.
+- <a id="w-softener-hedging"></a>**softener / hedging** — words that cushion a message ("just," "maybe," "I wonder if…") — see the English track, Lesson 15.
+- <a id="w-small-talk"></a>**small talk** — light social conversation with no real information ("how's it going?" is a greeting, not a question).
+- <a id="w-rsvp"></a>**RSVP** (say the letters; from French *répondez s'il vous plaît*) — the request to confirm whether you're coming; answering it is mandatory manners.
+- <a id="w-potluck"></a>**potluck** — a meal where every guest brings a dish to share.
+- <a id="w-irish-goodbye"></a>**"Irish goodbye"** — leaving a party silently without farewells (efficient elsewhere; rude here).
+- <a id="w-passive-aggressive"></a>**passive-aggressive** — expressing anger indirectly (cold silence, pointed notes) instead of openly.
+- <a id="w-rec-league"></a>**rec league** (recreational) — casual adult sports leagues; a main way Canadians make friends.
+- <a id="w-lcbo"></a>**LCBO** — Ontario's government liquor store (Lesson 50).
+- <a id="w-high-context-low-context-culture"></a>**high-context / low-context culture** — cultures where meaning lives in shared context and hints vs in explicit words; Canada sits mid-spectrum.
 
 ---
 

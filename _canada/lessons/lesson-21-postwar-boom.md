@@ -10,22 +10,7 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 21: The Postwar Boom
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **referendum** (ref-er-EN-dum) — a direct public vote on a question; a **runoff** — a second round between the top two options.
-> - **baby boom** — the surge of births ~1946–1964; the "boomers" are that generation.
-> - **displaced persons ("DPs")** — refugees left homeless in Europe's postwar camps.
-> - **points system** — Canada's 1967 immigration method: applicants scored on education, skills, and language instead of race or origin.
-> - **medicare** (MED-ih-care) — in Canada: the universal public health insurance system (note: in the US the same word means something narrower).
-> - **fee-for-service** — doctors billing per visit/procedure (to the public plan, in Canada's hybrid).
-> - **royal commission** — a major independent public inquiry appointed by the government.
-> - **peacekeeping** — neutral UN soldiers ("blue helmets") standing between former combatants.
-> - **filibuster** (FIL-ih-buss-ter) — endless speech-making in parliament to delay a vote.
-> - **ensign** (EN-sin) — a flag design based on the British naval flag; the **Red Ensign** was Canada's pre-1965 flag.
-> - **Nobel laureate** (LOR-ee-ut) — a Nobel Prize winner.
-> - **separatist** — someone who wants their region to become an independent country.
-> - **opt out** — to choose not to join a program (Quebec runs its own pension plan, the QPP).
-> - Names: **Smallwood** (SMALL-wood), **Pearson** (PEER-sun), **Diefenbaker** (DEE-fen-bay-ker), **Suez** (SOO-ez), **de Gaulle** (duh GOHL), **"Vive le Québec libre"** (VEEV luh kay-BEK LEE-bruh — "Long live free Quebec"), **Leduc** (leh-DUKE), **Kitimat** (KIT-ih-mat).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -38,14 +23,14 @@ million. If Phase 3 built the country's skeleton, this quarter-century
 grew its recognizable face.
 
 Nearly all the furniture of recognizably modern Canada is delivered in these
-twenty-two years — the flag, medicare, peacekeeping, the last province, the
+twenty-two years — the flag, **medicare**[°](#w-medicare), **peacekeeping**[°](#w-peacekeeping), the last province, the
 immigration system, official bilingualism. If you want one period to explain
 what Canadians think Canada *is*, this is it.
 
 | Year | What arrived |
 |---|---|
 | 1947 | **Leduc No. 1** gushes — modern Alberta begins (Lesson 05) |
-| 1949 | **Newfoundland joins**, by a referendum won with 52.3% — the map is complete |
+| 1949 | **Newfoundland joins**, by a **referendum**[°](#w-referendum) won with 52.3% — the map is complete |
 | 1950–53 | **Korea**: 26,000+ serve; the middle power fights |
 | 1956 | **Suez**: Pearson invents **peacekeeping** — and wins the Nobel Peace Prize in 1957 |
 | 1959 | The **St. Lawrence Seaway** opens, with Eisenhower in attendance |
@@ -70,7 +55,7 @@ every "essentially Canadian" thing has a build date in this window.
 Britain's oldest colony — a separate dominion that had surrendered
 self-government to a commission in 1934 (bankruptcy) — held two
 referendums in 1948: responsible government vs. confederation vs.
-commission. Confederation won the runoff **52.3% to 47.7%**, organized
+commission. Confederation won the **runoff**[°](#w-runoff) **52.3% to 47.7%**, organized
 by the radio broadcaster **Joey Smallwood** ("the last Father of
 Confederation," premier for the next 23 years). Canada gained its tenth
 province, the half-hour time zone (Lesson 01), and a nationalism that
@@ -82,7 +67,7 @@ Lesson 18.
 ### The boom economy and who arrived for it
 
 Veterans' Charter university cohorts, suburbia (Don Mills, 1952, the
-template), the **baby boom** (peak 1959 — the demographic bulge that
+template), the **baby boom**[°](#w-baby-boom) (peak 1959 — the demographic bulge that
 explains Canadian housing, pensions and politics for 80 years,
 Lessons 34–35), resource megaprojects (Leduc oil, Labrador iron,
 Kitimat aluminum), and the **St. Lawrence Seaway** (1959) — the
@@ -110,8 +95,8 @@ Lesson 19's Depression politics bearing fruit) piloted universal
 **hospital** insurance in 1947; then, 1962, universal **physician**
 insurance — through a bitter 23-day **doctors' strike** (the doctors
 lost the public, the plan stood, with concessions preserving
-fee-for-service private practice billing the public plan — the
-Canadian hybrid to this day). Diefenbaker's royal commission (Hall,
+**fee-for-service**[°](#w-fee-for-service) private practice billing the public plan — the
+Canadian hybrid to this day). Diefenbaker's **royal commission**[°](#w-royal-commission) (Hall,
 1964) recommended it nationally; **Pearson legislated the Medical Care
 Act (1966)**: Ottawa pays half, provinces run plans meeting national
 conditions — universality, public administration, portability... the
@@ -125,7 +110,7 @@ consciously *against* the American direction.
 
 ### Pearson's decade of symbols
 
-**Lester B. Pearson** — diplomat, Nobel laureate, PM 1963–68 without
+**Lester B. Pearson** — diplomat, **Nobel laureate**[°](#w-nobel-laureate), PM 1963–68 without
 ever winning a majority — is the era's improbable architect:
 
 - **Peacekeeping (1956):** the Suez Crisis — Britain and France
@@ -138,9 +123,9 @@ ever winning a majority — is the era's improbable architect:
   Balkans) complicated it (honesty: today's Canada ranks far down
   peacekeeping contributor lists; the identity outlives the
   deployment stats — Lesson 47 will weigh the gap).
-- **The Flag (1965):** replacing the Red Ensign (British ensign +
+- **The Flag (1965):** replacing the Red Ensign (British **ensign**[°](#w-ensign) +
   Canadian arms) detonated the **Great Flag Debate** — six months,
-  Diefenbaker's filibuster ("you can't fight for a flag with no
+  Diefenbaker's **filibuster**[°](#w-filibuster) ("you can't fight for a flag with no
   history"), veterans' anguish, Quebec's indifference (a flag
   without empire was the point), 250+ committee designs. The
   single red maple leaf (George Stanley's design; red-white-red
@@ -266,6 +251,27 @@ centralization, which is why programs so often arrive "with Quebec
 opt-out and compensation" (CPP/QPP the founding example). One
 funding trick, the entire architecture of Canadian social policy.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-referendum"></a>**referendum** (ref-er-EN-dum) — a direct public vote on a question; a <a id="w-runoff"></a>**runoff** — a second round between the top two options.
+- <a id="w-baby-boom"></a>**baby boom** — the surge of births ~1946–1964; the "boomers" are that generation.
+- <a id="w-displaced-persons-dps"></a>**displaced persons ("DPs")** — refugees left homeless in Europe's postwar camps.
+- <a id="w-points-system"></a>**points system** — Canada's 1967 immigration method: applicants scored on education, skills, and language instead of race or origin.
+- <a id="w-medicare"></a>**medicare** (MED-ih-care) — in Canada: the universal public health insurance system (note: in the US the same word means something narrower).
+- <a id="w-fee-for-service"></a>**fee-for-service** — doctors billing per visit/procedure (to the public plan, in Canada's hybrid).
+- <a id="w-royal-commission"></a>**royal commission** — a major independent public inquiry appointed by the government.
+- <a id="w-peacekeeping"></a>**peacekeeping** — neutral UN soldiers ("blue helmets") standing between former combatants.
+- <a id="w-filibuster"></a>**filibuster** (FIL-ih-buss-ter) — endless speech-making in parliament to delay a vote.
+- <a id="w-ensign"></a>**ensign** (EN-sin) — a flag design based on the British naval flag; the **Red Ensign** was Canada's pre-1965 flag.
+- <a id="w-nobel-laureate"></a>**Nobel laureate** (LOR-ee-ut) — a Nobel Prize winner.
+- <a id="w-separatist"></a>**separatist** — someone who wants their region to become an independent country.
+- <a id="w-opt-out"></a>**opt out** — to choose not to join a program (Quebec runs its own pension plan, the QPP).
+- Names: **Smallwood** (SMALL-wood), **Pearson** (PEER-sun), **Diefenbaker** (DEE-fen-bay-ker), **Suez** (SOO-ez), **de Gaulle** (duh GOHL), **"Vive le Québec libre"** (VEEV luh kay-BEK LEE-bruh — "Long live free Quebec"), **Leduc** (leh-DUKE), **Kitimat** (KIT-ih-mat).
 
 ---
 

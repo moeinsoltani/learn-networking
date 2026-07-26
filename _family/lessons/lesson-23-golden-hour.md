@@ -14,19 +14,12 @@ parent: "Phase 5: Labour & Delivery"
 > General education, not medical advice. If mother or baby needs medical attention,
 > that always comes first — the bonding can follow.
 
-{: .note }
-> **Words to know**
-> - **golden hour** — the first hour or so after birth, ideal for skin-to-skin and the first feed.
-> - **skin-to-skin** — placing the naked baby directly on a parent's bare chest.
-> - **delayed cord clamping** — waiting a short time before clamping the cord, letting more blood reach the baby.
-> - **Apgar score** — a quick 0–10 check of the newborn's colour, breathing, heart rate, tone, and reflexes at 1 and 5 minutes.
-> - **vitamin K** — an injection given to newborns to prevent a rare serious bleeding problem.
-> - **latch** — how the baby attaches to the breast for the first feed.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-The first hour after birth is often called the **golden hour** — a calm, precious
-window for **skin-to-skin** contact, the **first feed**, and quiet bonding, while
+The first hour after birth is often called the **golden hour**[°](#w-golden-hour) — a calm, precious
+window for **skin-to-skin**[°](#w-skin-to-skin) contact, the **first feed**, and quiet bonding, while
 the baby adjusts to the world. It's not just lovely; it's *physiologically useful*:
 skin-to-skin helps regulate the baby's **temperature, heart rate, and breathing**,
 calms them, and supports **breastfeeding** and bonding.
@@ -41,10 +34,10 @@ calms them, and supports **breastfeeding** and bonding.
 - **Delayed cord clamping:** waiting a short time (often 1–3 minutes) before
   clamping lets more blood and iron reach the baby; the partner may cut the cord.
 - **The first feed:** many babies, given time skin-to-skin, seek the breast and
-  **latch** in this window — a great start for breastfeeding (Lesson 26). If
+  **latch**[°](#w-latch) in this window — a great start for breastfeeding (Lesson 26). If
   bottle-feeding, the first feed happens here too.
-- **Newborn checks:** an **Apgar score** at 1 and 5 minutes, weighing and
-  measuring, a **vitamin K** injection, and (in many places) **eye ointment** —
+- **Newborn checks:** an **Apgar score**[°](#w-apgar-score) at 1 and 5 minutes, weighing and
+  measuring, a **vitamin K**[°](#w-vitamin-k) injection, and (in many places) **eye ointment** —
   usually done gently, often while the baby stays on the chest.
 
 ### If it can't happen right away
@@ -72,7 +65,7 @@ it doesn't mean anything is wrong.
 ### Where to start
 
 Add your **golden-hour wishes** to the birth plan, briefly: immediate
-skin-to-skin, delayed cord clamping, who cuts the cord, the first feed, and
+skin-to-skin, **delayed cord clamping**[°](#w-delayed-cord-clamping), who cuts the cord, the first feed, and
 keeping the room calm and dim.
 
 Then agree the **partner's role** for that hour specifically. It has three parts:
@@ -142,6 +135,19 @@ provider). If a C-section or complications delay the golden hour, the
 <strong>partner can do skin-to-skin</strong> and the mother can later — a
 <strong>delayed golden hour is not a lost one</strong>.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-golden-hour"></a>**golden hour** — the first hour or so after birth, ideal for skin-to-skin and the first feed.
+- <a id="w-skin-to-skin"></a>**skin-to-skin** — placing the naked baby directly on a parent's bare chest.
+- <a id="w-delayed-cord-clamping"></a>**delayed cord clamping** — waiting a short time before clamping the cord, letting more blood reach the baby.
+- <a id="w-apgar-score"></a>**Apgar score** — a quick 0–10 check of the newborn's colour, breathing, heart rate, tone, and reflexes at 1 and 5 minutes.
+- <a id="w-vitamin-k"></a>**vitamin K** — an injection given to newborns to prevent a rare serious bleeding problem.
+- <a id="w-latch"></a>**latch** — how the baby attaches to the breast for the first feed.
 
 ---
 

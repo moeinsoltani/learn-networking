@@ -10,18 +10,7 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 53: Hockey Nation
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **ambient** — present everywhere in the background, whether or not you engage with it.
-> - **pantheon** (PAN-thee-on) — a culture's set of supreme heroes; **scripture** — used here jokingly: the stories everyone can recite.
-> - **shinny** (SHIN-ee) — informal pickup hockey on an outdoor rink, no referees.
-> - **rep / travel team** — the competitive (expensive) tier of kids' hockey; **house league** — the friendly tier (Lesson 48).
-> - **junior hockey** — the high-level leagues for players 16–20; in small towns, the junior team *is* the town.
-> - **PWHL** — the Professional Women's Hockey League (launched 2024); **CFL / Grey Cup** — Canadian pro football and its November championship.
-> - **curling** — the ice sport of sliding granite stones; sweepers shout "**hurry hard!**"
-> - **chirp** — hockey trash-talk, ideally witty; **gongshow** — chaos (now general slang).
-> - **overtime / sudden death** — extra play where the first goal instantly wins.
-> - Names: **Gretzky** (GRET-skee), **Crosby** (KROZ-bee), **Marie-Philip Poulin** (poo-LAN), **Humboldt** (HUM-bolt — the Saskatchewan town whose junior-team bus crash united the country in grief, 2018), **Foster Hewitt** (HYOO-it — the radio voice of "He shoots, he scores!").
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,7 +21,7 @@ most, escaped by nobody. You don't have to play it or even like it
 (plenty of Canadians don't). But every raised-in-Canada person can
 read a rink schedule, knows what "he's going top shelf" means,
 carries an opinion about the Leafs, and went silent-then-airborne
-at some national-team goal. This lesson installs the ambient layer:
+at some national-team goal. This lesson installs the **ambient**[°](#w-ambient) layer:
 the childhood pipeline, the sacred moments, the vocabulary, and the
 honest footnotes.
 
@@ -61,7 +50,7 @@ L.45/50's folk religion literally jerseys the children) → house
 league (recreational, everyone plays) vs "rep"/travel (competitive,
 expensive — the 6 a.m. practice and hockey-parent economy, L.48)
 → junior leagues for the gifted few → and in parallel forever:
-**road hockey** (nets optional, "CAR!" mandatory) and **shinny**
+**road hockey** (nets optional, "CAR!" mandatory) and **shinny**[°](#w-shinny)
 (pickup ice hockey at the outdoor rink, skill-mixed, self-
 refereed — L.51's played winter at its purest). Girls' and
 women's hockey runs the full parallel pipeline and its national
@@ -86,11 +75,11 @@ women's stars too.
   the USA for Olympic gold at home; the largest shared Canadian
   moment of the century (streets emptied, then erupted — L.46's
   lab scenario is this game); Sidney Crosby joined Henderson in
-  the national scripture.
+  the national **scripture**[°](#w-scripture).
 - **The women's dynasty** — Olympic golds stacked since 2002
   (the 2014 Sochi comeback vs the US is its own scripture);
   Hayley Wickenheiser, Marie-Philip Poulin ("Captain Clutch")
-  are household names; the PWHL's 2024 launch sold out arenas.
+  are household names; the **PWHL**[°](#w-pwhl)'s 2024 launch sold out arenas.
 - **The wounds, equally binding:** 1993 — the last Canadian
   team to win the Stanley Cup (Montreal), a national
   incredulity now over three decades old ("no Canadian team
@@ -109,8 +98,8 @@ women's stars too.
 - **Word kit (deployable immediately):** *top shelf* (upper
   net; "where mom keeps the peanut butter"), *five-hole*
   (between the goalie's pads), *hat trick* (3 goals — hats
-  actually rain), *gongshow* (chaos — general-purpose now,
-  L.54), *beauty* (a beloved teammate/person), *chirp*
+  actually rain), *gongshow*[°](#w-gongshow) (chaos — general-purpose now,
+  L.54), *beauty* (a beloved teammate/person), *chirp*[°](#w-chirp)
   (trash-talk, ideally witty), *the barn* (arena), *mitts*
   (hands/gloves; "silky mitts" = skilled), *bench boss*
   (coach), *sin bin* (penalty box), *"he shoots, he scores!"*
@@ -136,10 +125,10 @@ demographic reality reaching the arena). The culture carries
 real files on concussions, junior-hockey abuse scandals, and
 Hockey Canada's governance reckoning — discussed openly, like
 the RCMP's file (L.45's symbol-vs-institution rule applies to
-the national game too). And the other pantheon seats: **Terry
+the national game too). And the other **pantheon**[°](#w-pantheon) seats: **Terry
 Fox** (L.48 — the amputee runner whose 1980 Marathon of Hope
 remains the national moral summit; not hockey, and outranking
-it), curling's quiet empire (rural rinks, Olympic medals,
+it), **curling's**[°](#w-curling) quiet empire (rural rinks, Olympic medals,
 "hurry hard!"), lacrosse (the official summer sport, L.06/45),
 and the CFL's Grey Cup as a older-Canada November ritual.
 
@@ -246,6 +235,23 @@ telling you its values as plainly as it can (L.47:
 peace-order-good-government over glory; the capstone essay's
 best single exhibit).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-ambient"></a>**ambient** — present everywhere in the background, whether or not you engage with it.
+- <a id="w-pantheon"></a>**pantheon** (PAN-thee-on) — a culture's set of supreme heroes; <a id="w-scripture"></a>**scripture** — used here jokingly: the stories everyone can recite.
+- <a id="w-shinny"></a>**shinny** (SHIN-ee) — informal pickup hockey on an outdoor rink, no referees.
+- <a id="w-rep-travel-team"></a>**rep / travel team** — the competitive (expensive) tier of kids' hockey; <a id="w-house-league"></a>**house league** — the friendly tier (Lesson 48).
+- <a id="w-junior-hockey"></a>**junior hockey** — the high-level leagues for players 16–20; in small towns, the junior team *is* the town.
+- <a id="w-pwhl"></a>**PWHL** — the Professional Women's Hockey League (launched 2024); <a id="w-cfl-grey-cup"></a>**CFL / Grey Cup** — Canadian pro football and its November championship.
+- <a id="w-curling"></a>**curling** — the ice sport of sliding granite stones; sweepers shout "**hurry hard!**"
+- <a id="w-chirp"></a>**chirp** — hockey trash-talk, ideally witty; <a id="w-gongshow"></a>**gongshow** — chaos (now general slang).
+- <a id="w-overtime-sudden-death"></a>**overtime / sudden death** — extra play where the first goal instantly wins.
+- Names: **Gretzky** (GRET-skee), **Crosby** (KROZ-bee), **Marie-Philip Poulin** (poo-LAN), **Humboldt** (HUM-bolt — the Saskatchewan town whose junior-team bus crash united the country in grief, 2018), **Foster Hewitt** (HYOO-it — the radio voice of "He shoots, he scores!").
 
 ---
 

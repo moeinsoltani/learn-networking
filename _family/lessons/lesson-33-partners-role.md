@@ -14,13 +14,7 @@ parent: "Phase 7: Recovery & the New Family"
 > General education. This lesson is about teamwork, not medicine — but it includes
 > watching for the warning signs from Lessons 31–32, which is a real safety job.
 
-{: .note }
-> **Words to know**
-> - **primary caregiver** — the person doing most hands-on baby care at a given time (it can and should shift).
-> - **mental load** — the invisible work of tracking and planning everything.
-> - **maternal gatekeeping** — when one parent (often unintentionally) limits or over-corrects the other's caregiving.
-> - **parental leave** — time off work to care for a new baby.
-> - **burnout** — exhaustion from sustained stress without recovery.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -66,7 +60,7 @@ be honest if *you're* struggling.
 ### Avoid (and don't provoke) gatekeeping
 
 Two-way trap: the partner opts out ("you're better at it"), or the mother
-over-corrects everything the partner does (**maternal gatekeeping**), so the partner
+over-corrects everything the partner does (**maternal gatekeeping**[°](#w-maternal-gatekeeping)), so the partner
 stops trying. The fix: the partner **fully steps up**, and the mother **lets them do
 it their own way** (a differently-fastened diaper is fine). Competence comes from
 practice, and the baby benefits from two confident parents.
@@ -75,7 +69,7 @@ practice, and the baby benefits from two confident parents.
 > **From "helping" to "owning"**
 > The language matters. You're not "helping her" with *her* baby and *her* house —
 > it's your baby and your home. Own whole responsibilities, carry your share of the
-> mental load, and be a partner she can fully rely on. That's the single biggest
+> **mental load**[°](#w-mental-load), and be a partner she can fully rely on. That's the single biggest
 > protector of her recovery, her mental health, and your relationship.
 
 ### Where to start
@@ -87,7 +81,7 @@ own kind of exhausting. Owned items look like: the night shift on these days,
 meals, laundry, the logistics and appointments, managing visitors, and watching
 for the warning signs from Lessons 31 and 32.
 
-Sort out **parental leave** if it is available to you, and take it if you can.
+Sort out **parental leave**[°](#w-parental-leave) if it is available to you, and take it if you can.
 
 Agree a small **anti-gatekeeping rule** too, in both directions: good enough is
 fine, and each of you may do things your own way. The diaper does not need to be
@@ -152,6 +146,18 @@ other's caregiving, discouraging them until they stop trying. Avoid it by the pa
 <strong>fully stepping up and practising</strong> and the mother <strong>letting them
 do it their own way</strong> (good-enough is fine) — building two confident parents.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-primary-caregiver"></a>**primary caregiver** — the person doing most hands-on baby care at a given time (it can and should shift).
+- <a id="w-mental-load"></a>**mental load** — the invisible work of tracking and planning everything.
+- <a id="w-maternal-gatekeeping"></a>**maternal gatekeeping** — when one parent (often unintentionally) limits or over-corrects the other's caregiving.
+- <a id="w-parental-leave"></a>**parental leave** — time off work to care for a new baby.
+- <a id="w-burnout"></a>**burnout** — exhaustion from sustained stress without recovery.
 
 ---
 

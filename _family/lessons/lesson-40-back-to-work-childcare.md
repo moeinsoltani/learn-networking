@@ -15,14 +15,7 @@ parent: "Phase 8: The First Year"
 > options, and costs vary a lot by country and employer — check what applies where
 > you live.
 
-{: .note }
-> **Words to know**
-> - **parental / maternity / paternity leave** — time off work to care for a new baby.
-> - **daycare / nursery** — a licensed group childcare centre.
-> - **home daycare** — childcare in a caregiver's home, often smaller and licensed.
-> - **nanny** — a caregiver who looks after your child in your home.
-> - **child-to-staff ratio** — how many children each caregiver looks after (lower is more attentive).
-> - **settling-in** — the gradual process of a baby getting used to new childcare.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -57,8 +50,8 @@ and preserves your options; discovering the timeline late removes them.
 
 | Option | Notes |
 |---|---|
-| **Daycare / nursery** | Licensed group care; social, structured; watch **ratios**, cleanliness, and staff warmth; often **long waitlists — apply early** |
-| **Home daycare** | Smaller group in a caregiver's home; check it's **licensed/regulated** |
+| **Daycare / nursery**[°](#w-daycare-nursery) | Licensed group care; social, structured; watch **ratios**, cleanliness, and staff warmth; often **long waitlists — apply early** |
+| **Home daycare**[°](#w-home-daycare) | Smaller group in a caregiver's home; check it's **licensed/regulated** |
 | **Nanny / in-home** | One-on-one care in your home; more flexible, usually costlier; check references/background |
 | **Family (grandparents, etc.)** | Loving and low-cost where available; agree expectations clearly |
 | **Sharing between parents** | Staggered schedules or shared leave, if work allows |
@@ -76,7 +69,7 @@ sickness, and settling.
 
 ### The practical transition
 
-- **Ease in:** many places offer a **settling-in** period (short visits building
+- **Ease in:** many places offer a **settling-in**[°](#w-settling-in) period (short visits building
   up) — use it, for the baby *and* you.
 - **Feeding:** if breastfeeding, plan **pumping/bottles** for childcare hours; if
   formula, label and pack supplies.
@@ -181,6 +174,19 @@ plan</strong> (pumped milk/bottles or formula packed); a <strong>sick-day backup
 plan</strong> (childcare means frequent illnesses); and <strong>drop-off/pick-up
 logistics</strong>. Sorting these in advance smooths the transition.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-parental-maternity-paternity-leave"></a>**parental / maternity / paternity leave** — time off work to care for a new baby.
+- <a id="w-daycare-nursery"></a>**daycare / nursery** — a licensed group childcare centre.
+- <a id="w-home-daycare"></a>**home daycare** — childcare in a caregiver's home, often smaller and licensed.
+- <a id="w-nanny"></a>**nanny** — a caregiver who looks after your child in your home.
+- <a id="w-child-to-staff-ratio"></a>**child-to-staff ratio** — how many children each caregiver looks after (lower is more attentive).
+- <a id="w-settling-in"></a>**settling-in** — the gradual process of a baby getting used to new childcare.
 
 ---
 

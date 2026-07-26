@@ -15,14 +15,7 @@ parent: "Phase 8: The First Year"
 > worries you, follow your provider — and re-read the newborn red flags in Lesson
 > 30. **Never give aspirin to a baby.**
 
-{: .note }
-> **Words to know**
-> - **baby-proofing / childproofing** — making a home safe for a mobile baby.
-> - **febrile** (FEB-rile) — relating to fever.
-> - **dehydration** — not enough fluids (fewer wet diapers, dry mouth, lethargy).
-> - **anchoring** — securing furniture/TVs to the wall so they can't tip onto a child.
-> - **infant CPR / choking response** — emergency first aid for a baby; learn it in a class.
-> - **poison control** — a helpline for suspected poisoning; save the number.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -55,7 +48,7 @@ normal immune-system training. Comfort measures, fluids, and rest handle most. B
 
 Take an **infant CPR and choking course**. Knowing the **choking response** for a
 baby and basic CPR is one of the highest-value things new parents can do — you hope
-never to use it, but it can save a life. Also save your local **poison control** and
+never to use it, but it can save a life. Also save your local **poison control**[°](#w-poison-control) and
 emergency numbers.
 
 ### Baby-proofing (before they're mobile)
@@ -154,6 +147,19 @@ Because knowing the <strong>infant choking response and CPR</strong> can
 preparations new parents can make. Also save <strong>poison control</strong> and
 emergency numbers.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-baby-proofing-childproofing"></a>**baby-proofing / childproofing** — making a home safe for a mobile baby.
+- <a id="w-febrile"></a>**febrile** (FEB-rile) — relating to fever.
+- <a id="w-dehydration"></a>**dehydration** — not enough fluids (fewer wet diapers, dry mouth, lethargy).
+- <a id="w-anchoring"></a>**anchoring** — securing furniture/TVs to the wall so they can't tip onto a child.
+- <a id="w-infant-cpr-choking-response"></a>**infant CPR / choking response** — emergency first aid for a baby; learn it in a class.
+- <a id="w-poison-control"></a>**poison control** — a helpline for suspected poisoning; save the number.
 
 ---
 

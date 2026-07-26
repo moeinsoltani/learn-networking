@@ -14,14 +14,7 @@ parent: "Phase 4: Getting Ready for Birth"
 > General education, not medical or product advice. Follow current safety standards
 > and your provider's guidance, especially on safe sleep and car seats.
 
-{: .note }
-> **Words to know**
-> - **bassinet** (bass-ih-NET) — a small bed for a newborn, good for room-sharing.
-> - **crib / cot** — a baby bed with slatted sides.
-> - **firm flat mattress** — the safe sleep surface for a baby; no soft or inclined surfaces.
-> - **swaddle** — wrapping a baby snugly in a thin blanket to soothe them.
-> - **car seat (rear-facing)** — the required, correctly installed seat for bringing baby home.
-> - **onesie / sleeper / babygro** — basic all-in-one baby clothing.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -71,7 +64,7 @@ Small conveniences make the exhausting early weeks easier.
 
 {: .note }
 > **The short essentials list**
-> Safe **sleep space** (firm flat mattress, nothing in it) · **rear-facing car
+> Safe **sleep space** (**firm flat mattress**[°](#w-firm-flat-mattress), nothing in it) · **rear-facing car
 > seat** · **feeding gear** · **diapers & wipes** · **clothes + a couple of
 > swaddles** · **a carrier/stroller**. That's most of it. Everything else is
 > optional — resist the urge to buy the whole store.
@@ -147,6 +140,19 @@ you can't predict which items you'll actually use until you know your baby and
 routine. Buying sparingly saves money and clutter — you can add things later as
 needs become clear.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-bassinet"></a>**bassinet** (bass-ih-NET) — a small bed for a newborn, good for room-sharing.
+- <a id="w-crib-cot"></a>**crib / cot** — a baby bed with slatted sides.
+- <a id="w-firm-flat-mattress"></a>**firm flat mattress** — the safe sleep surface for a baby; no soft or inclined surfaces.
+- <a id="w-swaddle"></a>**swaddle** — wrapping a baby snugly in a thin blanket to soothe them.
+- <a id="w-car-seat-rear-facing"></a>**car seat (rear-facing)** — the required, correctly installed seat for bringing baby home.
+- <a id="w-onesie-sleeper-babygro"></a>**onesie / sleeper / babygro** — basic all-in-one baby clothing.
 
 ---
 

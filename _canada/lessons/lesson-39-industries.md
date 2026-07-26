@@ -10,19 +10,7 @@ parent: "Phase 7: The Economy"
 
 # Lesson 39: What Canada Makes and Sells
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **tidewater** — ocean access for shipping; landlocked Alberta's oil must reach "tidewater" to sell beyond the US.
-> - **equity stake** — an ownership share in a project or company (some First Nations seek equity in pipelines).
-> - **critical minerals** — the metals batteries and electronics need (lithium, nickel, cobalt, rare earths).
-> - **LNG** — liquefied natural gas: gas cooled to liquid so ships can carry it overseas.
-> - **cluster** — many firms of one industry concentrated in one city, feeding each other (Montreal aerospace).
-> - **incumbent** — here: the established dominant company (BlackBerry was the incumbent the iPhone beat).
-> - **memento mori** (meh-MEN-toh MOR-ee) — Latin: "remember you will die" — a cautionary reminder (Nortel and BlackBerry play this role).
-> - **VFX** — visual effects for film; **CanCon** — Canada's rules requiring Canadian content in broadcasting (Lesson 46).
-> - **TSX** — the Toronto Stock Exchange.
-> - **duty to consult** — the Crown's obligation to consult Indigenous nations before projects on their lands (Lesson 24).
-> - Names: **Saguenay** (sag-eh-NAY), **Bombardier** (bom-bar-dee-AY), **Bengio** (BEN-jee-oh), **Mila** (MEE-lah — Montreal's AI institute), **Kitimat** (KIT-ih-mat).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -30,7 +18,7 @@ Lesson 05 mapped the resources; this lesson maps the *industries* —
 who employs, who exports, where the head offices sit, and which
 files generate the political wars. The map, by flagship:
 
-Canadian industry clusters geographically to a degree that surprises people
+Canadian industry **clusters**[°](#w-cluster) geographically to a degree that surprises people
 from larger countries — most sectors have one obvious capital, and knowing
 which city goes with which industry explains a great deal of regional
 politics.
@@ -38,19 +26,19 @@ politics.
 | Sector | Where it lives |
 |---|---|
 | **Energy** | Oil sands, gas, and pipelines run out of **Calgary**; the hydro giants out of **Montreal**, **Vancouver**, and **St. John's**. This is Canada's number-one export |
-| **Mining** | Potash and uranium in **Saskatoon**; nickel and gold headquartered in **Toronto**, which is the world's mining *finance* capital — the TSX lists more of the planet's miners than any other exchange; diamonds in **Yellowknife**; and critical minerals, the gold rush of the 2020s |
+| **Mining** | Potash and uranium in **Saskatoon**; nickel and gold headquartered in **Toronto**, which is the world's mining *finance* capital — the **TSX**[°](#w-tsx) lists more of the planet's miners than any other exchange; diamonds in **Yellowknife**; and **critical minerals**[°](#w-critical-minerals), the gold rush of the 2020s |
 | **Agri-food** | Wheat and canola across the **Prairies**; supply-managed dairy in **Quebec and Ontario** (Lesson 38); beef in **Alberta**; seafood on both coasts |
 | **Autos** | Ontario's **Windsor–Oshawa corridor** — assembly for the Detroit Three plus Toyota and Honda, and now the EV-battery bet |
 | **Aerospace** | **Montreal** — Bombardier, CAE, Pratt & Whitney Canada; a genuinely top-tier global cluster |
 | **Banking** | **Toronto** — the Big Five (Lesson 40) |
 | **Tech** | The **Toronto–Waterloo corridor**, with its university pipeline; **Montreal** for AI research and video games; **Vancouver** for games, visual effects, and film |
-| **Culture** | Film and TV production in **Toronto, Vancouver, and Montreal** — "Hollywood North" — plus games and music (Lesson 46's CanCon machinery) |
+| **Culture** | Film and TV production in **Toronto, Vancouver, and Montreal** — "Hollywood North" — plus games and music (Lesson 46's **CanCon**[°](#w-cancon) machinery) |
 
 Plus the two cautionary tales every Canadian retells — **Nortel**
 (at its 2000 peak ~a third of the TSX's entire value; bankrupt by
 2009, its patents scattered) and **BlackBerry** (the smartphone's
 inventor, out-innovated by 2012, surviving as a software
-remnant) — the national memento mori: Canada *can* grow global
+remnant) — the national **memento mori**[°](#w-memento-mori): Canada *can* grow global
 tech champions, and has twice watched them die, which shapes both
 its investor caution and its Shopify-era determination not to
 repeat the arc.
@@ -62,7 +50,7 @@ repeat the arc.
 ### Energy: the superpower with a plumbing problem
 
 The oil sands (Lesson 05) make Canada the world's #4 oil producer
-— landlocked in Alberta, a thousand-plus kilometres from tidewater
+— landlocked in Alberta, a thousand-plus kilometres from **tidewater**[°](#w-tidewater)
 in any direction. Hence **the pipeline wars**, the defining
 resource politics of the era, always a three-government collision
 (Lesson 29's federalism at maximum temperature): **Northern
@@ -77,11 +65,11 @@ government nationalizing a pipeline it could not politically
 permit anyone else to build: Lesson 14's CPR pattern (public
 purpose, public purse, private incapacity), rerun verbatim. Each
 project's fault lines: provincial jurisdiction vs federal
-interprovincial power; the duty to consult and Indigenous title
+interprovincial power; the **duty to consult**[°](#w-duty-to-consult) and Indigenous title
 (Lessons 17/24 — with nations on *both* sides: litigants against,
 and equity-stake proponents for — Lesson 44); and climate policy
 vs the export account (Lesson 37). Meanwhile hydro (Quebec, BC,
-Manitoba) quietly exports clean power south, and the LNG buildout
+Manitoba) quietly exports clean power south, and the **LNG**[°](#w-lng) buildout
 (Kitimat) is the diversification bet of Lesson 38.
 
 ### Mining and the critical-minerals turn
@@ -137,7 +125,7 @@ cautionary tales sit on the shelf, watching.
 > American city on screen), Montreal is a top-five global
 > games hub (Ubisoft's largest studio; the 1997 Quebec
 > multimedia tax credit is the textbook successful industrial
-> policy nobody expected), and Canadian VFX touches half of
+> policy nobody expected), and Canadian **VFX**[°](#w-vfx) touches half of
 > Hollywood's output. File with Lesson 46: the CanCon
 > machinery protects Canadian *content*; the production boom
 > is the opposite play — exporting Canadian *capacity* into
@@ -231,6 +219,24 @@ unresolvable residue (Lesson 37): keeping the
 commercialization and the cap tables in Canada, which no
 policy has yet reliably achieved.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-tidewater"></a>**tidewater** — ocean access for shipping; landlocked Alberta's oil must reach "tidewater" to sell beyond the US.
+- <a id="w-equity-stake"></a>**equity stake** — an ownership share in a project or company (some First Nations seek equity in pipelines).
+- <a id="w-critical-minerals"></a>**critical minerals** — the metals batteries and electronics need (lithium, nickel, cobalt, rare earths).
+- <a id="w-lng"></a>**LNG** — liquefied natural gas: gas cooled to liquid so ships can carry it overseas.
+- <a id="w-cluster"></a>**cluster** — many firms of one industry concentrated in one city, feeding each other (Montreal aerospace).
+- <a id="w-incumbent"></a>**incumbent** — here: the established dominant company (BlackBerry was the incumbent the iPhone beat).
+- <a id="w-memento-mori"></a>**memento mori** (meh-MEN-toh MOR-ee) — Latin: "remember you will die" — a cautionary reminder (Nortel and BlackBerry play this role).
+- <a id="w-vfx"></a>**VFX** — visual effects for film; <a id="w-cancon"></a>**CanCon** — Canada's rules requiring Canadian content in broadcasting (Lesson 46).
+- <a id="w-tsx"></a>**TSX** — the Toronto Stock Exchange.
+- <a id="w-duty-to-consult"></a>**duty to consult** — the Crown's obligation to consult Indigenous nations before projects on their lands (Lesson 24).
+- Names: **Saguenay** (sag-eh-NAY), **Bombardier** (bom-bar-dee-AY), **Bengio** (BEN-jee-oh), **Mila** (MEE-lah — Montreal's AI institute), **Kitimat** (KIT-ih-mat).
 
 ---
 

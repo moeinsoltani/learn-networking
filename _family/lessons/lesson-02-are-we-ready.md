@@ -14,13 +14,7 @@ parent: "Phase 1: Deciding & Preparing"
 > General education, not medical or financial advice. Use it to talk and plan
 > together; decisions about your family are yours. (See the [learning plan]({{ '/family/learning-plan.html' | relative_url }}).)
 
-{: .note }
-> **Words to know**
-> - **readiness** — feeling prepared enough (never *perfectly* ready) to take a big step.
-> - **mental load** — the invisible work of *remembering and managing* everything (appointments, supplies, planning), on top of the physical tasks.
-> - **values** — the beliefs that will guide how you raise a child (discipline, faith, screen time, education).
-> - **support network / village** — the family and friends who can help you (the "it takes a village" idea).
-> - **parental leave** — paid or unpaid time off work after a baby arrives.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -30,7 +24,7 @@ and calm, you may wait forever. "Ready enough" means something more realistic:
 you are **committed as a couple**, you've had the **honest conversations**, and
 you have a **plan and some support** — not that every box is ticked.
 
-Readiness has three parts, and it helps to check each one:
+**Readiness**[°](#w-readiness) has three parts, and it helps to check each one:
 
 "Are we ready?" is really three separate questions, and it is worth pulling
 them apart, because couples often answer one confidently and assume they have
@@ -70,7 +64,7 @@ Don't assume you agree — actually talk about:
 - **Money:** rough costs, whose income changes, how you'll budget. (Aim for "we
   can manage," not "we can afford everything perfectly" — nobody can.)
 - **Division of labour:** who does nights, feeds, chores, appointments? Who
-  carries the **mental load**? Say it out loud *before*, not at 3 a.m.
+  carries the **mental load**[°](#w-mental-load)? Say it out loud *before*, not at 3 a.m.
 - **Careers:** whose job flexes, who takes leave, how you protect each other's
   ambitions.
 - **Values & parenting style:** discipline, faith or culture, education,
@@ -110,7 +104,7 @@ lifelines.
 ### Where to start
 
 Pick **one** conversation from the honest-conversations list above — money, the
-division of labour, careers, or values — and have it this week, unhurried, with
+division of labour, careers, or **values**[°](#w-values) — and have it this week, unhurried, with
 phones away.
 
 Afterwards it helps to note three things: what you agreed on, what you disagreed
@@ -176,6 +170,18 @@ leave); <strong>parenting values</strong> (discipline, faith/culture, screens,
 education); <strong>how many children and roughly when</strong>; and the
 <strong>"what ifs"</strong> (a hard pregnancy, a loss, a child with extra needs).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-readiness"></a>**readiness** — feeling prepared enough (never *perfectly* ready) to take a big step.
+- <a id="w-mental-load"></a>**mental load** — the invisible work of *remembering and managing* everything (appointments, supplies, planning), on top of the physical tasks.
+- <a id="w-values"></a>**values** — the beliefs that will guide how you raise a child (discipline, faith, screen time, education).
+- <a id="w-support-network-village"></a>**support network / village** — the family and friends who can help you (the "it takes a village" idea).
+- <a id="w-parental-leave"></a>**parental leave** — paid or unpaid time off work after a baby arrives.
 
 ---
 

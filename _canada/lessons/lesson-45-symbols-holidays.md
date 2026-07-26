@@ -10,18 +10,7 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 45: Symbols, Holidays, and Rituals
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **liturgy** (LIT-er-jee) — the fixed script of a religious service; used here for the national calendar of rituals.
-> - **statutory holiday ("stat")** — an official paid day off set by law.
-> - **inadmissible** — not allowed to be used as evidence in court (what Apology Acts make "sorry").
-> - **provenance** (PROV-eh-nunss) — where something originally came from.
-> - **koan** (KOH-ahn) — a Zen riddle with no tidy answer (the no-Cup-since-1993 fact).
-> - **vernacular** (ver-NAK-yoo-ler) — belonging to ordinary everyday people, not officialdom.
-> - **rampant** — in heraldry: an animal rearing up on its hind legs ("a rodent rampant" is a joke about the beaver on coats of arms).
-> - **double-double** — Tim Hortons coffee with two creams, two sugars; **two-four** — a case of 24 beers (hence the "May two-four" weekend).
-> - **red serge** (SURJ) — the Mounties' red dress uniform (Lesson 32).
-> - Names: **Calixa Lavallée** (kah-LEE-ksah lah-vah-LAY — O Canada's composer), **Saint-Jean-Baptiste** (san-ZHAWN bah-TEEST), **the Habs** (HABZ — nickname of the Montreal Canadiens hockey team).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -37,14 +26,14 @@ recent than newcomers expect. The flag is younger than the Beatles.
 |---|---|
 | **The flag** | 1965, after the Great Flag Debate (Lesson 21) — George Stanley's design, using the Royal Military College's colours |
 | **"O Canada"** | Music written in 1880 by Calixa Lavallée — for Quebec's *Saint-Jean-Baptiste* celebrations. The English lyrics kept evolving ("in all of us command" arrived in 2018, via a private member's bill — Lesson 26), and it only became the *official* anthem in **1980**. Note that the French and English lyrics are **different poems**, not translations of each other |
-| **The beaver** | Official only since 1975 — but on Canada's first postage stamp in 1851. The engine of the fur trade (Lesson 09) as national animal: the only nation with a rodent rampant, worn proudly |
+| **The beaver** | Official only since 1975 — but on Canada's first postage stamp in 1851. The engine of the fur trade (Lesson 09) as national animal: the only nation with a rodent **rampant**[°](#w-rampant), worn proudly |
 | **The maple leaf** | On coins and badges since the 1800s; the red maple on the flag. The leaf is older than the country |
 | **The loonie and toonie** | 1987 and 1996 respectively (Lesson 40) |
-| **The Mounties** | Founded 1873 (Lesson 14) — the red serge, the Musical Ride, Dudley Do-Right. Hold this one alongside Lesson 33's actual institution; the symbol and the police force are both real |
+| **The Mounties** | Founded 1873 (Lesson 14) — the **red serge**[°](#w-red-serge), the Musical Ride, Dudley Do-Right. Hold this one alongside Lesson 33's actual institution; the symbol and the police force are both real |
 | **Lacrosse and hockey** | Joint national sports by a 1994 Act: lacrosse in summer — Lesson 06's gift from Indigenous nations — and hockey in winter |
 | **"Eh" and "sorry"** | The linguistics are below, but note this: several provinces have passed **Apology Acts** so that saying "sorry" cannot be used as an admission of liability in court. It may be the most Canadian statute in existence |
 
-Plus the calendar — the year's civic liturgy — where the course's
+Plus the calendar — the year's civic **liturgy**[°](#w-liturgy) — where the course's
 whole arc replays annually: Canada Day (L.13), St-Jean (L.22),
 Remembrance Day (L.18), Truth and Reconciliation Day (L.24),
 Victoria Day (L.25's Crown), Louis Riel Day (L.15's flipped
@@ -75,7 +64,7 @@ verdict). Reading the calendar *is* reading the country.
   debate).
 - **Victoria Day (late May):** the Crown's birthday
   (officially the sovereign's) — functionally summer's
-  starting gun ("May two-four weekend" — the case of beer
+  starting gun ("May **two-four**[°](#w-two-four) weekend" — the case of beer
   pun is intentional and licensed); Quebec counter-programs
   it as National Patriots' Day (L.12's rebels — the same
   Monday honouring the Crown in Ontario and the men who
@@ -103,7 +92,7 @@ reflexive Canadian sorry is a politeness marker ("I
 acknowledge our shared space"), not an admission — but enough
 sorries were entering evidence that Ontario (2009), BC, and
 others passed **Apology Acts** declaring apologies
-inadmissible as liability admissions: the legal system
+**inadmissible**[°](#w-inadmissible) as liability admissions: the legal system
 formally accommodating the national verbal tic. **"Eh":** a
 confirmation tag inviting agreement ("nice day, eh?") —
 linguistically a solidarity marker; usage is real but
@@ -129,9 +118,9 @@ turban-wearing since 1990, L.43).
 
 ### Tim Hortons: folk religion, audited
 
-The double-double, the roll-up-the-rim, "Timmies" as the
+The **double-double**[°](#w-double-double), the roll-up-the-rim, "Timmies" as the
 hockey-parent's chapel — the chain functions as Canada's
-vernacular commons (its ads are national-identity essays with
+**vernacular**[°](#w-vernacular) commons (its ads are national-identity essays with
 coffee attached). The audit footnotes Canadians themselves
 recite: founded by a Maple Leafs defenceman (1964), sold to
 American investors, merged (2014) into a Brazilian-managed
@@ -250,6 +239,23 @@ institution behind the symbol confers honour — the
 distinction between the flag's debate (settled by time)
 and the serge's (settled only by reform).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-liturgy"></a>**liturgy** (LIT-er-jee) — the fixed script of a religious service; used here for the national calendar of rituals.
+- <a id="w-statutory-holiday-stat"></a>**statutory holiday ("stat")** — an official paid day off set by law.
+- <a id="w-inadmissible"></a>**inadmissible** — not allowed to be used as evidence in court (what Apology Acts make "sorry").
+- <a id="w-provenance"></a>**provenance** (PROV-eh-nunss) — where something originally came from.
+- <a id="w-koan"></a>**koan** (KOH-ahn) — a Zen riddle with no tidy answer (the no-Cup-since-1993 fact).
+- <a id="w-vernacular"></a>**vernacular** (ver-NAK-yoo-ler) — belonging to ordinary everyday people, not officialdom.
+- <a id="w-rampant"></a>**rampant** — in heraldry: an animal rearing up on its hind legs ("a rodent rampant" is a joke about the beaver on coats of arms).
+- <a id="w-double-double"></a>**double-double** — Tim Hortons coffee with two creams, two sugars; <a id="w-two-four"></a>**two-four** — a case of 24 beers (hence the "May two-four" weekend).
+- <a id="w-red-serge"></a>**red serge** (SURJ) — the Mounties' red dress uniform (Lesson 32).
+- Names: **Calixa Lavallée** (kah-LEE-ksah lah-vah-LAY — O Canada's composer), **Saint-Jean-Baptiste** (san-ZHAWN bah-TEEST), **the Habs** (HABZ — nickname of the Montreal Canadiens hockey team).
 
 ---
 

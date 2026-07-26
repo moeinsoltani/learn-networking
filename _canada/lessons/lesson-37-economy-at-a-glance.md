@@ -10,19 +10,7 @@ parent: "Phase 7: The Economy"
 
 # Lesson 37: The Economy at a Glance
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **GDP** — Gross Domestic Product: the total value of everything a country produces in a year; **per capita** (per KAP-ih-tah) — per person.
-> - **G7** — the group of seven big rich democracies (Canada, US, UK, France, Germany, Italy, Japan).
-> - **productivity** — output produced per hour of work; the source of long-run wages.
-> - **services economy** — one where most people work in offices, shops, health, finance — not farms or factories.
-> - **oligopoly** (ol-ih-GOP-uh-lee) — a market controlled by a few big firms (Lesson 04).
-> - **branch plant** — a local factory or subsidiary owned by a foreign parent company, which keeps the head office, research, and profits at home.
-> - **commercialization** — turning research into products and companies that make money.
-> - **multiplier** — the extra economic activity one job or industry generates around it.
-> - **capital** (in economics) — the machines, software, and buildings workers use; "investing in capital" = equipping workers better.
-> - **export account** — what a country sells abroad (can look very different from what its people work at).
-> - **brain drain** — losing your most skilled people to a richer country.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,7 +20,7 @@ standard — whose self-image and reality have drifted apart in
 instructive ways:
 
 Canada's self-image is lumberjacks, oil rigs, and wheat — Lesson 05's "hewers
-of wood." The GDP figures say something quite different: **services are more
+of wood." The **GDP**[°](#w-gdp) figures say something quite different: **services are more
 than 70% of the economy** (finance, real estate, health, education, tech,
 retail, government), with resources contributing roughly 10% directly and
 manufacturing about the same.
@@ -61,8 +49,8 @@ And one number to carry into every economic conversation: the
 **productivity gap** — Canadian GDP per hour runs ~70–75% of the
 US level, a gap that widened in the 2010s–20s. It is the national
 economic anxiety (the modern version of Lesson 05's "hewers"
-worry), and its suspects — small protected markets, oligopoly
-comfort, capital fleeing to housing, branch-plant R&D — recur
+worry), and its suspects — small protected markets, **oligopoly**[°](#w-oligopoly)
+comfort, **capital**[°](#w-capital) fleeing to housing, branch-plant R&D — recur
 through this whole phase.
 
 ---
@@ -79,10 +67,10 @@ education, government) enormous per Lesson 34's architecture;
 tech significant and growing (Lesson 39). Goods production —
 manufacturing ~10% of GDP (halved since the 1970s, the standard
 rich-country arc plus China shock), construction outsized (housing
-again), resources ~8–10% directly *but* with multipliers: the
+again), resources ~8–10% directly *but* with **multipliers**[°](#w-multiplier): the
 oil-sands job in Fort McMurray carries the Newfoundland
 fly-in worker (Lesson 05), the Toronto bank's energy desk, the
-Edmonton machine shop. The export account is where staples still
+Edmonton machine shop. The **export account**[°](#w-export-account) is where staples still
 rule: energy roughly a quarter of goods exports (the #1 item),
 vehicles/parts second (one integrated industry with the US,
 Lesson 38), then metals, forest, farm. Summary sentence: **Canada
@@ -101,9 +89,9 @@ sales-and-assembly; a thin layer of globally scaled Canadian-
 headquartered firms (the banks, the railways, Brookfield, Shopify
 — the exceptions that prove it). The modern echo: Canada produces
 world-class research (AI's godfathers worked in Toronto,
-Montreal, Edmonton — Lesson 39) whose commercialization
+Montreal, Edmonton — Lesson 39) whose **commercialization**[°](#w-commercialization)
 disproportionately happens, and accrues, elsewhere. "Invented
-here, scaled there" is the branch plant's ghost.
+here, scaled there" is the **branch plant's**[°](#w-branch-plant) ghost.
 
 ### The oligopoly pattern
 
@@ -116,13 +104,13 @@ airlines**, **two railways**, **a handful of grocers**
 ledger: concentration bought stability (2008, Lesson 40) and
 national-scale service across brutal geography — and it charges
 for the favour, in prices and in the competitive slack that
-feeds the productivity gap. The Competition Bureau's
+feeds the **productivity**[°](#w-productivity) gap. The Competition Bureau's
 strengthening (2022–24 reforms) is the current counter-move;
 the structure is older than the referee.
 
 ### The productivity file (the honest version)
 
-GDP per capita: rich but slipping relative to the US frontier;
+GDP **per capita**[°](#w-per-capita): rich but slipping relative to the US frontier;
 GDP per hour: ~three-quarters of US. Standard suspect list:
 (1) **capital shallowing** — Canadian firms invest less per
 worker (machinery, software, IP), with national savings
@@ -239,6 +227,24 @@ champions outside banking and infrastructure; recurring
 foreign-takeover dramas over the few that emerge. The ghost
 in the productivity file.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-gdp"></a>**GDP** — Gross Domestic Product: the total value of everything a country produces in a year; <a id="w-per-capita"></a>**per capita** (per KAP-ih-tah) — per person.
+- <a id="w-g7"></a>**G7** — the group of seven big rich democracies (Canada, US, UK, France, Germany, Italy, Japan).
+- <a id="w-productivity"></a>**productivity** — output produced per hour of work; the source of long-run wages.
+- <a id="w-services-economy"></a>**services economy** — one where most people work in offices, shops, health, finance — not farms or factories.
+- <a id="w-oligopoly"></a>**oligopoly** (ol-ih-GOP-uh-lee) — a market controlled by a few big firms (Lesson 04).
+- <a id="w-branch-plant"></a>**branch plant** — a local factory or subsidiary owned by a foreign parent company, which keeps the head office, research, and profits at home.
+- <a id="w-commercialization"></a>**commercialization** — turning research into products and companies that make money.
+- <a id="w-multiplier"></a>**multiplier** — the extra economic activity one job or industry generates around it.
+- <a id="w-capital"></a>**capital** (in economics) — the machines, software, and buildings workers use; "investing in capital" = equipping workers better.
+- <a id="w-export-account"></a>**export account** — what a country sells abroad (can look very different from what its people work at).
+- <a id="w-brain-drain"></a>**brain drain** — losing your most skilled people to a richer country.
 
 ---
 

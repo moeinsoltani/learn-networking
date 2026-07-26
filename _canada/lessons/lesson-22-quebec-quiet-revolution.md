@@ -10,22 +10,12 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 22: Quebec — the Quiet Revolution to the Referendums
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **secular / secularize** (SEK-yoo-ler) — not religious / to move something (schools, hospitals) out of religious control; **clerical** — run by the Church.
-> - **patronage** (PAT-run-ij) — handing out government jobs and contracts to political friends.
-> - **nationalize** — for the state to buy or take over private companies (here: the electricity companies → Hydro-Québec).
-> - **sovereignty** (SOV-rin-tee) — here: Quebec becoming an independent country; **sovereignty-association** — independence *plus* a negotiated economic partnership with Canada.
-> - **anglophone / francophone / allophone** (AN-gloh-fone / FRAN-koh-fone / AL-oh-fone) — English-speaker / French-speaker / (in Quebec) someone whose first language is neither.
-> - **CEGEP** (say-ZHEP) — Quebec's free college level between high school and university.
-> - **laïcité** (lah-ee-see-TAY) — French-style strict separation of religion from the state.
-> - **intelligentsia** (in-tel-ih-GENT-see-ah) — a society's intellectual class (writers, artists, academics).
-> - Names & phrases: **Duplessis** (doo-pless-EE), **la Grande Noirceur** (lah grawnd nwahr-SUR — "the Great Darkness"), **Lesage** (luh-SAHZH), **Lévesque** (lay-VEK), **Trudeau** (troo-DOH), **Parti Québécois / PQ** (par-TEE kay-bay-KWAH), **FLQ** (say the letters; in French: ef-el-KEW), **Bouchard** (boo-SHAR), **Parizeau** (pah-ree-ZOH), **"Maîtres chez nous"** (METR shay NOO — "masters in our own house"), **"À la prochaine fois"** (ah lah proh-SHEN FWAH — "until next time"), **épanouissement** (ay-pah-noo-ees-MAWN — "flourishing").
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 In 1960, Quebec was the most church-run society in the Western world —
-education, hospitals, unions all clerical; the highest birthrate;
+education, hospitals, unions all **clerical**[°](#w-clerical); the highest birthrate;
 francophones earning less on average than nearly every immigrant group
 in their own province, managed in English above foreman level. Within
 **one generation**: the most secular society in North America, a
@@ -38,17 +28,17 @@ The arc runs sixty years, and it moves in one direction: from a nationalism of
 
 | Years | What happened |
 |---|---|
-| **1936–59** | **Duplessis** — remembered in Quebec as *la Grande Noirceur*, "the Great Darkness": Church authority, patronage, and resources sold cheap to outside investors. Nationalism here means *survival* — rural, Catholic, defensive (the *la survivance* of Lessons 08 and 10) |
+| **1936–59** | **Duplessis** — remembered in Quebec as *la Grande Noirceur*, "the Great Darkness": Church authority, **patronage**[°](#w-patronage), and resources sold cheap to outside investors. Nationalism here means *survival* — rural, Catholic, defensive (the *la survivance* of Lessons 08 and 10) |
 | **1960** | The **Lesage Liberals** win on the slogan *"Il faut que ça change"* — and the **Quiet Revolution** begins. The state takes over education and health from the Church; Hydro-Québec is nationalized under the banner *"Maîtres chez nous"* (masters in our own house); and a francophone managerial class is deliberately built through the public sector |
 | **1963–70** | **FLQ** bombings — the violent fringe of the movement |
 | **1967** | De Gaulle's balcony speech (Lesson 21); **René Lévesque** leaves the Liberals and founds the **Parti Québécois** in 1968 |
 | **1970** | The **October Crisis**: the FLQ kidnaps James Cross and Pierre Laporte, and murders Laporte; Trudeau invokes the **War Measures Act** — troops in Montreal, more than 400 detained without charge |
 | **1976–77** | The **PQ wins power**; the next year brings **Bill 101**, the Charter of the French Language |
-| **1980** | **First referendum** on sovereignty-association: **No 59.6%, Yes 40.4%** — Trudeau promises constitutional renewal |
+| **1980** | **First referendum** on **sovereignty-association**[°](#w-sovereignty-association): **No 59.6%, Yes 40.4%** — Trudeau promises constitutional renewal |
 | **1982** | Patriation of the constitution **without Quebec's signature** (Lesson 23) |
 | **1990–92** | The **Meech Lake Accord** dies; the **Charlottetown Accord** is rejected |
 | **1995** | **Second referendum**: **No 50.58%, Yes 49.42%** |
-| **2000s–** | Sovereignty dormant but not dead; Parliament recognizes the Québécois as "a nation within a united Canada" (2006) |
+| **2000s–** | **Sovereignty**[°](#w-sovereignty) dormant but not dead; Parliament recognizes the Québécois as "a nation within a united Canada" (2006) |
 
 Two men, schoolmates-in-spirit and total opposites, personify the era:
 **René Lévesque** (chain-smoking journalist, the Quiet Revolution
@@ -93,7 +83,7 @@ labour minister **Pierre Laporte**. Trudeau — asked how far he'd go:
 **"Just watch me"** — invoked the **War Measures Act** (Lesson 20's
 loaded statute; its only peacetime use): troops on Montreal streets,
 civil liberties suspended, ~450 detained without charge (nearly all
-released uncharged — poets, singers, the sovereignist intelligentsia).
+released uncharged — poets, singers, the sovereignist **intelligentsia**[°](#w-intelligentsia)).
 Laporte was found strangled in a car trunk; Cross was released
 negotiated-exile-for-hostage in December. Verdicts still split: firm
 hand that ended terrorism (the FLQ evaporated; support in Quebec at
@@ -146,7 +136,7 @@ collision Lesson 23 constitutionalizes.
 
 Sovereignty since: dormant, not dead — support cycles 30–40%,
 generational replacement cuts both ways, and the movement's energy
-migrated into language/identity legislation (Bill 96, laïcité —
+migrated into language/identity legislation (Bill 96, **laïcité**[°](#w-laicite) —
 Lesson 43's debates). The question Lesson 47 inherits: can a country
 permanently contain a nation that reserves the right to leave?
 Canada's answer to date: apparently yes, by never making it answer.
@@ -249,6 +239,22 @@ Parizeau's "money and ethnic votes" remark discrediting the
 movement's civic image; and a long sovereignty winter — support
 cycling in the 30s, the question unresolved but unasked since.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-secular-secularize"></a>**secular / secularize** (SEK-yoo-ler) — not religious / to move something (schools, hospitals) out of religious control; <a id="w-clerical"></a>**clerical** — run by the Church.
+- <a id="w-patronage"></a>**patronage** (PAT-run-ij) — handing out government jobs and contracts to political friends.
+- <a id="w-nationalize"></a>**nationalize** — for the state to buy or take over private companies (here: the electricity companies → Hydro-Québec).
+- <a id="w-sovereignty"></a>**sovereignty** (SOV-rin-tee) — here: Quebec becoming an independent country; <a id="w-sovereignty-association"></a>**sovereignty-association** — independence *plus* a negotiated economic partnership with Canada.
+- <a id="w-anglophone-francophone-allophone"></a>**anglophone / francophone / allophone** (AN-gloh-fone / FRAN-koh-fone / AL-oh-fone) — English-speaker / French-speaker / (in Quebec) someone whose first language is neither.
+- <a id="w-cegep"></a>**CEGEP** (say-ZHEP) — Quebec's free college level between high school and university.
+- <a id="w-laicite"></a>**laïcité** (lah-ee-see-TAY) — French-style strict separation of religion from the state.
+- <a id="w-intelligentsia"></a>**intelligentsia** (in-tel-ih-GENT-see-ah) — a society's intellectual class (writers, artists, academics).
+- Names & phrases: **Duplessis** (doo-pless-EE), **la Grande Noirceur** (lah grawnd nwahr-SUR — "the Great Darkness"), **Lesage** (luh-SAHZH), **Lévesque** (lay-VEK), **Trudeau** (troo-DOH), **Parti Québécois / PQ** (par-TEE kay-bay-KWAH), **FLQ** (say the letters; in French: ef-el-KEW), **Bouchard** (boo-SHAR), **Parizeau** (pah-ree-ZOH), **"Maîtres chez nous"** (METR shay NOO — "masters in our own house"), **"À la prochaine fois"** (ah lah proh-SHEN FWAH — "until next time"), **épanouissement** (ay-pah-noo-ees-MAWN — "flourishing").
 
 ---
 

@@ -15,20 +15,13 @@ parent: "Phase 6: The Newborn"
 > fast — but it is **not** a diagnosis tool. For a young baby, **trust your
 > instincts and don't wait**; a fever in a baby under 3 months is an emergency.
 
-{: .note }
-> **Words to know**
-> - **well-baby visit** — a routine checkup to track growth, development, and health.
-> - **immunisation / vaccine** — protection against serious infections; the schedule starts in the first months.
-> - **jaundice** (JAWN-diss) — yellowing of the skin/eyes from bilirubin; common in newborns, sometimes needs treatment.
-> - **rectal temperature** — the most accurate way to take a young baby's temperature.
-> - **lethargy** — being unusually drowsy, floppy, or hard to wake.
-> - **dehydration** — not enough fluids; watch wet-diaper counts.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Most newborn health is about **routine care** — well-baby visits, vaccines, and
+Most newborn health is about **routine care** — **well-baby visits**[°](#w-well-baby-visit), vaccines, and
 growth tracking — punctuated by a few **common, usually-manageable issues** (like
-jaundice) and a short list of **genuine red flags** that mean *act now*. Knowing the
+**jaundice**[°](#w-jaundice)) and a short list of **genuine red flags** that mean *act now*. Knowing the
 red flags cold is the goal of this lesson: for a young baby, some symptoms are true
 emergencies, and hesitating "not to overreact" is the wrong instinct. **When in
 doubt, call — or go in.**
@@ -60,9 +53,9 @@ doubt, call — or go in.**
 > - Has a **fever of 38 °C (100.4 °F) or higher and is under 3 months old** —
 >   **this is an emergency; go now.**
 > - Has **trouble breathing** (fast, laboured, grunting, pauses, or blue lips/skin).
-> - Is **very hard to wake, floppy, or unusually unresponsive** (lethargy).
+> - Is **very hard to wake, floppy, or unusually unresponsive** (**lethargy**[°](#w-lethargy)).
 > - **Won't feed** or is feeding very poorly, or has **far fewer wet diapers**
->   (possible dehydration).
+>   (possible **dehydration**[°](#w-dehydration)).
 > - Has **persistent or forceful vomiting**, especially **green** vomit, or **blood
 >   in stool/vomit**.
 > - Is **inconsolable** in a way that feels different and wrong, or has a **rash that
@@ -153,6 +146,19 @@ fewer wet diapers</strong>; <strong>persistent/green vomiting or blood in stool<
 a <strong>non-fading rash</strong>; a <strong>seizure</strong>; or a strong instinct
 that something is seriously wrong.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-well-baby-visit"></a>**well-baby visit** — a routine checkup to track growth, development, and health.
+- <a id="w-immunisation-vaccine"></a>**immunisation / vaccine** — protection against serious infections; the schedule starts in the first months.
+- <a id="w-jaundice"></a>**jaundice** (JAWN-diss) — yellowing of the skin/eyes from bilirubin; common in newborns, sometimes needs treatment.
+- <a id="w-rectal-temperature"></a>**rectal temperature** — the most accurate way to take a young baby's temperature.
+- <a id="w-lethargy"></a>**lethargy** — being unusually drowsy, floppy, or hard to wake.
+- <a id="w-dehydration"></a>**dehydration** — not enough fluids; watch wet-diaper counts.
 
 ---
 

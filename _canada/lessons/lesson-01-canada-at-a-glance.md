@@ -10,19 +10,7 @@ parent: "Phase 1: The Land"
 
 # Lesson 01: Canada at a Glance
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **province** / **territory** — the 13 pieces Canada is divided into; a province has its own constitutional powers, a territory gets its powers from the federal government (explained below).
-> - **delegated** — given (a power) from a higher authority to a lower one; **devolved** — powers gradually handed down over time.
-> - **Crown land** — land owned by the government (in Canada, "the Crown" means the state; more in Lesson 25).
-> - **motto** — a short official phrase that expresses what a country stands for.
-> - **bilingual** (by-LING-gwul) — using two official languages (English and French).
-> - **Confederation** (kun-fed-er-AY-shun) — the 1867 joining of provinces that created Canada (Lesson 13).
-> - **metro** (short for *metropolitan area*) — a city plus all the suburbs and towns that function as one place. Calgary's metro is bigger than Edmonton's even though Edmonton is the capital.
-> - **potash** (POT-ash) — a mineral salt dug out of the ground and used to make fertilizer. Saskatchewan supplies a large share of the world's.
-> - **Klondike** (KLON-dyke) — the Yukon river region where gold was found in 1896, setting off a stampede of prospectors (Lesson 14).
-> - **equalization** (ee-kwuh-lye-ZAY-shun) — the federal payments that move money from richer provinces to poorer ones so all can offer similar public services (Lesson 35).
-> - Tricky place names: **Quebec** (kwih-BEK; in French, keh-BEK), **Saskatchewan** (sus-KATCH-eh-wun), **Regina** (rih-JY-nah), **Newfoundland** (NOO-fund-LAND — stress on first and last syllable), **Nunavut** (NOO-nah-voot), **Iqaluit** (ee-KAL-oo-it), **Ottawa** (OTT-ah-wah), **the Maritimes** (MARE-ih-timez).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -38,14 +26,14 @@ The numbers that define everything else:
 - **Ten provinces + three territories**, each with its own capital and
   government.
 - **Three oceans** — Atlantic (east), Pacific (west), Arctic (north) — giving
-  Canada the longest coastline in the world. The national motto is
+  Canada the longest coastline in the world. The national **motto**[°](#w-motto) is
   *A Mari usque ad Mare*, "from sea to sea."
 - **One neighbour** — the world's longest international land border
   (~8,900 km) with the United States, and no other land neighbour at all.
 
 ![Political map of Canada showing the ten provinces, three territories, and their capitals](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canada_political_map_-_en.svg/960px-Canada_political_map_-_en.svg.png)
 
-*The thirteen pieces: ten provinces along the south, three territories in the
+*The thirteen pieces: ten **provinces**[°](#w-province) along the south, three **territories**[°](#w-territory) in the
 North, capitals starred. Map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canada_political_map_-_en.svg).*
 
 And the fact that trips up half the world: **Ottawa is the capital, not
@@ -85,16 +73,16 @@ produce the capitals from memory.
 | Province / Territory | Abbrev. | Capital | Worth knowing |
 |---|---|---|---|
 | British Columbia | BC | Victoria | Pacific coast; Vancouver is the big city, not the capital |
-| Alberta | AB | Edmonton | Oil & gas; Calgary is the bigger metro |
-| Saskatchewan | SK | Regina | Wheat, potash; Saskatoon is the bigger city |
+| Alberta | AB | Edmonton | Oil & gas; Calgary is the bigger **metro**[°](#w-metro) |
+| Saskatchewan | SK | Regina | Wheat, **potash**[°](#w-potash); Saskatoon is the bigger city |
 | Manitoba | MB | Winnipeg | Gateway between West and East |
 | Ontario | ON | Toronto | Largest population; also contains Ottawa, the national capital |
 | Quebec | QC | Quebec City | Only majority-French province; Montreal is the big city |
-| New Brunswick | NB | Fredericton | Canada's only officially bilingual *province* |
+| New Brunswick | NB | Fredericton | Canada's only officially **bilingual**[°](#w-bilingual) *province* |
 | Nova Scotia | NS | Halifax | Atlantic gateway; Halifax is the region's metropolis |
-| Prince Edward Island | PE | Charlottetown | Smallest province; birthplace of Confederation |
+| Prince Edward Island | PE | Charlottetown | Smallest province; birthplace of **Confederation**[°](#w-confederation) |
 | Newfoundland and Labrador | NL | St. John's | Last to join (1949); own time zone (half-hour offset!) |
-| Yukon | YT | Whitehorse | Klondike Gold Rush country |
+| Yukon | YT | Whitehorse | **Klondike**[°](#w-klondike) Gold Rush country |
 | Northwest Territories | NT | Yellowknife | Diamonds; the "original" North |
 | Nunavut | NU | Iqaluit | Newest (1999); majority Inuit; a fifth of Canada's area |
 
@@ -111,7 +99,7 @@ Groupings you'll hear constantly:
 Provinces get their powers directly from the Constitution and own their Crown
 land and resources. Territories exercise powers *delegated by the federal
 government* — Ottawa could, in law, change them (in practice the territories
-have gained province-like "devolved" powers over decades). Why the difference?
+have gained province-like "**devolved**[°](#w-devolved)" powers over decades). Why the difference?
 Tiny populations across vast distances: the three territories together hold
 about 120,000 people — roughly one mid-sized suburb — on 40% of Canada's land.
 
@@ -126,7 +114,7 @@ about 120,000 people — roughly one mid-sized suburb — on 40% of Canada's lan
 Distance is the first "institution" of Canada. St. John's is closer to London
 than to Vancouver. Driving Toronto→Vancouver is ~4,400 km — Lisbon to Moscow.
 A "short" domestic flight is four hours. Keep this in mind whenever you meet a
-Canadian policy that looks strange: railways as nation-building, equalization
+Canadian policy that looks strange: railways as nation-building, **equalization**[°](#w-equalization)
 payments, regional grievance, the price of milk in Iqaluit — distance explains
 a remarkable share of it.
 
@@ -211,6 +199,24 @@ Canada in 1949, so it was never part of "the Maritimes," and Newfoundlanders
 will notice if you lump them in. "Atlantic Canada" was coined precisely to
 include Newfoundland after 1949.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-province"></a>**province** / <a id="w-territory"></a>**territory** — the 13 pieces Canada is divided into; a province has its own constitutional powers, a territory gets its powers from the federal government (explained below).
+- <a id="w-delegated"></a>**delegated** — given (a power) from a higher authority to a lower one; <a id="w-devolved"></a>**devolved** — powers gradually handed down over time.
+- <a id="w-crown-land"></a>**Crown land** — land owned by the government (in Canada, "the Crown" means the state; more in Lesson 25).
+- <a id="w-motto"></a>**motto** — a short official phrase that expresses what a country stands for.
+- <a id="w-bilingual"></a>**bilingual** (by-LING-gwul) — using two official languages (English and French).
+- <a id="w-confederation"></a>**Confederation** (kun-fed-er-AY-shun) — the 1867 joining of provinces that created Canada (Lesson 13).
+- <a id="w-metro"></a>**metro** (short for *metropolitan area*) — a city plus all the suburbs and towns that function as one place. Calgary's metro is bigger than Edmonton's even though Edmonton is the capital.
+- <a id="w-potash"></a>**potash** (POT-ash) — a mineral salt dug out of the ground and used to make fertilizer. Saskatchewan supplies a large share of the world's.
+- <a id="w-klondike"></a>**Klondike** (KLON-dyke) — the Yukon river region where gold was found in 1896, setting off a stampede of prospectors (Lesson 14).
+- <a id="w-equalization"></a>**equalization** (ee-kwuh-lye-ZAY-shun) — the federal payments that move money from richer provinces to poorer ones so all can offer similar public services (Lesson 35).
+- Tricky place names: **Quebec** (kwih-BEK; in French, keh-BEK), **Saskatchewan** (sus-KATCH-eh-wun), **Regina** (rih-JY-nah), **Newfoundland** (NOO-fund-LAND — stress on first and last syllable), **Nunavut** (NOO-nah-voot), **Iqaluit** (ee-KAL-oo-it), **Ottawa** (OTT-ah-wah), **the Maritimes** (MARE-ih-timez).
 
 ---
 

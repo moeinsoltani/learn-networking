@@ -10,19 +10,7 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 51: Winter as a Way of Life
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **windchill** — the "feels like" temperature combining cold + wind; the number Canadians actually quote.
-> - **frostbite** — skin freezing; at deep cold it can happen to exposed skin in minutes.
-> - **toque** (TOOK — also spelled tuque) — the knitted winter hat; the most Canadian garment.
-> - **block heater** — an electric engine warmer you plug into a wall outlet overnight so the car starts at −30.
-> - **windrow** (WIN-droh) — the wall of plowed snow the city plow leaves across your freshly shovelled driveway.
-> - **toboggan** (tuh-BOG-un) — a sled for sliding down snowy hills; **snowshoes** — wide frames strapped to boots for walking on deep snow.
-> - **snowbird** — a Canadian (usually retired) who spends winters in Florida or Arizona.
-> - **SAD / seasonal affective disorder** — winter depression caused by lack of daylight; openly discussed, treated with therapy lamps.
-> - **"second winter"** — the betrayal snowstorm that arrives after spring seemed to start.
-> - **patio season** — when restaurants open outdoor seating and attendance becomes a civic duty.
-> - Names: **Rideau Canal** (rih-DOH) — Ottawa's canal that freezes into the world's largest skating rink; **Winterlude / Carnaval** (kar-nah-VAL) — Ottawa's and Quebec City's winter festivals; **BeaverTails** — fried flat pastry (Lesson 52).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -37,13 +25,13 @@ first +10°C day, when Canadians wear shorts on principle.
 
 ![Skaters on the frozen Rideau Canal in Ottawa under a winter sky](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rideau_Canal_skating_6964.jpg/960px-Rideau_Canal_skating_6964.jpg)
 
-*The Rideau Canal Skateway, Ottawa — in a good freeze, 7.8 km of the
+*The **Rideau Canal**[°](#w-rideau-canal) Skateway, Ottawa — in a good freeze, 7.8 km of the
 capital becomes the world's largest rink and a commuting route;
 civil servants skate to work with briefcases. Winter not as siege
 but as infrastructure. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rideau_Canal_skating_6964.jpg).*
 
 The core cultural fact: Canadians don't merely endure winter — they
-**administer** it (plows, salt, block heaters, rink schedules) and,
+**administer** it (plows, salt, **block heaters**[°](#w-block-heater), rink schedules) and,
 crucially, **play** in it. The kid on skates at the outdoor rink is
 the system working as designed. The compensating fact: they also
 complain about it constantly, and the complaining is a bonding
@@ -58,14 +46,14 @@ the weather actually bears loads.
 
 - **Dress like an onion, not a hero:** layers — base (not cotton),
   insulating middle, windproof shell; the real losses are at the
-  extremities, so **toque** (L.54), mitts (warmer than gloves),
+  extremities, so **toque**[°](#w-toque) (L.54), mitts (warmer than gloves),
   wool socks, and a scarf you can breathe through at −30. The
   parka is an investment purchase (L.50's shopping list) and
   nobody stylish is cold-stylish after the first February.
 - **Windchill is the real number:** forecasts give temperature
   AND "feels like" — Canadians quote the feels-like ("minus
   fifteen but feels like minus twenty-six") because exposed-skin
-  freezing time is what matters; frostbite advisories are
+  freezing time is what matters; **frostbite**[°](#w-frostbite) advisories are
   routine operational information, not drama.
 - **Driving is a winter sport:** snow tires (mandatory in Quebec,
   near-universal in the snow belt), the trunk kit (scraper,
@@ -78,7 +66,7 @@ the weather actually bears loads.
 - **The shoveling covenant:** you shovel your walk (bylaw AND
   honour); the good neighbour does the elderly neighbour's; the
   snowplow will entomb your driveway's mouth at 7 a.m. (the
-  "windrow") and cursing it is national liturgy; snow-blower
+  "**windrow**[°](#w-windrow)") and cursing it is national liturgy; snow-blower
   owners are winter's aristocracy and know it.
 
 ### The emotional calendar (natives feel this; now you can)
@@ -107,7 +95,7 @@ early, at about 8°C, with Canadians in shorts, radiating joy.
 And by the **May long weekend** — "May two-four" (Lesson 45) — winter is
 formally forgiven, until November.
 
-**Patio season** deserves its own entry: the moment restaurants
+**Patio season**[°](#w-patio-season) deserves its own entry: the moment restaurants
 open outdoor seating, attendance becomes a civic duty performed in
 inadequate clothing. The inverse of February's wall is April's
 mania, and both are sincere.
@@ -117,11 +105,11 @@ mania, and both are sincere.
 The difference between surviving and belonging: natives were
 *taught to play outside in it* (L.48's childhood). The public
 infrastructure is everywhere and mostly free — outdoor community
-rinks (volunteer-flooded; skate at night under lights), toboggan
+rinks (volunteer-flooded; skate at night under lights), **toboggan**[°](#w-toboggan)
 hills (every city has famous ones and an annual is-it-too-icy
 debate), cross-country trails, snowshoe rentals, ice fishing
 villages on frozen lakes (with huts, stoves, and bylaws), Quebec's
-Winter Carnival and Ottawa's Winterlude (BeaverTails on the canal
+Winter Carnival and Ottawa's Winterlude (**BeaverTails**[°](#w-beavertails) on the canal
 — L.52), and the backyard rink — a father-archetype folk
 engineering project (hose, patience, February pride). The rule for
 newcomers: **buy the used skates** (L.45's "the attempt is the
@@ -142,7 +130,7 @@ adorable — respect the gradient).
 
 {: .note }
 > **The newcomer's first-winter protocol**
-> Buy the coat/boots BEFORE November (L.50). Learn the windchill
+> Buy the coat/boots BEFORE November (L.50). Learn the **windchill**[°](#w-windchill)
 > grammar week one. Never touch metal with wet bare hands; walk
 > like a penguin on ice (short steps, weight forward — falls on
 > ice are the real injury statistic). Shovel early and often
@@ -236,6 +224,24 @@ it, curse it, play in it — and the cursing is how you check
 that everyone else is holding up. (File with "sorry": words
 whose social function outweighs their dictionary meaning.)
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-windchill"></a>**windchill** — the "feels like" temperature combining cold + wind; the number Canadians actually quote.
+- <a id="w-frostbite"></a>**frostbite** — skin freezing; at deep cold it can happen to exposed skin in minutes.
+- <a id="w-toque"></a>**toque** (TOOK — also spelled tuque) — the knitted winter hat; the most Canadian garment.
+- <a id="w-block-heater"></a>**block heater** — an electric engine warmer you plug into a wall outlet overnight so the car starts at −30.
+- <a id="w-windrow"></a>**windrow** (WIN-droh) — the wall of plowed snow the city plow leaves across your freshly shovelled driveway.
+- <a id="w-toboggan"></a>**toboggan** (tuh-BOG-un) — a sled for sliding down snowy hills; <a id="w-snowshoes"></a>**snowshoes** — wide frames strapped to boots for walking on deep snow.
+- <a id="w-snowbird"></a>**snowbird** — a Canadian (usually retired) who spends winters in Florida or Arizona.
+- <a id="w-sad-seasonal-affective-disorder"></a>**SAD / seasonal affective disorder** — winter depression caused by lack of daylight; openly discussed, treated with therapy lamps.
+- <a id="w-second-winter"></a>**"second winter"** — the betrayal snowstorm that arrives after spring seemed to start.
+- <a id="w-patio-season"></a>**patio season** — when restaurants open outdoor seating and attendance becomes a civic duty.
+- Names: <a id="w-rideau-canal"></a>**Rideau Canal** (rih-DOH) — Ottawa's canal that freezes into the world's largest skating rink; <a id="w-winterlude-carnaval"></a>**Winterlude / Carnaval** (kar-nah-VAL) — Ottawa's and Quebec City's winter festivals; <a id="w-beavertails"></a>**BeaverTails** — fried flat pastry (Lesson 52).
 
 ---
 

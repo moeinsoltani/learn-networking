@@ -10,26 +10,13 @@ parent: "Phase 6: Civic Life"
 
 # Lesson 33: The Justice System in Practice
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **detention** — being held by police without being free to leave (short of arrest).
-> - **duty counsel** — the free, on-call lawyer available 24/7 to anyone arrested.
-> - **disclosure** — the Crown's obligation to show the accused *all* its evidence before trial.
-> - **plea bargain / guilty plea** — resolving a charge by agreement instead of trial.
-> - **indictable offence** (in-DYE-tah-bul — the "c" is silent) — a serious criminal charge; lesser ones are "summary" offences.
-> - **summons** (SUM-unz) — an official order to appear (e.g., for jury duty).
-> - **peremptory challenge** (per-EMP-tor-ee) — rejecting a potential juror without giving any reason (abolished in Canada, 2019).
-> - **deliberations** — the jury's private discussions; **contempt of court** — disobeying or disrespecting the court's rules (a punishable offence).
-> - **garnishment** — collecting a court judgment by taking money directly from the loser's wages or bank account; **lien** (LEEN) — a legal claim registered against property until a debt is paid.
-> - **carding / street check** — police stopping and documenting people not suspected of any crime.
-> - **civilian oversight** — independent non-police bodies that investigate police conduct.
-> - Names: **Stinchcombe** (STINCH-kum), **Colten Boushie** (BOO-shee), **SIU** — Ontario's Special Investigations Unit.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Lesson 30 gave you the courts' architecture; this lesson is the
 user's manual — what actually happens when ordinary life touches
-the system: a traffic stop, an arrest, a jury summons, a dispute
+the system: a traffic stop, an arrest, a jury **summons**[°](#w-summons), a dispute
 with a landlord or contractor. Start with the policing map, which
 is genuinely odd:
 
@@ -86,12 +73,12 @@ the remedy that makes the script matter.
 ### Criminal court flow (what ~95% actually looks like)
 
 Charge → first appearance (provincial court — scheduling, not
-trial) → Crown discloses evidence (full disclosure is
+trial) → Crown discloses evidence (full **disclosure**[°](#w-disclosure) is
 constitutional: *Stinchcombe*) → resolution discussions: the
 system runs on **guilty pleas and withdrawals** (~90% of charges
 never see trial — plea bargaining exists, Canadian-style: less
 lurid than American, same economics) → if trial: provincial court
-(judge alone) for most; serious indictable offences offer
+(judge alone) for most; serious **indictable offences**[°](#w-indictable-offence) offer
 elections up to superior court with judge-and-jury → sentencing
 with *Gladue* (Lesson 30) where applicable → appeal rights.
 Timeline discipline: *Jordan*'s 18/30-month ceilings (Lesson 30). Legal aid: provincial plans cover the poorest facing
@@ -130,7 +117,7 @@ dependency.
   simplified forms, no lawyer needed, filing fees ~$100-range;
   the deposit, the botched renovation, the unpaid invoice.
   Realism: winning is easier than *collecting* — judgments
-  aren't cheques, and enforcement (garnishment, liens) is the
+  aren't cheques, and enforcement (**garnishment**[°](#w-garnishment), **liens**[°](#w-lien)) is the
   loser-pays-eventually part nobody warns you about.
 - **Tribunals** (Lesson 30): landlord–tenant, employment
   standards, human rights (discrimination in housing/work/
@@ -139,7 +126,7 @@ dependency.
   refugee. Cheaper, faster-ish (some, like Ontario's LTB, run
   notorious backlogs), designed for self-representation.
 - **Police complaints**: every jurisdiction has civilian
-  oversight (Ontario's SIU for deaths/serious injury — the
+  oversight (Ontario's **SIU**[°](#w-siu) for deaths/serious injury — the
   model), of varying and much-debated independence.
 - **Human-rights codes**: federal + 13 provincial/territorial —
   protected grounds (race, religion, sex, disability, sexual
@@ -249,6 +236,25 @@ change; and the driver here was Lesson 24's larger file —
 Indigenous confidence in justice — of which jury composition
 was one visible, fixable fragment.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-detention"></a>**detention** — being held by police without being free to leave (short of arrest).
+- <a id="w-duty-counsel"></a>**duty counsel** — the free, on-call lawyer available 24/7 to anyone arrested.
+- <a id="w-disclosure"></a>**disclosure** — the Crown's obligation to show the accused *all* its evidence before trial.
+- <a id="w-plea-bargain-guilty-plea"></a>**plea bargain / guilty plea** — resolving a charge by agreement instead of trial.
+- <a id="w-indictable-offence"></a>**indictable offence** (in-DYE-tah-bul — the "c" is silent) — a serious criminal charge; lesser ones are "summary" offences.
+- <a id="w-summons"></a>**summons** (SUM-unz) — an official order to appear (e.g., for jury duty).
+- <a id="w-peremptory-challenge"></a>**peremptory challenge** (per-EMP-tor-ee) — rejecting a potential juror without giving any reason (abolished in Canada, 2019).
+- <a id="w-deliberations"></a>**deliberations** — the jury's private discussions; <a id="w-contempt-of-court"></a>**contempt of court** — disobeying or disrespecting the court's rules (a punishable offence).
+- <a id="w-garnishment"></a>**garnishment** — collecting a court judgment by taking money directly from the loser's wages or bank account; <a id="w-lien"></a>**lien** (LEEN) — a legal claim registered against property until a debt is paid.
+- <a id="w-carding-street-check"></a>**carding / street check** — police stopping and documenting people not suspected of any crime.
+- <a id="w-civilian-oversight"></a>**civilian oversight** — independent non-police bodies that investigate police conduct.
+- Names: **Stinchcombe** (STINCH-kum), **Colten Boushie** (BOO-shee), <a id="w-siu"></a>**SIU** — Ontario's Special Investigations Unit.
 
 ---
 

@@ -10,18 +10,7 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 42: Two Languages
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **official bilingualism** — the *government* must operate in both languages; individuals owe nothing (the lesson's core correction).
-> - **mother tongue** — the first language a person learned and still understands (the census measure).
-> - **"where numbers warrant"** — the legal threshold: services/schools required only where enough speakers live.
-> - **de facto** (deh FAK-toh) — true in practice, though not written in law (most provinces are de facto English).
-> - **French immersion** — schooling anglophone children largely *in* French.
-> - **symmetric vs asymmetric** — treating both languages identically vs deliberately protecting the weaker one (French).
-> - **B&B Commission** — the 1960s Royal Commission on Bilingualism and Biculturalism, parent of the 1969 Act.
-> - **joual** (zhoo-AL) — Quebec working-class French; **franglais** (frawn-GLEH) — French-English mixing.
-> - **tintamarre** (tan-tah-MAR) — the Acadian tradition of a deafening pot-banging parade on August 15.
-> - Names: **Acadians** (ah-KAY-dee-unz), **Franco-Ontarians**, **Fransaskois** (frawn-sass-KWAH — Saskatchewan's francophones), **St. Boniface** (BON-ih-fass), **Montfort** (mon-FOR — the Ottawa francophone hospital saved by court fight).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -92,7 +81,7 @@ outside federal jurisdiction to serve anyone in anything.
 - **Acadians** (L.08's survivors): ~30% of New Brunswick —
   their weight made NB officially bilingual (1969,
   constitutionalized 1982/1993); the Acadian flag (tricolour
-  with gold star), August 15, the *tintamarre* — a distinct
+  with gold star), August 15, the *tintamarre*[°](#w-tintamarre) — a distinct
   people, emphatically not Québécois.
 - **Franco-Ontarians**: half a million-plus; their 1912–27
   Regulation 17 suppression (Lesson 18's conscription-era
@@ -111,11 +100,11 @@ outside federal jurisdiction to serve anyone in anything.
 
 ### French immersion: the anglophone institution
 
-The unpredicted social phenomenon: **French immersion** —
+The unpredicted social phenomenon: **French immersion**[°](#w-french-immersion) —
 anglophone children schooled substantially in French — became
 English Canada's most oversubscribed public-education stream
 (waitlists, lotteries, 5 a.m. registration queues). Honest
-double reading: genuine bilingual-idealism *and* de facto
+double reading: genuine bilingual-idealism *and* **de facto**[°](#w-de-facto)
 streaming (immersion as the free private school — the
 middle-class sorting mechanism its critics document). Output:
 hundreds of thousands of functionally bilingual anglophone
@@ -151,8 +140,8 @@ answer, available to you now).
 > English / other (the census trinity; "allophone" is normal
 > Canadian English). *Québécois* ≠ *French Canadian* ≠
 > *francophone* (L.22's manual — nation vs ethnicity vs
-> language). *Franglais* — the Montreal register-switch;
-> *joual* — Quebec working-class French, reclaimed by its
+> language). *Franglais*[°](#w-franglais) — the Montreal register-switch;
+> *joual*[°](#w-joual) — Quebec working-class French, reclaimed by its
 > literature. And the phrase to retire: "Parisian French vs
 > Quebec French" as better/worse — Quebec French is a
 > 400-year-old variety (L.08's founder effect) with its own
@@ -249,6 +238,23 @@ ruling (Lesson 15): in Canadian law, the bill always eventually
 arrives, and the Riel-era promises produced two of its
 canonical deliveries.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-official-bilingualism"></a>**official bilingualism** — the *government* must operate in both languages; individuals owe nothing (the lesson's core correction).
+- <a id="w-mother-tongue"></a>**mother tongue** — the first language a person learned and still understands (the census measure).
+- <a id="w-where-numbers-warrant"></a>**"where numbers warrant"** — the legal threshold: services/schools required only where enough speakers live.
+- <a id="w-de-facto"></a>**de facto** (deh FAK-toh) — true in practice, though not written in law (most provinces are de facto English).
+- <a id="w-french-immersion"></a>**French immersion** — schooling anglophone children largely *in* French.
+- <a id="w-symmetric-vs-asymmetric"></a>**symmetric vs asymmetric** — treating both languages identically vs deliberately protecting the weaker one (French).
+- <a id="w-b-b-commission"></a>**B&B Commission** — the 1960s Royal Commission on Bilingualism and Biculturalism, parent of the 1969 Act.
+- <a id="w-joual"></a>**joual** (zhoo-AL) — Quebec working-class French; <a id="w-franglais"></a>**franglais** (frawn-GLEH) — French-English mixing.
+- <a id="w-tintamarre"></a>**tintamarre** (tan-tah-MAR) — the Acadian tradition of a deafening pot-banging parade on August 15.
+- Names: **Acadians** (ah-KAY-dee-unz), **Franco-Ontarians**, **Fransaskois** (frawn-sass-KWAH — Saskatchewan's francophones), **St. Boniface** (BON-ih-fass), **Montfort** (mon-FOR — the Ottawa francophone hospital saved by court fight).
 
 ---
 

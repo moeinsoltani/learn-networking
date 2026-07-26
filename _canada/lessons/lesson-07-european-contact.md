@@ -10,24 +10,14 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 07: European Contact
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **contact** — the historians' word for the first meetings between Indigenous peoples and Europeans; **pre-contact** = before those meetings.
-> - **Norse** (NORSS) — the medieval Scandinavians, also called **Vikings**; their stories are the **sagas** (SAH-gahz); **sod** — blocks of earth with grass, used to build walls.
-> - **pathogen** (PATH-oh-jen) — a germ that causes disease; **acquired immunity** — protection your body builds only after surviving a disease (Indigenous peoples had never met these germs, so they had none).
-> - **scurvy** (SKUR-vee) — a deadly illness from lack of vitamin C on long voyages.
-> - **pyrite** (PIE-rite) — "fool's gold," a shiny mineral that looks like gold but is worthless.
-> - **overwinter** — to stay somewhere through the winter.
-> - **Columbian Exchange** — the huge two-way transfer of plants, animals, tools, and diseases between the Americas and the rest of the world after 1492.
-> - **Doctrine of Discovery** — the old European legal idea that "discovering" non-Christian lands gave the discoverer ownership; **repudiated** = officially rejected.
-> - Names: **Cabot** (KAB-ut), **Cartier** (kar-tee-AY), **Champlain** (sham-PLANE), **L'Anse aux Meadows** (LANCE oh MED-ohz), **Gaspé** (gas-PAY), **Stadacona** (stad-ah-KOH-nah), **Hochelaga** (hoh-shuh-LAH-gah), **Donnacona** (don-ah-KOH-nah), **kanata** (kah-NAH-tah), **Basque** (BASK — a people from the Spain/France border), **Mi'kmaq** (MIG-mah).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Three separate European "arrivals," centuries apart, and none of them a
 discovery — every landing was on someone's coast, watched by someone's eyes:
 
-The first was the **Norse**, around the year 1000. They built a real
+The first was the **Norse**[°](#w-norse), around the year 1000. They built a real
 settlement at L'Anse aux Meadows on the northern tip of Newfoundland — the
 first confirmed European presence anywhere in the Americas — stayed a few
 years, clashed with the local people, and left. It led nowhere.
@@ -52,9 +42,9 @@ to extract** — first fish, then furs. Permanent colonies (next lesson) were
 an afterthought bolted onto a resource operation. Staples thesis (Lesson 05),
 from the very first ship.
 
-And the arrival that mattered most wasn't people at all: **pathogens**.
+And the arrival that mattered most wasn't people at all: **pathogens**[°](#w-pathogen).
 Smallpox, measles, and influenza — to which Indigenous populations had no
-acquired immunity — travelled faster than the Europeans themselves and killed
+**acquired immunity**[°](#w-acquired-immunity) — travelled faster than the Europeans themselves and killed
 on a scale that reshaped every nation on the continent before some of them
 had ever seen a European.
 
@@ -66,7 +56,7 @@ had ever seen a European.
 
 **L'Anse aux Meadows** (northern tip of Newfoundland, excavated 1960s, now a
 UNESCO site) confirmed the Vinland sagas: Norse from Greenland, around
-Leif Erikson's time (~1000 CE), built sod structures, worked iron, and stayed
+Leif Erikson's time (~1000 CE), built **sod**[°](#w-sod) structures, worked iron, and stayed
 briefly. They met Indigenous people (the sagas' hostile "Skraelings"), and
 the venture died. Historical weight: enormous for trivia, nearly zero for
 consequence — no exchange network, no colony, no disease wave we know of.
@@ -100,12 +90,12 @@ Jacques Cartier's three voyages (1534, 1535–36, 1541–42) for France:
 - **1535–36:** guided up the St. Lawrence by those sons to **Stadacona**
   (today's Quebec City) and **Hochelaga** (Montreal — a fortified town of
   thousands). Asked what the region was called, he heard *kanata* — "the
-  village" — and wrote down "Canada." Winter froze his ships in; scurvy
+  village" — and wrote down "Canada." Winter froze his ships in; **scurvy**[°](#w-scurvy)
   killed a quarter of his men until Stadaconans taught him a white-cedar
   bark remedy. **Europeans surviving on Indigenous knowledge** is the motif
   of the next two centuries — remember it.
 - **1541–42:** a failed colony attempt; "diamonds and gold" hauled home
-  turned out to be quartz and pyrite ("faux comme un diamant du Canada"
+  turned out to be quartz and **pyrite**[°](#w-pyrite) ("faux comme un diamant du Canada"
   became a French saying). France lost interest for 60 years.
 
 Crucial postscript: when the French returned in 1603, Stadacona and
@@ -129,7 +119,7 @@ guidepost."
 
 Both sides understood the situation perfectly. Erecting a cross with the royal
 arms was a recognized European legal ritual — an act of claiming territory for
-a Christian monarch under the **Doctrine of Discovery**. Donnacona read it
+a Christian monarch under the **Doctrine of Discovery**[°](#w-doctrine-of-discovery). Donnacona read it
 correctly as a property claim and lodged what amounts to a formal diplomatic
 protest: this land has an owner, and you did not ask. The French then lied
 about their own act to defuse the confrontation, while recording the truth in
@@ -145,11 +135,11 @@ that they knew exactly what they were doing.
 
 ### Contact as exchange — in both directions
 
-The **Columbian Exchange** ran through Canada too: eastward went corn,
+The **Columbian Exchange**[°](#w-columbian-exchange) ran through Canada too: eastward went corn,
 beans, squash, potatoes (via South America), canoes, snowshoes, toboggans,
 lacrosse, and geographic knowledge Europeans mapped as their own; westward
 came metal tools, cloth, firearms, horses (transforming Plains cultures,
-Lesson 06) — and the diseases. The honest summary of early contact is
+Lesson 06) — and the diseases. The honest summary of early **contact**[°](#w-contact) is
 neither "peaceful trade" nor "instant conquest": it was two centuries of
 negotiated interdependence between small European footholds and powerful
 Indigenous nations — *tilted catastrophically by epidemics* that did the
@@ -236,6 +226,22 @@ Lesson 08). Europeans rarely won by strength what epidemics hadn't already
 weakened — which is why "the land was empty" claims invert cause and effect:
 where land stood empty, it had usually been emptied.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-contact"></a>**contact** — the historians' word for the first meetings between Indigenous peoples and Europeans; **pre-contact** = before those meetings.
+- <a id="w-norse"></a>**Norse** (NORSS) — the medieval Scandinavians, also called **Vikings**; their stories are the **sagas** (SAH-gahz); <a id="w-sod"></a>**sod** — blocks of earth with grass, used to build walls.
+- <a id="w-pathogen"></a>**pathogen** (PATH-oh-jen) — a germ that causes disease; <a id="w-acquired-immunity"></a>**acquired immunity** — protection your body builds only after surviving a disease (Indigenous peoples had never met these germs, so they had none).
+- <a id="w-scurvy"></a>**scurvy** (SKUR-vee) — a deadly illness from lack of vitamin C on long voyages.
+- <a id="w-pyrite"></a>**pyrite** (PIE-rite) — "fool's gold," a shiny mineral that looks like gold but is worthless.
+- <a id="w-overwinter"></a>**overwinter** — to stay somewhere through the winter.
+- <a id="w-columbian-exchange"></a>**Columbian Exchange** — the huge two-way transfer of plants, animals, tools, and diseases between the Americas and the rest of the world after 1492.
+- <a id="w-doctrine-of-discovery"></a>**Doctrine of Discovery** — the old European legal idea that "discovering" non-Christian lands gave the discoverer ownership; **repudiated** = officially rejected.
+- Names: **Cabot** (KAB-ut), **Cartier** (kar-tee-AY), **Champlain** (sham-PLANE), **L'Anse aux Meadows** (LANCE oh MED-ohz), **Gaspé** (gas-PAY), **Stadacona** (stad-ah-KOH-nah), **Hochelaga** (hoh-shuh-LAH-gah), **Donnacona** (don-ah-KOH-nah), **kanata** (kah-NAH-tah), **Basque** (BASK — a people from the Spain/France border), **Mi'kmaq** (MIG-mah).
 
 ---
 

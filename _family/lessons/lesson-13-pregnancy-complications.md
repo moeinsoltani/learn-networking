@@ -15,21 +15,14 @@ parent: "Phase 3: Mid & Late Pregnancy"
 > you understand your prenatal care — it is **not** a diagnosis tool. Follow your
 > provider, and see Lesson 14 for the "call now" warning signs.
 
-{: .note }
-> **Words to know**
-> - **gestational diabetes** (jes-TAY-shun-al) — high blood sugar that develops in pregnancy and usually resolves after birth.
-> - **preeclampsia** (pree-ee-KLAMP-see-ah) — a serious condition of high blood pressure plus signs of organ stress.
-> - **Rh factor** — a blood-type marker; a mismatch between mother and baby (Rh-negative mother) is managed with an injection.
-> - **placenta previa** (PREH-vee-ah) — when the placenta covers the cervix; can cause bleeding and may require a C-section.
-> - **preterm labour** — labour starting before 37 weeks.
-> - **anemia** (uh-NEE-mee-ah) — low iron / low red blood cells, causing tiredness and paleness.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Most pregnancies are healthy — and the whole point of **regular prenatal care** is
 to catch the minority of problems **early**, when they're most manageable. This
 lesson gives you a working knowledge of the common complications so that a term
-like "gestational diabetes" or "preeclampsia" isn't frightening jargon, and so you
+like "**gestational diabetes**[°](#w-gestational-diabetes)" or "**preeclampsia**[°](#w-preeclampsia)" isn't frightening jargon, and so you
 understand *why* they check your blood pressure, urine, and blood sugar at every
 visit.
 
@@ -52,10 +45,10 @@ the checkups matters even when you feel completely well.
 | **Gestational diabetes** | High blood sugar in pregnancy; usually **no symptoms** (found by a screening test ~24–28 wks) | Diet, monitoring, exercise; sometimes medication/insulin. Matters because it can make the baby large and affect delivery |
 | **Preeclampsia** | High blood pressure + organ stress; signs: **severe headache, vision changes, sudden swelling, upper-belly pain** | Close monitoring of BP and urine; sometimes early delivery — the cure is birth. **Report the signs urgently** |
 | **High blood pressure** | Can exist before or arise in pregnancy | Monitoring, sometimes medication (pregnancy-safe) |
-| **Anemia** | Low iron; tiredness, paleness | Iron-rich diet and supplements |
+| **Anemia**[°](#w-anemia) | Low iron; tiredness, paleness | Iron-rich diet and supplements |
 | **Rh incompatibility** | Rh-negative mother, Rh-positive baby | An injection (anti-D / "RhoGAM") prevents problems |
 | **Placenta problems** (previa, abruption) | Can cause **bleeding**; abruption also pain | Monitoring; may require a planned C-section or urgent care |
-| **Preterm labour** | Labour before 37 weeks | Care to delay/manage; report early signs |
+| **Preterm labour**[°](#w-preterm-labour) | Labour before 37 weeks | Care to delay/manage; report early signs |
 
 ### Why prenatal visits are the hero here
 
@@ -151,6 +144,19 @@ blood-pressure, urine, and blood tests at each visit are how they're detected
 <strong>early</strong>, before they become serious. That's why skipping visits is
 risky.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-gestational-diabetes"></a>**gestational diabetes** (jes-TAY-shun-al) — high blood sugar that develops in pregnancy and usually resolves after birth.
+- <a id="w-preeclampsia"></a>**preeclampsia** (pree-ee-KLAMP-see-ah) — a serious condition of high blood pressure plus signs of organ stress.
+- <a id="w-rh-factor"></a>**Rh factor** — a blood-type marker; a mismatch between mother and baby (Rh-negative mother) is managed with an injection.
+- <a id="w-placenta-previa"></a>**placenta previa** (PREH-vee-ah) — when the placenta covers the cervix; can cause bleeding and may require a C-section.
+- <a id="w-preterm-labour"></a>**preterm labour** — labour starting before 37 weeks.
+- <a id="w-anemia"></a>**anemia** (uh-NEE-mee-ah) — low iron / low red blood cells, causing tiredness and paleness.
 
 ---
 

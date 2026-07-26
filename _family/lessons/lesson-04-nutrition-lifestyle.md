@@ -14,13 +14,7 @@ parent: "Phase 1: Deciding & Preparing"
 > General education, not medical advice. Ask your provider about doses and your
 > own situation — especially the right folic acid dose for you.
 
-{: .note }
-> **Words to know**
-> - **folic acid / folate** — a B-vitamin that helps prevent serious defects of the baby's brain and spine (neural-tube defects).
-> - **neural-tube defect** (NEW-ral) — a birth defect of the spine/brain (e.g. spina bifida) that forms in the first weeks.
-> - **prenatal vitamin** — a daily multivitamin made for pregnancy (includes folic acid, iron, and more).
-> - **BMI** (Body Mass Index) — a rough measure of weight relative to height.
-> - **sperm** — the male reproductive cells; they take about 3 months to mature.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -33,7 +27,7 @@ why it's a *before* task, not an *after* one.
 Around that headline sits a simple, powerful set of habits — good food, a healthy
 weight, no smoking or alcohol, movement, sleep, less stress — that improve
 fertility and give the pregnancy the best possible start. And crucially, **the
-partner's habits matter too**: sperm take ~3 months to mature, so changes made
+partner's habits matter too**: **sperm**[°](#w-sperm) take ~3 months to mature, so changes made
 now pay off.
 
 ## Going Deeper
@@ -43,9 +37,9 @@ now pay off.
 - **Most people:** **0.4 mg (400 mcg) daily**, ideally starting **2–3 months
   before** conception and continuing through at least the first trimester.
 - **Higher dose (e.g. 1 mg up to 4–5 mg):** for higher-risk situations — a
-  previous pregnancy with a neural-tube defect, diabetes, certain medications
+  previous pregnancy with a **neural-tube defect**[°](#w-neural-tube-defect), diabetes, certain medications
   (e.g. some epilepsy drugs), or higher body weight — **only on medical advice.**
-- A **prenatal vitamin** is an easy way to get folic acid plus iron, vitamin D,
+- A **prenatal vitamin**[°](#w-prenatal-vitamin) is an easy way to get folic acid plus iron, vitamin D,
   iodine, and often DHA in one pill.
 
 ### Eating for fertility and a healthy start
@@ -58,7 +52,7 @@ beans, leafy greens), **vitamin D**, **iodine**, and **omega-3 (DHA)**. Keep
 
 ### Weight, movement, sleep, stress
 
-- **Weight:** being significantly under- or over-weight (high or low **BMI**) can
+- **Weight:** being significantly under- or over-weight (high or low **BMI**[°](#w-bmi)) can
   make conceiving harder and raise pregnancy risks. You don't need to be "ideal" —
   moving toward a healthier range helps.
 - **Exercise:** regular moderate activity supports fertility and prepares your
@@ -163,6 +157,18 @@ partner's diet, weight, smoking/alcohol, and heat exposure <em>now</em> affect t
 quality of the sperm at conception. Preparing the body is a two-person job, not the
 carrying partner's alone.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-folic-acid-folate"></a>**folic acid / folate** — a B-vitamin that helps prevent serious defects of the baby's brain and spine (neural-tube defects).
+- <a id="w-neural-tube-defect"></a>**neural-tube defect** (NEW-ral) — a birth defect of the spine/brain (e.g. spina bifida) that forms in the first weeks.
+- <a id="w-prenatal-vitamin"></a>**prenatal vitamin** — a daily multivitamin made for pregnancy (includes folic acid, iron, and more).
+- <a id="w-bmi"></a>**BMI** (Body Mass Index) — a rough measure of weight relative to height.
+- <a id="w-sperm"></a>**sperm** — the male reproductive cells; they take about 3 months to mature.
 
 ---
 

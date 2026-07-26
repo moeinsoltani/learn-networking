@@ -14,13 +14,7 @@ parent: "Phase 2: The First Trimester"
 > General education, not medical advice. Food guidance varies by country and
 > updates over time — check current advice with your provider.
 
-{: .note }
-> **Words to know**
-> - **prenatal vitamin** — a daily pregnancy multivitamin (folic acid, iron, vitamin D, iodine, often DHA).
-> - **listeria** (liss-TEER-ee-ah) — a bacterium in some foods that is especially dangerous in pregnancy.
-> - **toxoplasmosis** (tox-oh-plaz-MOH-sis) — an infection from cat feces, soil, or undercooked meat; risky in pregnancy.
-> - **mercury** — a metal that builds up in some large fish and can harm a baby's developing brain.
-> - **pasteurised** (PASS-cher-ized) — heat-treated to kill germs; *unpasteurised* dairy is riskier.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -34,7 +28,7 @@ goals: enough **key nutrients**, and avoiding a handful of specific risks.
 
 ### The nutrients that matter
 
-Keep taking your **prenatal vitamin**. Key players: **folic acid** (still, in the
+Keep taking your **prenatal vitamin**[°](#w-prenatal-vitamin). Key players: **folic acid** (still, in the
 first trimester), **iron** (for the extra blood you're making — tiredness and
 paleness can signal a shortfall), **calcium** and **vitamin D** (baby's bones),
 **iodine** (brain development), and **omega-3 DHA** (brain and eyes). Ask your
@@ -44,9 +38,9 @@ provider whether you need extra iron or vitamin D.
 
 The list below looks long, but the logic behind it is short. Almost every item
 is there for one of two reasons: it may carry **bacteria or parasites** that a
-pregnant immune system handles less well (listeria, salmonella, toxoplasmosis),
+pregnant immune system handles less well (**listeria**[°](#w-listeria), salmonella, **toxoplasmosis**[°](#w-toxoplasmosis)),
 or it may contain something that **reaches the baby** and shouldn't (alcohol,
-high levels of mercury, too much caffeine or vitamin A).
+high levels of **mercury**[°](#w-mercury), too much caffeine or vitamin A).
 
 Learning the two reasons is more useful than memorising the list, because it lets
 you reason about a food nobody has told you about. And it is worth repeating that
@@ -95,7 +89,7 @@ the risky foods.
 
 A day might look like oatmeal with fruit alongside the prenatal vitamin; a salmon
 salad with well-washed vegetables; a lentil and vegetable dinner; and snacks of
-pasteurised yogurt, nuts, and fruit. No alcohol, at most one coffee, and nothing
+**pasteurised**[°](#w-pasteurised) yogurt, nuts, and fruit. No alcohol, at most one coffee, and nothing
 raw or unpasteurised.
 
 Write it out once and you will notice the real point of this lesson: **safe
@@ -161,6 +155,18 @@ brain); <strong>unpasteurised soft cheeses / deli meats / pâté</strong> (liste
 A prenatal vitamin covers much of this; ask your provider about extra iron or
 vitamin D if needed.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-prenatal-vitamin"></a>**prenatal vitamin** — a daily pregnancy multivitamin (folic acid, iron, vitamin D, iodine, often DHA).
+- <a id="w-listeria"></a>**listeria** (liss-TEER-ee-ah) — a bacterium in some foods that is especially dangerous in pregnancy.
+- <a id="w-toxoplasmosis"></a>**toxoplasmosis** (tox-oh-plaz-MOH-sis) — an infection from cat feces, soil, or undercooked meat; risky in pregnancy.
+- <a id="w-mercury"></a>**mercury** — a metal that builds up in some large fish and can harm a baby's developing brain.
+- <a id="w-pasteurised"></a>**pasteurised** (PASS-cher-ized) — heat-treated to kill germs; *unpasteurised* dairy is riskier.
 
 ---
 

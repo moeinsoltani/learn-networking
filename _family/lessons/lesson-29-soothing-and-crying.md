@@ -15,14 +15,7 @@ parent: "Phase 6: The Newborn"
 > **never shake a baby.** If you feel overwhelmed, use the safe plan below and
 > reach out for help.
 
-{: .note }
-> **Words to know**
-> - **soothing** — calming a distressed baby.
-> - **colic** (KOL-ik) — long bouts of crying in an otherwise healthy, well-fed baby; it passes.
-> - **the 5 S's** — a popular set of soothing techniques (swaddle, side/stomach hold, shush, swing, suck).
-> - **overstimulation** — too much noise/light/activity, which can make a baby cry.
-> - **abusive head trauma / shaken baby** — severe brain injury from shaking a baby; **never shake a baby**.
-> - **cry-it-out vs. responding** — for *newborns*, respond to cries; you cannot spoil a newborn.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -39,7 +32,7 @@ away — and never, ever shake a baby.**
 ### Why babies cry, and how to soothe
 
 Run through the usual causes: **hungry, tired, wet/dirty diaper, too hot/cold,
-uncomfortable, overstimulated, or just wanting contact.** Then reach for soothing
+uncomfortable, overstimulated, or just wanting contact.** Then reach for **soothing**[°](#w-soothing)
 techniques — the **5 S's** are a handy set:
 
 - **Swaddle** (snug wrapping)
@@ -54,7 +47,7 @@ security.
 
 ### Colic — the "healthy baby who won't stop crying"
 
-Some babies have **colic**: long crying bouts (often evenings), in a baby who is
+Some babies have **colic**[°](#w-colic): long crying bouts (often evenings), in a baby who is
 **healthy, fed, and growing**. A rough guide is the "rule of 3s" — crying **3+
 hours a day, 3+ days a week, for 3+ weeks**. It's exhausting and not your fault,
 there's often no clear cause, and — crucially — **it passes**, usually by 3–4
@@ -160,6 +153,19 @@ call someone for help.</strong> A safely-placed crying baby is okay for a few mi
 <strong>Never shake the baby</strong> — shaking can cause fatal brain injury. Stepping
 away is the right, responsible response, not a failure.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-soothing"></a>**soothing** — calming a distressed baby.
+- <a id="w-colic"></a>**colic** (KOL-ik) — long bouts of crying in an otherwise healthy, well-fed baby; it passes.
+- <a id="w-the-5-ss"></a>**the 5 S's** — a popular set of soothing techniques (swaddle, side/stomach hold, shush, swing, suck).
+- <a id="w-overstimulation"></a>**overstimulation** — too much noise/light/activity, which can make a baby cry.
+- <a id="w-abusive-head-trauma-shaken-baby"></a>**abusive head trauma / shaken baby** — severe brain injury from shaking a baby; **never shake a baby**.
+- <a id="w-cry-it-out-vs-responding"></a>**cry-it-out vs. responding** — for *newborns*, respond to cries; you cannot spoil a newborn.
 
 ---
 

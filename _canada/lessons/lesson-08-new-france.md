@@ -10,26 +10,13 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 08: New France
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **seigneurial system** (sen-YOR-ee-ul) — New France's land system: a **seigneur** (sen-YUR — landlord) held a riverfront strip (**seigneury**) and rented plots to **habitants** (ah-bee-TAWN — farm families).
-> - **parish** (PAIR-ish) — the local district served by one Catholic church; the basic unit of community life.
-> - **feudalism** (FEW-dul-izm) — medieval Europe's lord-and-peasant system; **serfdom** — peasants legally bound to the land (habitants were *not* serfs); **freehold** — owning your land outright.
-> - **tithe** (rhymes with "scythe": TYTHE) — a church tax, a share of the harvest.
-> - **missionary** — a person sent to spread their religion; the **Jesuits** (JEZ-oo-its) and **Ursulines** (UR-suh-leenz) were Catholic religious orders.
-> - **Intendant** (in-TEN-dent) — the royal official who ran the colony's economy and justice.
-> - **Filles du Roi** (FEE dew RWAH — "the King's Daughters") — the ~800 women sent to marry settlers.
-> - **coureurs des bois** (koo-RUR day BWAH — "runners of the woods") — unlicensed fur traders; **voyageurs** (voy-ah-ZHUR) — licensed canoe crews.
-> - **corvée** (kor-VAY) — a few days of unpaid labour owed to the seigneur each year.
-> - **Acadians** (ah-KAY-dee-unz) — the separate French community of the Bay of Fundy; **le Grand Dérangement** (luh grawn day-rawnzh-MAWN — "the Great Upheaval") — their 1755 deportation; **Cajun** (KAY-jun) — their Louisiana descendants.
-> - **assimilate** — to absorb a people until they lose their own language and culture; **la survivance** (lah sur-vee-VAWNSS) — Quebec's tradition of cultural survival; **"Je me souviens"** (zhuh muh soo-VYEN) — "I remember."
-> - Names: **Trois-Rivières** (twah ree-vee-AIR), **Wendat** (WEN-dat), **Innu** (IN-noo), **Algonquin** (al-GON-kin).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 In 1608 Samuel de Champlain built a fortified trading post under the cliff at
 Quebec — and this time the French stayed. Over the next 150 years, a genuine
-society grew along the St. Lawrence: farms, parishes, seigneuries, a
+society grew along the St. Lawrence: farms, **parishes**[°](#w-parish), seigneuries, a
 distinctive dialect, and an identity that already wasn't quite "French." That
 society survives today as **Quebec — nine million French speakers whose
 ancestors largely trace back to just ~10,000 settlers**. When Phase 4 shows
@@ -44,7 +31,7 @@ and seigneuries — a settled, rooted, recognizably European society.
 
 The second was **the network**: a fur-trade and alliance web reaching across
 half a continent, from the Great Lakes down the Mississippi to the edge of the
-prairies. It consisted of a few thousand traders, soldiers, and missionaries
+prairies. It consisted of a few thousand traders, soldiers, and **missionaries**[°](#w-missionary)
 scattered through forts and missions — all of them living inside Indigenous
 country, on Indigenous terms.
 
@@ -97,7 +84,7 @@ achievements on Canadian soil.
 
 - **The seigneurial system:** the Crown granted long, thin riverfront strips
   to seigneurs, who subdivided among **habitants** (tenant farmers owing
-  modest dues). Not quite feudalism, and notably *not* serfdom — land was
+  modest dues). Not quite **feudalism**[°](#w-feudalism), and notably *not* **serfdom**[°](#w-serfdom) — land was
   plentiful, habitants famously independent. You can still see the long-lot
   pattern from any flight over Quebec.
 - **The Catholic Church:** ran education, hospitals, and charity; parishes
@@ -108,7 +95,7 @@ achievements on Canadian soil.
   (1663–73) to balance a colony of male traders and soldiers. Millions of
   North Americans descend from them; the small founder population also gave
   Quebec its distinctive dialect and even founder-effect genetics.
-- **Royal government (1663):** Governor (war/diplomacy), **Intendant**
+- **Royal government (1663):** Governor (war/diplomacy), **Intendant**[°](#w-intendant)
   (economy/justice — the great Jean Talon), Bishop. No elected assembly —
   a fact the British will later have to reckon with (Lesson 12).
 - **Coureurs des bois and voyageurs:** the young men who went into the
@@ -121,7 +108,7 @@ achievements on Canadian soil.
 It is worth looking at the deal itself, because the terms predict the kind of
 society that grew out of them. A habitant typically owed the seigneur the
 *cens et rentes* (small fixed annual dues), the obligation to grind grain at
-the seigneur's mill in exchange for a cut of the flour, and the **corvée** — a
+the seigneur's mill in exchange for a cut of the flour, and the **corvée**[°](#w-corvee) — a
 few days of labour a year. In return the seigneur owed real things back: a
 working mill, a court to settle disputes, and land made available to
 newcomers.
@@ -145,24 +132,24 @@ North America's least oppressed peasants. It was not fully abolished until
 
 ### Acadia — the other French people
 
-On the Bay of Fundy, a separate French population — the **Acadians** — built
+On the Bay of Fundy, a separate French population — the **Acadians**[°](#w-acadians) — built
 a farming society on diked marshland, intermarried with the Mi'kmaq, and
 tried to sit out the imperial wars as neutrals. Britain acquired Acadia
 (Nova Scotia) in 1713; when war returned, neutrality was disbelieved, and in
-**1755–63 the British deported ~10,000 Acadians** — *le Grand Dérangement* —
+**1755–63 the British deported ~10,000 Acadians** — *le Grand Dérangement*[°](#w-le-grand-derangement) —
 scattering families from Massachusetts to Louisiana (where "Acadian" became
 **"Cajun"**). Thousands died. Remember the Acadians: they are why New
 Brunswick is bilingual today (Lesson 42), and their deportation is the era's
 starkest lesson in what empires do to inconvenient peoples.
 
 {: .note }
-> **"Je me souviens"**
+> **"Je me souviens"**[°](#w-je-me-souviens)
 > Quebec's licence plates read "I remember." Nobody official has ever quite
 > pinned down remember *what* — but this lesson is most of the answer: a
 > French society planted in 1608, grown distinct through the seigneuries and
 > parishes, conquered in 1759 (Lesson 10), and never assimilated. When
 > Quebec politics seems intense about language and survival, it is running
-> on four centuries of memory — *la survivance*.
+> on four centuries of memory — *la survivance*[°](#w-la-survivance).
 
 ---
 
@@ -235,6 +222,25 @@ communities that returned/remained in the Maritimes, whose weight is why New
 Brunswick is Canada's only officially bilingual province (Lesson 42), with
 its own Acadian flag, anthem, and August 15 national day.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-seigneurial-system"></a>**seigneurial system** (sen-YOR-ee-ul) — New France's land system: a **seigneur** (sen-YUR — landlord) held a riverfront strip (**seigneury**) and rented plots to **habitants** (ah-bee-TAWN — farm families).
+- <a id="w-parish"></a>**parish** (PAIR-ish) — the local district served by one Catholic church; the basic unit of community life.
+- <a id="w-feudalism"></a>**feudalism** (FEW-dul-izm) — medieval Europe's lord-and-peasant system; <a id="w-serfdom"></a>**serfdom** — peasants legally bound to the land (habitants were *not* serfs); <a id="w-freehold"></a>**freehold** — owning your land outright.
+- <a id="w-tithe"></a>**tithe** (rhymes with "scythe": TYTHE) — a church tax, a share of the harvest.
+- <a id="w-missionary"></a>**missionary** — a person sent to spread their religion; the **Jesuits** (JEZ-oo-its) and **Ursulines** (UR-suh-leenz) were Catholic religious orders.
+- <a id="w-intendant"></a>**Intendant** (in-TEN-dent) — the royal official who ran the colony's economy and justice.
+- <a id="w-filles-du-roi"></a>**Filles du Roi** (FEE dew RWAH — "the King's Daughters") — the ~800 women sent to marry settlers.
+- <a id="w-coureurs-des-bois"></a>**coureurs des bois** (koo-RUR day BWAH — "runners of the woods") — unlicensed fur traders; <a id="w-voyageurs"></a>**voyageurs** (voy-ah-ZHUR) — licensed canoe crews.
+- <a id="w-corvee"></a>**corvée** (kor-VAY) — a few days of unpaid labour owed to the seigneur each year.
+- <a id="w-acadians"></a>**Acadians** (ah-KAY-dee-unz) — the separate French community of the Bay of Fundy; <a id="w-le-grand-derangement"></a>**le Grand Dérangement** (luh grawn day-rawnzh-MAWN — "the Great Upheaval") — their 1755 deportation; <a id="w-cajun"></a>**Cajun** (KAY-jun) — their Louisiana descendants.
+- <a id="w-assimilate"></a>**assimilate** — to absorb a people until they lose their own language and culture; <a id="w-la-survivance"></a>**la survivance** (lah sur-vee-VAWNSS) — Quebec's tradition of cultural survival; <a id="w-je-me-souviens"></a>**"Je me souviens"** (zhuh muh soo-VYEN) — "I remember."
+- Names: **Trois-Rivières** (twah ree-vee-AIR), **Wendat** (WEN-dat), **Innu** (IN-noo), **Algonquin** (al-GON-kin).
 
 ---
 

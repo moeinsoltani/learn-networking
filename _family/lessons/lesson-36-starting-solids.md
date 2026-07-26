@@ -11,18 +11,11 @@ parent: "Phase 8: The First Year"
 # Lesson 36: Starting Solids
 
 {: .important }
-> General education, not medical advice. Timing, allergens, and any special
+> General education, not medical advice. Timing, **allergens**[°](#w-allergen), and any special
 > circumstances should be confirmed with your provider — especially if there's a
 > family history of allergies or eczema.
 
-{: .note }
-> **Words to know**
-> - **solids / complementary foods** — foods other than milk, started around 6 months.
-> - **weaning** — the process of introducing foods alongside (not instantly replacing) milk.
-> - **baby-led weaning** — letting the baby self-feed soft finger foods (vs. spoon-fed purées).
-> - **allergen** — a food that can cause an allergic reaction (peanut, egg, dairy, etc.).
-> - **gagging vs. choking** — gagging is a normal, noisy safety reflex; choking is silent and dangerous.
-> - **tongue-thrust reflex** — the early reflex that pushes food out; it fades when a baby is ready for solids.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -38,7 +31,7 @@ Approach it relaxed: **you're teaching a skill, not hitting a quota.**
 
 Aim for **around 6 months**, guided by **signs of readiness**: the baby can **sit
 with support and hold their head steady**, shows **interest in food**, and has lost
-the **tongue-thrust reflex** (no longer automatically pushing food out). Not before
+the **tongue-thrust reflex**[°](#w-tongue-thrust-reflex) (no longer automatically pushing food out). Not before
 ~4 months. If unsure, ask your provider.
 
 ### How — purées, baby-led, or both
@@ -158,6 +151,19 @@ hazards</strong> like whole nuts and whole grapes (cut/modify; always supervise)
 and <strong>added salt or sugar</strong> (not suitable for babies). Also no
 <strong>cow's milk as the main drink</strong> before 12 months.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-solids-complementary-foods"></a>**solids / complementary foods** — foods other than milk, started around 6 months.
+- <a id="w-weaning"></a>**weaning** — the process of introducing foods alongside (not instantly replacing) milk.
+- <a id="w-baby-led-weaning"></a>**baby-led weaning** — letting the baby self-feed soft finger foods (vs. spoon-fed purées).
+- <a id="w-allergen"></a>**allergen** — a food that can cause an allergic reaction (peanut, egg, dairy, etc.).
+- <a id="w-gagging-vs-choking"></a>**gagging vs. choking** — gagging is a normal, noisy safety reflex; choking is silent and dangerous.
+- <a id="w-tongue-thrust-reflex"></a>**tongue-thrust reflex** — the early reflex that pushes food out; it fades when a baby is ready for solids.
 
 ---
 

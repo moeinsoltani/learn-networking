@@ -10,19 +10,7 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 50: Everyday Life
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **GST / HST / PST** — the sales taxes added *at the till*, never shown on the shelf price (Lesson 35).
-> - **tip-flation** — the grumbled trend of tip screens suggesting ever-higher percentages.
-> - **Interac / e-transfer** — Canada's debit network / its email money transfer, the standard way friends pay each other back.
-> - **loonie / toonie** — the $1 and $2 coins (Lessons 40/45).
-> - **scrip** — substitute paper money issued by a company (Canadian Tire money).
-> - **LCBO / SAQ** (say the letters / ess-ah-KEW) — Ontario's and Quebec's government liquor stores; **the Beer Store** — Ontario's separate beer retailer; **dépanneur** (day-pan-NUR) — a Quebec corner store.
-> - **Timbits** — Tim Hortons donut holes; **double-double** — coffee with two creams, two sugars.
-> - **klick** — slang for kilometre.
-> - **"first and last"** — first and last month's rent paid up front, the standard Ontario lease deposit.
-> - **block heater** — the plug-in engine warmer for −30° mornings (Lesson 51).
-> - **metrication** (met-rih-KAY-shun) — the 1970s switch to metric, famously left half-finished.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -37,7 +25,7 @@ The fastest way to see how much of this course shows up in ordinary life is to
 walk through a suburban Saturday and annotate it.
 
 It starts around **9 a.m.** at the Tim Hortons drive-thru, ordering "a large
-double-double" — four words that constitute a small liturgy (Lesson 45), and
+**double-double**[°](#w-double-double)" — four words that constitute a small liturgy (Lesson 45), and
 which you will be expected to produce without hesitation. At **10** comes
 Canadian Tire, the national everything-store: car parts, hockey tape,
 barbecues, and its own famous funny money. At **11**, the grocery run, where
@@ -73,7 +61,7 @@ five oddities and you read as local.
   your head, always*).
 - **Tipping is real and rising:** restaurants 15–20% pre-tax
   baseline; a couple of dollars for coffee counters is optional
-  but the tablet will ask (the "tip-flation" grumble is safe
+  but the tablet will ask (the "**tip-flation**[°](#w-tip-flation)" grumble is safe
   national small talk); tip hairdressers, taxis, delivery;
   don't tip at true counters (fast food) or professionals.
 - **The coins:** $1 = **loonie** (a loon on it, L.45), $2 =
@@ -100,17 +88,17 @@ Canada metricated in the 1970s (L.21's era) — partially, forever:
 
 The native pattern: **°C outside, °F in the oven; kilometres on
 the road, feet for your height** — run the mash-up unremarked and
-you pass. ("Klick" = kilometre; "it's about twenty klicks" — L.54.)
+you pass. ("Klick" = kilometre; "it's about twenty **klicks**[°](#w-klick)" — L.54.)
 
 ### Retail nationalism, a field guide
 
 - **Tim Hortons** — L.45 gave you the theology; the practice:
-  double-double (2 cream 2 sugar), Timbits (donut holes; the
+  double-double (2 cream 2 sugar), **Timbits**[°](#w-timbits) (donut holes; the
   kids'-hockey sponsor tier is literally "Timbits hockey" —
   L.53), roll-up-the-rim in spring.
 - **Canadian Tire** — despite the name: housewares, sports,
   tools, and the beloved-anachronism **Canadian Tire money**
-  (paper loyalty scrip hoarded in every junk drawer).
+  (paper loyalty **scrip**[°](#w-scrip) hoarded in every junk drawer).
 - **Loblaws/No Frills/Sobeys/Metro** groceries; **Shoppers Drug
   Mart** (pharmacy-plus-everything; "Shoppers"); **Costco** as
   weekend pilgrimage; **the Bay** (HBC — yes, L.09's fur company
@@ -137,7 +125,7 @@ you pass. ("Klick" = kilometre; "it's about twenty klicks" — L.54.)
   (hydroelectric heritage, L.05/22 — "the hydro's out" confuses
   every newcomer once).
 - **Two-week rhythm:** pay is biweekly; rent monthly;
-  "first and last" (months' rent) is the standard lease deposit
+  **"first and last"**[°](#w-first-and-last) (months' rent) is the standard lease deposit
   in Ontario.
 - **Weather-driven car liturgy:** winter tires (mandatory in
   Quebec, wise everywhere — L.51), the block-heater plug dangling
@@ -237,6 +225,24 @@ large coffee with two creams and two sugars plus assorted
 donut holes, at Tim Hortons: the full folk-liturgy order
 (L.45), executed in native word order.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-gst-hst-pst"></a>**GST / HST / PST** — the sales taxes added *at the till*, never shown on the shelf price (Lesson 35).
+- <a id="w-tip-flation"></a>**tip-flation** — the grumbled trend of tip screens suggesting ever-higher percentages.
+- <a id="w-interac-e-transfer"></a>**Interac / e-transfer** — Canada's debit network / its email money transfer, the standard way friends pay each other back.
+- <a id="w-loonie-toonie"></a>**loonie / toonie** — the $1 and $2 coins (Lessons 40/45).
+- <a id="w-scrip"></a>**scrip** — substitute paper money issued by a company (Canadian Tire money).
+- <a id="w-lcbo-saq"></a>**LCBO / SAQ** (say the letters / ess-ah-KEW) — Ontario's and Quebec's government liquor stores; <a id="w-the-beer-store"></a>**the Beer Store** — Ontario's separate beer retailer; <a id="w-depanneur"></a>**dépanneur** (day-pan-NUR) — a Quebec corner store.
+- <a id="w-timbits"></a>**Timbits** — Tim Hortons donut holes; <a id="w-double-double"></a>**double-double** — coffee with two creams, two sugars.
+- <a id="w-klick"></a>**klick** — slang for kilometre.
+- <a id="w-first-and-last"></a>**"first and last"** — first and last month's rent paid up front, the standard Ontario lease deposit.
+- <a id="w-block-heater"></a>**block heater** — the plug-in engine warmer for −30° mornings (Lesson 51).
+- <a id="w-metrication"></a>**metrication** (met-rih-KAY-shun) — the 1970s switch to metric, famously left half-finished.
 
 ---
 

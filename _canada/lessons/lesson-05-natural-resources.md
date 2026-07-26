@@ -10,19 +10,7 @@ parent: "Phase 1: The Land"
 
 # Lesson 05: Natural Resources
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **staple** (STAY-pul) — here: a main raw material a region exports (fur, wheat, oil) — not the office staple; the **staples thesis** is the theory that these exports shaped Canada's whole development.
-> - **oil sands** — sand mixed with **bitumen** (BIT-yoo-men), a heavy tar-like form of oil that is hard and expensive to extract.
-> - **potash** (POT-ash) — a mineral used as farm fertilizer; Saskatchewan is the world's biggest producer.
-> - **canola** (kuh-NO-lah) — a yellow-flowered oilseed crop bred in Canada (the name = "Canada + oil").
-> - **royalties** (ROY-ul-teez) — the payment a resource company makes to the government for each barrel/tonne it extracts.
-> - **moratorium** (more-ah-TORE-ee-um) — an official temporary ban (the 1992 cod moratorium never ended).
-> - **boom–bust cycle** — the pattern of resource economies: rich years when world prices are high, painful crashes when they fall.
-> - **equalization** — the federal program that moves money to poorer provinces (Lesson 35).
-> - **nationalized** — taken over by the government from private owners.
-> - **unceded** (un-SEE-ded) — land never given up by treaty (Lesson 06).
-> - Names: **Hydro-Québec** (EE-dro kay-BEK — Quebec's giant public electricity company), **Athabasca** (ath-ah-BASS-kah), **Leduc** (leh-DUKE), **Sudbury** (SUD-ber-ee).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,7 +20,7 @@ electricity — mostly to somebody else's factories.**
 
 Canadian economists even have a name for this: the **staples thesis** (Harold
 Innis). Each era of Canadian development was organized around one dominant raw
-export — a "staple" — and each staple built the infrastructure, cities, and
+export — a "**staple**[°](#w-staple)" — and each staple built the infrastructure, cities, and
 politics of its era:
 
 You can lay Canadian history out as a succession of these staples, one handing
@@ -69,7 +57,7 @@ politics in disguise.
 
 The useful way to hold this is one signature resource per region, because in
 Canada a province's resource is usually also its politics. Alberta means oil.
-Saskatchewan means potash, uranium, and wheat. Quebec, Manitoba, BC, and
+Saskatchewan means **potash**[°](#w-potash), uranium, and wheat. Quebec, Manitoba, BC, and
 Labrador mean hydroelectricity. The Shield — Ontario's north, Quebec's
 Abitibi, northern Manitoba — means hard-rock mining: nickel, gold, copper. The
 Northwest Territories mean diamonds. British Columbia means forestry and
@@ -82,7 +70,7 @@ as a national symbol. The table fills in the specifics.
 
 | Resource | Where | The essentials |
 |---|---|---|
-| **Oil & gas** | Alberta (plus SK, offshore NL) | The **oil sands** around Fort McMurray hold one of the world's largest oil reserves — but it's heavy bitumen: expensive to extract, carbon-intensive, and landlocked (hence the pipeline wars, Lesson 39). Discovery moment: Leduc No. 1, 1947. |
+| **Oil & gas** | Alberta (plus SK, offshore NL) | The **oil sands**[°](#w-oil-sands) around Fort McMurray hold one of the world's largest oil reserves — but it's heavy bitumen: expensive to extract, carbon-intensive, and landlocked (hence the pipeline wars, Lesson 39). Discovery moment: Leduc No. 1, 1947. |
 | **Hydroelectricity** | Quebec, BC, Manitoba, NL (Churchill Falls) | Canada is a hydro superpower — ~60% of its electricity. **Hydro-Québec**'s vast northern dams (James Bay) power Quebec and export south; "hydro" is literally the Canadian word for electricity. |
 | **Potash** | Saskatchewan | World's largest producer of this fertilizer mineral — Saskatchewan feeds the world's farms twice: wheat above ground, potash below. |
 | **Uranium** | Northern Saskatchewan | Among the world's richest deposits (Athabasca Basin). |
@@ -90,14 +78,14 @@ as a national symbol. The table fills in the specifics.
 | **Diamonds** | Northwest Territories | Discovered 1991; for a while Canada was a top-three producer by value. |
 | **Forestry** | BC above all; also QC, ON, NB | Half of Canada is forest; lumber, pulp and paper built BC's interior — and the **softwood lumber dispute** with the US is the longest-running trade fight in Canadian history (Lesson 38). |
 | **Fisheries** | Atlantic (lobster, snow crab; once cod) and Pacific (salmon) | The Atlantic **cod collapse of 1992** — a 500-year fishery closed in one day, 30,000+ jobs gone — is Canada's great parable of resource mismanagement. |
-| **Farmland** | Prairies (wheat, canola — a Canadian invention), southern ON/QC (dairy, corn, fruit) | Canada is a top-five wheat exporter; canola was bred in Saskatchewan labs. |
+| **Farmland** | Prairies (wheat, **canola**[°](#w-canola) — a Canadian invention), southern ON/QC (dairy, corn, fruit) | Canada is a top-five wheat exporter; canola was bred in Saskatchewan labs. |
 
 ### Two structural facts to carry forward
 
 **1. Provinces own their natural resources.** Under the Constitution,
 resources belong to the *provincial* Crown, not Ottawa. That's why oil made
 the *Alberta government* rich (and why Alberta has no provincial sales tax),
-why Quebec's identity is fused with Hydro-Québec (nationalized in the Quiet
+why Quebec's identity is fused with Hydro-Québec (**nationalized**[°](#w-nationalized) in the Quiet
 Revolution — Lesson 22), and why federal–provincial resource fights (carbon
 taxes, pipelines, the 1980 National Energy Program) are constitutional
 knife-fights, not mere policy debates. One critical wrinkle: much of this
@@ -107,13 +95,13 @@ third claim that courts increasingly enforce.
 **2. Resource economies ride price rollercoasters.** A staple region doesn't
 control its prices — world markets do. When oil is $100, Alberta booms,
 wages spike, and workers fly in from Newfoundland; when it's $40, Calgary's
-towers empty out. This boom–bust cycle, and the envy/resentment it cycles
-through Confederation (equalization! — Lesson 35), is a permanent feature of
+towers empty out. This **boom–bust cycle**[°](#w-boom-bust-cycle), and the envy/resentment it cycles
+through Confederation (**equalization**[°](#w-equalization)! — Lesson 35), is a permanent feature of
 Canadian politics.
 
 Follow one price move through the country and you can see why it causes so
 much friction. Suppose oil falls from $90 a barrel to $45 and stays there.
-**Alberta** loses its royalties — the province's cut of every barrel, which it
+**Alberta** loses its **royalties**[°](#w-royalties) — the province's cut of every barrel, which it
 is entitled to because provinces own their resources — and because Alberta
 has historically used resource revenue to fund unusually low taxes, its budget
 swings from surplus to deep deficit within a year; layoffs follow in Fort
@@ -130,7 +118,7 @@ Confederation, and it will reappear in Lessons 35, 38 and 39.
 
 ### The cod collapse, Canada's cautionary tale
 
-No single event explains resource Canada better than the cod moratorium of
+No single event explains resource Canada better than the cod **moratorium**[°](#w-moratorium) of
 1992, and it is worth sitting with for a moment because every later resource
 argument in this course is haunted by it.
 
@@ -242,6 +230,24 @@ finished goods, vulnerable to price swings it doesn't control, and never
 building enough of its own industrial and technological base. Phase 7 weighs
 how true that still is.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-staple"></a>**staple** (STAY-pul) — here: a main raw material a region exports (fur, wheat, oil) — not the office staple; the **staples thesis** is the theory that these exports shaped Canada's whole development.
+- <a id="w-oil-sands"></a>**oil sands** — sand mixed with **bitumen** (BIT-yoo-men), a heavy tar-like form of oil that is hard and expensive to extract.
+- <a id="w-potash"></a>**potash** (POT-ash) — a mineral used as farm fertilizer; Saskatchewan is the world's biggest producer.
+- <a id="w-canola"></a>**canola** (kuh-NO-lah) — a yellow-flowered oilseed crop bred in Canada (the name = "Canada + oil").
+- <a id="w-royalties"></a>**royalties** (ROY-ul-teez) — the payment a resource company makes to the government for each barrel/tonne it extracts.
+- <a id="w-moratorium"></a>**moratorium** (more-ah-TORE-ee-um) — an official temporary ban (the 1992 cod moratorium never ended).
+- <a id="w-boom-bust-cycle"></a>**boom–bust cycle** — the pattern of resource economies: rich years when world prices are high, painful crashes when they fall.
+- <a id="w-equalization"></a>**equalization** — the federal program that moves money to poorer provinces (Lesson 35).
+- <a id="w-nationalized"></a>**nationalized** — taken over by the government from private owners.
+- <a id="w-unceded"></a>**unceded** (un-SEE-ded) — land never given up by treaty (Lesson 06).
+- Names: **Hydro-Québec** (EE-dro kay-BEK — Quebec's giant public electricity company), **Athabasca** (ath-ah-BASS-kah), **Leduc** (leh-DUKE), **Sudbury** (SUD-ber-ee).
 
 ---
 

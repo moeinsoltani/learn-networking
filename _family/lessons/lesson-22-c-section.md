@@ -14,14 +14,7 @@ parent: "Phase 5: Labour & Delivery"
 > General education, not medical advice. Your provider decides if and when a
 > C-section is needed; this lesson helps you understand it, planned or unplanned.
 
-{: .note }
-> **Words to know**
-> - **C-section / caesarean** (sih-ZAIR-ee-an) — birth through a surgical cut in the abdomen and womb.
-> - **planned (elective) C-section** — scheduled in advance for a known reason.
-> - **emergency (unplanned) C-section** — decided during labour when it becomes the safest option.
-> - **spinal / epidural** — regional anaesthesia that numbs the lower body so the mother stays **awake**.
-> - **incision** — the surgical cut (usually a low, horizontal "bikini-line" cut).
-> - **VBAC** — Vaginal Birth After Caesarean, sometimes possible in a later pregnancy.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -58,12 +51,12 @@ birth:
 - **Pain relief**, gradually increasing movement, and **incision care**.
 - **Avoid heavy lifting** (nothing heavier than the baby, roughly) and strenuous
   activity for several weeks — accept help.
-- Watch for **infection signs** at the incision (increasing redness, swelling, pus,
+- Watch for **infection signs** at the **incision**[°](#w-incision) (increasing redness, swelling, pus,
   fever) — report them.
 - Emotional feelings are common, especially after an unplanned C-section; be gentle
   with yourself.
 
-A **VBAC** (vaginal birth after caesarean) is possible for some in a future
+A **VBAC**[°](#w-vbac) (vaginal birth after caesarean) is possible for some in a future
 pregnancy — a conversation for later, with your provider.
 
 {: .note }
@@ -145,6 +138,19 @@ pain relief, gradual movement, incision care, and <strong>avoiding heavy lifting
 for weeks. A warning sign to report: signs of <strong>infection</strong> at the
 incision (increasing redness/swelling, pus, fever) — or heavy bleeding/severe pain.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-c-section-caesarean"></a>**C-section / caesarean** (sih-ZAIR-ee-an) — birth through a surgical cut in the abdomen and womb.
+- <a id="w-planned-elective-c-section"></a>**planned (elective) C-section** — scheduled in advance for a known reason.
+- <a id="w-emergency-unplanned-c-section"></a>**emergency (unplanned) C-section** — decided during labour when it becomes the safest option.
+- <a id="w-spinal-epidural"></a>**spinal / epidural** — regional anaesthesia that numbs the lower body so the mother stays **awake**.
+- <a id="w-incision"></a>**incision** — the surgical cut (usually a low, horizontal "bikini-line" cut).
+- <a id="w-vbac"></a>**VBAC** — Vaginal Birth After Caesarean, sometimes possible in a later pregnancy.
 
 ---
 

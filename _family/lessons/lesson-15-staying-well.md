@@ -14,13 +14,7 @@ parent: "Phase 3: Mid & Late Pregnancy"
 > General education, not medical advice. Check exercise, travel, and any concerns
 > with your own provider — advice varies by pregnancy.
 
-{: .note }
-> **Words to know**
-> - **pelvic floor** — the sling of muscles supporting the bladder and womb; exercises ("Kegels") strengthen them.
-> - **moderate exercise** — activity where you can still hold a conversation (e.g. brisk walking).
-> - **DVT (deep vein thrombosis)** — a blood clot in a leg vein; pregnancy raises the risk, so movement matters on long trips.
-> - **antenatal / prenatal** — "before birth."
-> - **perinatal mental health** — mental health during pregnancy and the first year after birth.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -33,7 +27,7 @@ and can make birth and recovery easier — and none of it requires anything dras
 
 ### Exercise (usually encouraged)
 
-For most pregnancies, regular **moderate exercise** is beneficial — aim for
+For most pregnancies, regular **moderate exercise**[°](#w-moderate-exercise) is beneficial — aim for
 something like **150 minutes a week** (your provider will personalise this):
 
 - **Good choices:** brisk walking, swimming, stationary cycling, prenatal yoga or
@@ -68,7 +62,7 @@ Always check with your provider first, especially if there are complications.
 ### Mental health — half of "staying well"
 
 Pregnancy is emotional, and **anxiety and depression can happen during it**, not
-only after — this is **perinatal mental health**, and it's common and treatable.
+only after — this is **perinatal mental health**[°](#w-perinatal-mental-health), and it's common and treatable.
 Don't dismiss persistent low mood, dread, or overwhelming worry as "just hormones."
 Tell your provider; support and treatment help. **Partners:** check in, listen
 without fixing, and watch for signs she might not name herself.
@@ -153,6 +147,18 @@ Yes — <strong>anxiety and depression can occur during pregnancy</strong>
 or overwhelming worry as "just hormones"; <strong>tell your provider</strong> — it's
 common and treatable. Partners should check in and watch for signs.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-pelvic-floor"></a>**pelvic floor** — the sling of muscles supporting the bladder and womb; exercises ("Kegels") strengthen them.
+- <a id="w-moderate-exercise"></a>**moderate exercise** — activity where you can still hold a conversation (e.g. brisk walking).
+- <a id="w-dvt-deep-vein-thrombosis"></a>**DVT (deep vein thrombosis)** — a blood clot in a leg vein; pregnancy raises the risk, so movement matters on long trips.
+- <a id="w-antenatal-prenatal"></a>**antenatal / prenatal** — "before birth."
+- <a id="w-perinatal-mental-health"></a>**perinatal mental health** — mental health during pregnancy and the first year after birth.
 
 ---
 

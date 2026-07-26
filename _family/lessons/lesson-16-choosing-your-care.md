@@ -14,14 +14,7 @@ parent: "Phase 4: Getting Ready for Birth"
 > General education, not medical advice. Options and coverage vary by country and
 > region — check what's available and covered where you live.
 
-{: .note }
-> **Words to know**
-> - **obstetrician / OB** (ob-steh-TRISH-un) — a doctor specialising in pregnancy, birth, and complications (including surgery).
-> - **midwife** — a trained professional who provides care for low-risk pregnancy and birth, often with more continuity and a natural-birth focus.
-> - **family doctor / GP** — a general doctor who may provide maternity care and refer if needed.
-> - **doula** (DOO-lah) — a trained *non-medical* support person for labour and postpartum; not a substitute for a medical provider.
-> - **birth centre** — a home-like facility for low-risk births, midwife-led.
-> - **continuity of care** — seeing the same provider(s) throughout, so they know you.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -37,7 +30,7 @@ now means you build a trusting relationship before the big day.
 
 Two decisions sit inside "choosing your care," and it helps to separate them:
 **who** looks after you, and **where** you plan to give birth. They are related
-but not the same, and in many places the same midwife can support a birth in
+but not the same, and in many places the same **midwife**[°](#w-midwife) can support a birth in
 three different settings.
 
 The main factor determining what is available to you is **risk level**. A
@@ -49,8 +42,8 @@ rather than a verdict on anyone's preferences.
 |---|---|---|
 | **Midwife** | Low-risk pregnancies | Often more continuity and time; natural-birth oriented; can attend home, birth-centre, or hospital births (varies by region); refers to an OB if complications arise |
 | **Obstetrician (OB)** | Higher-risk, or if you prefer a doctor | Manages complications and surgery (C-sections); hospital-based |
-| **Family doctor / GP** | Low-risk, wanting their known doctor | May do maternity care and refer as needed |
-| **Doula** *(add-on)* | Anyone wanting extra support | **Non-medical** continuous support in labour (and postpartum); complements — never replaces — a medical provider; linked to positive birth experiences |
+| **Family doctor / GP**[°](#w-family-doctor-gp) | Low-risk, wanting their known doctor | May do maternity care and refer as needed |
+| **Doula**[°](#w-doula) *(add-on)* | Anyone wanting extra support | **Non-medical** continuous support in labour (and postpartum); complements — never replaces — a medical provider; linked to positive birth experiences |
 
 Your **risk level** matters: a low-risk pregnancy opens up midwife and birth-centre
 options; a higher-risk one (certain conditions, twins, complications) usually means
@@ -60,7 +53,7 @@ obstetric, hospital-based care.
 
 - **Hospital** — full medical resources and quickest access to intervention if
   needed; the default for higher-risk births.
-- **Birth centre** — home-like, midwife-led, for low-risk births; often attached to
+- **Birth centre**[°](#w-birth-centre) — home-like, midwife-led, for low-risk births; often attached to
   or near a hospital for transfer if needed.
 - **Home birth** — available in some regions for low-risk pregnancies with a
   qualified midwife and a transfer plan; not suitable for higher-risk pregnancies.
@@ -156,6 +149,19 @@ approach to <strong>pain relief and intervention</strong>?"; "What's the
 you</strong> with concerns?" You're checking both philosophy fit and practical
 access.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-obstetrician-ob"></a>**obstetrician / OB** (ob-steh-TRISH-un) — a doctor specialising in pregnancy, birth, and complications (including surgery).
+- <a id="w-midwife"></a>**midwife** — a trained professional who provides care for low-risk pregnancy and birth, often with more continuity and a natural-birth focus.
+- <a id="w-family-doctor-gp"></a>**family doctor / GP** — a general doctor who may provide maternity care and refer if needed.
+- <a id="w-doula"></a>**doula** (DOO-lah) — a trained *non-medical* support person for labour and postpartum; not a substitute for a medical provider.
+- <a id="w-birth-centre"></a>**birth centre** — a home-like facility for low-risk births, midwife-led.
+- <a id="w-continuity-of-care"></a>**continuity of care** — seeing the same provider(s) throughout, so they know you.
 
 ---
 

@@ -15,14 +15,7 @@ parent: "Phase 2: The First Trimester"
 > if in doubt, seek care immediately. This is a hard topic; be gentle with
 > yourselves reading it.
 
-{: .note }
-> **Words to know**
-> - **miscarriage** — the loss of a pregnancy before ~20 weeks; most happen early.
-> - **chromosomal** (kroh-moh-SOH-mal) — relating to the genetic "chapters" (chromosomes); random chromosomal errors cause most early miscarriages.
-> - **ectopic pregnancy** (ek-TOP-ik) — a pregnancy growing outside the womb (usually a tube); a medical **emergency**.
-> - **spotting** — light vaginal bleeding; common and often harmless, but always worth mentioning.
-> - **recurrent loss** — three or more miscarriages in a row, which prompts investigation.
-> - **grief** — the natural sorrow after a loss; it is valid at any stage.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -37,7 +30,7 @@ the mother ate or did. Understanding this spares enormous, undeserved guilt.
 
 ### What it is, and what causes it
 
-Most miscarriages happen in the **first trimester**, and the majority are due to a
+Most **miscarriages**[°](#w-miscarriage) happen in the **first trimester**, and the majority are due to a
 **random chromosomal problem** that meant the pregnancy couldn't develop — a
 one-off, not a verdict on the parents' health or future. The vast majority of
 people who have a miscarriage go on to have **healthy pregnancies**.
@@ -63,7 +56,7 @@ no single "right" way; they'll guide you based on your situation and wishes.
 
 ### The grief is real — for both of you
 
-A miscarriage can bring genuine grief, even very early, even before you'd told
+A miscarriage can bring genuine **grief**[°](#w-grief), even very early, even before you'd told
 anyone. That grief is **valid**, and it isn't "overreacting." **Partners grieve
 too** — often quietly, while trying to support the other. Ways through it:
 
@@ -73,7 +66,7 @@ too** — often quietly, while trying to support the other. Ways through it:
   group. You are far from alone; this is common and openly discussed more than it
   used to be.
 
-**Recurrent loss** (three or more in a row) is uncommon and is a reason for
+**Recurrent loss**[°](#w-recurrent-loss) (three or more in a row) is uncommon and is a reason for
 **further investigation** — there may be a treatable cause. If you've experienced
 repeated loss, ask your provider about testing.
 
@@ -81,7 +74,7 @@ repeated loss, ask your provider about testing.
 > **Please hear this**
 > If you have a miscarriage, it is almost certainly **not because of anything you
 > did or didn't do**. You did not cause it by working, exercising, stressing,
-> lifting, or having sex. The most common cause is a random chromosomal event
+> lifting, or having sex. The most common cause is a random **chromosomal**[°](#w-chromosomal) event
 > beyond anyone's control — and most people go on to have healthy babies.
 
 ### A gentle thing to do together
@@ -152,6 +145,19 @@ dizziness or fainting, and/or heavy bleeding.</strong> An ectopic pregnancy (one
 growing outside the womb) is a life-threatening <strong>emergency</strong> — go to
 hospital immediately.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-miscarriage"></a>**miscarriage** — the loss of a pregnancy before ~20 weeks; most happen early.
+- <a id="w-chromosomal"></a>**chromosomal** (kroh-moh-SOH-mal) — relating to the genetic "chapters" (chromosomes); random chromosomal errors cause most early miscarriages.
+- <a id="w-ectopic-pregnancy"></a>**ectopic pregnancy** (ek-TOP-ik) — a pregnancy growing outside the womb (usually a tube); a medical **emergency**.
+- <a id="w-spotting"></a>**spotting** — light vaginal bleeding; common and often harmless, but always worth mentioning.
+- <a id="w-recurrent-loss"></a>**recurrent loss** — three or more miscarriages in a row, which prompts investigation.
+- <a id="w-grief"></a>**grief** — the natural sorrow after a loss; it is valid at any stage.
 
 ---
 

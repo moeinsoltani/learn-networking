@@ -10,18 +10,7 @@ parent: "Phase 7: The Economy"
 
 # Lesson 40: Money and Banking
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **central bank** — the public institution that manages a country's money and interest rates; **monetary policy** — that management.
-> - **overnight (policy) rate** — the interest rate the central bank sets; every other rate in the economy prices off it; **prime rate** — the banks' base lending rate, which follows it.
-> - **inflation targeting** — publicly promising to keep inflation at a number (2%) and steering rates to hit it.
-> - **lender of last resort** — the central bank's role of lending to banks in a panic so the system doesn't collapse.
-> - **mortgage term** vs **amortization** (am-or-tih-ZAY-shun) — the term is how long your *rate* is locked (in Canada, usually ≤5 years); amortization is the total years to pay the loan off (~25). At each term's end you *renew* at current rates — this is why Canadian rate hikes hit fast.
-> - **stress test** — the rule that you must qualify at a higher rate than you'll actually pay, to prove you can survive hikes.
-> - **recourse mortgage** — the bank can pursue your other assets if you walk away (unlike much of the US).
-> - **petro-currency** — a currency that rises and falls with oil prices; **loonie / toonie** — the $1 and $2 coins (and nicknames for the dollar itself).
-> - **CMHC** — the government mortgage insurer; **OSFI** (OSS-fee) — the bank regulator.
-> - Names: **Coyne** (KOYN), **Viola Desmond** (vy-OH-lah DEZ-mund — the civil-rights pioneer on the $10 bill).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -40,7 +29,7 @@ those announcements are the news events that move every mortgage in the
 country. The Bank is independent in its operations but accountable for its
 mandate — the governor is emphatically not a politician, a boundary settled by
 the Coyne Affair of 1961. It also prints the money, runs the payment rails,
-and acts as lender of last resort.
+and acts as **lender of last resort**[°](#w-lender-of-last-resort).
 
 **The Big Five banks** — RBC, TD, Scotiabank, BMO, and CIBC, with National
 Bank often making it six — form an **oligopoly by design**, not by accident.
@@ -52,7 +41,7 @@ no. The trade-off is the one you will see everywhere in Canadian life:
 **stability bought with concentration** — remarkably few bank failures, and
 remarkably high fees.
 
-**The loonie** has floated since 1970, and it behaves like a **petro-currency**:
+**The loonie** has floated since 1970, and it behaves like a **petro-currency**[°](#w-petro-currency):
 it tracks the oil price, which is Lesson 05's staples thesis showing up in the
 foreign-exchange market. It is also a small-open-economy currency, which means
 the Bank of Canada's rate decisions are always made in the shadow of the US
@@ -60,7 +49,7 @@ Federal Reserve's — Lesson 38's elephant, monetary edition.
 
 The national conversation: **housing** — the largest industry
 (Lesson 37), financed by these banks, insured
-substantially by the state (CMHC), rate-priced by the Bank, and
+substantially by the state (**CMHC**[°](#w-cmhc)), rate-priced by the Bank, and
 tax-advantaged into a pension substitute (Lesson 35). Money,
 banks, and housing are one braided system in Canada; this lesson
 braids them.
@@ -73,11 +62,11 @@ braids them.
 
 Born of the Depression (Lesson 19 — private-money orthodoxy's
 failure), nationalized 1938. The modern regime since 1991:
-**inflation targeting** — 2% midpoint, jointly renewed with the
+**inflation targeting**[°](#w-inflation-targeting) — 2% midpoint, jointly renewed with the
 elected government every five years (independence *within* a
 democratic mandate: the Canadian valve design of Lesson 31,
 applied to money). Mechanics for the citizen: the **overnight
-rate** ripples outward — prime rate moves within hours →
+rate** ripples outward — **prime rate**[°](#w-prime-rate) moves within hours →
 variable mortgages and lines of credit reprice immediately →
 fixed mortgages price off bond yields anticipating the path →
 the dollar moves with rate differentials vs the Fed. Eight
@@ -100,7 +89,7 @@ across regions by default (an Alberta bust is an Ontario branch's
 offset — Lesson 37's regional seesaw as a *stabilizer*), where
 US unit banking bred thousands of fragile local banks (9,000+ US
 failures in the Depression; Canada: **zero**). Add conservative
-regulation (OSFI), "widely held" ownership rules (no single owner
+regulation (**OSFI**[°](#w-osfi)), "widely held" ownership rules (no single owner
 controls a big bank), and the 1998 merger refusals, and you get
 the famous 2008 result: **no Canadian bank failed or was bailed
 out** (liquidity support, yes; collapse, no) — the IMF and the
@@ -116,10 +105,10 @@ asset class — which brings us to:
 The pieces, assembled: **CMHC** (1946 — the Crown insurer:
 mortgages under 20% down *must* carry government-backed
 insurance, socializing tail risk to enable lending); the
-**stress test** (since 2016–18: qualify at ~2% above your
+**stress test**[°](#w-stress-test) (since 2016–18: qualify at ~2% above your
 contract rate — the regulator pre-breaking the fever); the
 **shorter-term structure** — Canadian "fixed" mortgages fix for
-*five years or less* on ~25-year amortizations (nothing like the
+*five years or less* on ~25-year **amortizations**[°](#w-amortization) (nothing like the
 US 30-year fixed), so **rate hikes reach households fast**: the
 2022–23 cycle repriced a third of mortgages within two years
 (payment shocks of 30–60%), the precise transmission channel
@@ -130,7 +119,7 @@ economy from Lesson 35/37: two-thirds of households are owners
 whose net worth *is* the house, so policy defends prices while
 lamenting affordability — the national straddle. Honest system
 verdict: the banks are genuinely robust to a housing correction
-(capital, insurance, recourse mortgages — Canadian borrowers
+(capital, insurance, **recourse mortgages**[°](#w-recourse-mortgage) — Canadian borrowers
 can't mail in the keys like Americans); the *households* and the
 *economy* (construction + real-estate GDP share) are the exposed
 parties. The boring banking system's un-boring twin is the
@@ -255,6 +244,23 @@ mechanism by which Alberta's boom taxes Ontario's factories
 and vice versa — one currency, two economies, forever
 seesawing.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-central-bank"></a>**central bank** — the public institution that manages a country's money and interest rates; <a id="w-monetary-policy"></a>**monetary policy** — that management.
+- <a id="w-overnight-policy-rate"></a>**overnight (policy) rate** — the interest rate the central bank sets; every other rate in the economy prices off it; <a id="w-prime-rate"></a>**prime rate** — the banks' base lending rate, which follows it.
+- <a id="w-inflation-targeting"></a>**inflation targeting** — publicly promising to keep inflation at a number (2%) and steering rates to hit it.
+- <a id="w-lender-of-last-resort"></a>**lender of last resort** — the central bank's role of lending to banks in a panic so the system doesn't collapse.
+- **mortgage term** vs <a id="w-amortization"></a>**amortization** (am-or-tih-ZAY-shun) — the term is how long your *rate* is locked (in Canada, usually ≤5 years); amortization is the total years to pay the loan off (~25). At each term's end you *renew* at current rates — this is why Canadian rate hikes hit fast.
+- <a id="w-stress-test"></a>**stress test** — the rule that you must qualify at a higher rate than you'll actually pay, to prove you can survive hikes.
+- <a id="w-recourse-mortgage"></a>**recourse mortgage** — the bank can pursue your other assets if you walk away (unlike much of the US).
+- <a id="w-petro-currency"></a>**petro-currency** — a currency that rises and falls with oil prices; <a id="w-loonie-toonie"></a>**loonie / toonie** — the $1 and $2 coins (and nicknames for the dollar itself).
+- <a id="w-cmhc"></a>**CMHC** — the government mortgage insurer; <a id="w-osfi"></a>**OSFI** (OSS-fee) — the bank regulator.
+- Names: **Coyne** (KOYN), **Viola Desmond** (vy-OH-lah DEZ-mund — the civil-rights pioneer on the $10 bill).
 
 ---
 

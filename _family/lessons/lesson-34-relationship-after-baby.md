@@ -14,14 +14,7 @@ parent: "Phase 7: Recovery & the New Family"
 > General education, not therapy. If conflict becomes constant or you feel stuck,
 > couples counselling is a healthy, normal tool — not a last resort.
 
-{: .note }
-> **Words to know**
-> - **fourth trimester** — the intense first ~3 months after birth.
-> - **resentment** — slow-building anger from feeling unseen or unfairly loaded.
-> - **repair** — reconnecting after a conflict (apologising, understanding, moving on).
-> - **libido** (lih-BEE-doh) — sex drive, which commonly dips after birth.
-> - **check-in** — a short, regular conversation to stay connected.
-> - **bid for connection** — a small attempt to get attention/affection; noticing and responding to these keeps couples close.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -43,12 +36,12 @@ loaded, or unsupported** — not about the socks or the dishes on the surface.
 ### The tools that protect a couple
 
 - **Communicate needs directly.** Exhausted people can't mind-read. "I need 30
-  minutes to nap" beats silent resentment.
+  minutes to nap" beats silent **resentment**[°](#w-resentment).
 - **Share fairly, without scorekeeping.** Aim for a division that *feels* fair to
   both (Lesson 33), and assume good intent rather than tallying points.
 - **Appreciate out loud.** Notice and thank each other for the invisible work —
   small appreciation buffers a lot of stress.
-- **Do tiny reconnections.** A hug, a coffee together, a two-minute check-in,
+- **Do tiny reconnections.** A hug, a coffee together, a two-minute **check-in**[°](#w-check-in),
   responding to each other's small **bids for connection** — these keep you a
   team, not just co-managers of a baby.
 - **Repair after conflict.** Fights will happen on no sleep; what matters is
@@ -156,6 +149,19 @@ physical intimacy return without pressure. Don't forget: <strong>breastfeeding i
 reliable contraception</strong> — arrange birth control if you're not ready for
 another pregnancy.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-fourth-trimester"></a>**fourth trimester** — the intense first ~3 months after birth.
+- <a id="w-resentment"></a>**resentment** — slow-building anger from feeling unseen or unfairly loaded.
+- <a id="w-repair"></a>**repair** — reconnecting after a conflict (apologising, understanding, moving on).
+- <a id="w-libido"></a>**libido** (lih-BEE-doh) — sex drive, which commonly dips after birth.
+- <a id="w-check-in"></a>**check-in** — a short, regular conversation to stay connected.
+- <a id="w-bid-for-connection"></a>**bid for connection** — a small attempt to get attention/affection; noticing and responding to these keeps couples close.
 
 ---
 

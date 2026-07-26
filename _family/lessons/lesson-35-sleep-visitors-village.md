@@ -14,13 +14,7 @@ parent: "Phase 7: Recovery & the New Family"
 > General education. Keep safe-sleep rules (Lesson 25) even when desperate for
 > sleep, and never drive while dangerously exhausted.
 
-{: .note }
-> **Words to know**
-> - **sleep deprivation** — the exhaustion from not getting enough sleep; cumulative and impairing.
-> - **shift system** — parents taking turns "on duty" so each gets a solid block of sleep.
-> - **your village** — the network of family, friends, and community who help you.
-> - **boundary** — a limit you set (e.g. on visitors) to protect your family's wellbeing.
-> - **isolation** — being cut off from support; a real risk for new parents, especially far from family.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -48,7 +42,7 @@ accepting help is a strength, not a weakness.**
 
 ### Visitors: help, not entertainment
 
-Newborn visitors can be wonderful or exhausting. Set **boundaries** kindly and in
+Newborn visitors can be wonderful or exhausting. Set **boundaries**[°](#w-boundary) kindly and in
 advance:
 
 - It's okay to say **"not yet,"** to keep visits **short**, or to limit numbers.
@@ -62,7 +56,7 @@ advance:
 
 ### Building your village
 
-Humans aren't meant to raise babies in isolation. Build support **before and after**
+Humans aren't meant to raise babies in **isolation**[°](#w-isolation). Build support **before and after**
 birth:
 
 - **Accept help, and be specific.** "Could you bring dinner Tuesday?" is easier to
@@ -159,6 +153,18 @@ easier when you're <strong>specific</strong> ("could you bring dinner Tuesday?")
 people want to help, and clear requests are easy to say yes to. Peers, community, and
 professionals all form the village.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-sleep-deprivation"></a>**sleep deprivation** — the exhaustion from not getting enough sleep; cumulative and impairing.
+- <a id="w-shift-system"></a>**shift system** — parents taking turns "on duty" so each gets a solid block of sleep.
+- <a id="w-your-village"></a>**your village** — the network of family, friends, and community who help you.
+- <a id="w-boundary"></a>**boundary** — a limit you set (e.g. on visitors) to protect your family's wellbeing.
+- <a id="w-isolation"></a>**isolation** — being cut off from support; a real risk for new parents, especially far from family.
 
 ---
 

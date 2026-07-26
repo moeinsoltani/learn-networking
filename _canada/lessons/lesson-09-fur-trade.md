@@ -10,26 +10,12 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 09: The Fur Trade
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **pelt** — the skin and fur of an animal; **felt** — the smooth fabric made by pressing fur together (best hats were beaver felt).
-> - **charter** — a royal document creating a company and granting it rights; **monopoly** (muh-NOP-uh-lee) — the exclusive legal right to a trade, with no competitors allowed.
-> - **watershed** — all the land whose rivers drain into one body of water; the Hudson Bay watershed = **Rupert's Land**.
-> - **trading post / factor** — a fortified trade station / the company officer who ran it.
-> - **portage** (POR-tij) — carrying canoe and cargo overland between rivers; **brigade** (brih-GADE) — a convoy of canoes travelling together; **rendezvous** (RON-day-voo) — the big annual meeting point.
-> - **pemmican** (PEM-ih-kun) — dried bison meat mixed with fat and berries — the high-energy travel food that fuelled the trade.
-> - **Made Beaver** — the trade's unit of money: the value of one prime beaver pelt.
-> - **middlemen** — traders who buy from producers and resell at a profit, controlling access between the two.
-> - **à la façon du pays** (ah lah fah-SOHN dew pay-EE) — "in the custom of the country": marriages between traders and Indigenous women under Indigenous law.
-> - **kinship** — family relationship; in Indigenous trade culture, being family (by blood or marriage) was the precondition for doing business.
-> - **pidgin** (PIJ-in) — a simplified mixed language used only for basic trade; Michif is emphatically *not* one, and the difference matters (explained below).
-> - **dispossession** (dis-poh-ZESH-un) — having your land and property taken away.
-> - Names: **Michif** (mee-SHIF), **Assiniboine** (uh-SIN-ih-boyn), **Saulteaux** (SOH-toh), **Lachine** (lah-SHEEN), **voyageurs** (voy-ah-ZHUR).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 For two centuries, Canada's economy *was* a hat supply chain. European
-gentlemen wanted felt hats; the best felt came from beaver underfur; the
+gentlemen wanted **felt**[°](#w-felt) hats; the best felt came from beaver underfur; the
 best beaver came from the cold Canadian interior. On that absurdly specific
 demand was built: the exploration and mapping of half a continent, the
 economic logic of New France, a corporation that "owned" a third of North
@@ -39,7 +25,7 @@ territorial shape of modern Canada.
 It is worth seeing the whole chain at once, because every later argument about
 the fur trade is really an argument about who held which link. The furs were
 produced by Indigenous trappers in the interior, exchanged at posts for
-manufactured goods, carried east by canoe brigade or ship, and finally turned
+manufactured goods, carried east by canoe **brigade**[°](#w-brigade) or ship, and finally turned
 into hats in Europe:
 
 ```
@@ -51,7 +37,7 @@ into hats in Europe:
         ▼
    trading post                    exchange: furs ⇄ kettles, cloth,
    (HBC fort on the Bay, or        axes, guns, brandy — prices in
-   French/NWC post inland)         "Made Beaver" units
+   French/NWC post inland)         "**Made Beaver**[°](#w-made-beaver)" units
         │  brigades: canoe or ship
         ▼
    Montreal ──► La Rochelle        the TRANSPORT layer:
@@ -63,10 +49,10 @@ into hats in Europe:
 
 The point to hold onto: **the fur trade was a partnership, not a conquest.**
 Europeans could not trap, travel, survive, or navigate the interior without
-Indigenous producers, guides, provisioners (pemmican!), and wives. For two
+Indigenous producers, guides, provisioners (**pemmican**[°](#w-pemmican)!), and wives. For two
 hundred years, Indigenous nations were not obstacles to the economy — they
 *were* the economy, and they bargained hard, played empires off each other,
-and set the protocols (gift exchange, kinship) under which trade happened.
+and set the protocols (gift exchange, **kinship**[°](#w-kinship)) under which trade happened.
 
 ---
 
@@ -78,7 +64,7 @@ For most of the eighteenth century the trade was a contest between two
 companies with opposite strategies, and the contrast is the easiest way to
 remember how the West got mapped.
 
-The **Hudson's Bay Company** held a royal charter and simply waited. Its
+The **Hudson's Bay Company** held a royal **charter**[°](#w-charter) and simply waited. Its
 posts sat on the shore of Hudson Bay, and Indigenous traders brought furs
 down the rivers to them — a strategy its critics summarized as "sleeping by
 the frozen sea." It was cheap, it was low-risk, and it worked as long as
@@ -94,7 +80,7 @@ overextended the NWC, and in 1821 the two merged under the HBC name.
 | | **Hudson's Bay Company** | **Montreal traders → North West Company** |
 |---|---|---|
 | Founded | 1670, by English royal charter | French system; reorganized as NWC ~1779 after the Conquest |
-| Charter | Granted the entire Hudson Bay watershed — **"Rupert's Land," ~1/3 of modern Canada** — as a commercial monopoly | No grant; competed by going *to* the customer |
+| Charter | Granted the entire Hudson Bay **watershed**[°](#w-watershed) — **"Rupert's Land," ~1/3 of modern Canada** — as a commercial **monopoly**[°](#w-monopoly) | No grant; competed by going *to* the customer |
 | Strategy | "Sleep by the frozen sea": build forts on the Bay, let Indigenous traders come to you | Push inland by canoe: thousands of km up the rivers, build posts in Indigenous country |
 | Labour | Scots and Orkneymen on salary | French-Canadian **voyageurs** paddling 16-hour days, and wintering partners |
 | Outcome | Nearly bankrupted by NWC competition... | ...but overextended; the two **merged in 1821** under the HBC name |
@@ -133,7 +119,7 @@ Canada inherited both properties.
 
 ### "Made Beaver": the economics
 
-Prices at HBC posts were quoted in **Made Beaver (MB)** — one prime pelt as
+Prices at HBC posts were quoted in **Made Beaver (MB)** — one prime **pelt**[°](#w-pelt) as
 the unit of account (a kettle: ~1½ MB; a gun: ~10–14 MB). Indigenous traders
 were sharp negotiators: post factors' journals complain constantly of
 customers comparing HBC and French prices and threatening to take furs to
@@ -144,7 +130,7 @@ leads to...
 
 ### The Métis: a nation born of the trade
 
-Traders who wintered inland married Indigenous women — *à la façon du pays*,
+Traders who wintered inland married Indigenous women — *à la façon du pays*[°](#w-a-la-facon-du-pays),
 "in the custom of the country." These were strategic alliances as much as
 romances: a trader gained kin, safety, interpreters, and a partner skilled
 in the actual work (making pemmican, snowshoes, moccasins; processing furs).
@@ -157,7 +143,7 @@ and its own political consciousness — which Canada will collide with in
 Lesson 15.
 
 Michif itself is worth pausing on, because its grammar is historical evidence.
-Languages born of unequal contact usually become **pidgins** — stripped-down
+Languages born of unequal contact usually become **pidgins**[°](#w-pidgin) — stripped-down
 grammars adequate for buying and selling and nothing more. Michif is the
 opposite. It fuses two *complete* systems: full French noun phrases riding on
 full Cree verb morphology, which is among the most complex in the world.
@@ -176,14 +162,14 @@ household ran in: the mothers'.
 ### What the trade changed — both ways
 
 Indigenous nations reorganized around the trade: some (Cree, Assiniboine)
-became middlemen powers; territories shifted; firearms rebalanced old
+became **middlemen**[°](#w-middlemen) powers; territories shifted; firearms rebalanced old
 rivalries; European goods replaced some crafts; alcohol did real damage; and
 dependence grew as beaver populations crashed regionally. But keep the
 timeline honest: through the whole period the interior remained Indigenous
 country under Indigenous law — the trade's *inequality* came later, when
 furs stopped mattering and settlers wanting **land** replaced traders
 wanting **partners** (Lessons 14, 16, 17). The pivot from partnership to
-dispossession is *the* hinge of Canadian Indigenous history.
+**dispossession**[°](#w-dispossession) is *the* hinge of Canadian Indigenous history.
 
 {: .note }
 > **Canada's oldest corporation is your local department store**
@@ -279,6 +265,26 @@ Métis governments negotiating self-government agreements. Mixed ancestry is
 common across humanity; a flag, a language, a law of the hunt, and two
 provisional governments are what nationhood looks like.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-pelt"></a>**pelt** — the skin and fur of an animal; <a id="w-felt"></a>**felt** — the smooth fabric made by pressing fur together (best hats were beaver felt).
+- <a id="w-charter"></a>**charter** — a royal document creating a company and granting it rights; <a id="w-monopoly"></a>**monopoly** (muh-NOP-uh-lee) — the exclusive legal right to a trade, with no competitors allowed.
+- <a id="w-watershed"></a>**watershed** — all the land whose rivers drain into one body of water; the Hudson Bay watershed = **Rupert's Land**.
+- <a id="w-trading-post-factor"></a>**trading post / factor** — a fortified trade station / the company officer who ran it.
+- <a id="w-portage"></a>**portage** (POR-tij) — carrying canoe and cargo overland between rivers; <a id="w-brigade"></a>**brigade** (brih-GADE) — a convoy of canoes travelling together; <a id="w-rendezvous"></a>**rendezvous** (RON-day-voo) — the big annual meeting point.
+- <a id="w-pemmican"></a>**pemmican** (PEM-ih-kun) — dried bison meat mixed with fat and berries — the high-energy travel food that fuelled the trade.
+- <a id="w-made-beaver"></a>**Made Beaver** — the trade's unit of money: the value of one prime beaver pelt.
+- <a id="w-middlemen"></a>**middlemen** — traders who buy from producers and resell at a profit, controlling access between the two.
+- <a id="w-a-la-facon-du-pays"></a>**à la façon du pays** (ah lah fah-SOHN dew pay-EE) — "in the custom of the country": marriages between traders and Indigenous women under Indigenous law.
+- <a id="w-kinship"></a>**kinship** — family relationship; in Indigenous trade culture, being family (by blood or marriage) was the precondition for doing business.
+- <a id="w-pidgin"></a>**pidgin** (PIJ-in) — a simplified mixed language used only for basic trade; Michif is emphatically *not* one, and the difference matters (explained below).
+- <a id="w-dispossession"></a>**dispossession** (dis-poh-ZESH-un) — having your land and property taken away.
+- Names: **Michif** (mee-SHIF), **Assiniboine** (uh-SIN-ih-boyn), **Saulteaux** (SOH-toh), **Lachine** (lah-SHEEN), **voyageurs** (voy-ah-ZHUR).
 
 ---
 

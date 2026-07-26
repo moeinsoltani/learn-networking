@@ -10,24 +10,12 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 29: Federalism — Who Does What
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **jurisdiction** (joor-iss-DIK-shun) — the legal authority to make laws about a subject; the core word of this lesson.
-> - **decentralized** — with power spread out to the provinces rather than concentrated in Ottawa.
-> - **concurrent** (kun-KUR-ent) — a field both levels may legislate in (immigration, agriculture); **paramountcy** (pair-ah-MOWNT-see) — the rule that federal law wins when the two conflict.
-> - **transfer payments** — money Ottawa sends to provinces (the Canada Health Transfer, equalization).
-> - **spending power** — Ottawa's ability to attach conditions to money even in provincial fields (Lesson 21).
-> - **POGG** — "Peace, Order, and good Government," the federal residual power (Lesson 13); a **backstop** — a federal rule that applies only where a province has no equivalent.
-> - **"creatures of the province"** — the legal status of cities: they exist only by provincial law; **plenary** (PLEN-ah-ree) — complete, unrestricted (provincial power over cities is plenary).
-> - **First Ministers** — the PM and the provincial premiers, collectively.
-> - **internal trade barriers** — provincial rules that block goods/workers from other provinces.
-> - **NIMBY** (NIM-bee) — "Not In My Back Yard": residents supporting something in principle but opposing it near them.
-> - **arm's length** — operating independently of political control (the Bank of Canada).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 The single most useful civic skill in Canada: **knowing which
-government to blame.** Canada is among the world's most decentralized
+government to blame.** Canada is among the world's most **decentralized**[°](#w-decentralized)
 federations — the provinces are not administrative districts but
 constitutional sovereigns within their own list — and the division
 written in 1867 (Lesson 13's ss. 91–92) still allocates the files:
@@ -43,7 +31,7 @@ everything you actually touch.
 |---|---|
 | **Federal** (s.91) | Defence and foreign affairs; citizenship and immigration (shared); criminal **law** — one Criminal Code for the whole country; money and banking; trade and tariffs; Employment Insurance and the Canada Pension Plan; "Indians and lands reserved for the Indians" (Lesson 17 — the file is now called Crown–Indigenous Relations); the post, the census, and fisheries |
 | **Provincial** (ss. 92, 92A, 93) | **Health care** and **education** at all levels; "property and civil rights," which means most of private law — contracts, labour, housing, professions, insurance; natural resources (Lesson 05); municipalities; the administration of justice — police, courts, and prisons for sentences under two years; highways, electricity, and liquor |
-| **Shared or contested** | Immigration (concurrent in the text itself), agriculture, the environment and carbon pricing (allocated mostly by judges, case by case), and housing — which is everyone's and no one's |
+| **Shared or contested** | Immigration (**concurrent**[°](#w-concurrent) in the text itself), agriculture, the environment and carbon pricing (allocated mostly by judges, case by case), and housing — which is everyone's and no one's |
 | **Municipal** | Exists only because a provincial statute says so: potholes, zoning, transit, garbage. A big city's powers are whatever its province permits this year |
 | **Territorial** | Powers delegated federally, evolving steadily toward province-like devolution (Lesson 01) |
 
@@ -90,11 +78,11 @@ daily life.
   police/prosecutions, so "federal law, provincial enforcement" is
   the norm (cannabis legalization: federal act, thirteen different
   retail regimes — the perfect teaching example).
-- **POGG** (Lesson 13's phrase): the residual power occasionally
-  producing national jurisdiction — most recently the Supreme
+- **POGG**[°](#w-pogg) (Lesson 13's phrase): the residual power occasionally
+  producing national **jurisdiction**[°](#w-jurisdiction) — most recently the Supreme
   Court's 2021 carbon-pricing reference: climate's "minimum
   national standards" qualified as a matter of national concern —
-  federal backstop upheld, provincial fury undiminished
+  federal **backstop**[°](#w-backstop) upheld, provincial fury undiminished
   (Lesson 39).
 - **Declaratory & emergency powers**: mostly dormant relics —
   except the Emergencies Act's 2022 debut (Lesson 20).
@@ -111,7 +99,7 @@ official-level agreements. The recurring dramas run on two axes:
 **money** (transfers, equalization — the West's and Alberta's
 file, Lesson 35) and **jurisdiction** (carbon pricing, pipelines,
 health strings, immigration levels). And one structural absurdity
-every newcomer eventually discovers: **internal trade barriers** —
+every newcomer eventually discovers: **internal trade barriers**[°](#w-internal-trade-barriers) —
 provincial regulatory fences (trucking rules, professional
 licensing, alcohol distribution) that can make it easier to import
 wine from France than from the next province; economists price the
@@ -124,14 +112,14 @@ Cities — where 80%+ of Canadians live (Lesson 04) — have **no
 constitutional existence**: they are "creatures of the provinces,"
 exercising delegated powers a province can amend overnight
 (Ontario halved Toronto's council mid-election in 2018; the courts
-shrugged — provincial power is that plenary). Consequence: the
+shrugged — provincial power is that **plenary**[°](#w-plenary)). Consequence: the
 governments closest to daily life (transit, housing supply,
 policing) have the narrowest tax base (property tax + fees) and
 the least constitutional protection — which is why every big-city
 mayor's speech is a plea toward two senior governments, and why
 "housing crisis" files bounce among three levels each holding one
 piece (federal: immigration volume + financing; provincial:
-zoning frameworks + tenant law; municipal: permits + NIMBY
+zoning frameworks + tenant law; municipal: permits + **NIMBY**[°](#w-nimby)
 politics). When Canadians seem confused about who owes them a
 solution, they are accurately perceiving the design.
 
@@ -139,7 +127,7 @@ solution, they are accurately perceiving the design.
 > **The blame-routing table (clip and save)**
 > Passport, EI, CRA/taxes-federal-portion, citizenship, defence,
 > First Nations services, interest rates* → **Ottawa** (*Bank of
-> Canada, arm's length). Hospital waits, school curriculum,
+> Canada, **arm's length**[°](#w-arms-length)). Hospital waits, school curriculum,
 > driver's licence, tenant rights, minimum wage (most jobs),
 > family law process, liquor rules, long-term care → **your
 > province**. Potholes, transit frequency, zoning, garbage,
@@ -230,6 +218,24 @@ nations, six regions, and thirteen governments share one state
 without constant existential collision. Clear accountability
 and deep pluralism trade off; Canada bought pluralism.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-jurisdiction"></a>**jurisdiction** (joor-iss-DIK-shun) — the legal authority to make laws about a subject; the core word of this lesson.
+- <a id="w-decentralized"></a>**decentralized** — with power spread out to the provinces rather than concentrated in Ottawa.
+- <a id="w-concurrent"></a>**concurrent** (kun-KUR-ent) — a field both levels may legislate in (immigration, agriculture); <a id="w-paramountcy"></a>**paramountcy** (pair-ah-MOWNT-see) — the rule that federal law wins when the two conflict.
+- <a id="w-transfer-payments"></a>**transfer payments** — money Ottawa sends to provinces (the Canada Health Transfer, equalization).
+- <a id="w-spending-power"></a>**spending power** — Ottawa's ability to attach conditions to money even in provincial fields (Lesson 21).
+- <a id="w-pogg"></a>**POGG** — "Peace, Order, and good Government," the federal residual power (Lesson 13); a <a id="w-backstop"></a>**backstop** — a federal rule that applies only where a province has no equivalent.
+- <a id="w-creatures-of-the-province"></a>**"creatures of the province"** — the legal status of cities: they exist only by provincial law; <a id="w-plenary"></a>**plenary** (PLEN-ah-ree) — complete, unrestricted (provincial power over cities is plenary).
+- <a id="w-first-ministers"></a>**First Ministers** — the PM and the provincial premiers, collectively.
+- <a id="w-internal-trade-barriers"></a>**internal trade barriers** — provincial rules that block goods/workers from other provinces.
+- <a id="w-nimby"></a>**NIMBY** (NIM-bee) — "Not In My Back Yard": residents supporting something in principle but opposing it near them.
+- <a id="w-arms-length"></a>**arm's length** — operating independently of political control (the Bank of Canada).
 
 ---
 
