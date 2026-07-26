@@ -10,41 +10,30 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 35: Where Influence Actually Comes From
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **influence vs authority** — getting things done through trust and persuasion vs through a title and reporting line.
-> - **credibility** — your track record making people trust your judgment (Lesson 12).
-> - **framing** — presenting an idea in terms of what the *listener* cares about.
-> - **currency** (metaphor) — something you earn and spend; influence is "the leadership currency."
-> - **track record** — your history of delivering and being right.
-> - **reciprocity** (ress-ih-PROSS-ih-tee) — the human tendency to help those who have helped you.
-> - **trust battery** — Shopify's image: each relationship holds a charge that good interactions fill and letdowns drain.
-> - **goodwill** — accumulated positive feeling toward you.
-> - **influence audit** — mapping who really decides something and where you stand with each of them.
-> - **hit a ceiling** — to stop being able to advance.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 The higher you go in leadership, the more you get things done through people you *don't* control —
 peers, other teams, senior folks — where authority (a title, a reporting line) doesn't work. What
-works instead is **influence**, and influence comes from a few real sources: **credibility** (your
-track record), **relationships** (built before you need them), and **framing** (how you present
-things). Understanding and deliberately building these is investing in the currency you'll spend for
+works instead is **influence**, and influence comes from a few real sources: **credibility**[°](#w-credibility) (your
+**track record**[°](#w-track-record)), **relationships** (built before you need them), and **framing**[°](#w-framing) (how you present
+things). Understanding and deliberately building these is investing in the **currency**[°](#w-currency) you'll spend for
 the rest of your leadership career.
 
-```
-   THE SOURCES OF INFLUENCE
-   ┌──────────────────────────────────────────────────────┐
-   │ CREDIBILITY   your track record — do people trust your │
-   │               judgment and that you deliver?           │
-   │ RELATIONSHIPS built BEFORE you need them — trust,       │
-   │               reciprocity, knowing people              │
-   │ FRAMING       how you present it — in their terms,      │
-   │               tied to what they care about             │
-   └──────────────────────────────────────────────────────┘
-   Authority (title) stops working one level up. Influence
-   (credibility + relationships + framing) is what scales.
-```
+Influence rests on three things, and none of them is your title.
+
+**Credibility** is your track record: do people trust your judgement, and do
+you deliver what you said you would? **Relationships** are built *before* you
+need them — trust, reciprocity, and simply knowing people across the
+organisation. **Framing** is how you present the thing: in *their* terms, tied
+to what they already care about.
+
+The structural reason this matters: **authority stops working one level up.**
+Your title lets you direct your own team, and does almost nothing with a peer
+team, a staff engineer in another org, or a director. Influence — credibility
+plus relationships plus framing — is the thing that scales past the boundary of
+what you formally control, which is most of what a lead's job turns out to be.
 
 The reframe: **authority stops working as you rise; influence — credibility, relationships, framing —
 is what actually gets things done, and it must be built <em>before</em> you need it.** As an IC you
@@ -73,7 +62,7 @@ credibility (only committing to what you'll deliver, being honest) is protecting
 and who've helped them. The crucial insight: **build relationships before you need them.** If you only
 reach out to someone when you want something, you have no relationship to draw on (and it's
 transparent). Investing in relationships continuously — genuine connection, helping people, being a
-good colleague (small talk, Lesson from English track; reciprocity) — means that when you need
+good colleague (small talk, Lesson from English track; **reciprocity**[°](#w-reciprocity)) — means that when you need
 influence, there's a real relationship there. The time to build the relationship is long before the
 moment you need the favor.
 
@@ -89,9 +78,9 @@ Phase 3; persuasion, English track Lesson 42).
 ### Reciprocity and the trust battery
 
 Two mechanics: (1) **Reciprocity** — people are inclined to help those who've helped them; being
-genuinely helpful to others (without keeping score, but the goodwill accrues) builds a reservoir of
+genuinely helpful to others (without keeping score, but the **goodwill**[°](#w-goodwill) accrues) builds a reservoir of
 influence. Give before you take. (2) **The trust battery** (a Shopify concept) — each relationship
-has a "trust battery" that charges with positive interactions (reliability, help, honesty) and
+has a "**trust battery**[°](#w-trust-battery)" that charges with positive interactions (reliability, help, honesty) and
 depletes with negative ones (broken commitments, letdowns); your influence with someone tracks their
 trust battery for you. Both point to the same practice: build goodwill and trust continuously through
 positive, reliable, helpful interactions.
@@ -103,7 +92,7 @@ influence-through-authority **stops working as you go up and out**: peers don't 
 teams don't take your orders, senior people aren't moved by your title. The higher and broader your
 impact, the more it depends on people you can't direct — so authority is replaced by influence
 (credibility, relationships, framing) as the thing that gets things done. Leaders who rely on
-authority hit a ceiling; those who build influence keep scaling. This is a core reason influence is
+authority **hit a ceiling**[°](#w-hit-a-ceiling); those who build influence keep scaling. This is a core reason influence is
 <em>the</em> leadership currency.
 
 ### The influence audit
@@ -146,7 +135,7 @@ avoid.
 <details>
 <summary>Show Model Answer</summary>
 <br>
-A strong influence audit maps the real decision network (not just the org chart) and honestly assesses
+A strong **influence audit**[°](#w-influence-audit) maps the real decision network (not just the org chart) and honestly assesses
 where you stand, revealing where to invest. Example:
 <br><br>
 <strong>Who actually decides?</strong> "For an org-wide process change: probably the engineering
@@ -352,6 +341,23 @@ which run on the influence (credibility, relationships, framing) this lesson is 
 covers building buy-in for an idea — getting to "yes" through the influence groundwork (socializing 1:1,
 co-ownership, addressing objections) before the meeting where the decision happens.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-influence-vs-authority"></a>**influence vs authority** — getting things done through trust and persuasion vs through a title and reporting line.
+- <a id="w-credibility"></a>**credibility** — your track record making people trust your judgment (Lesson 12).
+- <a id="w-framing"></a>**framing** — presenting an idea in terms of what the *listener* cares about.
+- <a id="w-currency"></a>**currency** (metaphor) — something you earn and spend; influence is "the leadership currency."
+- <a id="w-track-record"></a>**track record** — your history of delivering and being right.
+- <a id="w-reciprocity"></a>**reciprocity** (ress-ih-PROSS-ih-tee) — the human tendency to help those who have helped you.
+- <a id="w-trust-battery"></a>**trust battery** — Shopify's image: each relationship holds a charge that good interactions fill and letdowns drain.
+- <a id="w-goodwill"></a>**goodwill** — accumulated positive feeling toward you.
+- <a id="w-influence-audit"></a>**influence audit** — mapping who really decides something and where you stand with each of them.
+- <a id="w-hit-a-ceiling"></a>**hit a ceiling** — to stop being able to advance.
 
 ---
 

@@ -18,16 +18,27 @@ disagree and say no constantly at work. The skill is being *clear* (they know yo
 position) while staying *warm* (the relationship is fine) — which many non-native
 writers find hard, either sounding too blunt or avoiding it entirely.
 
-```
-   DISAGREEING:
-   "That's wrong."          → "Good point — I see it a bit differently though:
-                              my worry is X."
-   SAYING NO:
-   "No, I can't."           → "I'd love to help, but I'm fully booked this week —
-                              could we look at next week?"
+Disagreement and refusal are the two things non-native speakers most often
+deliver too bluntly — and both follow the same repair pattern.
 
-   The pattern: ACKNOWLEDGE first, then your position/no, warmly.
-```
+**Disagreeing:**
+
+> ✗ "That's wrong."
+> ✓ "Good point — I see it a bit differently though: my worry is X."
+
+**Saying no:**
+
+> ✗ "No, I can't."
+> ✓ "I'd love to help, but I'm fully booked this week — could we look at next
+> week?"
+
+The pattern in both: **acknowledge first, then give your position or your no,
+warmly.** The acknowledgement is not filler. It signals that you heard the
+person and are not dismissing them, which is what allows the disagreement that
+follows to be heard as a contribution rather than a rejection.
+
+And notice the offer at the end of the refusal. A "no" with an alternative
+attached is a fundamentally different message from a bare "no."
 
 The core move is **acknowledge-then-differ**: start by validating something ("good
 point," "I see what you mean," "I appreciate you raising this"), *then* give your

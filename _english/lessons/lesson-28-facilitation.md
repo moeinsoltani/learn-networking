@@ -17,14 +17,21 @@ often have the best ideas, and decisions made without their input miss things an
 buy-in. Facilitation is the skill of *drawing people out*: making space for everyone to
 contribute, especially the quiet ones, so the meeting uses the whole room's brains.
 
-```
-   FACILITATION MOVES:
-   • invite quiet people by name   "Sana, you've worked on this — what do you think?"
-   • hold space                    "Let's hear from someone who hasn't spoken yet."
-   • acknowledge contributions     "That's a great point — building on it..."
-   • redirect the dominator        "Thanks Alex — let's get a few other views."
-   • ask open questions            "What are we missing?" / "What worries you?"
-```
+Facilitation is a set of small, learnable moves — and each one is a sentence
+you can have ready.
+
+| The move | What it sounds like |
+|---|---|
+| **Invite quiet people by name** | "Sana, you've worked on this — what do you think?" |
+| **Hold space** | "Let's hear from someone who hasn't spoken yet." |
+| **Acknowledge contributions** | "That's a great point — building on it…" |
+| **Redirect the dominator** | "Thanks Alex — let's get a few other views." |
+| **Ask open questions** | "What are we missing?" / "What worries you?" |
+
+The first one is the highest-value move in the list, and it needs the small
+piece of justification attached: "you've worked on this." Being called on
+without a reason can feel like being put on the spot; being called on *because
+of your expertise* is an invitation.
 
 Facilitating well isn't about talking more yourself — it's about *conducting*: drawing out
 others, balancing airtime, and making the room a place where people feel safe to speak. As

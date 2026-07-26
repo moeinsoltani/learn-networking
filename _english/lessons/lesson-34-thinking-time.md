@@ -18,17 +18,24 @@ with "um… uh…". The fix is a set of natural phrases that **buy you a few sec
 while sounding composed and engaged. Native speakers use these constantly; they're not
 stalling, they're thinking out loud gracefully.
 
-```
-   INSTEAD OF:  (panicked silence) or "um... uh... uh..."
+When you are asked something and need a moment, there are two bad options —
+panicked silence, and "um… uh… uh…" — and several good ones.
 
-   BUY TIME GRACEFULLY:
-   • "That's a good question — let me think for a second."
-   • "Good question. So, the way I see it…"
-   • "Hmm, let me make sure I get this right…"
-   • (repeat the question) "How would this scale? — well…"
+**Buy time gracefully:**
 
-   A short, composed pause > a rushed, half-formed answer.
-```
+- "That's a good question — let me think for a second."
+- "Good question. So, the way I see it…"
+- "Hmm, let me make sure I get this right…"
+- Or simply **repeat the question**: "How would this scale? — well…"
+
+Repeating the question is the most useful trick in the list, because it does
+two jobs at once: it gives you three seconds of thinking time, and it confirms
+you understood what was asked.
+
+The principle to trust: **a short, composed pause beats a rushed, half-formed
+answer.** Native speakers use these phrases constantly. Silence for two seconds
+reads as considered; filler noises read as flustered, which is a much bigger
+difference than any grammar you might get wrong.
 
 The reframe: **a moment of thinking time is completely normal and looks thoughtful, not
 slow.** You don't have to answer instantly. Buying a few seconds with a natural phrase — and

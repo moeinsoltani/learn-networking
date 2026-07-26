@@ -10,45 +10,40 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 34: Succession and the Bus Factor
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **bus factor** — how many people could be lost ("hit by a bus") before critical knowledge is gone (Lesson 03).
-> - **SPOF (single point of failure)** — the one person or component whose loss breaks everything.
-> - **de-risk** — to reduce a risk deliberately before it bites.
-> - **redundancy** — having more than one person able to do each critical thing; here framed as *freedom*, not expendability.
-> - **knowledge mapping** — listing each critical system and asking "who understands this?"
-> - **runbook** — the written step-by-step guide for operating a system ("what to do when X breaks").
-> - **tribal knowledge** — critical information living only in heads (Lesson 03).
-> - **brown-bag** — an informal lunchtime teaching session (named for the lunch bag).
-> - **hoards context** — keeps knowledge to themselves, deliberately or not, because being irreplaceable feels safe.
-> - **expendable / disposable** — easily discarded; the threatening misreading of "not irreplaceable."
-> - **on call** — carrying the pager: responsible for responding to incidents.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-The **bus factor** is the number of people who'd have to be "hit by a bus" (leave, go on vacation, be
+The **bus factor**[°](#w-bus-factor) is the number of people who'd have to be "hit by a bus" (leave, go on vacation, be
 out sick) before a critical piece of knowledge or capability is lost. A bus factor of 1 — only one
 person understands the billing system, the deploy process, the legacy service — is a serious risk:
 you're one departure, illness, or vacation away from being stuck. The skill is **de-risking single
 points of failure** — including *yourself* — by spreading knowledge, without making anyone feel
 replaceable or threatened.
 
-```
-   BUS FACTOR = how many people can be lost before you're stuck
-   ┌──────────────────────────────────────────────────────┐
-   │ bus factor 1: only ONE person knows X                  │
-   │   → fragile: their vacation/illness/exit = crisis      │
-   │ DE-RISK: docs · pairing · rotation · knowledge-sharing  │
-   │   → spread knowledge so no one (incl. YOU) is a SPOF    │
-   │ FRAME as FREEDOM (vacations!), not threat/replaceability │
-   └──────────────────────────────────────────────────────┘
-```
+**Bus factor** is the number of people you can lose before the work stops. It
+is named for the grim thought experiment — if this person were hit by a bus,
+what breaks — but the everyday version is far more common: a holiday, an
+illness, a resignation.
+
+A bus factor of **one** means only one person knows how something works, and it
+is fragile in an entirely predictable way. That person cannot take a proper
+holiday, and their departure is not an inconvenience but a crisis.
+
+The de-risking tools are unglamorous and effective: **documentation, pairing,
+rotation, and deliberate knowledge-sharing** — spreading knowledge until no
+single person is a point of failure. Including you; especially you.
+
+One framing note that determines whether any of this actually happens: present
+it as **freedom, not replaceability**. "We're doing this so you can go on
+holiday without your phone" is true, and it is heard completely differently
+from "we're making sure we could manage without you."
 
 The reframe: **making people non-irreplaceable is protecting the team (and freeing the person), not
 diminishing anyone — frame redundancy as freedom, not threat.** The fear is that "you're not
-irreplaceable" sounds like "you're expendable," and that the hero who hoards context resists sharing
-it (their irreplaceability feels like security). But redundancy is what lets people take vacations,
-get promoted, and not be on call forever — it's freedom, not a threat — and de-risking single points
+irreplaceable" sounds like "you're expendable," and that the hero who **hoards context**[°](#w-hoards-context) resists sharing
+it (their irreplaceability feels like security). But **redundancy**[°](#w-redundancy) is what lets people take vacations,
+get promoted, and not be **on call**[°](#w-on-call) forever — it's freedom, not a threat — and de-risking single points
 of failure (including your own) is a core responsibility of a lead.
 
 ---
@@ -60,15 +55,15 @@ of failure (including your own) is a core responsibility of a lead.
 Start by **mapping the knowledge**: for each critical system, process, and area, ask *who understands
 it?* — and identify the **bus factor 1s** (things only one person knows: the billing system, the
 deploy magic, the legacy service, the customer-specific hacks). This map surfaces the single points
-of failure — the risks you need to de-risk. Include the non-obvious ones (tribal knowledge, "ask
+of failure — the risks you need to **de-risk**[°](#w-de-risk). Include the non-obvious ones (**tribal knowledge**[°](#w-tribal-knowledge), "ask
 Dave," undocumented processes). You can't de-risk what you haven't identified, so mapping the
 knowledge and its concentration is the first step.
 
 ### De-risking tools: docs, pairing, rotation
 
 Three main tools to spread concentrated knowledge: (1) **Documentation** — write down the critical
-knowledge (how the system works, the runbook, the context) so it's not only in someone's head. (2)
-**Pairing / knowledge-sharing** — have the sole expert pair with or teach others (brown-bags,
+knowledge (how the system works, the **runbook**[°](#w-runbook), the context) so it's not only in someone's head. (2)
+**Pairing / knowledge-sharing** — have the sole expert pair with or teach others (**brown-bags**[°](#w-brown-bag),
 pairing on the system), transferring the knowledge through people. (3) **Rotation** — rotate people
 through the critical areas (don't let one person own billing forever), so more people gain
 experience. Combined, these raise the bus factor (more people know each thing) — docs capture it,
@@ -355,6 +350,24 @@ that's both growing and robust. The next phase (Influence Without Authority) shi
 own team to a different core leadership skill: getting things done through people you don't manage, using
 influence rather than authority.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-bus-factor"></a>**bus factor** — how many people could be lost ("hit by a bus") before critical knowledge is gone (Lesson 03).
+- <a id="w-spof-single-point-of-failure"></a>**SPOF (single point of failure)** — the one person or component whose loss breaks everything.
+- <a id="w-de-risk"></a>**de-risk** — to reduce a risk deliberately before it bites.
+- <a id="w-redundancy"></a>**redundancy** — having more than one person able to do each critical thing; here framed as *freedom*, not expendability.
+- <a id="w-knowledge-mapping"></a>**knowledge mapping** — listing each critical system and asking "who understands this?"
+- <a id="w-runbook"></a>**runbook** — the written step-by-step guide for operating a system ("what to do when X breaks").
+- <a id="w-tribal-knowledge"></a>**tribal knowledge** — critical information living only in heads (Lesson 03).
+- <a id="w-brown-bag"></a>**brown-bag** — an informal lunchtime teaching session (named for the lunch bag).
+- <a id="w-hoards-context"></a>**hoards context** — keeps knowledge to themselves, deliberately or not, because being irreplaceable feels safe.
+- <a id="w-expendable-disposable"></a>**expendable / disposable** — easily discarded; the threatening misreading of "not irreplaceable."
+- <a id="w-on-call"></a>**on call** — carrying the pager: responsible for responding to incidents.
 
 ---
 

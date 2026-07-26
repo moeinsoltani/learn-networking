@@ -10,18 +10,7 @@ parent: "Phase 1: The Transition"
 
 # Lesson 05: Identity, Doubt, and the Psychology of the Switch
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **impostor syndrome** (im-POSS-ter) — the persistent feeling that you're a fraud who will be "found out," despite real competence.
-> - **feedback loop** — the cycle of acting and seeing the result; engineering's is minutes (tests pass), leadership's is weeks or never.
-> - **self-worth** — your sense of your own value; here, dangerously tied to personal output.
-> - **burnout** — deep exhaustion from prolonged stress; in leads, driven by *energy* depletion more than hours.
-> - **energy management** — planning your week around which activities drain vs restore you, not just around time.
-> - **role fit** — whether the *nature* of a job (not its difficulty) matches what energizes you.
-> - **skip-level** — a meeting with your manager's manager, or (as a lead) with your reports' reports.
-> - **white-knuckle** — to endure something by sheer force of will (from gripping so hard your knuckles whiten).
-> - **wallowing** — staying stuck in a bad feeling instead of acting on it.
-> - **trajectory** — the direction something is heading over time (improving vs worsening).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -33,22 +22,21 @@ often blindsided not by the work but by the internal experience of it.
 The core disruption: **your source of self-worth and your feedback loop both
 break at once.**
 
-```
-   AS AN ENGINEER                         AS A NEW LEAD
-   ──────────────                         ─────────────
-   IDENTITY: "I'm a great engineer,       IDENTITY: ...who am I now? I don't
-   I solve hard problems"                  ship the code. What am I good at?
+The hardest part of the transition is not the skills — it is that the internal
+scoreboard you have used for years stops working.
 
-   FEEDBACK: fast + clear — tests pass,   FEEDBACK: slow + murky — did that
-   PR merges, problem solved. Constant     1:1 help? Was that the right call?
-   dopamine of visible progress.           You'll know in weeks. Or never.
+| | **As an engineer** | **As a new lead** |
+|---|---|---|
+| **Identity** | "I'm a great engineer, I solve hard problems" | "…who am I now? I don't ship the code. What am I actually good at?" |
+| **Feedback** | Fast and clear — tests pass, the PR merges, the problem is solved. A constant drip of visible progress | Slow and murky — did that 1:1 help? Was that the right call? You may know in weeks. Or never |
+| **Progress** | Measured hourly or daily, in your own output | Measured over weeks, in *other people's* output and growth |
 
-   PROGRESS: measured hourly/daily,        PROGRESS: measured over weeks, in
-   in your own output                      OTHER people's output and growth
-```
+If you feel unproductive and vaguely fraudulent in your first months, this
+table is the reason, and it is not evidence that you are bad at the job. It is
+evidence that you have not yet rebuilt the scoreboard.
 
 For years your identity was "strong engineer" and your days were full of the
-tight, satisfying feedback loop of technical work — write code, run it, see it
+tight, satisfying **feedback loop**[°](#w-feedback-loop) of technical work — write code, run it, see it
 work. As a lead, that identity is destabilized (you're not shipping the code
 anymore — Lesson 03) and the feedback loop stretches from minutes to weeks or
 disappears entirely (did that career conversation land? did that decision help?
@@ -79,7 +67,7 @@ The lost feedback loop is the acute pain. Fixes:
   what you unblocked, prevented, and grew — because the environment won't reward
   it automatically the way merged PRs did, so you have to make it visible to
   yourself to feel the progress and to counter the "I did nothing" feeling.
-- **Find new, appropriate feedback sources.** Skip-level signals, whether the
+- **Find new, appropriate feedback sources.** **Skip-level**[°](#w-skip-level) signals, whether the
   team is healthier and shipping more, engineers you mentored leveling up,
   whether the disasters you worried about didn't happen. These are slower and
   quieter than tests passing, but they're real.
@@ -107,7 +95,7 @@ of coding, even though it's fewer "hard" hours. So manage your *energy*: know
 which activities drain vs restore you, don't stack all the draining people-work
 into one brutal day, protect some restorative work (for many leads, a bit of the
 safe hands-on technical work from Lesson 03 is genuinely restorative — a
-legitimate reason to keep some), and recognize that leadership burnout comes
+legitimate reason to keep some), and recognize that leadership **burnout**[°](#w-burnout) comes
 from emotional/energy depletion as much as hours.
 
 ### Discomfort: growth signal vs real warning
@@ -205,7 +193,7 @@ is hard and I feel incompetent but the work itself would satisfy me once I'm goo
 at it" (growth — push through) vs "even imagining being good at this, I don't
 want it" (signal — act). At three months with a team that's thriving, it's almost
 certainly the former — but the willingness to ask the question honestly, rather
-than either wallowing in impostor-panic or ignoring a genuine mismatch, is the
+than either **wallowing**[°](#w-wallowing) in impostor-panic or ignoring a genuine mismatch, is the
 maturity the exercise builds.
 <br><br>
 Common mistakes: (1) writing the review the way the impostor-voice would (all
@@ -386,6 +374,23 @@ fair review and your felt sense already match, and your energy is well-managed �
 that's a sign you've navigated the psychological transition well, and the value
 is confirming it rather than discovering a gap.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-impostor-syndrome"></a>**impostor syndrome** (im-POSS-ter) — the persistent feeling that you're a fraud who will be "found out," despite real competence.
+- <a id="w-feedback-loop"></a>**feedback loop** — the cycle of acting and seeing the result; engineering's is minutes (tests pass), leadership's is weeks or never.
+- <a id="w-self-worth"></a>**self-worth** — your sense of your own value; here, dangerously tied to personal output.
+- <a id="w-burnout"></a>**burnout** — deep exhaustion from prolonged stress; in leads, driven by *energy* depletion more than hours.
+- <a id="w-energy-management"></a>**energy management** — planning your week around which activities drain vs restore you, not just around time.
+- <a id="w-role-fit"></a>**role fit** — whether the *nature* of a job (not its difficulty) matches what energizes you.
+- <a id="w-skip-level"></a>**skip-level** — a meeting with your manager's manager, or (as a lead) with your reports' reports.
+- <a id="w-white-knuckle"></a>**white-knuckle** — to endure something by sheer force of will (from gripping so hard your knuckles whiten).
+- <a id="w-wallowing"></a>**wallowing** — staying stuck in a bad feeling instead of acting on it.
+- <a id="w-trajectory"></a>**trajectory** — the direction something is heading over time (improving vs worsening).
 
 ---
 

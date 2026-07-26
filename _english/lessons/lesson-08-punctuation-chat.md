@@ -18,17 +18,25 @@ non-native writers are often surprised that a period or an ellipsis can change h
 message *feels*. This lesson is about using punctuation to make your tone match your
 intent — which matters because tone is your stated goal (warm, soft messages).
 
-```
-   SAME WORDS, DIFFERENT FEELING:
+In chat, punctuation carries tone — and the same word can land in completely
+different ways.
 
-   "ok."       ← can read as cold, annoyed, or dismissive in chat
-   "ok"        ← neutral, casual
-   "ok!"       ← warm, friendly, enthusiastic
-   "ok, sounds good!"  ← clearly warm
+| What you type | How it reads |
+|---|---|
+| "ok." | Cold, annoyed, or dismissive |
+| "ok" | Neutral, casual |
+| "ok!" | Warm, friendly |
+| "ok, sounds good!" | Clearly warm |
+| "sure…" | Reluctant, or passive-aggressive |
+| "sure!" | Genuinely willing |
 
-   "sure..."   ← the ellipsis reads as reluctant or passive-aggressive
-   "sure!"     ← genuinely willing
-```
+The full stop is the surprising one. In a document it is invisible; in a
+one-word chat reply it reads as curt, because the writer bothered to close the
+sentence formally when nobody required it.
+
+None of this is about being fake or over-enthusiastic. It is that in speech
+your voice does this work for you, and in chat there is nothing else available —
+so the punctuation *is* the tone, whether you intended it or not.
 
 The counterintuitive thing for many non-native writers: in casual chat, a period at
 the end of a short reply can read as **serious, cold, or annoyed** — because in

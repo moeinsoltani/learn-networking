@@ -18,17 +18,21 @@ reader grasps your point, trusts it, and acts. Writing a summary that captures t
 few lines — for someone who won't read the rest — is one of the highest-value writing skills for
 a lead, and a distinct skill from writing the doc itself.
 
-```
-   THE EXEC SUMMARY (3-6 lines) ANSWERS:
-   ┌──────────────────────────────────────────────────────┐
-   │ • WHAT are we proposing / what's the situation?       │
-   │ • WHY does it matter (impact / cost of inaction)?     │
-   │ • WHAT do we recommend / decide?                      │
-   │ • WHAT do we need from the reader (decision/ask)?     │
-   └──────────────────────────────────────────────────────┘
+An executive summary is three to six lines, and it answers four questions:
 
-   Written for someone who reads ONLY this. Self-contained.
-```
+- **What** are we proposing, or what is the situation?
+- **Why** does it matter — the impact, or the cost of doing nothing?
+- **What** do we recommend or decide?
+- **What** do we need from the reader — the decision, or the ask?
+
+The constraint that shapes all of it: **write it for someone who reads only
+this.** That is not a pessimistic assumption; for senior readers it is simply
+what happens. The summary therefore has to be **self-contained** — no "as
+described below," no terms defined later, no conclusion deferred to section
+four.
+
+A useful test: delete the rest of the document and read what is left. If a
+decision could still be made from it, the summary is doing its job.
 
 The reframe: **the summary must stand completely on its own** — a reader who reads only the
 summary (which is most senior readers) should come away knowing the point, why it matters, the

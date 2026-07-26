@@ -10,46 +10,40 @@ parent: "Phase 6: Cross-Cutting Quality Attributes"
 
 # Lesson 24: Security Architecture & Threat Modeling
 
-{: .note }
-> **Words to know**
-> - **defense in depth** — multiple independent layers of security, so one failure doesn't breach everything.
-> - **least privilege** — every component/user gets the *minimum* access needed, nothing more.
-> - **trust boundary** — a line where the level of trust changes (e.g., the internet ↔ your system); where you must authenticate/validate.
-> - **threat modeling** — systematically asking "what can go wrong here?" during design.
-> - **STRIDE** — a threat taxonomy: Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege.
-> - **zero trust** — "never trust the network"; verify every request regardless of where it comes from.
-> - **blast radius / segmentation** — how far an attacker gets after a breach, and how you limit it.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Security is not a feature you add at the end — it's a **quality attribute of the structure** that
 must be designed in, because the most important security decisions are *architectural* (where the
-trust boundaries are, how components are segmented, where authentication and authorization happen)
+**trust boundaries**[°](#w-trust-boundary) are, how components are segmented, where authentication and authorization happen)
 and are painful or impossible to bolt on later. The architect's non-negotiable duty is to build
 security *into* the design, not around it.
 
-```
-   SECURITY IS STRUCTURAL — it lives in the boundaries
+Security in architecture is **structural** — it lives in the boundaries, not in
+a library you add at the end.
 
-   INTERNET (untrusted)
-        │  ── TRUST BOUNDARY ── authenticate, validate, rate-limit HERE
-        ▼
-   [ API Gateway / edge ]  ← authN, TLS termination, WAF, rate limiting
-        │  ── another boundary (don't trust "internal" blindly — zero trust) ──
-        ▼
-   [ Services ]  ← each authorizes; least privilege; mTLS between them
-        │  ── boundary around sensitive data ──
-        ▼
-   [ Payment / PII store ]  ← tightest controls, smallest access, encrypted,
-                              segmented so a breach elsewhere can't reach it
+Follow a request inward. It arrives from the **internet, which is untrusted**,
+and crosses the first **trust boundary** — and that is where you authenticate,
+validate, and rate-limit. It reaches the **API gateway or edge**, doing
+authentication, TLS termination, WAF, rate limiting. Then it crosses **another
+boundary** into your services — and the zero-trust point is that you should not
+blindly trust something merely because it is "internal." Each service
+authorises for itself, with least privilege, and mTLS between them. Finally
+there is a boundary around **sensitive data** — payments, PII — which gets the
+tightest controls, the smallest set of permitted callers, encryption, and
+segmentation.
 
-   DEFENSE IN DEPTH: many layers, so one failure ≠ total breach.
-   LEAST PRIVILEGE: each box gets the minimum access it needs.
-   BLAST RADIUS: design so a breach of one box can't reach everything.
-```
+Three principles run through that:
 
-Two principles anchor everything: **defense in depth** (never rely on a single control — layer
-independent defenses so one failure isn't catastrophic) and **least privilege** (every component,
+- **Defence in depth** — many layers, so that one failure is not a total breach.
+- **Least privilege** — each component gets the minimum access it needs, and no
+  standing access to everything.
+- **Blast radius** — design so that a breach of any one component cannot reach
+  everything else. This is the one that most changes your diagrams.
+
+Two principles anchor everything: **defense in depth**[°](#w-defense-in-depth) (never rely on a single control — layer
+independent defenses so one failure isn't catastrophic) and **least privilege**[°](#w-least-privilege) (every component,
 service, and credential gets the minimum access it needs — so a compromised component can do
 limited damage). Both are fundamentally about *limiting the blast radius* of the breach you should
 assume will eventually happen.
@@ -62,11 +56,11 @@ code calling a third party. At every trust boundary you must *authenticate* (who
 *authorize* (are they allowed?), and *validate* (is this input safe?), because you can't trust what
 comes from the other side. Drawing the trust boundaries is a design activity: it tells you where the
 security controls go. The classic mistake is assuming everything "inside" is trusted (the soft
-chewy center) — which is exactly what zero trust rejects.
+chewy center) — which is exactly what **zero trust**[°](#w-zero-trust) rejects.
 
-**Threat modeling — "what can go wrong here?" as a design step.** Threat modeling is
+**Threat modeling — "what can go wrong here?" as a design step.** **Threat modeling**[°](#w-threat-modeling) is
 systematically examining a design for how it could be attacked, *before* building it. The most
-common lightweight framework is **STRIDE** — for each component and data flow, ask whether it's
+common lightweight framework is **STRIDE**[°](#w-stride) — for each component and data flow, ask whether it's
 vulnerable to: **S**poofing (pretending to be someone else), **T**ampering (altering data),
 **R**epudiation (denying an action with no proof), **I**nformation disclosure (leaking data),
 **D**enial of service (overwhelming it), **E**levation of privilege (gaining rights you shouldn't).
@@ -358,6 +352,20 @@ any breach into a large one, and the fixes are architectural and best built in n
 output is one prioritized structural change (contain the blast radius of a breach), not a checklist
 of app-level patches.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-defense-in-depth"></a>**defense in depth** — multiple independent layers of security, so one failure doesn't breach everything.
+- <a id="w-least-privilege"></a>**least privilege** — every component/user gets the *minimum* access needed, nothing more.
+- <a id="w-trust-boundary"></a>**trust boundary** — a line where the level of trust changes (e.g., the internet ↔ your system); where you must authenticate/validate.
+- <a id="w-threat-modeling"></a>**threat modeling** — systematically asking "what can go wrong here?" during design.
+- <a id="w-stride"></a>**STRIDE** — a threat taxonomy: Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege.
+- <a id="w-zero-trust"></a>**zero trust** — "never trust the network"; verify every request regardless of where it comes from.
+- <a id="w-blast-radius-segmentation"></a>**blast radius / segmentation** — how far an attacker gets after a breach, and how you limit it.
 
 ---
 

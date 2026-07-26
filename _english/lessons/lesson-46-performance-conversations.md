@@ -19,19 +19,22 @@ and kindly: how to be clear about the gap without crushing the person, stay fact
 and turn it toward a path forward. (The leadership track covers the management mechanics; this is
 the words.)
 
-```
-   THE PERFORMANCE CONVERSATION SHAPE:
-   ┌──────────────────────────────────────────────────────┐
-   │ 1. DIRECT + CARING open   "I need to share some hard    │
-   │                            feedback, because I want you │
-   │                            to succeed."                 │
-   │ 2. SPECIFIC gap           facts & examples, not labels  │
-   │ 3. LISTEN                  their view; it's a dialogue   │
-   │ 4. PATH FORWARD           concrete, what good looks like │
-   │ 5. SUPPORT                 "I'm here to help you get      │
-   │                            there."                       │
-   └──────────────────────────────────────────────────────┘
-```
+A performance conversation has five parts, in order:
+
+1. **Open directly, and with care** — "I need to share some hard feedback,
+   because I want you to succeed."
+2. **Name the gap specifically** — facts and examples, not labels.
+3. **Listen.** Their view matters, and this is a dialogue, not a delivery.
+4. **Agree a path forward** — concrete, with what "good" looks like.
+5. **Offer support** — "I'm here to help you get there."
+
+The opening line is doing more work than it appears to. Announcing that hard
+feedback is coming, *and* why you are giving it, stops the listener spending the
+next two minutes trying to work out how bad this is — which is time they would
+otherwise not be listening.
+
+Step three is the one most often skipped under nerves. A conversation where you
+talk for ten minutes has not changed anything; it has only informed someone.
 
 The reframe: **be direct about the problem AND genuinely caring about the person — at the same
 time.** The instinct is to pick one: either soften so much the message is lost (unkind — they

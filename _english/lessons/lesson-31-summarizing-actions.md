@@ -17,17 +17,20 @@ was decided or who's doing what. The last two minutes matter as much as the firs
 close *summarizes what was decided* and *captures who does what by when*, turning talk into
 action. Without it, the same topic comes back next week, undiscussed and undone.
 
-```
-   THE CLOSE (last 2 minutes):
-   ┌─────────────────────────────────────────────────┐
-   │ DECISIONS:  "So we've decided to go with Redis." │
-   │ ACTIONS:    "Priya will spike it by Friday.       │
-   │              Sam will update the design doc."     │
-   │ CONFIRM:    "Does that capture it? Anything else?"│
-   └─────────────────────────────────────────────────┘
+The last two minutes are worth more than most of the meeting. Close it with
+three things:
 
-   Every action needs: WHO + WHAT + BY WHEN.
-```
+- **Decisions** — "So we've decided to go with Redis."
+- **Actions** — "Priya will spike it by Friday. Sam will update the design doc."
+- **Confirm** — "Does that capture it? Anything else?"
+
+Every action needs three components: **who, what, and by when.** An action item
+missing any one of them will not happen — "we should update the docs" belongs
+to nobody and is due never.
+
+The confirmation step is a thirty-second insurance policy. It is where you find
+out that two people left the room with different understandings of what was
+decided, at the only moment when that is still cheap to fix.
 
 The skill is simple but frequently skipped: before people leave, say back the decisions and
 the action items — each with an **owner** and a **due date** — and confirm everyone agrees.

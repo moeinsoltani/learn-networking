@@ -17,16 +17,24 @@ that jumps straight into a request and ends abruptly feels transactional and col
 small warm opener and closer make the same content feel human and friendly — for
 almost no extra words.
 
-```
-   COLD (transactional)              WARM (human)
-   ────────────────────              ────────────
-   "Review my PR."                   "Hey! Hope the release went smoothly —
-                                      could you review my PR when you get a
-                                      chance? Thanks so much!"
+A request with nothing around it reads as transactional, even when the words
+are perfectly polite.
 
-   OPENERS: "Hope you're well" · "Hope X went well" · "Thanks for X"
-   CLOSERS: "Thanks so much!" · "No rush" · "Happy to chat" · "Appreciate it!"
-```
+> **Cold:** "Review my PR."
+> **Warm:** "Hey! Hope the release went smoothly — could you review my PR when
+> you get a chance? Thanks so much!"
+
+The content is identical. What changed is that the second one has an **opener**
+and a **closer** wrapped around it.
+
+Worth keeping a small stock of each:
+
+- **Openers:** "Hope you're well" · "Hope X went well" · "Thanks for X"
+- **Closers:** "Thanks so much!" · "No rush" · "Happy to chat" · "Appreciate
+  it!"
+
+"No rush" deserves special mention: it costs two words and removes the pressure
+from an ask, which makes people considerably more willing to say yes.
 
 The skill has two sides: knowing the warm openers and closers to use, AND knowing
 when to *skip* them (a quick thread reply doesn't need "Hope you're well" — that

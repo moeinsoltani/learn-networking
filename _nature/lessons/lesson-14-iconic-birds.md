@@ -10,21 +10,14 @@ parent: "Phase 3: Birds of Canada"
 
 # Lesson 14: Iconic Canadian Birds
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **emblem** — an official or unofficial symbol standing for a place.
-> - **loonie** — the Canadian $1 coin, named for the **loon** pictured on it.
-> - **national bird** — a country's official bird; Canada has **no official** one, though the Canada jay was a popular proposal.
-> - **provincial bird** — a province's official bird (e.g. snowy owl for Quebec).
-> - **whisky-jack** — a folk name for the Canada jay, from the Cree *Wisakedjak*.
-> - **iconic** (eye-KON-ik) — widely recognised as a symbol of something.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 A few birds have become part of how Canada pictures itself — on coins, on
 provincial lists, and in the national imagination. You already know all of them
 from earlier lessons; this lesson ties them to their symbolism, which makes them
-easy to remember and fun to talk about. Meet Canada's four most **iconic** birds:
+easy to remember and fun to talk about. Meet Canada's four most **iconic**[°](#w-iconic) birds:
 the **common loon**, the **Canada jay**, the **snowy owl**, and the **Canada
 goose**.
 
@@ -32,7 +25,7 @@ goose**.
 
 ***Common loon** — perhaps *the* sound of Canada: its wild, yodelling call over a
 still northern lake. It's pictured on the **$1 coin**, which is why Canadians call
-the coin the "**loonie**" (and the $2 coin the "toonie"). It's also the provincial
+the coin the "**loonie**[°](#w-loonie)" (and the $2 coin the "toonie"). It's also the provincial
 bird of Ontario. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg).*
 
@@ -40,12 +33,21 @@ bird of Ontario. Photo:
 
 ### The four icons and what they stand for
 
+Four birds do symbolic work in Canada far beyond their ecology, and each earned
+it differently — one is on the money, one is the national goose everyone has an
+opinion about, one is a provincial emblem, and one is the Arctic's poster
+species.
+
+Knowing what each one *represents* matters as much as identifying it, because
+these are the birds that appear in conversation, on coins, and in Canada
+Lesson 45's list of national symbols.
+
 | Bird | Symbol / status | Where you met it |
 |---|---|---|
-| **Common loon** | On the **$1 "loonie" coin**; Ontario's provincial bird; the sound of the north | Lesson 11 |
-| **Canada jay** | Popular pick for **national bird** (2016 campaign); the tame "whisky-jack" | Lesson 13 |
+| **Common loon** | On the **$1 "loonie" coin**; Ontario's **provincial bird**[°](#w-provincial-bird); the sound of the north | Lesson 11 |
+| **Canada jay** | Popular pick for **national bird**[°](#w-national-bird) (2016 campaign); the tame "**whisky-jack**[°](#w-whisky-jack)" | Lesson 13 |
 | **Snowy owl** | **Official bird of Quebec**; Arctic icon | Lesson 12 |
-| **Canada goose** | Unofficial national emblem; the bird literally named "Canada" | Lesson 11 |
+| **Canada goose** | Unofficial national **emblem**[°](#w-emblem); the bird literally named "Canada" | Lesson 11 |
 
 ### Does Canada have a national bird?
 
@@ -224,6 +226,19 @@ the country better than any other bird." Full marks for combining at least two
 course facts (marks/behaviour/habitat/culture) with a reasoned opinion — there's no
 wrong choice, only weak or strong support.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-emblem"></a>**emblem** — an official or unofficial symbol standing for a place.
+- <a id="w-loonie"></a>**loonie** — the Canadian $1 coin, named for the **loon** pictured on it.
+- <a id="w-national-bird"></a>**national bird** — a country's official bird; Canada has **no official** one, though the Canada jay was a popular proposal.
+- <a id="w-provincial-bird"></a>**provincial bird** — a province's official bird (e.g. snowy owl for Quebec).
+- <a id="w-whisky-jack"></a>**whisky-jack** — a folk name for the Canada jay, from the Cree *Wisakedjak*.
+- <a id="w-iconic"></a>**iconic** (eye-KON-ik) — widely recognised as a symbol of something.
 
 ---
 

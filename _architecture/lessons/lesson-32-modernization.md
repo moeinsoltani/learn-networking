@@ -10,45 +10,44 @@ parent: "Phase 7: Documenting, Evaluating & Evolving Architecture"
 
 # Lesson 32: Modernizing Legacy — the Strangler Fig & Friends
 
-{: .note }
-> **Words to know**
-> - **legacy system** — a running system that's valuable (it's in production, earning money) but hard to change; usually old, under-documented, and business-critical.
-> - **big-bang rewrite** — replacing the whole system at once with a from-scratch rebuild, then cutting over. Usually fails.
-> - **second-system effect** — the tendency of a from-scratch replacement to become over-engineered and bloated with everything the first one lacked.
-> - **strangler fig** — grow the new system *around* the old, redirect functionality piece by piece, and delete the old once it's starved of traffic.
-> - **branch by abstraction** — introduce an abstraction over the thing you're replacing, swap the implementation behind it, then remove the old.
-> - **anti-corruption layer (ACL)** — a translation layer that keeps the old system's model from leaking into the new one (Lesson 7).
-> - **seam** — a place where you can change behavior without editing in the surrounding code; the point where you can insert a redirect.
-> - **parallel run** — run old and new side by side on the same inputs and compare outputs, before trusting the new one.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-You will rarely design a system on a blank page. Far more often you'll inherit a **legacy system**: old,
+You will rarely design a system on a blank page. Far more often you'll inherit a **legacy system**[°](#w-legacy-system): old,
 tangled, under-documented — and *running the business*, which is exactly why it's hard to change and why
-you can't just stop the world to fix it. The instinct is the **big-bang rewrite**: freeze the old,
+you can't just stop the world to fix it. The instinct is the **big-bang rewrite**[°](#w-big-bang-rewrite): freeze the old,
 rebuild it from scratch, cut over on a big day. This almost always fails. The alternative — and the
 central skill of modernization — is to change a running system **incrementally**, without ever stopping
-it, using the **strangler fig** pattern.
+it, using the **strangler fig**[°](#w-strangler-fig) pattern.
 
-```
-   BIG-BANG REWRITE (usually fails)        STRANGLER FIG (grow new around old)
-   ┌─────────────────────────┐             step 0: [ facade ]──▶[ LEGACY (all of it) ]
-   │ freeze old · rebuild all │            step 1: [ facade ]─┬▶[ new: notifications ]
-   │ from scratch · cut over  │                              └▶[ legacy: the rest    ]
-   │ on the big day           │            step 2: [ facade ]─┬▶[ new: notifications ]
-   │  ✗ target keeps moving   │                              ├▶[ new: billing        ]
-   │  ✗ 2nd-system bloat      │                              └▶[ legacy: shrinking   ]
-   │  ✗ lose fixed edge cases │            …    redirect route by route, verify each
-   │  ✗ no value for months   │            step N: legacy starved → DELETE it
-   └─────────────────────────┘             the system runs the WHOLE time
-```
+Two ways to replace a legacy system, one of which usually fails.
+
+**The big-bang rewrite:** freeze the old system, rebuild it all from scratch,
+and cut over on the big day. It fails for four reliable reasons — the target
+keeps moving while you build, second-system bloat creeps in as everyone adds
+what the old one lacked, you lose the edge cases the old system had quietly
+fixed over ten years, and no value ships for many months.
+
+**The strangler fig** grows the new system around the old one instead. Put a
+**facade** in front of the legacy system, so all traffic flows through a
+redirection point. Then move functionality across one route at a time:
+notifications go to a new service while everything else still goes to legacy,
+then billing, then the next thing — verifying each step in production before
+taking the next. The legacy system shrinks until it is starved, and then you
+delete it.
+
+The decisive advantage is stated in one line: **the system runs the whole
+time.** Every step is small, reversible, and delivers value on its own — which
+is also why it survives the reorganisations and shifting priorities that kill
+multi-year rewrites.
 
 The strangler fig (named for the vine that grows around a tree until the tree is gone) works by placing
 a **facade/router** in front of the old system and then, **one capability at a time**, building the new
 implementation, redirecting that route to it, verifying it, and moving on — until the old system is
 starved of traffic and can be deleted. The system keeps running and delivering value the entire time,
 risk is taken in small increments, and each step is reversible. Supporting tools — **branch by
-abstraction**, the **anti-corruption layer**, and **parallel run** — handle the hard parts (especially
+abstraction**, the **anti-corruption layer**, and **parallel run**[°](#w-parallel-run) — handle the hard parts (especially
 the shared database, which is always the hardest part). The meta-skill is sequencing: extract by *risk
 and value*, and know when *not* to modernize at all.
 
@@ -102,7 +101,7 @@ applied to replacing a whole system.
 > is where it gets genuinely hard, because the data for "your" capability is tangled with everything else
 > (foreign keys, joins, shared tables, transactions that span concerns). You can't just move the service
 > and leave its data behind. Approaches, in rough order:
-> - <strong>Find the seam in the data</strong> first: which tables/columns truly belong to this
+> - <strong>Find the **seam**[°](#w-seam) in the data</strong> first: which tables/columns truly belong to this
 >   capability? Often the boundaries you drew (Lesson 6) don't match the database's coupling, and that
 >   mismatch <em>is</em> the difficulty.
 > - <strong>Split the schema before the service</strong> where possible — separate the capability's
@@ -154,7 +153,7 @@ shared data. A strong answer:
 <br><br>
 <strong>1. Find the seam.</strong> The natural seam for notifications is the <em>point where the rest of
 the system asks for a notification to be sent</em>. Introduce an abstraction — an internal
-<code>Notifier.send(event)</code> interface (branch by abstraction) — and route <em>all</em> the
+<code>Notifier.send(event)</code> interface (**branch by abstraction**[°](#w-branch-by-abstraction)) — and route <em>all</em> the
 scattered "send an email" call sites through it. Right now its implementation is still the old in-monolith
 code, but now there's a single, controllable seam: one place that decides how notifications are sent.
 (This alone is valuable — it consolidates the scattered logic.)
@@ -330,6 +329,21 @@ abstraction + ACL + parallel run) rather than betting the business on a big-bang
 coupling — not the code — is what makes it hard; and knowing when <em>not</em> to modernize is as much a
 part of the judgment as knowing how.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-legacy-system"></a>**legacy system** — a running system that's valuable (it's in production, earning money) but hard to change; usually old, under-documented, and business-critical.
+- <a id="w-big-bang-rewrite"></a>**big-bang rewrite** — replacing the whole system at once with a from-scratch rebuild, then cutting over. Usually fails.
+- <a id="w-second-system-effect"></a>**second-system effect** — the tendency of a from-scratch replacement to become over-engineered and bloated with everything the first one lacked.
+- <a id="w-strangler-fig"></a>**strangler fig** — grow the new system *around* the old, redirect functionality piece by piece, and delete the old once it's starved of traffic.
+- <a id="w-branch-by-abstraction"></a>**branch by abstraction** — introduce an abstraction over the thing you're replacing, swap the implementation behind it, then remove the old.
+- <a id="w-anti-corruption-layer-acl"></a>**anti-corruption layer (ACL)** — a translation layer that keeps the old system's model from leaking into the new one (Lesson 7).
+- <a id="w-seam"></a>**seam** — a place where you can change behavior without editing in the surrounding code; the point where you can insert a redirect.
+- <a id="w-parallel-run"></a>**parallel run** — run old and new side by side on the same inputs and compare outputs, before trusting the new one.
 
 ---
 

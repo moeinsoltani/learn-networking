@@ -18,17 +18,24 @@ that makes this work: you don't have 100 different errors — you have maybe 5, 
 repeat them. Find your 5, build a 10-second check for them, and your writing gets
 dramatically more accurate.
 
-```
-   THE MYTH:  "I need to master all of English grammar."
-   THE TRUTH: "I make ~5 recurring errors. I need to catch THOSE."
+Two beliefs, and only one of them is true.
 
-   Your checklist (built from YOUR patterns in Lessons 1–8):
-   □ dropped a subject/verb?  (is/am/are, I/it/we)     — L1, L4
-   □ article: "the production"→production, "a feedback"→feedback  — L2, L3
-   □ agreement: "content are"→"content is"             — L5
-   □ tense: "I already deploy"→"I've deployed"         — L4
-   □ tone: does this read warm or cold?                — L8
-```
+**The myth:** "I need to master all of English grammar."
+**The truth:** "I make about five recurring errors. I need to catch *those*."
+
+That is genuinely how fluent-sounding writing gets built — not by knowing
+everything, but by knowing your own short list. Here is a checklist assembled
+from the patterns in Lessons 01–08:
+
+- **Dropped a subject or verb?** — *is/am/are*, *I/it/we* (Lessons 01, 04)
+- **Article wrong?** — "the production" → *production*; "a feedback" →
+  *feedback* (Lessons 02, 03)
+- **Agreement wrong?** — "content are" → "content **is**" (Lesson 05)
+- **Tense wrong?** — "I already deploy" → "I'**ve deployed**" (Lesson 04)
+- **Tone** — does this read warm or cold? (Lesson 08)
+
+Five items, checkable in about twenty seconds before you hit send. That is a
+far better use of your attention than another grammar book.
 
 The most common errors for non-native engineers cluster in a small set: dropped
 words, articles, subject–verb agreement, tenses. Your job in this lesson is to

@@ -10,48 +10,38 @@ parent: "Phase 2: Foundations of Structure"
 
 # Lesson 05: Coupling, Cohesion & Connascence
 
-{: .note }
-> **Words to know**
-> - **coupling** — the degree to which one part of a system depends on another; how much a change *there* forces a change *here*.
-> - **cohesion** — the degree to which the things inside one module belong together; how single-purpose it is.
-> - **connascence** (kuh-NAY-sunce) — a precise vocabulary for *kinds* of coupling: two things are connascent if changing one requires changing the other to keep the system correct.
-> - **afferent / efferent coupling** — incoming dependencies (who depends on *me*) vs outgoing (who *I* depend on).
-> - **static vs dynamic** — knowable by reading the code (static) vs only at runtime (dynamic).
-> - **loose vs tight** — how easily a dependency can be changed or broken without breaking the other side.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Almost every structural decision in architecture reduces to two forces you're
-constantly balancing: **cohesion** (keep things that belong together, together) and
-**coupling** (keep things that shouldn't depend on each other, independent). Get them
+constantly balancing: **cohesion**[°](#w-cohesion) (keep things that belong together, together) and
+**coupling**[°](#w-coupling) (keep things that shouldn't depend on each other, independent). Get them
 right and the system is changeable — a modification touches one place. Get them wrong
 and you have the two classic diseases: *low cohesion* (a module does five unrelated
 things, so every change is a scavenger hunt) and *high coupling* (everything depends
 on everything, so every change ripples unpredictably).
 
-```
-   COHESION (within a module)        COUPLING (between modules)
-   ── how well its parts belong ──   ── how much they depend ──
+Two ideas, often confused, describe opposite sides of a boundary. **Cohesion**
+is about what happens *within* a module: how well its parts belong together.
+**Coupling** is about what happens *between* modules: how much they depend on
+each other.
 
-   HIGH cohesion (good):             LOW/LOOSE coupling (good):
-   ┌──────────────┐                  ┌─────┐        ┌─────┐
-   │  Order        │                 │  A  │ ──?──▶ │  B  │
-   │  - create     │                 └─────┘        └─────┘
-   │  - price      │                  depends on B only through
-   │  - cancel     │                  a stable, narrow interface
-   └──────────────┘                  → change B's guts freely
+**High cohesion is good.** An `Order` module that creates, prices, and cancels
+orders is cohesive — everything in it concerns the lifecycle of an order.
+**Low cohesion is bad**, and it is easy to recognise once named: an `Order`
+module that creates orders, sends emails, resizes images, and parses CSV files
+has become a place where unrelated things happen to live.
 
-   LOW cohesion (bad):               TIGHT coupling (bad):
-   ┌──────────────┐                  ┌─────┐        ┌─────┐
-   │  Order        │                 │  A  │◀──────▶│  B  │
-   │  - create     │                 └─────┘   ▲    └─────┘
-   │  - send email │                     A knows B's internals;
-   │  - resize img │                     any change to B breaks A
-   │  - parse CSV  │
-   └──────────────┘
+**Loose coupling is good.** Module A depends on B only through a stable, narrow
+interface — which means B's internals can be rewritten freely without A
+noticing. **Tight coupling is bad**: A knows B's internals, so any change to B
+breaks A, and the two modules are effectively one module with a misleading
+folder structure.
 
-   GOAL:  HIGH cohesion  +  LOW, LOOSE coupling
-```
+The goal, stated once and applied for the rest of the track: **high cohesion,
+loose coupling.** Almost every structural technique in this course is a way of
+getting one or both.
 
 The famous heuristic — **"high cohesion, low coupling"** — is the single most
 durable design principle in software, older than any framework and true at every
@@ -80,7 +70,7 @@ layered and hexagonal architecture (Lesson 10).
 
 {: .note }
 > **Connascence — a precise vocabulary for coupling**
-> "Coupling" is a blunt word. **Connascence** (Meilir Page-Jones) makes it precise:
+> "Coupling" is a blunt word. **Connascence**[°](#w-connascence) (Meilir Page-Jones) makes it precise:
 > two components are connascent if a change in one requires a matching change in the
 > other. It comes in *kinds*, roughly ordered weakest → strongest:
 > - **Static (visible in the code):** *name* (both agree on a name), *type* (agree on
@@ -332,6 +322,19 @@ structural ones as deliberate, planned changes with their own justification. Thi
 the real architect's move — you don't rewrite; you incrementally reduce coupling toward
 weaker, more static forms, cheapest-first, until the module is changeable again.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-coupling"></a>**coupling** — the degree to which one part of a system depends on another; how much a change *there* forces a change *here*.
+- <a id="w-cohesion"></a>**cohesion** — the degree to which the things inside one module belong together; how single-purpose it is.
+- <a id="w-connascence"></a>**connascence** (kuh-NAY-sunce) — a precise vocabulary for *kinds* of coupling: two things are connascent if changing one requires changing the other to keep the system correct.
+- <a id="w-afferent-efferent-coupling"></a>**afferent / efferent coupling** — incoming dependencies (who depends on *me*) vs outgoing (who *I* depend on).
+- <a id="w-static-vs-dynamic"></a>**static vs dynamic** — knowable by reading the code (static) vs only at runtime (dynamic).
+- <a id="w-loose-vs-tight"></a>**loose vs tight** — how easily a dependency can be changed or broken without breaking the other side.
 
 ---
 

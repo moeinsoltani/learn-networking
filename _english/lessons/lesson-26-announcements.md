@@ -18,18 +18,22 @@ a clear structure so busy readers instantly know what's happening and what (if a
 they need to do. And the tone must match the situation — calm for a routine change,
 appropriately serious for an incident.
 
-```
-   THE ANNOUNCEMENT SHAPE:
-   ┌──────────────────────────────────────────────┐
-   │ WHAT is changing/happening (the headline)     │
-   │ WHEN (timing)                                  │
-   │ WHAT YOU NEED TO DO (action needed, if any)   │
-   │ WHERE to ask / get more info                   │
-   └──────────────────────────────────────────────┘
+An announcement has a fixed shape, and following it means people can act on the
+first read:
 
-   Match the TONE to severity:
-   routine maintenance ≠ live incident ≠ all-clear
-```
+1. **What** is changing or happening — the headline, in one line.
+2. **When** — the timing.
+3. **What you need to do** — the action required, if any.
+4. **Where to ask** — who to contact, or which channel, for more.
+
+The third item is the one people most often leave out, and it is the one
+readers are actually scanning for. If no action is needed, say so explicitly —
+"no action needed" is a complete and welcome line.
+
+Then **match the tone to the severity**. Routine maintenance, a live incident,
+and an all-clear are three different registers, and using the cheerful one for
+an outage — or the alarmed one for a scheduled restart — costs you credibility
+for the next announcement.
 
 The reader of a wide announcement is scanning — they need to know instantly: what's
 happening, when, whether it affects them / what to do, and where to ask. Lead with the

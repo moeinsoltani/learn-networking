@@ -18,17 +18,25 @@ need it, which paradoxically undermines confidence) and **under-thank** (missing
 chances to appreciate people, which is the warmer move). Fixing this balance makes you
 warmer AND more confident.
 
-```
-   OVER-APOLOGIZING (common)          RIGHT-SIZED
-   ─────────────────────────          ───────────
-   "Sorry, sorry to bother you,       "Quick question when you have a sec —"
-    so sorry, I have a question..."    (no apology needed for a normal ask)
+Two opposite calibration errors, both common.
 
-   UNDER-THANKING (common)            WARMER
-   ──────────────────────             ──────
-   "ok" (after real help)             "Thank you so much — that really
-                                       helped, I owe you one!"
-```
+**Over-apologising**, which is very common among non-native speakers:
+
+> ✗ "Sorry, sorry to bother you, so sorry, I have a question…"
+> ✓ "Quick question when you have a sec —"
+
+No apology is needed for a normal work request. Piling them up does not read as
+polite; it reads as anxious, and it quietly signals that you think your question
+is a burden.
+
+**Under-thanking**, equally common:
+
+> ✗ "ok" *(after someone has genuinely helped you)*
+> ✓ "Thank you so much — that really helped, I owe you one!"
+
+English-speaking workplaces expect thanks to be **explicit and slightly warmer
+than feels necessary**. A bare "ok" after real help is not neutral to a native
+ear; it reads as ungrateful, even though nothing rude was said.
 
 Two shifts: **apologize less** (only for real mistakes, sized to the mistake; don't
 apologize for normal things like asking a question) and **thank more** (specifically,

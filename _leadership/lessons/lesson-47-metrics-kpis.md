@@ -10,45 +10,37 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 47: Metrics and KPIs
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **KPI** — Key Performance Indicator: a metric an organization steers by.
-> - **north-star metric** — the single outcome metric that captures the value you create; **input metrics** — the controllable drivers that feed it.
-> - **DORA metrics** — the four research-backed delivery metrics: deployment frequency, lead time for changes, change failure rate, time to restore.
-> - **cycle time** — how long a piece of work takes start to finish (Lesson 11).
-> - **velocity / story points** — agile's estimate-based output measures; notoriously gameable.
-> - **gaming (a metric)** — improving the number without improving the reality it's meant to measure.
-> - **vanity metric** — a number that looks impressive but informs no decision (total registered users); **actionable metric** — one that reflects real value and guides action.
-> - **Goodhart's Law** (GOOD-hart) — "when a measure becomes a target, it ceases to be a good measure."
-> - **proxy** — a stand-in measured *instead of* the real thing; all metrics are proxies.
-> - **instrument** (verb) — to add measurement to a system so you can actually see what's happening.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Leaders think and communicate in **metrics** — and a lead needs to speak them natively: both **business
-metrics** (revenue, retention, engagement) and **engineering metrics** (cycle time, incidents, DORA),
-honestly connected. But metrics are dangerous: they get **gamed**, they mislead (vanity metrics), and
+metrics** (revenue, retention, engagement) and **engineering metrics** (**cycle time**[°](#w-cycle-time), incidents, DORA),
+honestly connected. But metrics are dangerous: they get **gamed**, they mislead (**vanity metrics**[°](#w-vanity-metric)), and
 they're often mistaken for the thing they measure. The skill is using metrics well — instrumenting what
 you actually care about, knowing their limits, and balancing metrics with judgment — rather than being
 ruled or fooled by them.
 
-```
-   USING METRICS WELL
-   ┌──────────────────────────────────────────────────────┐
-   │ • NORTH-STAR vs INPUT metrics (the outcome vs the       │
-   │   drivers you can act on)                              │
-   │ • ENGINEERING metrics leaders watch (DORA, cycle time,  │
-   │   incidents) — and how they're GAMED                   │
-   │ • VANITY metrics (look good, mean nothing)              │
-   │ • measure what you CLAIM to care about                  │
-   │ • METRICS + JUDGMENT (Goodhart: a measure that becomes  │
-   │   a target stops being a good measure)                 │
-   └──────────────────────────────────────────────────────┘
-```
+Metrics are useful and easy to misuse, and five ideas cover most of it.
+
+- **North-star versus input metrics.** The north star is the outcome you
+  actually care about; input metrics are the drivers you can act on this week.
+  You need both — an outcome you cannot influence directly is demoralising, and
+  inputs with no outcome attached drift.
+- **The engineering metrics leaders watch** — DORA measures, cycle time,
+  incident counts — and, just as importantly, **how each one is gamed**. Every
+  metric has a cheap way to move it that helps nobody.
+- **Vanity metrics** look impressive and mean nothing. Cumulative totals are the
+  classic tell: they can only go up.
+- **Measure what you claim to care about.** The gap between stated values and
+  measured ones is visible to everybody and teaches the team what really counts.
+- **Metrics plus judgement**, always. Goodhart's law: a measure that becomes a
+  target stops being a good measure — so the moment you tie something to
+  incentives, start watching what it is quietly distorting.
 
 The reframe: **metrics are tools for insight and alignment, not the goal itself — use them to inform
 judgment, and beware that any metric made a target gets gamed (Goodhart's Law).** Metrics are essential
-(you can't manage what you don't measure, and leaders communicate in them), but they're imperfect proxies:
+(you can't manage what you don't measure, and leaders communicate in them), but they're imperfect **proxies**[°](#w-proxy):
 they can be gamed, they can be vanity (impressive but meaningless), and optimizing a metric can diverge
 from the real goal it was meant to represent. So speak metrics natively, but use them wisely — as inputs
 to judgment, not replacements for it.
@@ -59,8 +51,8 @@ to judgment, not replacements for it.
 
 ### North-star vs input metrics
 
-Distinguish the **north-star metric** (the single key outcome that captures the value you're creating —
-e.g., weekly active users, revenue retention) from **input metrics** (the drivers you can directly act on
+Distinguish the **north-star metric**[°](#w-north-star-metric) (the single key outcome that captures the value you're creating —
+e.g., weekly active users, revenue retention) from **input metrics**[°](#w-input-metrics) (the drivers you can directly act on
 that feed the north star — e.g., signup rate, activation rate, feature adoption). The north star is the
 outcome you care about but can't directly control; input metrics are the levers you <em>can</em> move that
 influence it. Good metric-thinking connects them: identify the north star, then the input metrics that
@@ -69,7 +61,7 @@ the outcome that matters (the north star).
 
 ### Engineering metrics leaders watch — and how they're gamed
 
-Leaders watch certain **engineering metrics**: **DORA metrics** (deployment frequency, lead time for
+Leaders watch certain **engineering metrics**: **DORA metrics**[°](#w-dora-metrics) (deployment frequency, lead time for
 changes, change failure rate, time to restore — the research-backed delivery metrics), **cycle time** (how
 long work takes), **incident counts/severity**, etc. Know these (they're the language leaders use to assess
 engineering health). But critically, know **how they're gamed**: (1) deployment frequency can be inflated
@@ -83,7 +75,7 @@ gaming (including your own team's, under pressure).
 
 **Vanity metrics** look impressive but don't inform decisions or reflect real value — total registered
 users (when most are inactive), total page views, cumulative downloads. They go up and to the right and
-feel good, but they don't tell you if you're succeeding or what to do. **Actionable metrics** reflect real
+feel good, but they don't tell you if you're succeeding or what to do. **Actionable metrics**[°](#w-actionable-metric) reflect real
 value and inform decisions — active users, retention, conversion, revenue per user. The test: does this
 metric reflect real value, and does it help me decide something? If it just looks good but doesn't inform
 action or reflect real success, it's vanity. Beware presenting (or being impressed by) vanity metrics.
@@ -100,7 +92,7 @@ trap of optimizing the measurable at the expense of the important-but-unmeasured
 ### Metrics + judgment — Goodhart's Law
 
 The deepest point: **metrics inform judgment; they don't replace it — and any metric that becomes a target
-gets gamed** (Goodhart's Law: "when a measure becomes a target, it ceases to be a good measure"). When you
+gets gamed** (**Goodhart's Law**[°](#w-goodharts-law): "when a measure becomes a target, it ceases to be a good measure"). When you
 turn a metric into <em>the</em> goal (hit this number), people optimize the metric — often in ways that
 diverge from or undermine the real thing it was meant to represent (gaming, or genuine but misguided
 optimization). So metrics should <em>inform</em> your judgment about reality (a signal to investigate,
@@ -367,6 +359,23 @@ and alignment, dangerous as goals — use them wisely rather than being ruled or
 business and engineering (the phase's theme) and feeds directly into the next lesson — connecting technical
 decisions to business outcomes, which uses metrics to justify engineering investments in business terms.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-kpi"></a>**KPI** — Key Performance Indicator: a metric an organization steers by.
+- <a id="w-north-star-metric"></a>**north-star metric** — the single outcome metric that captures the value you create; <a id="w-input-metrics"></a>**input metrics** — the controllable drivers that feed it.
+- <a id="w-dora-metrics"></a>**DORA metrics** — the four research-backed delivery metrics: deployment frequency, lead time for changes, change failure rate, time to restore.
+- <a id="w-cycle-time"></a>**cycle time** — how long a piece of work takes start to finish (Lesson 11).
+- <a id="w-velocity-story-points"></a>**velocity / story points** — agile's estimate-based output measures; notoriously gameable.
+- <a id="w-gaming-a-metric"></a>**gaming (a metric)** — improving the number without improving the reality it's meant to measure.
+- <a id="w-vanity-metric"></a>**vanity metric** — a number that looks impressive but informs no decision (total registered users); <a id="w-actionable-metric"></a>**actionable metric** — one that reflects real value and guides action.
+- <a id="w-goodharts-law"></a>**Goodhart's Law** (GOOD-hart) — "when a measure becomes a target, it ceases to be a good measure."
+- <a id="w-proxy"></a>**proxy** — a stand-in measured *instead of* the real thing; all metrics are proxies.
+- <a id="w-instrument"></a>**instrument** (verb) — to add measurement to a system so you can actually see what's happening.
 
 ---
 

@@ -10,15 +10,7 @@ parent: "Phase 3: Birds of Canada"
 
 # Lesson 10: Backyard & City Birds
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **feeder** — a container of seed/suet hung out to attract birds; the easiest way to watch them.
-> - **cap** — a patch of colour on the top of a bird's head (the chickadee's black cap).
-> - **bib / throat patch** — a patch of colour on the throat/chest.
-> - **crest** — a peak of raised feathers on the head (the cardinal and blue jay have one).
-> - **suet** (SOO-it) — hard animal fat put out for birds; loved by woodpeckers and nuthatches.
-> - **nuthatch** (NUT-hatch) — a small bird famous for climbing *down* tree trunks head-first.
-> - **resident** — a bird that stays all year (vs. a migrant that leaves for winter).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,7 +24,7 @@ over.)
 
 ***Black-capped chickadee** — start here. Tiny and round, **black cap and black
 bib, white cheeks**, grey back. Fearless, acrobatic, and vocal (*chicka-dee-dee-dee*).
-Canada's friendliest bird and a year-round resident. Photo:
+Canada's friendliest bird and a year-round **resident**[°](#w-resident). Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Poecile-atricapilla-001.jpg).*
 
 ## Going Deeper
@@ -41,7 +33,7 @@ Canada's friendliest bird and a year-round resident. Photo:
 
 ![A blue jay: large, bright blue with a crest, black necklace, white face](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blue_jay_in_PP_%2830960%29.jpg/960px-Blue_jay_in_PP_%2830960%29.jpg)
 
-***Blue jay** — big, brash, and unmistakable: **bright blue** with a crest, white
+***Blue jay** — big, brash, and unmistakable: **bright blue** with a **crest**[°](#w-crest), white
 face, and a black "necklace." Loud (*jay! jay!*), bold, and a member of the clever
 crow family. A resident that also loves acorns. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blue_jay_in_PP_%2830960%29.jpg).*
@@ -72,16 +64,16 @@ Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zonotrichia_a
 ![A white-breasted nuthatch clinging head-down on a trunk](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/White-breasted_nuthatch_%2826471%29.jpg/960px-White-breasted_nuthatch_%2826471%29.jpg)
 
 ***White-breasted nuthatch** — small, blue-grey above, white face and underside,
-black cap. The **only common bird that climbs *down* a trunk head-first** — that
+black **cap**[°](#w-cap). The **only common bird that climbs *down* a trunk head-first** — that
 behaviour alone identifies it. Nasal *yank-yank* call. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:White-breasted_nuthatch_%2826471%29.jpg).*
 
 ### Chickadee vs. nuthatch — the classic beginner mix-up
 
-Both are small, grey, and black-capped at a feeder. Separate them instantly by
+Both are small, grey, and black-capped at a **feeder**[°](#w-feeder). Separate them instantly by
 **behaviour and face**:
 
-| | Chickadee | Nuthatch |
+| | Chickadee | **Nuthatch**[°](#w-nuthatch) |
 |---|---|---|
 | **Face** | Black cap **and black bib**, white cheeks | Black cap, **clean white face, no bib** |
 | **Shape** | Round, fluffy, tiny bill | Flatter, **long pointed bill**, "no neck" |
@@ -236,6 +228,20 @@ check later (likely a <strong>white-throated sparrow</strong>)." Full marks for
 confidently naming two of the six and describing the rest well enough to identify
 afterward.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-feeder"></a>**feeder** — a container of seed/suet hung out to attract birds; the easiest way to watch them.
+- <a id="w-cap"></a>**cap** — a patch of colour on the top of a bird's head (the chickadee's black cap).
+- <a id="w-bib-throat-patch"></a>**bib / throat patch** — a patch of colour on the throat/chest.
+- <a id="w-crest"></a>**crest** — a peak of raised feathers on the head (the cardinal and blue jay have one).
+- <a id="w-suet"></a>**suet** (SOO-it) — hard animal fat put out for birds; loved by woodpeckers and nuthatches.
+- <a id="w-nuthatch"></a>**nuthatch** (NUT-hatch) — a small bird famous for climbing *down* tree trunks head-first.
+- <a id="w-resident"></a>**resident** — a bird that stays all year (vs. a migrant that leaves for winter).
 
 ---
 

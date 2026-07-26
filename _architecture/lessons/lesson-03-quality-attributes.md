@@ -10,14 +10,7 @@ parent: "Phase 1: The Architect's Role & Mindset"
 
 # Lesson 03: Architecture Characteristics (the "-ilities")
 
-{: .note }
-> **Words to know**
-> - **quality attribute / architecture characteristic** — a property of *how* the system operates (fast, secure, changeable), as opposed to *what* it does (its features).
-> - **functional requirement** — what the system must *do* (a feature); a **non-functional requirement (NFR)** — how well it must do it.
-> - **the "-ilities"** — the nickname for quality attributes, since so many end in -ility (scalability, availability, maintainability, testability…).
-> - **quality-attribute scenario** — a testable statement of a quality: a *stimulus* → the system's *response* → a *measure*.
-> - **operational / structural / cross-cutting** — three families of characteristics: at runtime, in the codebase, and spanning everything.
-> - **implicit** — assumed but never stated; the dangerous kind of requirement.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,21 +22,29 @@ other 10 million; one because a wrong answer costs a cent, the other because it 
 a lawsuit. The *features* are nearly identical. The **quality attributes** —
 scalability, availability, consistency, security — are what drive the design.
 
-```
-   Two kinds of requirements:
+Requirements come in two kinds, and only one of them shapes the architecture.
 
-   FUNCTIONAL                        QUALITY ATTRIBUTES ("-ilities")
-   "what it does"                    "how well it does it"
-   ──────────                        ────────────────────
-   "users can place an order"        scalability   → how much load?
-   "admins can issue a refund"       availability  → how much downtime is OK?
-   "send a receipt email"            performance   → how fast?
-                                     security      → protected against what?
-   Features rarely drive             maintainability → how easily changed?
-   the architecture.                 testability, deployability, ...
+**Functional requirements** describe *what the system does*: "users can place an
+order," "admins can issue a refund," "send a receipt email." These are the
+features, and — the counter-intuitive part — they rarely drive the architecture
+at all.
 
-                          ↑ THESE drive the architecture ↑
-```
+**Quality attributes**, the "-ilities," describe *how well it does it*, and
+these are what the architecture is actually for:
+
+| Attribute | The question it asks |
+|---|---|
+| Scalability | How much load must it take? |
+| Availability | How much downtime is acceptable? |
+| Performance | How fast must it respond? |
+| Security | Protected against what, and whom? |
+| Maintainability | How easily can it be changed? |
+| Testability, deployability, … | And so on |
+
+The practical upshot: you can usually add a feature to any reasonable
+architecture, but you cannot add availability, or security, or the ability to
+change safely, to a system that was not built for it. That is why architects
+spend their time on the second list.
 
 There are dozens of "-ilities," and they fall into families: **operational** (things
 visible at runtime — availability, performance, scalability, reliability,
@@ -73,7 +74,7 @@ secure, fast, cheap, and easy to change" is a wish, not a stance.
 {: .warning }
 > **Vague quality attributes are useless — make them measurable.**
 > "It should be fast" and "it should be reliable" cannot be designed for or tested;
-> they're feelings. You must turn each into a **quality-attribute scenario** with
+> they're feelings. You must turn each into a **quality-attribute scenario**[°](#w-quality-attribute-scenario) with
 > three parts: a **stimulus** (what triggers it), the **response** (what the system
 > does), and a **measure** (the number that makes it pass or fail). "It should be
 > fast" becomes: *"When a user requests the product page (stimulus), the system
@@ -294,6 +295,19 @@ encrypted at rest. Surfacing one such gap, while it's still cheap to fix, is exa
 the architect's job of "make the implicit explicit" — and doing it on your real system
 tends to be more sobering (and more motivating) than any abstract lesson.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-quality-attribute-architecture-characteristic"></a>**quality attribute / architecture characteristic** — a property of *how* the system operates (fast, secure, changeable), as opposed to *what* it does (its features).
+- <a id="w-functional-requirement"></a>**functional requirement** — what the system must *do* (a feature); a <a id="w-non-functional-requirement-nfr"></a>**non-functional requirement (NFR)** — how well it must do it.
+- <a id="w-the-ilities"></a>**the "-ilities"** — the nickname for quality attributes, since so many end in -ility (scalability, availability, maintainability, testability…).
+- <a id="w-quality-attribute-scenario"></a>**quality-attribute scenario** — a testable statement of a quality: a *stimulus* → the system's *response* → a *measure*.
+- <a id="w-operational-structural-cross-cutting"></a>**operational / structural / cross-cutting** — three families of characteristics: at runtime, in the codebase, and spanning everything.
+- <a id="w-implicit"></a>**implicit** — assumed but never stated; the dangerous kind of requirement.
 
 ---
 

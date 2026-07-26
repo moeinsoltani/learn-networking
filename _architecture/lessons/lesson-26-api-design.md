@@ -10,15 +10,7 @@ parent: "Phase 6: Cross-Cutting Quality Attributes"
 
 # Lesson 26: API Design & Management
 
-{: .note }
-> **Words to know**
-> - **API (contract)** — the agreed interface between a provider and its consumers; a promise about how to call it and what comes back.
-> - **backward compatible** — a change that doesn't break existing clients (old callers keep working).
-> - **versioning** — supporting multiple API versions so consumers can migrate on their own schedule.
-> - **expand–contract (parallel change)** — add the new, migrate consumers, then remove the old — never break in place.
-> - **tolerant reader** — a consumer that ignores fields it doesn't understand, so additions don't break it.
-> - **API gateway** — an edge component handling cross-cutting concerns (auth, rate limiting, routing) for many APIs.
-> - **contract testing** — tests that verify provider and consumer agree on the contract, so services can evolve independently.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -30,20 +22,24 @@ change it — a breaking change breaks *them*, and you often can't even make the
 demand a different discipline than internal code: design for the consumer, and evolve without
 breaking.
 
-```
-   THE API IS A CONTRACT — and a PRODUCT for its consumers
+An API is two things at once: **a contract**, and **a product for the people who
+consume it**.
 
-   [ your service ]══ API (the contract) ══[ consumers you don't control ]
-        internals:                            other teams, mobile apps,
-        change freely                         customers, partners, old
-        (reversible)                          app versions in the wild
-                                              → you CANNOT force them to upgrade
+Inside the boundary, your internals can change freely — those choices are
+reversible. Outside it are consumers you do not control: other teams, mobile
+apps, customers, partners, and old versions of your own app still running on
+phones you will never touch. **You cannot force them to upgrade.**
 
-   Once published, the API is a ONE-WAY DOOR:
-   ✗ breaking change  → breaks consumers you can't reach
-   ✓ COMPATIBLE change → add, never remove/rename in place
-                         (expand → migrate → contract)
-```
+Which makes a published API a **one-way door**. A **breaking change** breaks
+consumers you cannot reach, and you will usually find out from them rather than
+from your tests. A **compatible change** adds things, and never removes or
+renames in place.
+
+The pattern that makes evolution possible is **expand → migrate → contract**:
+add the new field or endpoint alongside the old one, move consumers across at
+their pace, and only then remove the old one — if it is ever actually safe to.
+Most successful public APIs never reach the third step, and that is a cost worth
+knowing about before you publish.
 
 Two consequences follow. First, **design for the consumer**, not for your internal convenience — the
 API's job is to serve the people calling it, so its shape should reflect their needs and their mental
@@ -74,18 +70,18 @@ not your database tables. A good API models the consumer's domain, not your inte
 >   migrate, or use the <strong>expand–contract</strong> (parallel-change) pattern: <em>expand</em>
 >   (add the new field/endpoint alongside the old), <em>migrate</em> (move consumers over, on their
 >   schedule), <em>contract</em> (remove the old only once no one uses it).
-> - <strong>Versioning strategies:</strong> URI (<code>/v1/orders</code> — visible, simple, common
+> - <strong>**Versioning**[°](#w-versioning) strategies:</strong> URI (<code>/v1/orders</code> — visible, simple, common
 >   for public APIs) vs header/content-negotiation (cleaner URLs, less visible). Either works; the
 >   discipline (parallel versions, deprecation windows) matters more than the mechanism.
 > - <strong>Deprecation is a process, not an event:</strong> announce, provide a migration path and a
 >   generous window, monitor who's still on the old version, and only then remove. Surprise removals
 >   destroy consumer trust.
-> The <strong>tolerant reader</strong> principle on the consumer side helps: consumers should ignore
+> The <strong>**tolerant reader**[°](#w-tolerant-reader)</strong> principle on the consumer side helps: consumers should ignore
 > unknown fields (so the provider can add fields safely) and not over-depend on incidental details —
 > "be conservative in what you send, liberal in what you accept" (Postel's law).
 
 **The API gateway — cross-cutting concerns at the edge.** As the number of services and consumers
-grows, an **API gateway** centralizes the concerns every API needs: authentication, rate limiting,
+grows, an **API gateway**[°](#w-api-gateway) centralizes the concerns every API needs: authentication, rate limiting,
 routing, TLS termination, request logging/tracing, and sometimes response aggregation. Benefits:
 consumers hit one entry point, cross-cutting policy is enforced consistently in one place (not
 reimplemented per service), and services are shielded from the raw internet (Lesson 24). Cautions:
@@ -95,7 +91,7 @@ and coupling point). Keep it for genuinely cross-cutting, generic concerns.
 
 **Contract testing — evolve services independently, safely.** In a distributed system, the risk is
 that a provider changes its API and unknowingly breaks a consumer, discovered only in production.
-**Contract testing** (e.g., consumer-driven contracts, Pact) captures the agreement between a
+**Contract testing**[°](#w-contract-testing) (e.g., consumer-driven contracts, Pact) captures the agreement between a
 provider and its consumers as executable tests: the consumer declares what it needs, the provider's
 build verifies it still satisfies that contract, so a breaking change is caught in CI, not
 production. This is what *lets services evolve independently* (the whole point of microservices,
@@ -338,6 +334,20 @@ consumers to upgrade), and most APIs lack one of the three enablers — compatib
 explicit contracts, or contract tests — whose addition is a specific, high-value investment rather than
 a vague "improve our API."
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-api-contract"></a>**API (contract)** — the agreed interface between a provider and its consumers; a promise about how to call it and what comes back.
+- <a id="w-backward-compatible"></a>**backward compatible** — a change that doesn't break existing clients (old callers keep working).
+- <a id="w-versioning"></a>**versioning** — supporting multiple API versions so consumers can migrate on their own schedule.
+- <a id="w-expand-contract-parallel-change"></a>**expand–contract (parallel change)** — add the new, migrate consumers, then remove the old — never break in place.
+- <a id="w-tolerant-reader"></a>**tolerant reader** — a consumer that ignores fields it doesn't understand, so additions don't break it.
+- <a id="w-api-gateway"></a>**API gateway** — an edge component handling cross-cutting concerns (auth, rate limiting, routing) for many APIs.
+- <a id="w-contract-testing"></a>**contract testing** — tests that verify provider and consumer agree on the contract, so services can evolve independently.
 
 ---
 

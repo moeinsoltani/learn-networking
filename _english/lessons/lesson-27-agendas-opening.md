@@ -17,19 +17,24 @@ there* and *what was decided*, it worked; if they leave unsure what the point wa
 didn't — and that's usually set by the agenda and the opening. As a lead you'll run
 meetings, and the words you use to open one shape whether it's focused or drifts.
 
-```
-   THE OPENING (first 60-90 seconds):
-   ┌────────────────────────────────────────────────┐
-   │ WHY we're here (the purpose / goal of today)   │
-   │ WHAT we'll cover (the agenda, briefly)         │
-   │ WHAT we need by the end (the outcome/decision) │
-   │ → then hand off to the first item              │
-   └────────────────────────────────────────────────┘
+The first sixty to ninety seconds of a meeting decide whether it works. Four
+things go in them:
 
-   "Thanks for coming. The goal today is to decide X.
-    We'll cover A, then B. By the end I'd like a decision on X.
-    Let's start with A — [name], want to kick us off?"
-```
+1. **Why we're here** — the purpose or goal of today.
+2. **What we'll cover** — the agenda, briefly.
+3. **What we need by the end** — the outcome or decision.
+4. Then **hand off** to the first item.
+
+Spoken, it sounds like this:
+
+> "Thanks for coming. The goal today is to decide X. We'll cover A, then B. By
+> the end I'd like a decision on X. Let's start with A — Priya, want to kick us
+> off?"
+
+The third element is the one that changes meetings most. Naming the outcome
+you need converts a discussion into a decision-making session, and it gives you
+something to point at later when the conversation drifts: *"we still need a
+decision on X."*
 
 An agenda sent ahead lets people prepare; a clear verbal opening orients everyone in the
 room. Both answer the same question — *why are we here and what does done look like?* —

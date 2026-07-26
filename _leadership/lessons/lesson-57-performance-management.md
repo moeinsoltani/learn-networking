@@ -10,39 +10,33 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 57: Performance Management
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **performance management** — the formal cycle of evaluating work: reviews, ratings, expectations.
-> - **rating** — the score assigned in a review cycle ("meets / exceeds expectations").
-> - **review-season scramble** — trying to reconstruct a whole year's performance from memory in one week.
-> - **halo effect** — one strong (or weak) trait unfairly colouring your judgment of everything else about a person.
-> - **recency effect / recency-biased** — over-weighting the last few weeks over the whole period.
-> - **salience** (SAY-lee-ence) — how much something stands out in memory (dramatic ≠ representative).
-> - **calibration (meeting)** — managers comparing ratings across teams so standards stay consistent; you defend yours with evidence.
-> - **blindside** — to surprise someone with a bad rating they never saw coming (a management failure — Lesson 41).
-> - **evidence-based** — grounded in documented specifics (SBI at scale — Lesson 19), not impressions.
-> - **developmental** — aimed at helping the person grow, not only judging them.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Performance management — evaluating people's work, writing reviews, and assigning ratings — is a core
+**Performance management**[°](#w-performance-management) — evaluating people's work, writing reviews, and assigning **ratings**[°](#w-rating) — is a core
 EM duty, and doing it well means **evaluating fairly, documenting honestly, and never letting a review
 surprise anyone.** The cardinal rule: a performance review should contain **no surprises** — everything
-in it should have been said in real-time feedback throughout the period (a bad rating that blindsides
-someone is a management failure). Done well, performance management is fair, evidence-based, and
-developmental; done badly, it's an arbitrary, recency-biased, surprise-laden ritual.
+in it should have been said in real-time feedback throughout the period (a bad rating that **blindsides**[°](#w-blindside)
+someone is a management failure). Done well, performance management is fair, **evidence-based**[°](#w-evidence-based), and
+**developmental**[°](#w-developmental); done badly, it's an arbitrary, recency-biased, surprise-laden ritual.
 
-```
-   PERFORMANCE MANAGEMENT (fair, honest, no surprises)
-   ┌──────────────────────────────────────────────────────┐
-   │ • CONTINUOUS evaluation (not a review-season scramble)  │
-   │ • NO SURPRISES (the review reflects year-round feedback)│
-   │ • EVIDENCE-BASED (SBI at scale — specific, documented)  │
-   │ • beware HALO & RECENCY effects (one trait/recent month)│
-   │ • CALIBRATION: ratings are set relative to peers, in a  │
-   │   room — defend yours with evidence                    │
-   └──────────────────────────────────────────────────────┘
-```
+Performance management that is fair, honest, and free of surprises rests on
+five habits.
+
+- **Evaluate continuously**, rather than scrambling to reconstruct a year during
+  review season. Notes taken monthly cost minutes; notes reconstructed in
+  January cost a weekend and are less true.
+- **No surprises.** A review should reflect feedback the person has already
+  heard all year. Anything genuinely new in a formal review is a failure of
+  management, not of the employee.
+- **Be evidence-based** — SBI at scale (Lesson 19): specific, documented,
+  attributable.
+- **Beware halo and recency effects** — letting one strong trait colour
+  everything, or letting the last month stand in for the year.
+- **Understand calibration.** Ratings are usually set relative to peers, in a
+  room, by people who mostly have not seen your engineer work. Your job in that
+  room is to defend your assessment with evidence.
 
 The reframe: **performance management is continuous and evidence-based, not a review-season scramble —
 and a review should never surprise anyone.** The failure mode is treating reviews as a once-a-year event:
@@ -60,7 +54,7 @@ surprises — just a summary of feedback already given.
 Performance management should be **continuous** — observing, giving feedback, and documenting evidence
 throughout the period — not a scramble at review season (trying to remember what someone did all year).
 The scramble approach fails: you can't accurately recall a year of work (so you rely on recent/memorable
-things — recency and salience bias), the feedback comes too late to help (a year's issues dumped at
+things — recency and **salience**[°](#w-salience) bias), the feedback comes too late to help (a year's issues dumped at
 once), and it's a stressful, low-quality process. Continuous evaluation (ongoing feedback — Lesson 19 —
 and light documentation of notable work/issues as they happen) means that at review time you have a real,
 evidence-based picture, the person has been getting feedback all along (no surprises), and the review is a
@@ -88,7 +82,7 @@ recency effects). Document evidence throughout (continuous evaluation) so you ha
 
 ### Halo and recency effects — the biases to guard against
 
-Two biases that distort reviews: (1) **halo effect** — letting one strong (or weak) trait color the whole
+Two biases that distort reviews: (1) **halo effect**[°](#w-halo-effect) — letting one strong (or weak) trait color the whole
 assessment (a great communicator rated high on everything, or a person with one flaw rated low overall) —
 rather than assessing each dimension on its own evidence. (2) **recency effect** — over-weighting recent
 events (the last month or two) versus the whole period (a strong year undone by a recent stumble, or a
@@ -111,7 +105,7 @@ ratings and advocating for your team.
 {: .note }
 > **Performance management is continuous and evidence-based — and a review never surprises anyone</br>**
 > Evaluating people fairly means continuous evaluation (documenting evidence and giving feedback year-round),
-> not a review-season scramble (which is recency-biased and too late). The cardinal rule: <em>no surprises</em>
+> not a **review-season scramble**[°](#w-review-season-scramble) (which is recency-biased and too late). The cardinal rule: <em>no surprises</em>
 > — everything in a review, especially criticism or a low rating, should have been said as real-time
 > feedback; a surprised employee is a management failure. Write <em>evidence-based</em> reviews (SBI at
 > scale — specific situations/behaviors/impacts, not vague characterizations), guarding against the
@@ -364,6 +358,23 @@ review-season scramble it's arbitrary, biased, and blindsiding. This builds on f
 feeds into the hardest performance case — underperformance — which the next lesson covers: handling
 underperformance and PIPs early, fairly, and with dignity.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-performance-management"></a>**performance management** — the formal cycle of evaluating work: reviews, ratings, expectations.
+- <a id="w-rating"></a>**rating** — the score assigned in a review cycle ("meets / exceeds expectations").
+- <a id="w-review-season-scramble"></a>**review-season scramble** — trying to reconstruct a whole year's performance from memory in one week.
+- <a id="w-halo-effect"></a>**halo effect** — one strong (or weak) trait unfairly colouring your judgment of everything else about a person.
+- <a id="w-recency-effect-recency-biased"></a>**recency effect / recency-biased** — over-weighting the last few weeks over the whole period.
+- <a id="w-salience"></a>**salience** (SAY-lee-ence) — how much something stands out in memory (dramatic ≠ representative).
+- <a id="w-calibration-meeting"></a>**calibration (meeting)** — managers comparing ratings across teams so standards stay consistent; you defend yours with evidence.
+- <a id="w-blindside"></a>**blindside** — to surprise someone with a bad rating they never saw coming (a management failure — Lesson 41).
+- <a id="w-evidence-based"></a>**evidence-based** — grounded in documented specifics (SBI at scale — Lesson 19), not impressions.
+- <a id="w-developmental"></a>**developmental** — aimed at helping the person grow, not only judging them.
 
 ---
 

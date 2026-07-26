@@ -18,18 +18,23 @@ good comment teaches, improves the code, and keeps the author motivated; a bad o
 or condescending) demoralizes and breeds defensive, adversarial reviews. As a lead, your review
 comments set the tone the whole team copies.
 
-```
-   BLUNT / STINGING              TEACHING / WARM
-   ───────────────              ───────────────
-   "This is wrong."             "I think this might miss the empty-list case —
-                                 what happens if `items` is []? Maybe guard it?"
-   "Don't do this."             "Small suggestion: extracting this into a helper
-                                 would make it easier to test. Optional though!"
-   "Why no tests??"             "Could we add a test for the new endpoint? Happy
-                                 to help if useful."
+Code review is where tone does the most damage, because the comments are
+permanent, public, and attached to someone's work.
 
-   Explain the WHY · suggest, don't command · mark severity · stay kind
-```
+| Blunt / stinging | Teaching / warm |
+|---|---|
+| "This is wrong." | "I think this might miss the empty-list case — what happens if `items` is `[]`? Maybe guard it?" |
+| "Don't do this." | "Small suggestion: extracting this into a helper would make it easier to test. Optional though!" |
+| "Why no tests??" | "Could we add a test for the new endpoint? Happy to help if useful." |
+
+Four habits produce the right-hand column: **explain the why**, **suggest
+rather than command**, **mark the severity** ("optional though", "nit",
+"blocking"), and **stay kind**.
+
+Marking severity is the one that most improves a reviewer's reputation. Without
+it, every comment carries equal weight, and an author faced with fifteen
+equally-urgent-looking remarks cannot tell what actually needs to change before
+merging.
 
 The reframe: **a code-review comment is a chance to teach and collaborate, not to judge** — the
 same note framed as a shared improvement ("could we…", "what about…") rather than a verdict ("this

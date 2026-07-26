@@ -10,41 +10,38 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 19: Feedback That Lands — SBI
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **SBI** — Situation–Behavior–Impact: the feedback structure this lesson teaches.
-> - **behavioral feedback** — feedback about what someone *did*, never about what kind of person they *are*.
-> - **observation vs judgment** — what a camera would have recorded vs your interpretation of their character.
-> - **verdict** — a judgment pronounced on someone, as if by a court.
-> - **to land** (of feedback) — to be actually heard and accepted, not deflected.
-> - **raise shields** — to trigger someone's defenses (a Star Trek metaphor).
-> - **actionable** — concrete enough that the person knows what to change.
-> - **timely** — given soon after the event, while it's fresh.
-> - **ambush** — surprising someone with saved-up criticism they never had a chance to fix.
-> - **feedback ratio** — the balance of recognition to criticism; if your attention only means criticism, feedback becomes a threat.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Feedback is one of a lead's highest-leverage tools — it's how behavior changes, how people
 grow, and how a team stays healthy. But most feedback fails: it's either too vague to act on
 ("be more of a team player"), or it's a judgment that raises shields ("you're careless"). The
-skill is **behavioral feedback** — grounded in specific observed behavior and its impact — that
-someone can actually hear and act on, rather than a character verdict they defend against.
+skill is **behavioral feedback**[°](#w-behavioral-feedback) — grounded in specific observed behavior and its impact — that
+someone can actually hear and act on, rather than a character **verdict**[°](#w-verdict) they defend against.
 
-```
-   FEEDBACK THAT RAISES SHIELDS        FEEDBACK THAT LANDS (SBI)
-   ────────────────────────────        ─────────────────────────
-   "You're careless."                  SITUATION: "In the last two PRs..."
-   "You dominate meetings."            BEHAVIOR:  "...they shipped without tests,"
-   "You need to be a team player."     IMPACT:    "...and two bugs reached staging."
-        ↑ character judgment,               ↑ observed facts + effect,
-          vague, invites defense              specific, hard to dispute, actionable
-```
+The same concern can be delivered in two ways, and only one of them survives
+contact with a human being.
+
+**Feedback that raises shields** attacks character: "you're careless," "you
+dominate meetings," "you need to be a team player." These are vague judgements
+about who someone *is*, and they invite defence rather than change — there is
+nothing specific enough to act on, and quite a lot to resent.
+
+**Feedback that lands** uses **SBI** — Situation, Behaviour, Impact:
+
+> **Situation:** "In the last two PRs…"
+> **Behaviour:** "…they shipped without tests,"
+> **Impact:** "…and two bugs reached staging."
+
+Observed facts plus their effect. It is specific, it is hard to dispute, and —
+crucially — it is actionable, because it names a behaviour that could be
+different next week rather than a personality that could not.
 
 The reframe: **describe behavior and its impact, not the person's character.** "You're
 careless" is a verdict on who they are — vague, wounding, and impossible to act on. "The last
 two PRs shipped without tests, and two bugs reached staging" is an observation of what happened
-and its effect — specific, factual, and clearly actionable. SBI (Situation–Behavior–Impact) is
+and its effect — specific, factual, and clearly **actionable**[°](#w-actionable). **SBI**[°](#w-sbi) (Situation–Behavior–Impact) is
 the reliable structure that keeps feedback behavioral, and it's a skill you can practice.
 
 ---
@@ -55,7 +52,7 @@ the reliable structure that keeps feedback behavioral, and it's a skill you can 
 
 The core distinction: **observation** (what you actually saw — "the last two PRs shipped without
 tests") versus **judgment** (your interpretation of their character — "you're careless").
-Judgments raise shields (they attack identity, invite defense, and offer nothing to fix);
+Judgments **raise shields**[°](#w-raise-shields) (they attack identity, invite defense, and offer nothing to fix);
 observations are workable (they're facts, hard to dispute, and point at a specific changeable
 behavior). Feedback that lands sticks to observation — describe what happened, not what kind of
 person they are.
@@ -80,8 +77,8 @@ explores it.
 
 Give feedback **soon** after the event, while it's fresh and specific — not saved up for a
 quarterly review (where it's a stale surprise the person can't connect to a real moment, and
-can't act on because it's long past). Timely feedback is actionable (they remember the situation
-and can change next time) and fair (no ambushes). The best feedback is close to the behavior.
+can't act on because it's long past). **Timely**[°](#w-timely) feedback is actionable (they remember the situation
+and can change next time) and fair (no **ambushes**[°](#w-ambush)). The best feedback is close to the behavior.
 
 ### Ask before telling
 
@@ -329,6 +326,23 @@ of feedback); this is the leadership judgment of what makes feedback land. This 
 (Feedback & Difficult Conversations). The next lesson covers the other half of feedback —
 recognition/praise — which is not an afterthought but half the job, and which most leads under-use.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-sbi"></a>**SBI** — Situation–Behavior–Impact: the feedback structure this lesson teaches.
+- <a id="w-behavioral-feedback"></a>**behavioral feedback** — feedback about what someone *did*, never about what kind of person they *are*.
+- <a id="w-observation-vs-judgment"></a>**observation vs judgment** — what a camera would have recorded vs your interpretation of their character.
+- <a id="w-verdict"></a>**verdict** — a judgment pronounced on someone, as if by a court.
+- <a id="w-to-land"></a>**to land** (of feedback) — to be actually heard and accepted, not deflected.
+- <a id="w-raise-shields"></a>**raise shields** — to trigger someone's defenses (a Star Trek metaphor).
+- <a id="w-actionable"></a>**actionable** — concrete enough that the person knows what to change.
+- <a id="w-timely"></a>**timely** — given soon after the event, while it's fresh.
+- <a id="w-ambush"></a>**ambush** — surprising someone with saved-up criticism they never had a chance to fix.
+- <a id="w-feedback-ratio"></a>**feedback ratio** — the balance of recognition to criticism; if your attention only means criticism, feedback becomes a threat.
 
 ---
 

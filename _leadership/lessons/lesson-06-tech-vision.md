@@ -10,19 +10,7 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 06: Technical Vision and Strategy
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **vision / strategy / roadmap** — destination / route and choices / turn-by-turn steps (the lesson defines them fully).
-> - **kernel** (Rumelt's) — the three-part core of real strategy: diagnosis, guiding policy, coherent actions.
-> - **diagnosis** — naming what is *actually* wrong before choosing a cure.
-> - **coherent / cohere** — parts that fit together and reinforce each other.
-> - **monolith** — one big codebase deployed as a single unit; **microservices** — many small independently deployed services.
-> - **strangler fig** — replacing an old system piece by piece while it keeps running (named after the tree that slowly envelops its host); opposite of a **big-bang rewrite**.
-> - **seam** — a natural boundary in code where you can safely split it.
-> - **churn** — how often a piece of code changes; high-churn areas matter most.
-> - **fluff** — impressive-sounding words with no content.
-> - **wish-list** — a list of desires with no choices or trade-offs behind it.
-> - **adjudicate** — to settle a dispute by acting as the judge.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,18 +20,18 @@ drifts. A lead's job is to provide the direction that makes the individual
 decisions cohere. But "vision," "strategy," and "roadmap" get used
 interchangeably and mean different things:
 
-```
-   VISION     where we're going and why — the destination
-              "a platform where any team can ship a service in a day"
-                        │  (aspirational, stable, ~yearly)
-   STRATEGY   HOW we'll get there — the approach, and what we WON'T do
-              "consolidate on one deployment path; stop supporting the
-               three legacy ones; invest in self-service tooling first"
-                        │  (a set of choices, ~quarterly)
-   ROADMAP    WHAT and WHEN — the concrete sequence
-              "Q1: unify CI. Q2: self-service envs. Q3: deprecate legacy."
-                        │  (specific, changes often)
-```
+Three words get used interchangeably and mean quite different things. Keeping
+them separate is most of what makes a technical vision usable.
+
+| Layer | Answers | Example | How often it changes |
+|---|---|---|---|
+| **Vision** | *Where* we're going, and why — the destination | "A platform where any team can ship a service in a day" | Aspirational and stable; roughly yearly |
+| **Strategy** | *How* we'll get there — the approach, and what we will **not** do | "Consolidate on one deployment path; stop supporting the three legacy ones; invest in self-service tooling first" | A set of choices; roughly quarterly |
+| **Roadmap** | *What* and *when* — the concrete sequence | "Q1: unify CI. Q2: self-service envs. Q3: deprecate legacy." | Specific, and changes often |
+
+The most common failure is presenting a roadmap and calling it a vision. A list
+of quarters tells people what they will be doing; it does not tell them what
+the work is *for*, and it is the second thing that survives a reorganisation.
 
 Vision is the destination, strategy is the route and the deliberate choices
 (including what to sacrifice), roadmap is the turn-by-turn directions. New leads
@@ -52,10 +40,10 @@ missing that strategy is fundamentally about **choices and trade-offs**, not a
 to-do list.
 
 Richard Rumelt (*Good Strategy/Bad Strategy*) gives the sharpest framing: real
-strategy has a **kernel** of three parts — a *diagnosis* (what's actually the
+strategy has a **kernel**[°](#w-kernel) of three parts — a *diagnosis*[°](#w-diagnosis) (what's actually the
 problem?), a *guiding policy* (the overall approach to the problem), and
 *coherent actions* (steps that reinforce each other). "Bad strategy" is
-fluff, goals-mistaken-for-strategy ("we will be the best!"), or a wish-list with
+**fluff**[°](#w-fluff), goals-mistaken-for-strategy ("we will be the best!"), or a **wish-list**[°](#w-wish-list) with
 no diagnosis. The discipline is to diagnose before you prescribe, and to make
 strategy about the hard choices — especially **what you won't do**.
 
@@ -67,12 +55,12 @@ strategy about the hard choices — especially **what you won't do**.
 
 The most common strategy failure is jumping to solutions before understanding the
 problem. Rumelt's kernel starts with *diagnosis*: what is actually going wrong,
-at the root? A team drowning in a legacy monolith might diagnose "we can't ship
+at the root? A team drowning in a legacy **monolith**[°](#w-monolith) might diagnose "we can't ship
 independently because everything is coupled and every deploy risks everything" —
 that diagnosis then <em>implies</em> the guiding policy (decouple along the lines
 that let teams ship independently) and coherent actions (extract the highest-
-churn, highest-risk seams first; invest in the testing that makes extraction
-safe). Skip the diagnosis and you get a wish-list ("migrate to microservices!")
+**churn**[°](#w-churn), highest-risk **seams**[°](#w-seam) first; invest in the testing that makes extraction
+safe). Skip the diagnosis and you get a wish-list ("migrate to **microservices**[°](#w-microservices)!")
 disconnected from the real problem, which is why so many rewrites fail.
 
 ### Strategy is what you WON'T do
@@ -92,7 +80,7 @@ Write the vision/strategy short — one page — because a strategy nobody can h
 in their head doesn't guide decisions. And it's not a document you write once and
 file; it's a *living* reference you keep invoking: when a design decision comes
 up, you point back to the strategy ("our guiding policy is X, so we should do
-A not B"); when priorities are contested, the strategy adjudicates. A strategy
+A not B"); when priorities are contested, the strategy **adjudicates**[°](#w-adjudicate). A strategy
 that isn't referenced in real decisions is dead — the test of a good one is
 whether it actually changes what the team does.
 
@@ -345,6 +333,24 @@ the diagnosis sharpens — a living strategy that changes what the team does is 
 goal; a filed document nobody invokes is a strategy that failed regardless of how
 well-written it was.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-vision-strategy-roadmap"></a>**vision / strategy / roadmap** — destination / route and choices / turn-by-turn steps (the lesson defines them fully).
+- <a id="w-kernel"></a>**kernel** (Rumelt's) — the three-part core of real strategy: diagnosis, guiding policy, coherent actions.
+- <a id="w-diagnosis"></a>**diagnosis** — naming what is *actually* wrong before choosing a cure.
+- <a id="w-coherent-cohere"></a>**coherent / cohere** — parts that fit together and reinforce each other.
+- <a id="w-monolith"></a>**monolith** — one big codebase deployed as a single unit; <a id="w-microservices"></a>**microservices** — many small independently deployed services.
+- <a id="w-strangler-fig"></a>**strangler fig** — replacing an old system piece by piece while it keeps running (named after the tree that slowly envelops its host); opposite of a **big-bang rewrite**.
+- <a id="w-seam"></a>**seam** — a natural boundary in code where you can safely split it.
+- <a id="w-churn"></a>**churn** — how often a piece of code changes; high-churn areas matter most.
+- <a id="w-fluff"></a>**fluff** — impressive-sounding words with no content.
+- <a id="w-wish-list"></a>**wish-list** — a list of desires with no choices or trade-offs behind it.
+- <a id="w-adjudicate"></a>**adjudicate** — to settle a dispute by acting as the judge.
 
 ---
 

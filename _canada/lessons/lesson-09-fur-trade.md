@@ -37,7 +37,7 @@ into hats in Europe:
         ▼
    trading post                    exchange: furs ⇄ kettles, cloth,
    (HBC fort on the Bay, or        axes, guns, brandy — prices in
-   French/NWC post inland)         "**Made Beaver**[°](#w-made-beaver)" units
+   French/NWC post inland)         "Made Beaver" units
         │  brigades: canoe or ship
         ▼
    Montreal ──► La Rochelle        the TRANSPORT layer:

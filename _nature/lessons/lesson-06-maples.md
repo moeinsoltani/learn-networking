@@ -10,26 +10,18 @@ parent: "Phase 2: Trees of Canada"
 
 # Lesson 06: The Maples
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **maple** — a broadleaf tree of the genus *Acer*; the leaf on Canada's flag.
-> - **lobe** — a pointed or rounded section of a leaf; maple leaves have several lobes meeting at the middle.
-> - **opposite leaves** — leaves that grow in matching pairs across the twig (maples do this; most trees don't).
-> - **samara** (SAM-ar-ah) — the winged seed of a maple; the "helicopter" or "key" that spins as it falls.
-> - **sap** — the watery fluid inside a tree; sugar maple sap is boiled down into maple syrup.
-> - **sugar bush** — a stand of sugar maples tapped for syrup.
-> - **serrated / toothed** — with a saw-like edge; silver maple leaves are deeply cut and toothed.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-If you learn one broadleaf tree in Canada, make it the **maple** — it's on the
+If you learn one broadleaf tree in Canada, make it the **maple**[°](#w-maple) — it's on the
 flag, it makes the syrup, and it paints the country red and orange every
 October. All maples share two easy tells:
 
-1. **Opposite leaves** — the leaves and twigs grow in matching **pairs**, not
+1. **Opposite leaves**[°](#w-opposite-leaves) — the leaves and twigs grow in matching **pairs**, not
    staggered. (Most trees are "alternate"; maples are the common exception.)
-2. **Lobed, hand-shaped leaves** with a few pointed lobes, plus winged
-   "helicopter" seeds (**samaras**) that spin down in pairs.
+2. **Lobed, hand-shaped leaves** with a few pointed **lobes**[°](#w-lobe), plus winged
+   "helicopter" seeds (**samaras**[°](#w-samara)) that spin down in pairs.
 
 ![The flag of Canada, centred on a stylised red maple leaf](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/960px-Flag_of_Canada_%28Pantone%29.svg.png)
 
@@ -52,6 +44,15 @@ the emblem behind the flag. Photo:
 ## Going Deeper
 
 ### Telling the three maples apart
+
+All three are maples, so all three have the opposite, hand-shaped leaves from
+Lesson 02. The differences are in the **details of the notches, the underside,
+and the timing of the colour** — and once you know where to look, they separate
+easily.
+
+The single quickest tell is the shape of the gaps between the lobes: sugar
+maple's are smooth and U-shaped, red maple's are toothed, and silver maple's
+are deep and jagged. Turn the leaf over and the undersides confirm it.
 
 | Maple | Leaf notches | Underside | Fall colour | Vibe |
 |---|---|---|---|---|
@@ -86,7 +87,7 @@ with the symbol, the syrup, and the autumn blaze.
 ### Maple syrup: why the sugar maple
 
 In late winter, when days thaw and nights still freeze, pressure changes push
-**sap** up the sugar maple's trunk. Tap the tree, collect the slightly sweet sap,
+**sap**[°](#w-sap) up the sugar maple's trunk. Tap the tree, collect the slightly sweet sap,
 and boil off the water — about **40 litres of sap make 1 litre of syrup**. Quebec
 produces the large majority of the world's maple syrup. Red and silver maples can
 be tapped too, but the sugar maple's sap is sweetest, which is why the "sugar
@@ -232,6 +233,20 @@ leaf was very broad, it's the introduced <strong>Norway maple</strong>, common i
 cities — a good example of why one extra check (the milky sap) resolves a
 look-alike. Full marks for confirming the genus before naming the species.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-maple"></a>**maple** — a broadleaf tree of the genus *Acer*; the leaf on Canada's flag.
+- <a id="w-lobe"></a>**lobe** — a pointed or rounded section of a leaf; maple leaves have several lobes meeting at the middle.
+- <a id="w-opposite-leaves"></a>**opposite leaves** — leaves that grow in matching pairs across the twig (maples do this; most trees don't).
+- <a id="w-samara"></a>**samara** (SAM-ar-ah) — the winged seed of a maple; the "helicopter" or "key" that spins as it falls.
+- <a id="w-sap"></a>**sap** — the watery fluid inside a tree; sugar maple sap is boiled down into maple syrup.
+- <a id="w-sugar-bush"></a>**sugar bush** — a stand of sugar maples tapped for syrup.
+- <a id="w-serrated-toothed"></a>**serrated / toothed** — with a saw-like edge; silver maple leaves are deeply cut and toothed.
 
 ---
 

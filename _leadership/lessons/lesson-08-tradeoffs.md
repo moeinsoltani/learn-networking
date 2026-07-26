@@ -10,40 +10,32 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 08: Evaluating Trade-offs
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **trade-off** — a choice where gaining one thing costs another; there is no free option.
-> - **implicit vs explicit** — unstated and hidden vs openly named; the lesson's core move is making trade-offs explicit.
-> - **premature** — done too early, before it's needed ("premature scalability").
-> - **headroom** — spare capacity above current needs.
-> - **cost of delay** — what shipping later actually costs the business (sometimes everything, sometimes nothing).
-> - **the 10x test** — "would this survive ten times the load — and do we actually *expect* ten times?"
-> - **"what would have to be true?"** — asking under what conditions an option would be right, instead of arguing which is better.
-> - **product-market fit (PMF)** — proof that people genuinely want your product; the early startup's only goal.
-> - **build vs buy** — writing it yourself vs paying for an existing product.
-> - **debiasing** (dee-BY-us-ing) — correcting a systematic thinking error.
-> - **context** — here: the business situation (stage, scale, timeline, team) that decides which option wins.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Almost every meaningful technical decision is a trade-off: speed vs quality,
-simple vs scalable, build vs buy, consistency vs availability. Junior engineers
+Almost every meaningful technical decision is a **trade-off**[°](#w-trade-off): speed vs quality,
+simple vs scalable, **build vs buy**[°](#w-build-vs-buy), consistency vs availability. Junior engineers
 argue about which option is "better" in the abstract; leads recognize that
 *there is no better in the abstract* — there's only better **for a given
 context**, and the whole skill is making the trade-off *explicit* and letting the
-context decide.
+**context**[°](#w-context) decide.
 
-```
-   THE JUNIOR FRAME               THE LEAD FRAME
-   ────────────────               ──────────────
-   "microservices are better"     "microservices trade operational complexity
-   "we should use Kafka"           for independent scaling and deployment —
-   "this needs to scale"           is that trade worth it for OUR situation?"
+The clearest marker of the transition is how you argue about technology.
 
-   argues options in the abstract  makes the trade-off visible, then asks
-   → unresolvable, or resolved      what the CONTEXT (scale, timeline, team,
-     by whoever's loudest           business stage) implies about the choice
-```
+**The junior frame** states positions: "microservices are better," "we should
+use Kafka," "this needs to scale." Options are argued in the abstract, which
+makes the argument unresolvable — or, worse, resolves it in favour of whoever
+is loudest or most senior.
+
+**The lead frame** states trades: "microservices trade operational complexity
+for independent scaling and deployment — is that trade worth it for *our*
+situation?" It makes the trade-off visible first, and then asks what the
+context implies: our scale, our timeline, our team, our stage of business.
+
+The second frame is not more diplomatic; it is more *decidable*. Once the trade
+is on the table, the question becomes one that evidence about your own
+situation can settle.
 
 The most common failure is **implicit** trade-offs — decisions made without
 anyone naming what's being traded, so the team optimizes for the wrong thing
@@ -52,7 +44,7 @@ later) without ever having *decided* to. The lead's job is to surface the
 trade-off, name what each side costs and buys, and connect it to the actual
 situation.
 
-A key debiasing tool: **premature scalability is debt too.** Engineers reflexively
+A key **debiasing**[°](#w-debiasing) tool: **premature scalability is debt too.** Engineers reflexively
 treat "scalable" as the responsible choice, but building for 10x load you don't
 have — and may never have — costs real time and complexity now, often more than
 you'll ever recoup. Over-engineering for imagined future scale is as much a
@@ -68,7 +60,7 @@ badly because the context wasn't honestly assessed.
 The single highest-value move is to *name the trade-off explicitly* instead of
 arguing options: "Option A ships in two weeks but strains above ~10x current
 load; Option B takes eight weeks but scales to 100x. We're trading eight weeks of
-delay and complexity for headroom we may or may not need." Once it's stated this
+delay and complexity for **headroom**[°](#w-headroom) we may or may not need." Once it's stated this
 way, the decision becomes tractable — you can reason about whether the headroom is
 worth the delay *given what you actually know about the business*. Implicit
 trade-offs can't be reasoned about because nobody's said what's being traded;
@@ -90,7 +82,7 @@ conditions for the "obvious" choice don't hold.
 Two practical lenses: the **10x test** — "would this design survive 10x the
 current scale? and do we actually expect 10x?" — forces you to separate real
 scaling needs from imagined ones (if you don't expect 10x, building for it is
-premature-scalability debt). And **cost of delay** — what does it cost to ship
+premature-scalability debt). And **cost of delay**[°](#w-cost-of-delay) — what does it cost to ship
 later? For a market-timing-critical feature, eight weeks of delay might cost the
 whole opportunity, making "ship fast, refactor later" clearly right; for
 foundational infrastructure with no deadline, the delay is cheap and getting it
@@ -169,13 +161,13 @@ or this specific component to be exceptionally expensive to change later. Absent
 that, A is right, and B is over-engineering. (Caveat: if the component is truly
 foundational and genuinely expensive to re-architect — a one-way door, Lesson 7 —
 the calculus shifts toward more investment; but "scales to 100x" for a feature
-that won't need it for a decade is usually premature.)
+that won't need it for a decade is usually **premature**[°](#w-premature).)
 <br><br>
 <strong>Context 3 — signed enterprise customer, 50x traffic in 3 months:</strong>
 Design B (or a variant). Here the scale is <em>not</em> speculative — it's
 contractually committed and arriving in 3 months, and Design A would <em>fail</em>
 at 50x (it strains at 10x), which would mean a broken launch for a major customer:
-a business disaster. The 10x test is decisively passed (you expect 50x, soon,
+a business disaster. **The 10x test**[°](#w-the-10x-test) is decisively passed (you expect 50x, soon,
 with certainty). Cost of delay on B (8 weeks) fits within the 3-month window. "What
 would have to be true for A?" — you'd need the 50x traffic to not materialize,
 which contradicts a signed contract. So B's scale is exactly what's required, and
@@ -190,7 +182,7 @@ scale — resolved three different ways (A, A, B) purely because the context
 The engineers arguing about "the right architecture" in the abstract were asking
 an unanswerable question; the lead's move is to make the trade-off explicit and
 route the decision through the business context, using cost-of-delay, the 10x
-test, and "what would have to be true?" to convert the debate into concrete
+test, and **"what would have to be true?"**[°](#w-what-would-have-to-be-true) to convert the debate into concrete
 assessable questions. And notably, the "responsible/scalable" choice (B) is right
 in only one of three contexts — a direct rebuttal to the reflex that scalable is
 always the mature choice; premature scalability is debt too.
@@ -378,6 +370,24 @@ explicitly, excellent — that's a sign of a mature technical culture; more ofte
 the exercise reveals how much rides on unexamined assumptions, which is exactly
 why making trade-offs explicit is worth the effort.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-trade-off"></a>**trade-off** — a choice where gaining one thing costs another; there is no free option.
+- <a id="w-implicit-vs-explicit"></a>**implicit vs explicit** — unstated and hidden vs openly named; the lesson's core move is making trade-offs explicit.
+- <a id="w-premature"></a>**premature** — done too early, before it's needed ("premature scalability").
+- <a id="w-headroom"></a>**headroom** — spare capacity above current needs.
+- <a id="w-cost-of-delay"></a>**cost of delay** — what shipping later actually costs the business (sometimes everything, sometimes nothing).
+- <a id="w-the-10x-test"></a>**the 10x test** — "would this survive ten times the load — and do we actually *expect* ten times?"
+- <a id="w-what-would-have-to-be-true"></a>**"what would have to be true?"** — asking under what conditions an option would be right, instead of arguing which is better.
+- <a id="w-product-market-fit-pmf"></a>**product-market fit (PMF)** — proof that people genuinely want your product; the early startup's only goal.
+- <a id="w-build-vs-buy"></a>**build vs buy** — writing it yourself vs paying for an existing product.
+- <a id="w-debiasing"></a>**debiasing** (dee-BY-us-ing) — correcting a systematic thinking error.
+- <a id="w-context"></a>**context** — here: the business situation (stage, scale, timeline, team) that decides which option wins.
 
 ---
 

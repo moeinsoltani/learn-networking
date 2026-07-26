@@ -10,19 +10,7 @@ parent: "Phase 1: The Transition"
 
 # Lesson 02: Lead vs EM vs Staff — the Tracks
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **EM (Engineering Manager)** — the role that owns people: hiring, reviews, careers.
-> - **Staff / Principal engineer** — senior ranks on the technical (IC) ladder, above Senior, with broad influence but no direct reports.
-> - **direct reports** — the people who formally report to you (you run their reviews).
-> - **dual ladder / dual track** — parallel promotion paths: management track and technical (IC) track, equal in seniority and pay.
-> - **the pendulum** — the career pattern of swinging between manager and IC roles over the years.
-> - **de facto** (deh FAK-toh) — in practice, though not in title ("a de-facto manager").
-> - **accidental manager** — someone doing a manager's job without the title, pay, or support.
-> - **lip service** — claiming to support something without really doing so ("pays lip service to the IC ladder").
-> - **stepping stone** — a role used only as a path to the next one.
-> - **hands-on** — personally doing the technical work (opposite: hands-off).
-> - **people-work** — the human side of leadership: 1:1s, feedback, conflict, careers.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -30,24 +18,21 @@ parent: "Phase 1: The Transition"
 prongs, and knowing which one you're actually on (or aiming for) prevents years
 of quiet misalignment. The three broad directions:
 
-```
-                        SENIOR ENGINEER
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        ▼                      ▼                      ▼
-   TECH LEAD /            ENGINEERING           STAFF / PRINCIPAL
-   TEAM LEAD             MANAGER (EM)            (IC track)
-   ───────────           ────────────           ─────────────────
-   leads a team's        owns PEOPLE: hiring,   deep technical
-   technical direction   performance, careers,  leadership WITHOUT
-   + delivery; usually   1:1s, org health;      direct reports;
-   still codes 30-50%;   codes rarely; success  influence via
-   people responsibility  = team health +       architecture,
-   is light/shared        delivery              mentorship, and scope
-```
+The senior-engineer role branches into three distinct paths, and they are
+genuinely different jobs rather than three names for seniority.
+
+| Path | What you lead | Do you still code? | People responsibility |
+|---|---|---|---|
+| **Tech Lead / Team Lead** | A team's technical direction and delivery | Usually yes — 30–50% | Light or shared |
+| **Engineering Manager (EM)** | People: hiring, performance, careers, 1:1s, org health | Rarely | This *is* the job; success = team health + delivery |
+| **Staff / Principal (IC track)** | Deep technical leadership without direct reports | Yes, selectively | None formally — influence comes from architecture, mentorship, and scope |
+
+The common mistake is to read this as a ladder with EM at the top. It is not a
+ladder; it is a fork. Staff and EM are the same altitude, reached by different
+roads, and moving between them later is normal.
 
 Two axes distinguish them: **people responsibility** (do you own others'
-careers, reviews, and hiring?) and **technical depth** (how hands-on and
+careers, reviews, and hiring?) and **technical depth** (how **hands-on**[°](#w-hands-on) and
 technically deep is the daily work?). A tech lead is high-technical,
 light-people. An EM is (increasingly) light-technical, high-people. A
 Staff/Principal engineer is high-technical, and influences broadly *without*
@@ -55,9 +40,9 @@ managing anyone.
 
 Why this matters now: the "lead" role you're moving into is often ambiguous —
 at some companies "team lead" means "senior engineer who also runs standup,"
-at others it's a full people-manager, at others a stepping stone to EM. If you
+at others it's a full people-manager, at others a **stepping stone**[°](#w-stepping-stone) to EM. If you
 aim at "lead" without knowing which version your company means, you can end up
-doing a job you didn't want (drowning in people-work you find draining, or
+doing a job you didn't want (drowning in **people-work**[°](#w-people-work) you find draining, or
 starved of the technical depth you love). Aiming deliberately — and having the
 role-expectations conversation explicitly — is the point of this lesson.
 
@@ -96,7 +81,7 @@ Director → VP) and the IC track (Senior → Staff → Principal → Distinguis
 run in *parallel*, with equivalent seniority, pay, and respect at each rung.
 This exists so that your best engineers don't have to stop being engineers to
 advance — a Principal Engineer is as senior as a Director. Know whether your
-company has a real dual ladder or just pays lip service to it (a tell: are there
+company has a real dual ladder or just pays **lip service**[°](#w-lip-service) to it (a tell: are there
 actual Staff/Principal engineers with real influence, or does everyone senior
 eventually become a manager?).
 
@@ -146,7 +131,7 @@ specific about the <em>blurred</em> cases — those are the informative ones.
 Common real-world patterns you might find: a "tech lead" who's quietly become a
 de-facto people manager (doing 1:1s, career conversations, hiring input) without
 the title, pay, or support of an EM — a bad and common situation (the
-"accidental manager"); an EM who still codes on the critical path because they
+"**accidental manager**[°](#w-accidental-manager)"); an EM who still codes on the critical path because they
 can't let go (Lesson 03) and consequently does neither job well; a company with
 <em>no</em> real Staff/Principal engineers, where the only way "up" is
 management — a red flag if you love the technical work; or a healthy dual ladder
@@ -168,7 +153,7 @@ from technical direction and mentoring but I'd find pure people-management
 draining, and I want to stay hands-on enough to keep my technical judgment
 sharp" is a deliberate, defensible aim. "I want to be a manager because that's
 how you advance here" is the trap — advancing into a job you don't want. The
-best answers also acknowledge the pendulum: "I'm aiming at tech lead now, but I
+best answers also acknowledge **the pendulum**[°](#w-the-pendulum): "I'm aiming at tech lead now, but I
 could see trying EM in a few years to build the people skills, then possibly
 swinging to Staff" — treating it as a revisable current choice. If your map
 reveals your company has no real IC ladder and you love the technical work,
@@ -314,6 +299,24 @@ saving you from a job that would make you miserable, and pointing you toward
 either negotiating the role's shape or looking for the version you actually want
 (possibly the IC/Staff track if your company has one — Lesson 67).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-em-engineering-manager"></a>**EM (Engineering Manager)** — the role that owns people: hiring, reviews, careers.
+- <a id="w-staff-principal-engineer"></a>**Staff / Principal engineer** — senior ranks on the technical (IC) ladder, above Senior, with broad influence but no direct reports.
+- <a id="w-direct-reports"></a>**direct reports** — the people who formally report to you (you run their reviews).
+- <a id="w-dual-ladder-dual-track"></a>**dual ladder / dual track** — parallel promotion paths: management track and technical (IC) track, equal in seniority and pay.
+- <a id="w-the-pendulum"></a>**the pendulum** — the career pattern of swinging between manager and IC roles over the years.
+- <a id="w-de-facto"></a>**de facto** (deh FAK-toh) — in practice, though not in title ("a de-facto manager").
+- <a id="w-accidental-manager"></a>**accidental manager** — someone doing a manager's job without the title, pay, or support.
+- <a id="w-lip-service"></a>**lip service** — claiming to support something without really doing so ("pays lip service to the IC ladder").
+- <a id="w-stepping-stone"></a>**stepping stone** — a role used only as a path to the next one.
+- <a id="w-hands-on"></a>**hands-on** — personally doing the technical work (opposite: hands-off).
+- <a id="w-people-work"></a>**people-work** — the human side of leadership: 1:1s, feedback, conflict, careers.
 
 ---
 

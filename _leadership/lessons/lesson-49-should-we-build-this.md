@@ -10,18 +10,7 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 49: "Should We Build This?" — The Question That Changes
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **opportunity cost** — the value of the best alternative you give up; every "yes" is a "no" to something else (Lesson 11).
-> - **build vs buy vs open-source vs don't** — the full menu of options for any capability (engineers default to "build"; often wrongly).
-> - **walking skeleton** — the thinnest possible end-to-end version of a system, built first to prove the shape works.
-> - **wizard-of-oz** — faking a feature manually behind the curtain to test demand before building it.
-> - **spike** — a short throwaway investigation (Lesson 03); **de-risk** — reduce risk before committing (Lesson 07).
-> - **sunk cost (fallacy)** — money/time already spent, which is gone either way; continuing *because* of it is the fallacy ("we've spent 3 months, we can't stop now").
-> - **forward-looking** — judging only by future costs and benefits, from today.
-> - **forego / foregone** — to give up; the projects not done because this one was chosen.
-> - **kill (a project)** — to stop it deliberately; a skill, not a failure.
-> - **superseded** — replaced by something better (Lesson 07).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,24 +18,27 @@ The biggest mindset shift from senior engineer to lead is the question you ask. 
 **"how do we build this?"** — assuming the thing should be built, focusing on building it well. A lead
 asks **"*should* we build this, and is this the best way?"** — questioning whether it's worth doing at
 all, and whether building it (vs. buying, or not doing it) is the right approach. This is powered by
-**opportunity cost** as a constant lens: every "yes" to one thing is a "no" to everything else that
+**opportunity cost**[°](#w-opportunity-cost) as a constant lens: every "yes" to one thing is a "no" to everything else that
 engineering time could do.
 
-```
-   THE QUESTION THAT CHANGES
-   ┌──────────────────────────────────────────────────────┐
-   │ SENIOR ENGINEER: "how do we build this?"               │
-   │   (assumes it should be built → builds it well)        │
-   │ LEAD: "SHOULD we build this? Is this the best way?"    │
-   │   (questions if it's worth doing → opportunity cost)   │
-   │                                                        │
-   │ • OPPORTUNITY COST: every yes = a no to everything else │
-   │ • BUILD vs BUY vs OPEN-SOURCE vs DON'T                  │
-   │ • cheapest test first (walking skeleton)               │
-   │ • SUNK COST: past investment doesn't justify continuing │
-   │ • KILL projects well when they don't pay off            │
-   └──────────────────────────────────────────────────────┘
-```
+One question changes when you become a lead.
+
+A senior engineer asks **"how do we build this?"** — which quietly assumes it
+should be built, and then builds it well. A lead asks **"*should* we build this
+— and is this the best way?"**, which puts the thing itself on trial.
+
+Five ideas support that question:
+
+- **Opportunity cost.** Every yes is a no to everything else you could have done
+  with those people and that quarter.
+- **Build versus buy versus open-source versus simply don't.** All four are real
+  options; engineers systematically under-weight the last two.
+- **Cheapest test first** — a walking skeleton, a spike, a fake door — before
+  committing the team.
+- **Sunk cost.** Past investment never justifies continuing; only expected future
+  value does, and the six months already spent are gone either way.
+- **Kill projects well** when they do not pay off: clearly, with the reasoning
+  shared, and without making anyone feel their work was worthless.
 
 The reframe: **shift from "how do we build it" to "should we build it, and is this the best way" —
 holding opportunity cost as a constant lens.** The senior engineer's job was to build things well; the
@@ -85,8 +77,8 @@ menu (build/buy/OSS/don't), not just how to build.
 
 Before committing heavily to building something, **test the riskiest assumptions as cheaply as possible.**
 Rather than building the full thing (a big bet) and discovering late it doesn't work/isn't wanted, do the
-**cheapest test first**: a prototype, a "walking skeleton" (a minimal end-to-end version), a manual
-"wizard-of-oz" version, a spike to de-risk the hard part. This validates the idea (does it work? is it
+**cheapest test first**: a prototype, a "**walking skeleton**[°](#w-walking-skeleton)" (a minimal end-to-end version), a manual
+"**wizard-of-oz**[°](#w-wizard-of-oz)" version, a **spike**[°](#w-spike) to **de-risk**[°](#w-de-risk) the hard part. This validates the idea (does it work? is it
 wanted? is the approach viable?) before the big investment — so if it's wrong, you learn cheaply, and if
 it's right, you proceed with confidence. Cheapest-test-first is a habit that prevents expensive commitments
 to unvalidated things (connects to the pilot framing, Lesson 36).
@@ -95,10 +87,10 @@ to unvalidated things (connects to the pilot framing, Lesson 36).
 
 A crucial discipline: **ignore sunk costs.** The <strong>sunk cost fallacy</strong> is continuing something
 because of what you've already invested ("we've spent 3 months, we can't stop now"). But past investment is
-gone regardless of what you do next — the only rational question is <strong>forward-looking</strong>: from
+gone regardless of what you do next — the only rational question is <strong>**forward-looking**[°](#w-forward-looking)</strong>: from
 here, is continuing the best use of future resources (compared to alternatives)? "We've already spent 3
 months" is irrelevant to whether the <em>remaining</em> work is worth it. Falling for sunk cost keeps teams
-pouring resources into failing or superseded projects because stopping "wastes" the past investment (which
+pouring resources into failing or **superseded**[°](#w-superseded) projects because stopping "wastes" the past investment (which
 is already spent either way). The discipline is to evaluate from the present forward, ignoring what's
 already sunk — which sometimes means killing a project you've invested heavily in.
 
@@ -119,7 +111,7 @@ requires the discipline to stop, and doing it in a way that doesn't demoralize t
 > should be built) to "<em>should</em> we build this, and is this the best way?" (questions if it's worth
 > doing). It's powered by <em>opportunity cost</em> — engineering capacity is scarce, so every yes is a no
 > to everything else, making "is this the <em>best</em> use of this time?" the disciplined question.
-> Consider the full menu — <em>build vs buy vs open-source vs don't</em> (the default-to-build instinct
+> Consider the full menu — <em>**build vs buy vs open-source vs don't**[°](#w-build-vs-buy-vs-open-source-vs-dont)</em> (the default-to-build instinct
 > wastes effort). Test the riskiest assumptions <em>cheapest-first</em> (walking skeleton) before big
 > commitments. <em>Ignore sunk costs</em> (past investment doesn't justify continuing — evaluate forward).
 > And <em>kill projects well</em> when they don't pay off. This shift — questioning whether and how to
@@ -371,6 +363,23 @@ just how. Business and product thinking elevates a technical leader into a busin
 engineering effort toward what matters most. The next phase (Project Leadership) turns to executing the work
 you've decided is worth doing — planning, estimation, risk, and delivering projects successfully.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-opportunity-cost"></a>**opportunity cost** — the value of the best alternative you give up; every "yes" is a "no" to something else (Lesson 11).
+- <a id="w-build-vs-buy-vs-open-source-vs-dont"></a>**build vs buy vs open-source vs don't** — the full menu of options for any capability (engineers default to "build"; often wrongly).
+- <a id="w-walking-skeleton"></a>**walking skeleton** — the thinnest possible end-to-end version of a system, built first to prove the shape works.
+- <a id="w-wizard-of-oz"></a>**wizard-of-oz** — faking a feature manually behind the curtain to test demand before building it.
+- <a id="w-spike"></a>**spike** — a short throwaway investigation (Lesson 03); <a id="w-de-risk"></a>**de-risk** — reduce risk before committing (Lesson 07).
+- <a id="w-sunk-cost-fallacy"></a>**sunk cost (fallacy)** — money/time already spent, which is gone either way; continuing *because* of it is the fallacy ("we've spent 3 months, we can't stop now").
+- <a id="w-forward-looking"></a>**forward-looking** — judging only by future costs and benefits, from today.
+- <a id="w-forego-foregone"></a>**forego / foregone** — to give up; the projects not done because this one was chosen.
+- <a id="w-kill-a-project"></a>**kill (a project)** — to stop it deliberately; a skill, not a failure.
+- <a id="w-superseded"></a>**superseded** — replaced by something better (Lesson 07).
 
 ---
 

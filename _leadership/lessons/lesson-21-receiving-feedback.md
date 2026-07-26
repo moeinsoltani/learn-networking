@@ -10,18 +10,7 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 21: Receiving Feedback as a Lead
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **information supply** — the flow of honest truth reaching you; a lead's decisions depend on it.
-> - **the flinch** — your visible first reaction to criticism (a frown, a tightening, a "well, actually…") — the thing everyone watches.
-> - **defensiveness** — protecting yourself by explaining and justifying instead of listening.
-> - **power gap** — the authority difference that makes criticizing you feel risky to your team.
-> - **clarifying question** — a question asked to understand, not to argue ("can you give me an example?").
-> - **digest** — to take feedback away and think it over instead of responding on the spot.
-> - **close the loop** — to come back later and show what you did with the feedback.
-> - **leading blind** — making decisions without the honest information you've silenced.
-> - **retro(spective)** — the team meeting reviewing how the last period of work went.
-> - **permission-giving question** — a specific ask that makes criticism safe ("what's one thing I should stop doing?").
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,27 +18,27 @@ Giving feedback is only half the skill — *receiving* it well is arguably more 
 lead, because **your information supply depends on it.** Power distorts honesty: people are
 naturally reluctant to criticize someone with authority over them, so if you react badly even
 once — defend, explain, or visibly flinch — you teach the team it's not safe to tell you the
-truth, and the feedback dries up. Then you're leading blind. Making it safe to be told hard
+truth, and the feedback dries up. Then you're **leading blind**[°](#w-leading-blind). Making it safe to be told hard
 things is a core, and counterintuitive, leadership skill.
 
-```
-   THE FEEDBACK-TO-A-LEAD PROBLEM:
-   ┌──────────────────────────────────────────────────────┐
-   │ People fear criticizing someone with power over them   │
-   │ → they only tell you if it feels SAFE                   │
-   │ → one bad reaction (defend / explain / flinch) teaches  │
-   │   "don't tell the lead hard things"                     │
-   │ → feedback dries up → you lead blind                    │
-   └──────────────────────────────────────────────────────┘
+There is a structural problem with receiving feedback once you have any
+authority, and it is worth seeing clearly.
 
-   Your reaction to feedback determines whether you ever get it again.
-```
+People are reluctant to criticise someone who has power over them, so they only
+do it when it feels safe. One bad reaction from you — defending, over-explaining,
+or even just visibly flinching — teaches the whole team that telling the lead
+hard things is costly. The feedback then dries up, and you carry on leading
+blind, usually while believing things are going well.
+
+The uncomfortable conclusion: **your reaction to feedback determines whether you
+ever get any again.** Not your stated openness to it — your reaction, in the
+three seconds after you hear it.
 
 The reframe: **when someone gives you critical feedback, they're taking a risk to help you — so
 your job is to make it safe and rewarding, not to respond to the content.** The instinct is to
 explain, defend, or justify ("well, the reason I do that is..."). But in the moment, the
 <em>content</em> matters far less than the <em>signal your reaction sends</em>: react well
-(thank, digest, follow up) and people keep telling you the truth; react defensively and they
+(thank, **digest**[°](#w-digest), follow up) and people keep telling you the truth; react defensively and they
 stop — permanently.
 
 ---
@@ -70,7 +59,7 @@ it, not to evaluate it defensively in the moment.
 The critical moment is your *immediate reaction*. Even a small defensive flinch — a frown, a
 "well, actually...", a visible tightening, an explanation of why you did it — sends a loud
 signal: *it's not safe to tell this person hard things.* People read your reaction closely
-(especially with the power gap), and one bad reaction can silence a team for months (they
+(especially with the **power gap**[°](#w-power-gap)), and one bad reaction can silence a team for months (they
 conclude feedback isn't welcome and stop offering it). So the discipline is to control your
 immediate reaction: no defending, no explaining, no flinching — however much you want to.
 
@@ -78,7 +67,7 @@ immediate reaction: no defending, no explaining, no flinching — however much y
 
 The good pattern when you receive critical feedback: (1) **Thank them** genuinely — "thank you
 for telling me, I know that wasn't easy" — which rewards the risk they took and signals it's
-welcome. (2) **Digest** rather than react — ask clarifying questions to understand ("can you give
+welcome. (2) **Digest** rather than react — ask **clarifying questions**[°](#w-clarifying-question) to understand ("can you give
 me an example?"), but don't defend or decide on the spot; take it away to consider. (3) **Close
 the loop** — come back later with what you did with it ("you were right, I've started X") — which
 proves the feedback had effect, making it worth their risk and encouraging more. This pattern
@@ -87,7 +76,7 @@ makes giving you feedback safe *and* rewarding.
 ### Ask for it specifically
 
 Don't wait for feedback — *ask* for it, and make it easy to give. Vague "any feedback for me?"
-gets "no, all good" (too broad, too risky). Specific, permission-giving questions work better:
+gets "no, all good" (too broad, too risky). Specific, **permission-giving questions**[°](#w-permission-giving-question) work better:
 "what's one thing I should stop doing?" / "where am I making your job harder?" / "if you could
 change one thing about how I run standup, what would it be?" These lower the risk (you're
 inviting it, and narrowing to something specific and safe) and signal you genuinely want it. And
@@ -96,7 +85,7 @@ ask repeatedly — a one-time ask isn't enough to overcome the power gap.
 ### Separate the flinch from the response
 
 You will feel defensive — that's human (feedback stings, especially publicly). The skill isn't
-not feeling it; it's *not acting on it in the moment*. Feel the flinch, but respond with thanks
+not feeling it; it's *not acting on it in the moment*. Feel **the flinch**[°](#w-the-flinch), but respond with thanks
 and curiosity, and process the emotional reaction privately later. Over time, genuinely welcoming
 feedback (not just performing it) gets easier, and the payoff — a team that tells you the truth —
 is enormous.
@@ -111,7 +100,7 @@ is enormous.
 > them genuinely (reward the risk), digest rather than defend (understand, don't justify), and close
 > the loop later (prove it had effect). Ask for it specifically and repeatedly ("what's one thing I
 > should stop?"). You'll feel the flinch — the skill is not acting on it. Making it safe to be told
-> hard things is how you keep the information supply a lead's decisions depend on.
+> hard things is how you keep the **information supply**[°](#w-information-supply) a lead's decisions depend on.
 
 ---
 
@@ -143,7 +132,7 @@ I'll start scheduling those messages to send in the morning, but I'd love to hea
 same way too. Thank you again for flagging it — this is exactly the kind of thing I want to hear."
 <br><br>
 <strong>The follow-up:</strong> (1) Actually change the behavior — use scheduled-send for off-hours
-messages, so it's fixed, not just acknowledged. (2) Close the loop — in a few days or the next retro,
+messages, so it's fixed, not just acknowledged. (2) **Close the loop**[°](#w-close-the-loop) — in a few days or the next retro,
 come back to it: "Following up on what Sana raised — I've switched to scheduling my off-hours
 messages for the morning; let me know if it's better, or if I slip." (3) Reinforce the norm — thank
 Sana again (maybe privately too), and generally signal that this kind of honesty is valued (so the
@@ -340,6 +329,23 @@ and Lesson 63 (psychological safety). The next lesson steps up to the highest-st
 crucial conversations where stakes are high, opinions differ, and emotions run — and the toolkit for
 staying effective in them.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-information-supply"></a>**information supply** — the flow of honest truth reaching you; a lead's decisions depend on it.
+- <a id="w-the-flinch"></a>**the flinch** — your visible first reaction to criticism (a frown, a tightening, a "well, actually…") — the thing everyone watches.
+- <a id="w-defensiveness"></a>**defensiveness** — protecting yourself by explaining and justifying instead of listening.
+- <a id="w-power-gap"></a>**power gap** — the authority difference that makes criticizing you feel risky to your team.
+- <a id="w-clarifying-question"></a>**clarifying question** — a question asked to understand, not to argue ("can you give me an example?").
+- <a id="w-digest"></a>**digest** — to take feedback away and think it over instead of responding on the spot.
+- <a id="w-close-the-loop"></a>**close the loop** — to come back later and show what you did with the feedback.
+- <a id="w-leading-blind"></a>**leading blind** — making decisions without the honest information you've silenced.
+- <a id="w-retro-spective"></a>**retro(spective)** — the team meeting reviewing how the last period of work went.
+- <a id="w-permission-giving-question"></a>**permission-giving question** — a specific ask that makes criticism safe ("what's one thing I should stop doing?").
 
 ---
 

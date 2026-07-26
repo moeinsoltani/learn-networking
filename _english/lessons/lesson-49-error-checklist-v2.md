@@ -18,17 +18,23 @@ grammar, but to **know your own top errors and check for exactly those.** This l
 personal error checklist: a short, tuned list of the specific things you get wrong, that you scan
 for before sending anything important.
 
-```
-   THE PERSONAL ERROR CHECKLIST (yours, tuned to you):
-   ┌──────────────────────────────────────────────────────┐
-   │ □ Subject-verb agreement  "the content ARE" → "IS"     │
-   │ □ Articles (a/the/zero)   "I opened the PR" (which?)   │
-   │ □ Dropped words           "I will send" not "I send"   │
-   │ □ [your other patterns]                                │
-   └──────────────────────────────────────────────────────┘
+The single most useful artefact from this whole course is a short list of the
+mistakes **you** actually make.
 
-   A SHORT list of YOUR errors > all of English grammar.
-```
+A starting version, to be tuned to your own patterns:
+
+- **Subject–verb agreement** — "the content **are**" → "the content **is**"
+- **Articles** (a / the / zero) — "I opened the PR" — *which* PR?
+- **Dropped words** — "I **will** send", not "I send"
+- *[your other recurring patterns]*
+
+The principle behind it: **a short list of your errors beats all of English
+grammar.** You are not going to review the whole language before sending a
+Slack message; you *will* run a five-item check in twenty seconds.
+
+Build it from your own corrections rather than from a textbook. When a
+colleague rephrases something you wrote, or you notice a pattern in your own
+edits, that is a candidate for the list.
 
 The reframe: **you don't need to fix all of English — you need to fix your handful of recurring
 patterns.** Most of your errors come from a small set of repeated mistakes; a short checklist of

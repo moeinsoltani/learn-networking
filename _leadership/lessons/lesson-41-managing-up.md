@@ -10,40 +10,32 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 41: Managing Up
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **managing up** — deliberately working well with your own manager so they can be effective on your behalf.
-> - **air cover** — a manager's protection from organizational pressure while you work (a military-aviation metaphor).
-> - **no surprises** — the cardinal rule: bad news reaches your manager from you, early — never first from others.
-> - **blindside** — to let someone be surprised in public by something you knew (Lesson 36; worst in front of *their* boss).
-> - **options, not problems** — bringing choices plus a recommendation instead of dumping a raw problem.
-> - **altitude** — the level of detail appropriate to an audience (execs fly higher).
-> - **proactive status** — updates that answer questions before they're asked.
-> - **yes-person** — someone who never disagrees; less valuable than a respectful challenger.
-> - **skip-level** — your manager's manager (Lesson 05).
-> - **career-limiting** — polite phrase for "will damage your future here."
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-**Managing up** — working effectively with your own manager — is a skill most people never think to
-develop, but it hugely affects your success: your manager controls resources, priorities, air cover,
+**Managing up**[°](#w-managing-up) — working effectively with your own manager — is a skill most people never think to
+develop, but it hugely affects your success: your manager controls resources, priorities, **air cover**[°](#w-air-cover),
 and your visibility, so making them *effective on your behalf* is high-leverage. The foundation is
 understanding what your boss actually needs from you (which is often different from what you assume):
-**no surprises**, options rather than problems, and brevity. Above all: **never surprise your
+**no surprises**[°](#w-no-surprises), options rather than problems, and brevity. Above all: **never surprise your
 manager** — especially not in front of *their* boss.
 
-```
-   WHAT YOUR BOSS ACTUALLY NEEDS FROM YOU
-   ┌──────────────────────────────────────────────────────┐
-   │ • NO SURPRISES (esp. not in front of THEIR boss)       │
-   │ • OPTIONS, not just problems ("here's the issue AND     │
-   │   two options + my recommendation")                    │
-   │ • BREVITY (they're busy — get to the point)             │
-   │ • status that answers before they have to ask          │
-   └──────────────────────────────────────────────────────┘
-   Make your manager effective on your behalf. Manage up
-   deliberately — it's not sucking up, it's working well together.
-```
+Managing up is not sucking up. It is making your manager effective on your
+behalf, and it comes down to four things they actually need from you.
+
+- **No surprises** — and especially not in front of *their* boss. A manager
+  ambushed in a meeting by news you already had will remember it far longer
+  than the news itself.
+- **Options, not just problems.** "Here's the issue, here are two options, and
+  here's my recommendation" is a completely different conversation from "here's
+  the issue."
+- **Brevity.** They are busy, and getting to the point is a form of respect.
+- **Status that answers the question before they have to ask it.**
+
+Do these deliberately rather than occasionally. A manager who is well-informed
+and unsurprised will back your judgement in rooms you are not in — which is
+most of the rooms where things about your team get decided.
 
 The reframe: **managing up isn't sucking up — it's understanding what your manager needs and giving
 it to them, so they can be effective on your behalf.** Your manager is a key stakeholder (resources,
@@ -82,12 +74,12 @@ bringing options makes you someone who handles things.
 Your manager is busy (more so the more senior). **Be concise** — get to the point, lead with what
 matters (BLUF — English track Lesson 21), don't make them dig through detail for the ask or the key
 info. A crisp "here's the situation, here's what I need/recommend" respects their time and is more
-effective than a long ramble. Match the altitude too — give them the level of detail they need
+effective than a long ramble. Match the **altitude**[°](#w-altitude) too — give them the level of detail they need
 (usually higher-level than you'd give a peer), not every technical detail.
 
 ### Status that answers before it's asked
 
-Good managing-up includes **proactive status** — keeping your manager informed (on progress, risks,
+Good managing-up includes **proactive status**[°](#w-proactive-status) — keeping your manager informed (on progress, risks,
 what's happening) *before* they have to ask. A manager who has to chase you for status doesn't trust
 the work is on track; one who gets proactive, useful updates (the right things, concisely) trusts you
 and doesn't need to micromanage. Answer the questions they'd ask (is it on track? any risks? do you
@@ -100,13 +92,13 @@ it **safely and well**: (1) usually privately (not challenging them publicly); (
 framed as a shared goal ("I want us to get this right — can I offer a concern?"); (3) as a
 concern/question, not a defiance (English track Lesson 30); and (4) then **disagree-and-commit** (once
 they decide, commit — even if you disagreed). Disagreeing well upward makes you valuable (you're not a
-yes-person); doing it badly (publicly, defiantly, or never committing) is career-limiting. A good
+**yes-person**[°](#w-yes-person)); doing it badly (publicly, defiantly, or never committing) is **career-limiting**[°](#w-career-limiting). A good
 manager values the person who respectfully pushes back and then commits.
 
 ### Using your skip-level, and managing a weak manager
 
 Two situational notes: (1) **The skip-level** (your manager's manager) is a resource — a good
-skip-level relationship (through skip-level 1:1s, appropriate visibility) gives you another channel
+**skip-level**[°](#w-skip-level) relationship (through skip-level 1:1s, appropriate visibility) gives you another channel
 and perspective; use it appropriately (not to go around your manager, but as a legitimate
 relationship). (2) **A weak or overloaded manager** — if your manager is disorganized, overloaded, or
 weak, managing up matters *more*: make it easy for them (bring things buttoned-up, remind them of
@@ -353,6 +345,23 @@ stakeholder. This is a specific, high-leverage application of the stakeholder an
 next lesson turns to keeping the team connected to the ultimate stakeholders — customers and users — the
 humans your work is actually for.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-managing-up"></a>**managing up** — deliberately working well with your own manager so they can be effective on your behalf.
+- <a id="w-air-cover"></a>**air cover** — a manager's protection from organizational pressure while you work (a military-aviation metaphor).
+- <a id="w-no-surprises"></a>**no surprises** — the cardinal rule: bad news reaches your manager from you, early — never first from others.
+- <a id="w-blindside"></a>**blindside** — to let someone be surprised in public by something you knew (Lesson 36; worst in front of *their* boss).
+- <a id="w-options-not-problems"></a>**options, not problems** — bringing choices plus a recommendation instead of dumping a raw problem.
+- <a id="w-altitude"></a>**altitude** — the level of detail appropriate to an audience (execs fly higher).
+- <a id="w-proactive-status"></a>**proactive status** — updates that answer questions before they're asked.
+- <a id="w-yes-person"></a>**yes-person** — someone who never disagrees; less valuable than a respectful challenger.
+- <a id="w-skip-level"></a>**skip-level** — your manager's manager (Lesson 05).
+- <a id="w-career-limiting"></a>**career-limiting** — polite phrase for "will damage your future here."
 
 ---
 

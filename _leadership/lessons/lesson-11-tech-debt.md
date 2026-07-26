@@ -10,46 +10,36 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 11: Managing Technical Debt Strategically
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **technical debt** — code whose current state makes future change slower, riskier, or more expensive (like interest on a loan).
-> - **quadrant** (KWOD-rant) — one of four squares in a 2×2 diagram.
-> - **prudent** (PROO-dent) — careful and wise; **reckless** — carelessly risky; **inadvertent** (in-ad-VER-tent) — unintentional.
-> - **portfolio** (port-FOH-lee-oh) — a managed collection of investments; here: treating debts as items to weigh, not sins to purge.
-> - **paydown** — reducing debt deliberately; **stabilization** — a focused period of fixing rather than building.
-> - **churn** — how often code changes (Lesson 06); high-churn debt costs the most.
-> - **gold-plate** — to add unnecessary polish beyond what's needed.
-> - **opportunity cost** — the value of the best alternative you gave up.
-> - **cycle time** — how long a piece of work takes from start to shipped.
-> - **big-bang rewrite** — rebuilding a system from scratch in one giant risky effort; the **strangler-fig** incremental path is the usual alternative (Lesson 06).
-> - **business case** — a pitch justifying work by its return (money, risk, speed), not its virtue.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Engineers tend to treat technical debt as a moral failing — messy code someone
+Engineers tend to treat **technical debt**[°](#w-technical-debt) as a moral failing — messy code someone
 should feel bad about and "clean up." Leads have to treat it as what it actually
 is: a **portfolio to manage**, with debt that's worth carrying and debt that's
 worth paying down, evaluated in terms of business risk and velocity, not
 cleanliness.
 
-The foundational taxonomy is Martin Fowler's debt quadrant:
+The foundational taxonomy is Martin Fowler's debt **quadrant**[°](#w-quadrant):
 
-```
-                 DELIBERATE                    INADVERTENT
-              ┌──────────────────────┬──────────────────────┐
-   RECKLESS   │ "no time for design, │ "what's layering?"   │
-              │  just ship it"       │ (didn't know better) │
-              ├──────────────────────┼──────────────────────┤
-   PRUDENT    │ "we'll ship now and  │ "now we know how we  │
-              │  deal with the       │  should have done it" │
-              │  consequences" ← OK! │ (learned in hindsight)│
-              └──────────────────────┴──────────────────────┘
-```
+Martin Fowler's technical-debt quadrant sorts debt along two axes: whether you
+took it on *deliberately*, and whether the reasoning was *prudent*.
+
+| | **Deliberate** | **Inadvertent** |
+|---|---|---|
+| **Reckless** | "No time for design, just ship it" | "What's layering?" — nobody knew better |
+| **Prudent** | "We'll ship now and deal with the consequences" — **this one is legitimate** | "Now we know how we should have done it" — learned in hindsight |
+
+The quadrant matters because it changes the remedy. Prudent-deliberate debt is
+a financing decision and needs a repayment plan. Inadvertent-prudent debt is
+just learning, and the fix is to act on it now. Reckless debt of either kind is
+a training or process problem, and rewriting the code without addressing that
+will simply produce it again.
 
 The key insight: **prudent, deliberate debt is a legitimate tool**, not a
 failure. Shipping a simpler version now and refactoring later — knowingly, as a
 conscious trade — is often exactly right (Lesson 8's speed-vs-quality trade). The
-debt to worry about is the *reckless* kind (skipping design out of laziness) and
+debt to worry about is the *reckless*[°](#w-reckless) kind (skipping design out of laziness) and
 the *accumulating unmanaged* kind (nobody's tracking it, it compounds silently
 until the system is unworkable). And the framing that matters most for a lead:
 debt has to be communicated to non-engineers in *their* language — risk and
@@ -77,12 +67,12 @@ high-cost, high-churn areas, not the ugliest).
 The lead's hardest debt task is getting *non-engineers* (PMs, execs) to fund
 paying it down — and that requires translating out of engineer-language. "The code
 is a mess and we need to refactor" is unpersuasive and sounds like engineers
-wanting to gold-plate. The persuasive version speaks their language: **risk**
+wanting to **gold-plate**[°](#w-gold-plate). The persuasive version speaks their language: **risk**
 ("this component causes 40% of our incidents; each outage costs us customer trust
 and $X"), **velocity** ("features in this area take 3x longer than they should;
-we're leaving speed on the table every sprint"), and **opportunity cost**
+we're leaving speed on the table every sprint"), and **opportunity cost**[°](#w-opportunity-cost)
 ("because of this, we can't build [thing the business wants] without a rewrite").
-Quantify where you can (incident rates, cycle time, the time features take).
+Quantify where you can (incident rates, **cycle time**[°](#w-cycle-time), the time features take).
 You're making a *business case for an investment*, not asking permission to clean
 up — Lesson 48 (tech-to-business translation) develops this fully.
 
@@ -90,18 +80,18 @@ up — Lesson 48 (tech-to-business translation) develops this fully.
 
 A common but weak approach: "we'll spend 20% of every sprint on tech debt." It
 sounds disciplined but often fails — the 20% gets raided under deadline pressure,
-or spent on low-value cleanup because it's undirected. Better: treat debt paydown
+or spent on low-value cleanup because it's undirected. Better: treat debt **paydown**[°](#w-paydown)
 as *prioritized work competing on its merits* — the highest-cost debt (by the
 risk/velocity measure) gets funded like any other high-value work, justified by
-its business case, and scheduled deliberately (sometimes a focused
-"stabilization" period, sometimes woven into feature work in the affected area —
+its **business case**[°](#w-business-case), and scheduled deliberately (sometimes a focused
+"**stabilization**[°](#w-stabilization)" period, sometimes woven into feature work in the affected area —
 "we're building feature X here anyway, so we pay down this area's debt as part of
 it"). The goal is *strategic* paydown of the debt that matters, not a ritual
 percentage.
 
 ### When to rewrite (rarely) vs strangle
 
-The most dangerous debt response is the **big-bang rewrite** — "this is so bad
+The most dangerous debt response is the **big-bang rewrite**[°](#w-big-bang-rewrite) — "this is so bad
 we should rebuild it from scratch." Rewrites are seductive and usually a trap:
 they take far longer than estimated, deliver no value until done (a multi-quarter
 period of pure risk with nothing shipped), often reintroduce old bugs while
@@ -380,6 +370,24 @@ mature engineering culture; more commonly it reveals debt that's untracked,
 mis-prioritized by ugliness rather than cost, and pitched (when at all) in
 engineer-terms that don't get funded — which is exactly the gap this lesson closes.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-technical-debt"></a>**technical debt** — code whose current state makes future change slower, riskier, or more expensive (like interest on a loan).
+- <a id="w-quadrant"></a>**quadrant** (KWOD-rant) — one of four squares in a 2×2 diagram.
+- <a id="w-prudent"></a>**prudent** (PROO-dent) — careful and wise; <a id="w-reckless"></a>**reckless** — carelessly risky; <a id="w-inadvertent"></a>**inadvertent** (in-ad-VER-tent) — unintentional.
+- <a id="w-portfolio"></a>**portfolio** (port-FOH-lee-oh) — a managed collection of investments; here: treating debts as items to weigh, not sins to purge.
+- <a id="w-paydown"></a>**paydown** — reducing debt deliberately; <a id="w-stabilization"></a>**stabilization** — a focused period of fixing rather than building.
+- <a id="w-churn"></a>**churn** — how often code changes (Lesson 06); high-churn debt costs the most.
+- <a id="w-gold-plate"></a>**gold-plate** — to add unnecessary polish beyond what's needed.
+- <a id="w-opportunity-cost"></a>**opportunity cost** — the value of the best alternative you gave up.
+- <a id="w-cycle-time"></a>**cycle time** — how long a piece of work takes from start to shipped.
+- <a id="w-big-bang-rewrite"></a>**big-bang rewrite** — rebuilding a system from scratch in one giant risky effort; the **strangler-fig** incremental path is the usual alternative (Lesson 06).
+- <a id="w-business-case"></a>**business case** — a pitch justifying work by its return (money, risk, speed), not its virtue.
 
 ---
 

@@ -10,18 +10,7 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 51: Estimation — and Why It Fails
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **estimate / target / commitment** — honest guess / hoped-for goal / firm promise: three different things never to conflate (the lesson's core).
-> - **conflate** — to blur two different things into one.
-> - **unknown unknowns** — the problems you can't foresee because you don't know they exist.
-> - **optimism bias / planning fallacy** — the systematic human tendency to imagine the happy path and underestimate work.
-> - **the happy path** — the scenario where nothing goes wrong.
-> - **pressure-contaminated** — an estimate unconsciously shrunk to please whoever wants it smaller.
-> - **point estimate vs range** — a single number ("3 weeks") vs an honest spread ("2–5 weeks").
-> - **reference-class forecasting** — estimating from how long *similar past projects actually took* (the "outside view") instead of imagining this one's steps (the "inside view").
-> - **conservative** — deliberately cautious; commitments should be.
-> - **re-estimate** — updating the estimate as you learn; honest, not shameful.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,18 +21,23 @@ but **estimating honestly, communicating uncertainty, and never being surprised 
 key discipline: **never conflate estimate, commitment, and target** — three different things that get
 dangerously confused.
 
-```
-   THREE THINGS PEOPLE CONFUSE (keep them separate!)
-   ┌──────────────────────────────────────────────────────┐
-   │ ESTIMATE:   honest best guess of how long (uncertain!) │
-   │ TARGET:     what we'd LIKE (a goal, aspiration)         │
-   │ COMMITMENT: what we PROMISE (should be conservative)    │
-   │ → conflating them = "3 weeks-ish" (estimate) becomes    │
-   │   "3 weeks" (commitment) told to sales → disaster       │
-   │                                                        │
-   │ RANGES beat points · reference-class > gut · re-estimate│
-   └──────────────────────────────────────────────────────┘
-```
+Three things get conflated in every estimation conversation, and keeping them
+apart prevents most of the damage.
+
+| Term | What it is |
+|---|---|
+| **Estimate** | An honest best guess of how long — inherently uncertain |
+| **Target** | What we would *like* — a goal, an aspiration |
+| **Commitment** | What we *promise* — and it should be conservative |
+
+Watch how the failure happens: an engineer says "three weeks-ish" — an estimate
+— and by the time it reaches sales it has become "three weeks," a commitment.
+Nobody lied, and the project is now late from the moment it starts.
+
+Three habits help. **Ranges beat point estimates**, because the range carries
+the uncertainty honestly. **Reference-class beats gut**: how long did the last
+three similar things actually take? And **re-estimate as you learn** — an
+estimate made when you knew least is the one worth revising first.
 
 The reframe: **estimates are uncertain guesses (communicate the uncertainty as a range), and estimate ≠
 target ≠ commitment (never conflate them).** The disaster case is when an uncertain estimate ("about 3
@@ -58,10 +52,10 @@ concepts distinct.
 
 ### Why estimates fail
 
-Estimates fail for structural reasons, not just carelessness: (1) **unknown unknowns** — you can't
+Estimates fail for structural reasons, not just carelessness: (1) **unknown unknowns**[°](#w-unknown-unknowns) — you can't
 estimate the problems you don't know exist yet (and every project has them), so estimates systematically
 miss the surprises; (2) **optimism bias** — people (especially engineers) are systematically optimistic,
-imagining the happy path and underweighting the things that go wrong (the planning fallacy); (3)
+imagining **the happy path**[°](#w-the-happy-path) and underweighting the things that go wrong (the planning fallacy); (3)
 **pressure-contaminated estimates** — when there's pressure for a short estimate (a deadline, an eager
 stakeholder), estimates get unconsciously (or consciously) shrunk to please, contaminating them with
 wishful thinking rather than honest assessment. Understanding <em>why</em> estimates fail (structural, not
@@ -75,12 +69,12 @@ weeks, most likely 3") honestly convey the uncertainty — which is real and imp
 communicates that it could be as short as X or as long as Y, so people plan accordingly (not treating the
 midpoint as certain). Ranges also resist the conflation problem — a range is obviously an estimate (with
 uncertainty), harder to mistake for a firm commitment than a single number. When you must give a single
-number for a commitment, lean toward the conservative end of the range (under-promise). Always
+number for a commitment, lean toward the **conservative**[°](#w-conservative) end of the range (under-promise). Always
 communicate the uncertainty; a point estimate hides it.
 
 ### Reference-class forecasting — how long did similar things take?
 
-The most reliable estimation technique: **reference-class forecasting** — instead of estimating from the
+The most reliable estimation technique: **reference-class forecasting**[°](#w-reference-class-forecasting) — instead of estimating from the
 inside (imagining the steps and summing, which is optimism-prone), look at **how long similar things
 actually took** ("the last three migrations like this took 2-4 months, so this will probably be similar").
 The outside view (actual history of similar projects) is far more accurate than the inside view (imagining
@@ -120,7 +114,7 @@ with high uncertainty; refining it as you learn is good practice, not backpedali
 > did similar things actually take — the outside view beats optimistic inside-view guessing). Above all,
 > keep <em>estimate</em> (honest guess, uncertain), <em>target</em> (what we'd like), and <em>commitment</em>
 > (what we promise — conservative) distinct — the disaster is an uncertain estimate becoming a firm external
-> commitment, so the uncertainty is lost and the miss becomes a broken promise. And re-estimate without
+> commitment, so the uncertainty is lost and the miss becomes a broken promise. And **re-estimate**[°](#w-re-estimate) without
 > shame as you learn. Estimating well is about honesty and communicating uncertainty, not false precision —
 > which is how you stop being surprised (and surprising others) the same way over and over.
 
@@ -360,6 +354,23 @@ This is central to project leadership (plans rest on estimates) and connects to 
 renegotiating early (Lesson 44). The next lesson turns to finding what will actually kill a project — risk
 management — identifying and retiring the real risks early rather than being blindsided by them.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-estimate-target-commitment"></a>**estimate / target / commitment** — honest guess / hoped-for goal / firm promise: three different things never to conflate (the lesson's core).
+- <a id="w-conflate"></a>**conflate** — to blur two different things into one.
+- <a id="w-unknown-unknowns"></a>**unknown unknowns** — the problems you can't foresee because you don't know they exist.
+- <a id="w-optimism-bias-planning-fallacy"></a>**optimism bias / planning fallacy** — the systematic human tendency to imagine the happy path and underestimate work.
+- <a id="w-the-happy-path"></a>**the happy path** — the scenario where nothing goes wrong.
+- <a id="w-pressure-contaminated"></a>**pressure-contaminated** — an estimate unconsciously shrunk to please whoever wants it smaller.
+- <a id="w-point-estimate-vs-range"></a>**point estimate vs range** — a single number ("3 weeks") vs an honest spread ("2–5 weeks").
+- <a id="w-reference-class-forecasting"></a>**reference-class forecasting** — estimating from how long *similar past projects actually took* (the "outside view") instead of imagining this one's steps (the "inside view").
+- <a id="w-conservative"></a>**conservative** — deliberately cautious; commitments should be.
+- <a id="w-re-estimate"></a>**re-estimate** — updating the estimate as you learn; honest, not shameful.
 
 ---
 

@@ -17,19 +17,27 @@ they're structured the way your first language structures thoughts, then
 translated word-by-word into English. The grammar is fine; the *shape* is wrong.
 Learning to catch and reshape these is the last big piece of sounding natural.
 
-```
-   TRANSLATED SHAPE                    NATURAL ENGLISH SHAPE
-   ────────────────                    ────────────────────
-   long wind-up before the point:      point first, then detail:
-   "As I was checking the logs and     "I checked the logs. The problem
-    considering the various possible     is the database timeout."
-    causes, I came to think that the
-    problem might be the database..."
+Sentences can be grammatically perfect and still read as translated. Two
+patterns account for most of it.
 
-   over-formal words in chat:          plain words:
-   "Kindly revert to me"               "Let me know" / "get back to me"
-   "Please do the needful"             "Please handle it"
-```
+**The long wind-up.** Many languages build to the point; English puts it first.
+
+> *Translated shape:* "As I was checking the logs and considering the various
+> possible causes, I came to think that the problem might be the database…"
+> *Natural shape:* "I checked the logs. The problem is the database timeout."
+
+**Over-formal words in chat.** Certain phrases are correct English, and yet no
+native colleague would send them:
+
+| Over-formal | Plain |
+|---|---|
+| "Kindly revert to me" | "Let me know" / "get back to me" |
+| "Please do the needful" | "Please handle it" |
+
+Neither pattern is a grammar error, which is exactly why they survive
+proofreading. The fix for the first is structural — **point first, detail
+after** — and the fix for the second is simply knowing which phrases have
+drifted out of use.
 
 The most common patterns: (1) **long openings before the point** (English prefers
 the point first — a legacy of BLUF, Lesson 13 in leadership), (2) **over-formal

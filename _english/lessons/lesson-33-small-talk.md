@@ -19,15 +19,26 @@ speakers it can feel especially hard (what do I say? I don't get the cultural re
 but it's not about being witty — it's about **showing warm, genuine interest in people**,
 which anyone can do.
 
-```
-   SMALL TALK IS NOT:                 SMALL TALK IS:
-   • being witty or clever            • a warm opener   "How's your week going?"
-   • cultural in-jokes                • genuine interest "How did the move go?"
-   • performing                       • a little sharing "Mine was good — [thing]."
-                                      • remembering      "How's your daughter's recital?"
+Small talk intimidates non-native speakers mostly because they think it is
+something harder than it is.
 
-   Warmth + genuine interest + a bit of follow-up. That's it.
-```
+**Small talk is not** being witty or clever, trading cultural in-jokes, or
+performing. If you have been avoiding it because you cannot do those things in
+English, you have been avoiding the wrong thing.
+
+**Small talk is** a warm opener, genuine interest, a little sharing of your
+own, and remembering:
+
+- "How's your week going?"
+- "How did the move go?"
+- "Mine was good — [one small thing]."
+- "How's your daughter's recital?"
+
+That last one is the whole skill in miniature. **Remembering one detail and
+asking about it later** does more for a working relationship than any amount of
+fluency, and it requires no vocabulary you do not already have.
+
+Warmth, genuine interest, and a bit of follow-up. That is all of it.
 
 The reframe: small talk isn't a performance you have to be clever at; it's a small act of
 **warmth and interest** that builds the human connection underneath all professional

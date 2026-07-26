@@ -10,39 +10,33 @@ parent: "Phase 12: Your Path"
 
 # Lesson 67: Choosing (and Re-choosing) Your Path
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **the real dailies** — what a role's ordinary Tuesday actually contains, as opposed to its job-description fantasy.
-> - **calendar screenshot** (as evidence) — asking someone in the role to show what their week really looks like.
-> - **energizes vs flatters** — work that genuinely engages you day-to-day vs status that merely pleases your ego.
-> - **acting role** — a bounded temporary trial of a job (Lesson 33).
-> - **rotation** — a planned temporary stint in a different role.
-> - **one-way door** — an irreversible decision (Lesson 07); the career choice is *not* one.
-> - **the pendulum** — swinging between IC and management over a career; normal and healthy (Lesson 02).
-> - **exit criteria** — the conditions you decide in advance that would tell you, in a year, to re-choose.
-> - **decision memo** — writing your choice down with reasoning and review date — this course's final exercise.
-> - **capstone** — the final crowning piece of a course (as in the Canada track's Lesson 47).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 The final question this course prepares you for: **which path — Lead, EM, or Staff+ (technical) — is right
-for you?** This is the capstone. The key insights: make the decision with **real information** about what
+for you?** This is the **capstone**[°](#w-capstone). The key insights: make the decision with **real information** about what
 each path's <em>daily reality</em> actually is (not the job-description fantasy), distinguish **what
 energizes you** from **what merely flatters you**, try before committing where you can, and — crucially —
-**keep the decision revisable** (the pendulum between IC and management is normal and healthy; this isn't a
-one-way door). You end the course by writing your own decision memo.
+**keep the decision revisable** (**the pendulum**[°](#w-the-pendulum) between IC and management is normal and healthy; this isn't a
+**one-way door**[°](#w-one-way-door)). You end the course by writing your own **decision memo**[°](#w-decision-memo).
 
-```
-   CHOOSING YOUR PATH (with real info, revisable)
-   ┌──────────────────────────────────────────────────────┐
-   │ • THE REAL DAILIES (calendar screenshots, not job specs)│
-   │ • what ENERGIZES you vs what merely FLATTERS you        │
-   │ • TRY before committing (acting roles, internships)     │
-   │ • the PENDULUM (IC ⇄ management) is normal & healthy —  │
-   │   NOT a one-way door                                   │
-   │ • EXIT CRITERIA: how you'll know in a year              │
-   └──────────────────────────────────────────────────────┘
-```
+Choosing between the paths deserves real information rather than a guess, and
+five things provide it.
+
+- **Look at the real dailies.** Ask people in each role for a screenshot of
+  last week's calendar. Job descriptions describe the role's purpose; calendars
+  describe the job.
+- **Separate what energises you from what merely flatters you.** These feel
+  similar from the inside and diverge sharply over a year.
+- **Try before committing** — acting-lead stints, management internships, a
+  rotation. Most organisations will let you test the thing that is otherwise a
+  large irreversible bet.
+- **Know that the pendulum is normal.** Moving between IC and management, in
+  both directions, is a healthy and common career, and it is not a one-way door
+  whatever the folklore says.
+- **Set exit criteria** — decide now how you will know, a year from now, whether
+  this was right. Without them you will rationalise whatever happened.
 
 The reframe: **choose your path based on the real daily reality (what actually energizes you), try it before
 fully committing, and keep the choice revisable — it's not a one-way, permanent decision.** People often
@@ -57,7 +51,7 @@ like, choose what genuinely energizes you, and know you can re-choose (the pendu
 ### The real dailies — calendar screenshots, not job descriptions
 
 The most important input: understand what each path's **daily reality actually is** — not the idealized job
-description, but the real day-to-day (a "calendar screenshot" view). The paths differ profoundly in dailies:
+description, but the real day-to-day (a "**calendar screenshot**[°](#w-calendar-screenshot)" view). The paths differ profoundly in dailies:
 (1) **Staff+/technical** — deep technical work, architecture, hard problems, still substantially hands-on,
 influence through technical leadership; (2) **EM** — mostly people (1:1s, hiring, performance, coaching),
 meetings, coordination, little hands-on coding, success measured through the team; (3) **Tech Lead** — a
@@ -105,7 +99,7 @@ revisit.
 
 ### Exit criteria — how you'll know in a year
 
-When you choose a path, set **exit criteria** — how you'll know, in a year, whether it's working: what would
+When you choose a path, set **exit criteria**[°](#w-exit-criteria) — how you'll know, in a year, whether it's working: what would
 tell you it's right (you're energized, growing, effective, fulfilled) vs. wrong (drained, miserable, it's not
 you)? Setting these criteria in advance (rather than judging in the fraught moment) gives you a clear,
 pre-committed way to evaluate the choice — and a built-in re-evaluation point (revisit in a year against the
@@ -119,7 +113,7 @@ irreversible leap.
 > The Lead/EM/Staff+ choice is the capstone. Choose it on the <em>real dailies</em> (what each path's day
 > actually looks like — calendar screenshots, not job descriptions), distinguishing <em>what energizes you</em>
 > from <em>what merely flatters you</em> (choose the genuinely engaging work, not the ego-flattering "next
-> step"). <em>Try before committing</em> (acting roles, projects — get real information). And crucially, keep
+> step"). <em>Try before committing</em> (**acting roles**[°](#w-acting-role), projects — get real information). And crucially, keep
 > it <em>revisable</em>: the IC⇄management <em>pendulum is normal and healthy</em>, not a one-way door (going
 > back is a legitimate choice, not failure) — which takes the pressure off and frees you to choose what's
 > right for you now. Set <em>exit criteria</em> (how you'll know in a year) and a re-evaluation date. The
@@ -136,7 +130,7 @@ exposure to what each path involves).
 
 **Write your decision memo** — including: (1) your **choice** (Lead / EM / Staff+ / undecided-and-here's-how-
 I'll-decide); (2) your **evidence** (from this course's scenarios and your own experience — what energized
-vs. drained you, what the real dailies revealed); (3) your **12-month plan** (how you'll pursue or test the
+vs. drained you, what **the real dailies**[°](#w-the-real-dailies) revealed); (3) your **12-month plan** (how you'll pursue or test the
 choice); and (4) your **re-evaluation date** (when and how you'll revisit it). Make it genuinely yours.
 
 **Your response:**
@@ -361,6 +355,23 @@ understanding that leadership is learnable, revisable, and yours to grow into de
 completing the journey — and remember it's just the beginning of a leadership practice you'll keep developing
 for the rest of your career.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-the-real-dailies"></a>**the real dailies** — what a role's ordinary Tuesday actually contains, as opposed to its job-description fantasy.
+- <a id="w-calendar-screenshot"></a>**calendar screenshot** (as evidence) — asking someone in the role to show what their week really looks like.
+- <a id="w-energizes-vs-flatters"></a>**energizes vs flatters** — work that genuinely engages you day-to-day vs status that merely pleases your ego.
+- <a id="w-acting-role"></a>**acting role** — a bounded temporary trial of a job (Lesson 33).
+- <a id="w-rotation"></a>**rotation** — a planned temporary stint in a different role.
+- <a id="w-one-way-door"></a>**one-way door** — an irreversible decision (Lesson 07); the career choice is *not* one.
+- <a id="w-the-pendulum"></a>**the pendulum** — swinging between IC and management over a career; normal and healthy (Lesson 02).
+- <a id="w-exit-criteria"></a>**exit criteria** — the conditions you decide in advance that would tell you, in a year, to re-choose.
+- <a id="w-decision-memo"></a>**decision memo** — writing your choice down with reasoning and review date — this course's final exercise.
+- <a id="w-capstone"></a>**capstone** — the final crowning piece of a course (as in the Canada track's Lesson 47).
 
 ---
 

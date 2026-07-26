@@ -18,15 +18,25 @@ to catch up, which lets a misunderstanding through. The skill is a set of easy, 
 phrases to **ask them to repeat, slow down, or clarify** — with zero embarrassment. This is
 non-optional for participating accurately: you cannot respond well to what you didn't hear.
 
-```
-   DON'T:  nod along pretending you caught it  →  misunderstanding compounds
+**Don't** nod along pretending you caught it. The misunderstanding compounds,
+and it surfaces later at a much worse moment — usually when you have built the
+wrong thing.
 
-   DO, gracefully:
-   • "Sorry, could you say that again?"
-   • "You're coming through a bit fast — could you slow down slightly?"
-   • "I didn't catch the last part — from '[last words you got]'?"
-   • "Could you spell that / put it in the chat?"   (for names, terms)
-```
+**Do** ask, gracefully:
+
+- "Sorry, could you say that again?"
+- "You're coming through a bit fast — could you slow down slightly?"
+- "I didn't catch the last part — from '[the last words you did get]'?"
+- "Could you spell that, or put it in the chat?" — for names and technical
+  terms.
+
+The third one is the most efficient of the four, because it tells the speaker
+exactly where you lost the thread, so they repeat five words instead of the
+whole paragraph.
+
+And a note on the fourth: asking for something in writing is completely normal
+for names, versions, and unfamiliar terms. Nobody has ever thought less of a
+colleague for saying "could you drop that in the chat?"
 
 The reframe (from Lesson 29, expanded): **asking someone to repeat or slow down is normal and
 blameless — everyone does it, and it's smarter than guessing.** There are neutral, easy ways

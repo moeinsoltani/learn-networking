@@ -10,15 +10,7 @@ parent: "Phase 7: Documenting, Evaluating & Evolving Architecture"
 
 # Lesson 30: Evaluating Architecture — ATAM, Trade-offs & Fitness Functions
 
-{: .note }
-> **Words to know**
-> - **ATAM** — Architecture Tradeoff Analysis Method: a structured way to evaluate a design against its quality-attribute scenarios and find the risks and trade-offs. Here we use it *in spirit*, not the full ceremony.
-> - **quality-attribute scenario** — a testable statement of a requirement: a *stimulus* → the system's *response* → a *measure* (Lesson 3).
-> - **sensitivity point** — a decision that strongly affects *one* quality attribute (turn this dial and availability moves a lot).
-> - **trade-off point** — a decision that affects *two or more* attributes in opposite directions (better performance here costs consistency there).
-> - **risk** — a decision that might not meet a quality-attribute requirement; the thing an evaluation is hunting for.
-> - **fitness function** — an automated, continuous check that a quality attribute still holds (e.g., "no cyclic dependencies", "p99 < 200ms").
-> - **evaluate before you build** — judging a design on paper is orders of magnitude cheaper than discovering its flaws in production.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,28 +21,35 @@ enough, available enough, secure enough, changeable enough" — and evaluation i
 them automatically as the system evolves. You don't need heavyweight ceremony; you need a stance: **"what
 would break this?"** applied to a design against the specific quality attributes it's *for* (Lesson 3).
 
-```
-   EVALUATE THE DESIGN BEFORE (and while) YOU BUILD IT
+Architecture can be evaluated **before** you build it, and the mechanism is the
+quality-attribute scenario from Lesson 03 — stimulus, response, measure.
 
-   quality-attribute scenarios  ──▶  probe the design  ──▶  findings
-   (Lesson 3: stimulus→response→measure)                   ┌──────────────────────┐
-                                                            │ SENSITIVITY point:   │
-   "10× traffic on Black Friday →                          │  one attr swings hard │
-    checkout stays < 1s at p99"                            ├──────────────────────┤
-   "primary DB region fails →                              │ TRADE-OFF point:     │
-    reads still served, < 30s to recover"                  │  two attrs conflict   │
-                                                            ├──────────────────────┤
-        the review stance:                                 │ RISK:                │
-        "what would break this?"                           │  may miss a scenario  │
-                                                            └──────────────────────┘
-   then FITNESS FUNCTIONS make the important ones CONTINUOUS (tests, not one-time)
-```
+Concrete examples:
 
-Two ideas do the work. First, **scenario-based evaluation** (ATAM *in spirit*): take the top quality
+> "10× traffic on Black Friday → checkout stays under 1 s at p99."
+> "The primary database region fails → reads are still served, and recovery
+> takes under 30 s."
+
+You then probe the design against each scenario, with a review stance of **"what
+would break this?"** rather than "does this look reasonable?" The findings sort
+into three kinds:
+
+- **Sensitivity points** — places where one quality attribute swings hard on a
+  single decision.
+- **Trade-off points** — places where two attributes conflict, so improving one
+  degrades the other. These are the decisions worth an ADR.
+- **Risks** — including the scenario you may not have thought of, which is why
+  the exercise is done with several people.
+
+Finally, **fitness functions** make the important scenarios **continuous**: an
+automated test that fails the build when p99 latency regresses turns a one-time
+review into an ongoing guarantee.
+
+Two ideas do the work. First, **scenario-based evaluation** (**ATAM**[°](#w-atam) *in spirit*): take the top quality
 attributes, write concrete scenarios for each, walk them through the design, and surface three things —
-**sensitivity points** (decisions one attribute is very sensitive to), **trade-off points** (decisions
-where attributes conflict — the architect's real subject matter), and **risks** (places the design may
-not meet a scenario). Second, **fitness functions**: for the attributes that matter continuously, turn
+**sensitivity points**[°](#w-sensitivity-point) (decisions one attribute is very sensitive to), **trade-off points**[°](#w-trade-off-point) (decisions
+where attributes conflict — the architect's real subject matter), and **risks**[°](#w-risk) (places the design may
+not meet a scenario). Second, **fitness functions**[°](#w-fitness-function): for the attributes that matter continuously, turn
 the evaluation into an *automated test* that runs forever ("no module may import the database directly",
 "p99 latency < 200ms", "no service calls another service's database") — so the architecture doesn't
 silently erode after the review is over. Evaluation is how you find flaws while they're still cheap to
@@ -60,7 +59,7 @@ fix, and fitness functions are how you keep them fixed.
 
 **Scenario-based evaluation — ATAM in spirit.** The
 [ATAM](https://en.wikipedia.org/wiki/Architecture_tradeoff_analysis_method) is a formal method, but its
-*core* is simple and portable: you evaluate an architecture against **quality-attribute scenarios**, not
+*core* is simple and portable: you evaluate an architecture against **quality-attribute scenarios**[°](#w-quality-attribute-scenario), not
 against opinions. The lightweight version: (1) name the top 3–5 quality attributes that actually drive
 this system (the ASRs, Lesson 4); (2) write 1–2 concrete **scenarios** per attribute — each a testable
 *stimulus → response → measure* (Lesson 3), e.g. "traffic spikes 10× during a flash sale (stimulus) →
@@ -317,6 +316,20 @@ production surprises; its core is scenarios + the "what would break this?" stanc
 are the essential findings; and fitness functions are how you stop the evaluated architecture from
 silently decaying the day after the review — turning rules you hope hold into rules you know hold.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-atam"></a>**ATAM** — Architecture Tradeoff Analysis Method: a structured way to evaluate a design against its quality-attribute scenarios and find the risks and trade-offs. Here we use it *in spirit*, not the full ceremony.
+- <a id="w-quality-attribute-scenario"></a>**quality-attribute scenario** — a testable statement of a requirement: a *stimulus* → the system's *response* → a *measure* (Lesson 3).
+- <a id="w-sensitivity-point"></a>**sensitivity point** — a decision that strongly affects *one* quality attribute (turn this dial and availability moves a lot).
+- <a id="w-trade-off-point"></a>**trade-off point** — a decision that affects *two or more* attributes in opposite directions (better performance here costs consistency there).
+- <a id="w-risk"></a>**risk** — a decision that might not meet a quality-attribute requirement; the thing an evaluation is hunting for.
+- <a id="w-fitness-function"></a>**fitness function** — an automated, continuous check that a quality attribute still holds (e.g., "no cyclic dependencies", "p99 < 200ms").
+- <a id="w-evaluate-before-you-build"></a>**evaluate before you build** — judging a design on paper is orders of magnitude cheaper than discovering its flaws in production.
 
 ---
 

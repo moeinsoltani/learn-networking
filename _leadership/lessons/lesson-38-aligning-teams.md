@@ -10,18 +10,7 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 38: Aligning Teams Around a Direction
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **alignment vs agreement** — actually building compatible things toward one shared understanding vs merely nodding in a meeting (the lesson's core pair).
-> - **silent misalignment** — everyone "agreed" but each understood something different; invisible until the pieces collide.
-> - **memo** — a short written statement of direction, reasoning, and scope; the alignment tool.
-> - **the "say it back" test** — asking people to state the direction in their own words, which exposes divergent interpretations.
-> - **multi-region / active-active / DR** — example jargon from the lesson: running in several data centres / all serving traffic at once / a disaster-recovery backup.
-> - **in/out of scope** — what a direction includes and deliberately excludes.
-> - **drift** — slow unnoticed movement away from the agreed direction.
-> - **cadence** — a regular repeating rhythm (a "re-alignment cadence").
-> - **kickoff** — the meeting that starts an effort.
-> - **rowing the same direction** — everyone's efforts pushing the same way (a boat metaphor).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -30,26 +19,30 @@ they actually build compatible things toward a shared direction — is hard. Mis
 expensive: teams nod along to "we're going multi-region," then each builds something different because
 they interpreted it differently, and nobody notices until the incompatible pieces collide. The skill is
 creating alignment that **survives after you leave the room** — primarily by **writing the direction
-down** (the memo is the tool) and by detecting silent misalignment early.
+down** (the **memo**[°](#w-memo) is the tool) and by detecting **silent misalignment**[°](#w-silent-misalignment) early.
 
-```
-   ALIGNMENT ≠ AGREEMENT
-   ┌──────────────────────────────────────────────────────┐
-   │ AGREEMENT: nodding in the meeting ("yes, multi-region")│
-   │ ALIGNMENT: everyone building COMPATIBLE things toward   │
-   │            the SAME understood direction                │
-   │ → the gap: people "agree" but interpret it differently  │
-   │   (silent misalignment) → incompatible work → collision │
-   └──────────────────────────────────────────────────────┘
-   TOOLS: write it down (the memo) · "say it back" test ·
-          disagree-and-commit · re-alignment cadence
-```
+Alignment and agreement are not the same thing, and mistaking one for the other
+is how two teams build incompatible systems while everyone is nodding.
+
+**Agreement** is people saying yes in a meeting — "yes, multi-region."
+**Alignment** is everyone building *compatible* things toward the *same
+understood* direction.
+
+The gap between them is silent. People genuinely agree with the words and
+interpret them differently, so nobody notices anything is wrong until the work
+collides — often a quarter later, expensively.
+
+Four tools close it: **write it down** (the memo, so there is one artefact to
+disagree with); the **"say it back" test** (ask people to restate the decision
+in their own words, and listen for the divergence); **disagree and commit**,
+made explicit so dissent is voiced *and then set down*; and a **re-alignment
+cadence**, because alignment decays quietly as circumstances change.
 
 The reframe: **alignment isn't agreement in a meeting — it's a shared, durable understanding that
 survives after the room, which you create by writing the direction down and checking for silent
 misalignment.** Verbal agreement is cheap and evaporates (people forget, or "agreed" to different
 interpretations); a written direction (a memo) creates a durable, shared, referenceable understanding —
-and the "say it back" test surfaces the silent misalignment (different interpretations of the same
+and **the "say it back" test**[°](#w-the-say-it-back-test) surfaces the silent misalignment (different interpretations of the same
 words) before it causes collisions.
 
 ---
@@ -68,7 +61,7 @@ mistaking the easy agreement (nods) for the hard alignment (shared understanding
 ### Write the direction down — the memo is the tool
 
 The single most powerful alignment tool: **write the direction down.** A clear written memo (the
-direction, the reasoning, the key decisions, what's in/out of scope) creates alignment that verbal
+direction, the reasoning, the key decisions, what's **in/out of scope**[°](#w-in-out-of-scope)) creates alignment that verbal
 discussion can't, because: (1) it's a **single shared reference** — everyone can point to the same words
 (vs. everyone's fuzzy memory of a meeting); (2) it **forces precision** — writing it down surfaces the
 ambiguities and disagreements that a verbal discussion glosses over (you have to actually specify what
@@ -95,16 +88,16 @@ Real alignment doesn't require everyone to <em>agree</em> — it requires everyo
 is made, and then everyone commits to and executes it — even those who disagreed. Done honestly, this
 means (1) people genuinely got to voice their dissent (and felt heard), (2) a clear decision was made, and
 (3) everyone — including dissenters — genuinely gets behind it (not grudgingly sabotaging). This creates
-alignment (everyone rowing the same direction) without requiring unanimous agreement (which is often
+alignment (everyone **rowing the same direction**[°](#w-rowing-the-same-direction)) without requiring unanimous agreement (which is often
 impossible). The "honestly" matters: fake disagree-and-commit (people say they'll commit but quietly
 resist) isn't alignment — real alignment needs genuine commitment after genuine voice.
 
 ### Re-alignment cadence — alignment decays
 
-Alignment isn't set-once — it **decays** over time (circumstances change, details drift, new people join,
+Alignment isn't set-once — it **decays** over time (circumstances change, details **drift**[°](#w-drift), new people join,
 memories fade), so it needs a **re-alignment cadence**: periodically revisiting the direction (is it still
 right? are we still aligned? has drift crept in?) and re-establishing shared understanding. Especially for
-long or evolving efforts, checking alignment regularly (not assuming it holds from the kickoff) catches
+long or evolving efforts, checking alignment regularly (not assuming it holds from the **kickoff**[°](#w-kickoff)) catches
 drift early. Alignment is maintained, not achieved once.
 
 {: .note }
@@ -115,7 +108,7 @@ drift early. Alignment is maintained, not achieved once.
 > by <em>writing the direction down</em> (the memo forces precision, is a single shared reference, and is
 > durable and checkable), and detect silent misalignment with the <em>"say it back" test</em> (have people
 > articulate what it means for them — divergent interpretations surface before they cause collisions). Use
-> honest disagree-and-commit (commitment, not unanimous agreement), and maintain a re-alignment cadence
+> honest disagree-and-commit (commitment, not unanimous agreement), and maintain a re-alignment **cadence**[°](#w-cadence)
 > (alignment decays). The core: don't mistake nodding for alignment — build shared understanding that
 > survives after the room, in writing, and keep verifying it.
 
@@ -346,6 +339,23 @@ shared understanding. This is a key influence-without-authority skill (aligning 
 it builds on writing (Lesson 16, English track docs) and disagree-and-commit. The last Phase 7 lesson scales
 up to the hardest version — driving change across an entire organization, bigger than any team you control.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-alignment-vs-agreement"></a>**alignment vs agreement** — actually building compatible things toward one shared understanding vs merely nodding in a meeting (the lesson's core pair).
+- <a id="w-silent-misalignment"></a>**silent misalignment** — everyone "agreed" but each understood something different; invisible until the pieces collide.
+- <a id="w-memo"></a>**memo** — a short written statement of direction, reasoning, and scope; the alignment tool.
+- <a id="w-the-say-it-back-test"></a>**the "say it back" test** — asking people to state the direction in their own words, which exposes divergent interpretations.
+- <a id="w-multi-region-active-active-dr"></a>**multi-region / active-active / DR** — example jargon from the lesson: running in several data centres / all serving traffic at once / a disaster-recovery backup.
+- <a id="w-in-out-of-scope"></a>**in/out of scope** — what a direction includes and deliberately excludes.
+- <a id="w-drift"></a>**drift** — slow unnoticed movement away from the agreed direction.
+- <a id="w-cadence"></a>**cadence** — a regular repeating rhythm (a "re-alignment cadence").
+- <a id="w-kickoff"></a>**kickoff** — the meeting that starts an effort.
+- <a id="w-rowing-the-same-direction"></a>**rowing the same direction** — everyone's efforts pushing the same way (a boat metaphor).
 
 ---
 

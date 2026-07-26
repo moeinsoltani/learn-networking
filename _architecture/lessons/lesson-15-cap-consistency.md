@@ -10,40 +10,38 @@ parent: "Phase 4: Distributed Systems"
 
 # Lesson 15: CAP, PACELC & Consistency Models
 
-{: .note }
-> **Words to know**
-> - **consistency (C in CAP)** — every read sees the most recent write; all nodes agree on the current value.
-> - **availability (A in CAP)** — every request gets a (non-error) response, even if it might be stale.
-> - **partition (P)** — a network split where nodes can't all communicate, though each is still alive.
-> - **CAP theorem** — during a partition you must choose consistency *or* availability; you can't have both.
-> - **PACELC** — the fuller rule: on Partition, choose A or C; Else (normal operation), choose Latency or Consistency.
-> - **eventual consistency** — replicas may disagree briefly but converge to the same value if writes stop.
-> - **linearizable / strong consistency** — the system behaves as if there's a single, up-to-date copy.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Once data lives on more than one machine, you hit the deepest trade-off in distributed
 systems: when the network splits, you cannot have *both* perfect consistency and full
-availability. The **CAP theorem** (Eric Brewer) states it precisely — and it's constantly
+availability. The **CAP theorem**[°](#w-cap-theorem) (Eric Brewer) states it precisely — and it's constantly
 misquoted. It is *not* "pick 2 of 3 always." Partitions are not something you choose; the
 network *will* split sometimes (fallacy 1, Lesson 14). CAP is about what you do *when it
 does*: **during a partition, you must choose between Consistency and Availability.**
 
-```
-   CAP — only matters DURING a partition:
+CAP is widely quoted and usually misapplied, so start with the constraint that
+makes it precise: **CAP only matters during a partition.**
 
-        Network partition!  Node A  ⇗⇗⇗  ✂  ⇖⇖⇖  Node B
-        A write arrives at A. B can't hear it. A read hits B.
-                              │
-            ┌─────────────────┴──────────────────┐
-        Choose C (consistency)            Choose A (availability)
-        → refuse/block the read on B      → answer from B with the OLD value
-          until it can confirm it's        → stays up, but returns stale data
-          current (or error out)          → "eventual consistency"
-        → correct, but UNAVAILABLE        → available, but INCONSISTENT
+Picture two nodes, A and B, with the network between them cut. A write arrives
+at A. B cannot hear about it. Now a read arrives at B, and the system must
+choose.
 
-   You cannot have both while partitioned. Pick based on the DATA's needs.
-```
+**Choose consistency** and B refuses or blocks the read until it can confirm it
+is current — or it returns an error. The answer is correct, and the system is
+*unavailable*.
+
+**Choose availability** and B answers from what it has, which is the old value.
+The system stays up, and the answer is *stale*. This is what "eventual
+consistency" means in practice.
+
+You cannot have both while partitioned; that is the whole theorem. What it does
+**not** say is that you must pick two of three properties for your system
+forever. When the network is healthy you get consistency and availability both,
+and the choice is made **per piece of data, based on what that data needs** — a
+bank balance and a "likes" counter should not answer this question the same
+way.
 
 The choice is per-data, not per-system: a bank balance during a partition should refuse
 rather than risk a wrong number (choose **C**), while a social "like" count should keep
@@ -53,7 +51,7 @@ consistency choice to *the business cost of being wrong*.
 ## Going Deeper
 
 **PACELC — the part CAP leaves out.** CAP only describes the partition case, which is rare.
-**PACELC** (Daniel Abadi) completes it: *if Partition, choose Availability or Consistency;
+**PACELC**[°](#w-pacelc) (Daniel Abadi) completes it: *if Partition, choose Availability or Consistency;
 **Else** (the normal, no-partition case), choose Latency or Consistency.* The "else" is the
 insight — even when the network is healthy, you're *constantly* trading consistency for
 latency: to guarantee a read sees the latest write, the system must coordinate across
@@ -98,7 +96,7 @@ piece of data, ask: *what's the business cost if a read returns a stale or diver
 - Catastrophic (money moved twice, oversold inventory, a wrong medical record) → strong
   consistency, accept the latency/availability cost.
 - Annoying but harmless (a like count off by one, a slightly stale "last seen", a
-  recommendation not yet updated) → eventual consistency, keep the speed and availability.
+  recommendation not yet updated) → **eventual consistency**[°](#w-eventual-consistency), keep the speed and availability.
 - In between → a session guarantee (read-your-writes) or causal consistency.
 
 The same system holds data at *different* points on the spectrum: an e-commerce app wants
@@ -336,6 +334,20 @@ that meets the need</em>, and both over- and under-choosing are real, correctabl
 one costs you speed and uptime, the other costs you correctness. A good answer names at least
 one concrete instance of each mismatch to act on.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-consistency-c-in-cap"></a>**consistency (C in CAP)** — every read sees the most recent write; all nodes agree on the current value.
+- <a id="w-availability-a-in-cap"></a>**availability (A in CAP)** — every request gets a (non-error) response, even if it might be stale.
+- <a id="w-partition-p"></a>**partition (P)** — a network split where nodes can't all communicate, though each is still alive.
+- <a id="w-cap-theorem"></a>**CAP theorem** — during a partition you must choose consistency *or* availability; you can't have both.
+- <a id="w-pacelc"></a>**PACELC** — the fuller rule: on Partition, choose A or C; Else (normal operation), choose Latency or Consistency.
+- <a id="w-eventual-consistency"></a>**eventual consistency** — replicas may disagree briefly but converge to the same value if writes stop.
+- <a id="w-linearizable-strong-consistency"></a>**linearizable / strong consistency** — the system behaves as if there's a single, up-to-date copy.
 
 ---
 

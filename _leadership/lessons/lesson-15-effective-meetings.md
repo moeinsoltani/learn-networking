@@ -10,39 +10,29 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 15: Running Effective Meetings
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **agenda** — the stated purpose, desired outcome, and topics of a meeting, written in advance.
-> - **person-hours** — total human time consumed (10 people × 1 hour = 10 person-hours).
-> - **timebox** — a fixed time limit you hold to ("ten minutes on this item").
-> - **parking lot** — the list where off-topic-but-important points are "parked" for later instead of derailing the meeting.
-> - **derail** — to pull a discussion off its purpose.
-> - **divergent / convergent** — opening up to generate many ideas vs narrowing down to choose; brainstorms need both, in that order.
-> - **zombie meeting** — a recurring meeting that outlived its purpose (Lesson 04).
-> - **inertia** (in-ER-shah) — the tendency of things to keep going simply because they've been going.
-> - **load-bearing** — actually holding weight; a "feels load-bearing but isn't" meeting can be safely killed.
-> - **owners and dates** — every action leaving a meeting needs a named person and a deadline.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Meetings are the most expensive thing a lead controls — a one-hour meeting with
-ten people costs ten person-hours, plus the fragmentation cost to everyone's
+ten people costs ten **person-hours**[°](#w-person-hours), plus the fragmentation cost to everyone's
 maker-schedule (Lesson 4). Yet most meetings are run on autopilot: recurring
 because they've always recurred, unfocused because nobody defined their purpose,
 and tolerated because killing them feels rude. A lead who runs meetings well —
 and, crucially, *doesn't* hold the ones that shouldn't exist — reclaims enormous
 team time.
 
-```
-   THE COST OF A MEETING = (attendees × duration) + fragmentation
-      10 people × 1 hour = 10 person-hours, EVERY week it recurs
-      + everyone's focused block is now split (Lesson 4)
+Start by pricing the thing. **The cost of a meeting is (attendees × duration),
+plus fragmentation.** Ten people for one hour is ten person-hours — every week,
+if it recurs — and on top of that, everyone's focused block is now split in two
+(Lesson 04).
 
-   THE TEST: is this meeting worth that cost? If not:
-      → make it shorter / fewer people / less frequent
-      → or replace it with async (a doc, a Slack update)
-      → or KILL it
-```
+That gives you the only test that matters: **is this meeting worth that cost?**
+
+If it is not, you have three moves, in increasing order of courage: make it
+shorter, smaller, or less frequent; replace it with something asynchronous, a
+document or a written update; or simply kill it. Recurring meetings almost
+never die of natural causes — somebody has to decide.
 
 The foundational rules: **no agenda, no meeting** (a meeting without a stated
 purpose and desired outcome is a meeting that will waste everyone's time), and
@@ -58,7 +48,7 @@ document, a Slack update, or nothing at all.
 
 ### No agenda, no meeting
 
-An agenda isn't bureaucracy — it's the statement of *why we're spending this time
+An **agenda**[°](#w-agenda) isn't bureaucracy — it's the statement of *why we're spending this time
 and what we want to walk out with*. A meeting invite should say: the purpose
 (what's this for?), the desired outcome (what should be true when we're done — a
 decision made? a plan aligned? a problem solved?), and ideally the pre-reading. A
@@ -92,10 +82,10 @@ answer. Name the type, shape it accordingly.
 
 ### Facilitation: timeboxing, parking lots, ending well
 
-Running the meeting: **timebox** (allocate time per agenda item and hold to it —
-"we have ten minutes on this"), **parking lot** (when a tangent arises that's
+Running the meeting: **timebox**[°](#w-timebox) (allocate time per agenda item and hold to it —
+"we have ten minutes on this"), **parking lot**[°](#w-parking-lot) (when a tangent arises that's
 important but off-topic, capture it — "let's park that, I'll follow up" — and move
-on, rather than letting it derail), draw out quiet voices and manage dominators
+on, rather than letting it **derail**[°](#w-derail)), draw out quiet voices and manage dominators
 (Lesson 9's design-review skills apply), and **end with owners and dates** (every
 meeting that produces action should end with "who's doing what by when" — a
 meeting whose outcomes have no owner produces nothing). The written follow-up
@@ -105,13 +95,13 @@ makes it durable.
 ### Killing zombie meetings
 
 The highest-leverage move: recognize and kill meetings that have outlived their
-purpose. Recurring meetings develop inertia — they persist long after the reason
+purpose. Recurring meetings develop **inertia**[°](#w-inertia) — they persist long after the reason
 for them faded, because nobody wants to be the one to cancel. Audit your recurring
 meetings periodically: does this still have a clear purpose? Is the value worth the
 cost? Could it be async, shorter, less frequent, or gone? Killing a useless
 recurring meeting is one of the most appreciated things a lead can do (everyone
 secretly hated it), and it reclaims real time — but it requires the courage to
-cancel something that feels load-bearing but isn't.
+cancel something that feels **load-bearing**[°](#w-load-bearing) but isn't.
 
 {: .note }
 > **The best meeting is often no meeting</br>**
@@ -205,7 +195,7 @@ and handles the human side of changing an established ritual (experiment, input,
 check-in — not unilateral cancellation). It embodies the lesson's core moves: the
 best meeting is often no meeting (status → async), name the meeting's real
 purpose(s) and shape accordingly (separate the three), and have the courage to
-change a zombie meeting (this one had drifted into mostly-waste) — done as a
+change a **zombie meeting**[°](#w-zombie-meeting) (this one had drifted into mostly-waste) — done as a
 collaborative experiment rather than a decree. Common mistakes: (1) keeping it as
 is because "it's always been there" (zombie-meeting inertia — the thing to
 overcome); (2) unilaterally cancelling it without preserving the real coordination
@@ -400,6 +390,23 @@ right-sized — good, that's rare and worth protecting (meetings re-accrete unde
 pressure and growth); the discipline is the periodic re-audit, because the inertia
 that creates zombie meetings never stops operating.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-agenda"></a>**agenda** — the stated purpose, desired outcome, and topics of a meeting, written in advance.
+- <a id="w-person-hours"></a>**person-hours** — total human time consumed (10 people × 1 hour = 10 person-hours).
+- <a id="w-timebox"></a>**timebox** — a fixed time limit you hold to ("ten minutes on this item").
+- <a id="w-parking-lot"></a>**parking lot** — the list where off-topic-but-important points are "parked" for later instead of derailing the meeting.
+- <a id="w-derail"></a>**derail** — to pull a discussion off its purpose.
+- <a id="w-divergent-convergent"></a>**divergent / convergent** — opening up to generate many ideas vs narrowing down to choose; brainstorms need both, in that order.
+- <a id="w-zombie-meeting"></a>**zombie meeting** — a recurring meeting that outlived its purpose (Lesson 04).
+- <a id="w-inertia"></a>**inertia** (in-ER-shah) — the tendency of things to keep going simply because they've been going.
+- <a id="w-load-bearing"></a>**load-bearing** — actually holding weight; a "feels load-bearing but isn't" meeting can be safely killed.
+- <a id="w-owners-and-dates"></a>**owners and dates** — every action leaving a meeting needs a named person and a deadline.
 
 ---
 

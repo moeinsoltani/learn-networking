@@ -17,14 +17,23 @@ the most errors: **no article at all** (the "zero article"). Many non-native
 writers add *the* or *a* where English uses nothing — "the production," "a
 feedback," "the management" — and these small errors are very noticeable.
 
-```
-   THREE choices, not two:
-   a/an  → introducing one countable thing        "a bug", "an error"
-   the   → a specific known thing                  "the bug we found"
-   ∅     → NO article                              "tests are failing",
-           (general statements, uncountable nouns,  "I need access",
-            proper names)                            "in production"
-```
+The most common mistake here is thinking there are two choices. There are
+**three** — and the third one is invisible.
+
+| Choice | Use it for | Examples |
+|---|---|---|
+| **a / an** | Introducing one countable thing | "a bug", "an error" |
+| **the** | A specific thing you both know | "the bug we found" |
+| **∅** (no article) | General statements, uncountable nouns, proper names | "tests are failing", "I need access", "in production" |
+
+That third row is where most article errors live, because in many languages the
+equivalent phrase would take an article. English wants **nothing** in front of a
+general plural ("tests are failing," not "the tests are failing," when you mean
+tests in general), in front of uncountable nouns ("I need access," not "an
+access"), and in front of most proper names.
+
+The zero article is a real choice, not an omission — which is why noticing it is
+worth a whole lesson.
 
 The two big rules for using no article: (1) **plural and uncountable nouns making
 general statements** take no article ("tests are failing" — tests in general, not

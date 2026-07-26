@@ -18,17 +18,24 @@ temperature** so the conversation can become productive again. It's one of the m
 things a lead can do, and it runs against instinct: when someone comes at you hot, the natural
 urge is to defend or match their heat — which pours fuel on the fire.
 
-```
-   WHAT ESCALATES              WHAT DE-ESCALATES
-   ─────────────              ─────────────────
-   matching their heat        stay calm (your calm is contagious)
-   defending immediately      acknowledge the emotion first
-   "you're overreacting"      "I can see this is really frustrating."
-   proving them wrong         find common ground / shared goal
-   winning the argument       lower the stakes; slow down; take it offline
+When someone is angry, some responses reliably pour fuel on it and others
+reliably take heat out.
 
-   Acknowledge the feeling → find common ground → problem-solve
-```
+| What escalates | What de-escalates |
+|---|---|
+| Matching their heat | Staying calm — your calm is contagious |
+| Defending immediately | Acknowledging the emotion first |
+| "You're overreacting" | "I can see this is really frustrating." |
+| Proving them wrong | Finding common ground, or a shared goal |
+| Winning the argument | Lowering the stakes; slowing down; taking it offline |
+
+The sequence: **acknowledge the feeling → find common ground → then
+problem-solve.**
+
+The ordering is what people get wrong. Jumping to the solution while someone is
+still angry reads as dismissal, however good the solution is — and the
+acknowledgement costs one sentence. "You're overreacting" deserves its place on
+the left: it has never once in the history of work caused anyone to react less.
 
 The reframe: **acknowledge the emotion before addressing the content.** A heated person doesn't
 calm down because you prove your point — they calm down when they feel *heard*. So the first move

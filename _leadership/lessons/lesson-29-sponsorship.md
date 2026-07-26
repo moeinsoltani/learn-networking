@@ -10,44 +10,36 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 29: Sponsorship
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **sponsorship** — spending your own credibility and influence *acting* on someone's behalf (vs mentoring, which only advises).
-> - **capital** (social/political) — the accumulated trust and influence you can "spend" on requests and people.
-> - **credibility** — being believed and trusted; what you put at risk when you vouch for someone.
-> - **"saying their name in the room"** — advocating for someone in the meetings they're not invited to.
-> - **visibility** — being seen by decision-makers; work leadership never sees doesn't advance anyone.
-> - **promotion calibration** — the leadership meeting where candidates for promotion are compared and decided.
-> - **stretch assignment** — a visible, high-stakes task given to grow and showcase someone (Lesson 27).
-> - **the safe pick** — the always-chosen, already-proven person; defaulting to them concentrates opportunity.
-> - **underrepresented groups** — people whose group is scarce in the field and who face extra bias.
-> - **equity lever** — a tool that corrects unfair gaps in opportunity.
-> - **self-promote** — to advertise your own accomplishments; those who don't need sponsors most.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Mentoring *advises*; sponsorship *acts*. Mentoring is giving someone guidance; **sponsorship is
+Mentoring *advises*; **sponsorship**[°](#w-sponsorship) *acts*. Mentoring is giving someone guidance; **sponsorship is
 spending your own credibility and capital on someone else's behalf** — putting them on the visible
 project, saying their name in the promotion discussion, advocating for them when they're not in the
 room. It's the growth tool nobody tells you about, and it's often what actually moves careers
 (advice helps you get better; sponsorship gets you seen and given opportunities). As a lead, you
-have credibility and access others don't — sponsorship is spending it on your people.
+have **credibility**[°](#w-credibility) and access others don't — sponsorship is spending it on your people.
 
-```
-   MENTORING (advises)              SPONSORSHIP (acts)
-   ───────────────────              ──────────────────
-   "here's how to grow"             puts them ON the visible project
-   "here's my advice"               says their name in the promo meeting
-   "here's how I'd approach it"      advocates when they're not in the room
-        ↓ helps them get better         staffs them on the stretch assignment
-                                        ↓ gets them SEEN, given opportunities,
-                                          and advanced — spends YOUR capital
-```
+Mentoring advises. Sponsorship *acts* — and the second one is what actually
+moves careers.
+
+| **Mentoring** (advises) | **Sponsorship** (acts) |
+|---|---|
+| "Here's how to grow" | Puts them **on** the visible project |
+| "Here's my advice" | Says their name in the promotion meeting |
+| "Here's how I'd approach it" | Advocates for them when they are not in the room |
+| Helps them get better | Staffs them on the stretch assignment |
+
+The distinction that matters: mentoring costs you time, while **sponsorship
+spends your capital**. You are attaching your credibility to someone else's
+performance. That is precisely why it works, and why it is rationed — and why
+noticing whom you sponsor, and whom you merely mentor, is worth doing honestly.
 
 The reframe: **mentoring makes someone better; sponsorship gets them the opportunities and
 visibility that actually advance them — by spending your credibility.** Advice alone often isn't
 enough: people need to be *given* the visible work, *advocated for* in the rooms they're not in, and
-*put forward* for opportunities — which requires someone with capital to spend it on them. That's
+*put forward* for opportunities — which requires someone with **capital**[°](#w-capital) to spend it on them. That's
 sponsorship, and doing it deliberately (including for the people who don't naturally get picked) is
 one of the most powerful and overlooked ways a lead grows people.
 
@@ -63,12 +55,12 @@ high-visibility project, recommending them for a promotion, naming them in a roo
 advocating for a stretch opportunity, introducing them to the right people. Mentoring helps someone
 get better; sponsorship gets them *seen and advanced*. Both matter, but sponsorship is often what
 actually moves a career — because being good isn't enough; you also need the opportunities and
-visibility, which sponsorship provides.
+**visibility**[°](#w-visibility), which sponsorship provides.
 
 ### "Saying their name in the room"
 
 A concrete, high-impact form of sponsorship: **advocating for people when they're not present** —
-in staffing decisions, promotion calibrations, leadership discussions. "Priya's rollback design is
+in staffing decisions, **promotion calibrations**[°](#w-promotion-calibration), leadership discussions. "Priya's rollback design is
 why the migration was zero-downtime — she's ready for the senior role." Much of what determines
 people's opportunities and advancement happens in rooms they're not in, and having someone with
 credibility name their accomplishments and advocate for them there is often decisive. As a lead, you
@@ -88,11 +80,11 @@ partly on the line), which is exactly what makes it sponsorship, not just delega
 The critical equity point: **notice who you default to — and who you're overlooking.** The instinct
 is to give the visible opportunities to the "safe" pick (the person who always gets picked, who's
 most proven, often the most confident or most similar to you) — which means the same people get
-sponsored repeatedly while others (quieter people, those who don't self-promote, people from
-underrepresented groups who face bias) get overlooked. This compounds inequity: the already-advantaged
+sponsored repeatedly while others (quieter people, those who don't **self-promote**[°](#w-self-promote), people from
+**underrepresented groups**[°](#w-underrepresented-groups) who face bias) get overlooked. This compounds inequity: the already-advantaged
 get more opportunities, the overlooked stay overlooked. Deliberately notice who you're *not*
 sponsoring — the capable people who don't naturally get picked — and sponsor them intentionally.
-Sponsorship is a powerful equity lever precisely because opportunity, not just ability, determines
+Sponsorship is a powerful **equity lever**[°](#w-equity-lever) precisely because opportunity, not just ability, determines
 advancement.
 
 ### Track whose career you've moved
@@ -137,7 +129,7 @@ sponsorship principles and mistakes to avoid.
 <summary>Show Model Answer</summary>
 <br>
 This is a sponsorship-and-equity decision, not just a "who's safest" one. A strong answer recognizes
-the pull toward Marcus (the safe pick) and deliberately considers Sana.
+the pull toward Marcus (**the safe pick**[°](#w-the-safe-pick)) and deliberately considers Sana.
 <br><br>
 <strong>The decision — lean toward sponsoring Sana (with support):</strong> "I'd give it to Sana. Marcus
 is the safe pick and always gets these — which is exactly the problem: he keeps getting sponsored while
@@ -338,6 +330,24 @@ developmental relationship through which a lead grows their people, which is how
 your own hands. The next phase (Delegation & Growing the Team) turns to delegation — how to hand off work
 in a way that grows people and scales you, rather than either hoarding it or dumping it.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-sponsorship"></a>**sponsorship** — spending your own credibility and influence *acting* on someone's behalf (vs mentoring, which only advises).
+- <a id="w-capital"></a>**capital** (social/political) — the accumulated trust and influence you can "spend" on requests and people.
+- <a id="w-credibility"></a>**credibility** — being believed and trusted; what you put at risk when you vouch for someone.
+- <a id="w-saying-their-name-in-the-room"></a>**"saying their name in the room"** — advocating for someone in the meetings they're not invited to.
+- <a id="w-visibility"></a>**visibility** — being seen by decision-makers; work leadership never sees doesn't advance anyone.
+- <a id="w-promotion-calibration"></a>**promotion calibration** — the leadership meeting where candidates for promotion are compared and decided.
+- <a id="w-stretch-assignment"></a>**stretch assignment** — a visible, high-stakes task given to grow and showcase someone (Lesson 27).
+- <a id="w-the-safe-pick"></a>**the safe pick** — the always-chosen, already-proven person; defaulting to them concentrates opportunity.
+- <a id="w-underrepresented-groups"></a>**underrepresented groups** — people whose group is scarce in the field and who face extra bias.
+- <a id="w-equity-lever"></a>**equity lever** — a tool that corrects unfair gaps in opportunity.
+- <a id="w-self-promote"></a>**self-promote** — to advertise your own accomplishments; those who don't need sponsors most.
 
 ---
 

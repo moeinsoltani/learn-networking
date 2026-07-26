@@ -10,40 +10,36 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 62: Org Design and Team Topologies
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **org design** — deliberately choosing team boundaries, ownership, and interactions.
-> - **Conway's Law** — systems end up shaped like the org that builds them; the **inverse Conway maneuver** — designing teams to *produce* the architecture you want.
-> - **cognitive load** (of a team) — how much a team can genuinely understand and own before drowning.
-> - **Team Topologies** — Skelton & Pais's four team types: **stream-aligned** (owns a product/domain end-to-end), **platform** (serves other teams with self-service tools), **enabling** (temporarily coaches teams into new skills), **complicated-subsystem** (owns one deep specialist area).
-> - **loosely coupled** — parts that interact through clean interfaces and can change independently.
-> - **reorg** — restructuring teams; real costs in disruption, anxiety, and lost momentum.
-> - **topology** (toh-POL-oh-jee) — the shape of how things connect.
-> - **"structure eats process for breakfast"** — good process cannot overcome bad structure (a play on "culture eats strategy for breakfast").
-> - **end-to-end** — owning something from start to finish, without handoffs.
-> - **thrashing** — constant disruptive change signalling no stable plan (Lesson 61's churn, at org scale).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 How you structure teams — their boundaries, ownership, and interactions — profoundly shapes what they can
-build and how well: **"structure eats process for breakfast."** The key insights: **Conway's Law** (your
+build and how well: **"structure eats process for breakfast."** The key insights: **Conway's Law**[°](#w-conways-law) (your
 system's architecture mirrors your org's communication structure — so you can design team boundaries to get
-the architecture you want), team **cognitive load** limits (a team can only own so much before it drowns),
-and the **Team Topologies** patterns (stream-aligned, platform, enabling teams). Designing team boundaries
+the architecture you want), team **cognitive load**[°](#w-cognitive-load) limits (a team can only own so much before it drowns),
+and the **Team Topologies**[°](#w-team-topologies) patterns (stream-aligned, platform, enabling teams). Designing team boundaries
 deliberately is a powerful, underused leadership lever.
 
-```
-   ORG DESIGN (structure shapes everything)
-   ┌──────────────────────────────────────────────────────┐
-   │ CONWAY'S LAW: system architecture mirrors team/comms    │
-   │   structure → design teams to get the architecture     │
-   │   you want (the "inverse Conway maneuver")             │
-   │ COGNITIVE LOAD: a team can only own so much (too much   │
-   │   = drowning); size teams & scope to fit                │
-   │ TEAM TOPOLOGIES: stream-aligned · platform · enabling   │
-   │ REORGS: real cost — do them when needed, not casually   │
-   └──────────────────────────────────────────────────────┘
-```
+Org structure quietly determines architecture, so it is worth understanding
+four ideas.
+
+**Conway's law**: a system's architecture ends up mirroring the communication
+structure of the teams that built it. Read forwards, that is a warning. Read
+backwards, it is a tool — the *inverse Conway manoeuvre*: design the teams to
+get the architecture you want.
+
+**Cognitive load**: a team can only own so much before it is drowning rather
+than owning. Size teams, and scope their responsibilities, to fit what a group
+of humans can actually hold in their heads.
+
+**Team topologies** gives a usable vocabulary: *stream-aligned* teams that
+deliver value end to end, *platform* teams that make their work easier, and
+*enabling* teams that raise capability and then move on.
+
+**Reorganisations have a real cost** — months of lost context and relationships.
+Do them when the structure is genuinely wrong, not as a way of appearing to
+act.
 
 The reframe: **team structure is a deliberate design choice that shapes the architecture and the team's
 effectiveness — design boundaries intentionally (Conway's Law, cognitive load), don't let them just
@@ -84,7 +80,7 @@ a team drowning in too much is an org-design problem, not a work-harder problem.
 
 *Team Topologies* (Skelton & Pais) offers a useful vocabulary of team types: (1) **Stream-aligned teams** —
 teams aligned to a flow of work / a product or domain area (the primary team type — they own and deliver a
-stream of value end-to-end); (2) **Platform teams** — teams that provide internal platforms/services that
+stream of value **end-to-end**[°](#w-end-to-end)); (2) **Platform teams** — teams that provide internal platforms/services that
 make stream-aligned teams more effective (reducing their cognitive load by providing self-service
 capabilities — Lesson 43's platform-as-a-product); (3) **Enabling teams** — teams that help other teams
 adopt new skills/practices (temporary uplift, coaching); (4) **Complicated-subsystem teams** — teams owning
@@ -97,9 +93,9 @@ effective engineering org.
 
 **Reorganizations** (changing team structures) are sometimes necessary (the current structure doesn't fit
 the work, a team is drowning, boundaries are wrong) — but they have **real costs**: disruption (people
-re-form relationships, re-learn context, lose momentum), uncertainty and anxiety (reorgs are unsettling),
+re-form relationships, re-learn context, lose momentum), uncertainty and anxiety (**reorgs**[°](#w-reorg) are unsettling),
 and lost productivity during the transition. So reorgs shouldn't be done casually or frequently (constant
-reorgs are hugely disruptive and signal thrashing) — do them when there's a genuine structural problem that
+reorgs are hugely disruptive and signal **thrashing**[°](#w-thrashing)) — do them when there's a genuine structural problem that
 warrants the cost, do them thoughtfully (clear rationale, good communication, minimizing disruption), and
 not more than needed. Weigh the real cost of a reorg against the benefit; a reorg is a significant
 intervention, not a casual reshuffling.
@@ -120,8 +116,8 @@ clear boundaries; a bad split creates confusion, orphaned work, and non-viable t
 > How you structure teams profoundly shapes what they build and how well — structure eats process for
 > breakfast (bad structure defeats good process). Use <em>Conway's Law</em> deliberately: architecture
 > mirrors org/communication structure, so design team boundaries to get the architecture you want (the
-> inverse Conway maneuver). Respect <em>cognitive load</em>: a team can only own so much before it drowns, so
-> size ownership to fit (too much = split). Use the <em>Team Topologies</em> patterns (stream-aligned,
+> **inverse Conway maneuver**[°](#w-inverse-conway-maneuver)). Respect <em>cognitive load</em>: a team can only own so much before it drowns, so
+> size ownership to fit (too much = split). Use the <em>Team **Topologies**[°](#w-topology)</em> patterns (stream-aligned,
 > platform, enabling, complicated-subsystem) to design the right mix with clear interactions. Do <em>reorgs</em>
 > only when a genuine structural problem warrants the real cost (not casually). And <em>split teams well</em>
 > (good boundaries, viable staffing, clean ownership migration, clear communication). Team structure is a
@@ -360,6 +356,23 @@ environment), connecting to cross-team work (Lesson 43) and the systemic thinkin
 last Phase 11 lesson covers the foundation that makes everything work — psychological safety and culture — the
 environment where problems surface early and people do their best work.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-org-design"></a>**org design** — deliberately choosing team boundaries, ownership, and interactions.
+- <a id="w-conways-law"></a>**Conway's Law** — systems end up shaped like the org that builds them; the <a id="w-inverse-conway-maneuver"></a>**inverse Conway maneuver** — designing teams to *produce* the architecture you want.
+- <a id="w-cognitive-load"></a>**cognitive load** (of a team) — how much a team can genuinely understand and own before drowning.
+- <a id="w-team-topologies"></a>**Team Topologies** — Skelton & Pais's four team types: **stream-aligned** (owns a product/domain end-to-end), **platform** (serves other teams with self-service tools), **enabling** (temporarily coaches teams into new skills), **complicated-subsystem** (owns one deep specialist area).
+- <a id="w-loosely-coupled"></a>**loosely coupled** — parts that interact through clean interfaces and can change independently.
+- <a id="w-reorg"></a>**reorg** — restructuring teams; real costs in disruption, anxiety, and lost momentum.
+- <a id="w-topology"></a>**topology** (toh-POL-oh-jee) — the shape of how things connect.
+- <a id="w-structure-eats-process-for-breakfast"></a>**"structure eats process for breakfast"** — good process cannot overcome bad structure (a play on "culture eats strategy for breakfast").
+- <a id="w-end-to-end"></a>**end-to-end** — owning something from start to finish, without handoffs.
+- <a id="w-thrashing"></a>**thrashing** — constant disruptive change signalling no stable plan (Lesson 61's churn, at org scale).
 
 ---
 

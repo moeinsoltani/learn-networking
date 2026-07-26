@@ -10,41 +10,41 @@ parent: "Phase 2: Foundations of Structure"
 
 # Lesson 08: A Map of Architectural Styles
 
-{: .note }
-> **Words to know**
-> - **architectural style** — a recurring high-level shape for a whole system (layered, microservices, event-driven…), each optimizing for a different quality.
-> - **monolithic vs distributed** — one deployable unit vs many communicating over a network; the first big fork.
-> - **big ball of mud** — the "style" you get by not choosing one: no discernible structure, everything coupled to everything.
-> - **microkernel / plug-in** — a small core plus plug-in modules that extend it.
-> - **space-based** — a style that removes the database bottleneck using in-memory data grids for extreme scale.
-> - **hybrid** — a mix of styles; the norm in real systems.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Before Phase 3 dives into individual styles, you need the *map* — the menu you're
-choosing from, and the one thing each option optimizes for. An **architectural style**
+choosing from, and the one thing each option optimizes for. An **architectural style**[°](#w-architectural-style)
 is a proven high-level shape for a whole system. Crucially, each style is *for*
 something (Lesson 3's quality attributes): it makes some qualities easy and pays for
 them by making others hard. There is no "best style," only "best style for these
 drivers."
 
-```
-   THE FIRST FORK, THEN THE MENU
+Architectural styles are easier to hold in your head if you take the **first
+fork** before looking at the menu: **is this one deployable unit, or many?**
 
-                        Is it one deployable, or many?
-                        ┌───────────────┴───────────────┐
-                   MONOLITHIC                        DISTRIBUTED
-                        │                                 │
-        ┌───────────────┼─────────────┐     ┌────────────┼──────────────┐
-     Layered      Modular Monolith  Micro-  Service-   Event-        Micro-    Space-
-     (n-tier)     (enforced modules) kernel  based     driven        services  based
-        │              │            (plug-in) │          │             │         │
-   for: simplicity  for: modularity  for:    for:      for:          for:      for:
-        clean layers  w/o distrib.  extensib. coarse    decoupling   independ. extreme
-                      tax           -ility    services  & scale       deploy    scale
+Answering "one" puts you among the **monolithic** styles:
 
-   ── and by default, choosing NONE gives you: BIG BALL OF MUD ──
-```
+| Style | What it is for |
+|---|---|
+| **Layered (n-tier)** | Simplicity, and clean separation into layers |
+| **Modular monolith** | Enforced module boundaries — modularity *without* the distribution tax |
+| **Microkernel (plug-in)** | Extensibility: a small core plus plug-ins |
+
+Answering "many" puts you among the **distributed** styles:
+
+| Style | What it is for |
+|---|---|
+| **Service-based** | Coarse-grained services — a few, not dozens |
+| **Event-driven** | Decoupling and scale through asynchronous messages |
+| **Microservices** | Independent deployment of many small services |
+| **Space-based** | Extreme scale, by removing the shared database bottleneck |
+
+Two things are worth noticing. The first fork is the expensive one — everything
+below "distributed" comes with the network, and Lesson 14's fallacies apply to
+all of them. And **choosing no style at all is itself a choice**: what it
+produces, reliably, is the big ball of mud.
 
 Two truths frame everything in Phase 3. First, **"monolithic vs distributed" is the
 biggest fork** — it determines whether you pay the distributed-systems tax (Phase 4) at
@@ -66,7 +66,7 @@ boxes you must fit into purely.
   default. (Lesson 9.)
 - **Pipeline / pipes-and-filters** — data flows through a sequence of processing steps.
   *For:* data-transformation workflows, ETL, compilers. Simple, composable.
-- **Microkernel / plug-in** — a minimal core plus plug-ins that add features. *For:*
+- **Microkernel / plug-in**[°](#w-microkernel-plug-in) — a minimal core plus plug-ins that add features. *For:*
   extensibility and product customization (IDEs, browsers, tools with an ecosystem).
 - **Service-based** — a handful of coarse-grained services (not dozens of tiny ones),
   often sharing a database. *For:* some independent deployability with far less
@@ -77,12 +77,12 @@ boxes you must fit into purely.
 - **Microservices** — many small, independently deployable, bounded-context-sized
   services. *For:* independent deploy/scale/tech and team autonomy; *against:* the full
   distributed tax. (Lesson 11.)
-- **Space-based** — replicate processing and keep data in an in-memory grid to remove
+- **Space-based**[°](#w-space-based) — replicate processing and keep data in an in-memory grid to remove
   the database as the bottleneck. *For:* extreme, spiky scale (high-volume sites);
   niche and complex.
 
 **The default you get by not choosing is the worst one.** If no one makes a deliberate
-style decision, the system doesn't stay style-less — it becomes a **big ball of mud**:
+style decision, the system doesn't stay style-less — it becomes a **big ball of mud**[°](#w-big-ball-of-mud):
 no discernible structure, every part coupled to every other, changes unpredictable.
 This is the natural entropy of software under deadline pressure. Choosing *any*
 coherent style and enforcing it (Lesson 6's boundaries) is the defense; the ball of mud
@@ -166,7 +166,7 @@ chase microservices for a system whose driver is correctness-at-moderate-scale;
 distribution would <em>add</em> risk to the one quality that matters most.
 <br><br>
 <strong>3. Media-streaming backend → microservices with an event-driven backbone (a
-hybrid).</strong> Drivers: tens of millions of users, massive spiky traffic, many
+**hybrid**[°](#w-hybrid)).</strong> Drivers: tens of millions of users, massive spiky traffic, many
 parallel teams, wildly different workloads needing independent scaling, mature ops. Now
 the drivers finally justify distribution: <em>independent scalability</em> (streaming,
 recommendations, and billing have totally different load profiles and must scale
@@ -319,6 +319,19 @@ the right style isn't fixed — it should track the drivers, which <em>change</e
 system and org grow, so "the style that fit at year one" may be the mismatch at year
 three (the bridge to evolutionary architecture, Lesson 31).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-architectural-style"></a>**architectural style** — a recurring high-level shape for a whole system (layered, microservices, event-driven…), each optimizing for a different quality.
+- <a id="w-monolithic-vs-distributed"></a>**monolithic vs distributed** — one deployable unit vs many communicating over a network; the first big fork.
+- <a id="w-big-ball-of-mud"></a>**big ball of mud** — the "style" you get by not choosing one: no discernible structure, everything coupled to everything.
+- <a id="w-microkernel-plug-in"></a>**microkernel / plug-in** — a small core plus plug-in modules that extend it.
+- <a id="w-space-based"></a>**space-based** — a style that removes the database bottleneck using in-memory data grids for extreme scale.
+- <a id="w-hybrid"></a>**hybrid** — a mix of styles; the norm in real systems.
 
 ---
 

@@ -17,18 +17,22 @@ writing. When the course ends, the practice shouldn't. This lesson gives you a s
 **rewrite-practice routine** you can run on your own, using your *actual* messages, so you keep
 improving indefinitely. The material is free and endless: the messages you write every day.
 
-```
-   THE REWRITE ROUTINE (10 min, a few times a week):
-   ┌──────────────────────────────────────────────────────┐
-   │ 1. PICK    a real message you sent (or are about to)  │
-   │ 2. SCAN    against your error checklist (accuracy)    │
-   │ 3. REWRITE for clarity, warmth, tone (the whole course)│
-   │ 4. COMPARE before vs after — what changed & why?      │
-   │ 5. NOTE    any recurring lesson for your checklist     │
-   └──────────────────────────────────────────────────────┘
+The rewrite routine takes about ten minutes, a few times a week:
 
-   Your own daily messages = free, endless, relevant practice.
-```
+1. **Pick** a real message you sent — or one you are about to send.
+2. **Scan** it against your error checklist, for accuracy.
+3. **Rewrite** it for clarity, warmth, and tone — everything this course has
+   covered.
+4. **Compare** before and after: what changed, and why?
+5. **Note** any recurring lesson, and add it to your checklist.
+
+What makes this work is the source material: **your own daily messages are
+free, endless, and perfectly relevant practice.** No textbook exercise can
+match a message you actually had to write, to a person you actually work with,
+about a problem you actually care about.
+
+Step four is the one that produces the learning. The rewrite alone improves one
+message; noticing *what* you changed is what improves the next hundred.
 
 The reframe: **you already generate perfect practice material every day** — the real messages you
 write are more relevant than any textbook exercise, because they're your actual communication in

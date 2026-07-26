@@ -10,44 +10,31 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 10: Driving Technical Standards
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **paved road / guardrail / gate** — the easy supported default / the warning that catches danger / the hard block (the lesson defines them fully).
-> - **decree** (dih-KREE) — an order imposed from above without consultation.
-> - **malicious compliance** — obeying an order's exact letter in a way that defeats its purpose.
-> - **linter / CI check / formatter** — automated tools that enforce code rules impersonally.
-> - **style police** — the resented person who nitpicks everyone's code against personal taste; **nitpick** — to criticize tiny unimportant details.
-> - **flag day** — an abrupt everyone-switches-at-once change (risky; opposite of gradual).
-> - **early adopters** — the willing first users of a change, whose success persuades the rest.
-> - **social proof** — people adopting something because respected peers already did.
-> - **ratchet** (RATCH-et) — a mechanism that only turns one way; "ratcheting" = tightening a standard gradually, never loosening.
-> - **scaffold / generator / template** — tooling that creates new projects pre-configured the standard way.
-> - **buy-in** — genuine agreement and support, not just compliance.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Teams need shared standards — consistent testing, error handling, code style,
 architecture patterns — or the codebase becomes N different codebases and every
 context-switch between areas is a fresh learning curve. But new leads who try to
-*impose* standards by decree ("from now on, everyone will...") get resentment,
-malicious compliance, or quiet ignoring. The skill is raising the bar without
-becoming the style police.
+*impose* standards by **decree**[°](#w-decree) ("from now on, everyone will...") get resentment,
+**malicious compliance**[°](#w-malicious-compliance), or quiet ignoring. The skill is raising the bar without
+becoming the **style police**[°](#w-style-police).
 
 The key distinction is *how* a standard is enforced:
 
-```
-   PAVED ROAD   the easy, supported, default path — do it the standard way
-                and everything just works (tooling, templates, docs).
-                Deviating is allowed but you're on your own.
-                → adoption by making the right way the EASY way
+Standards come in three strengths, and matching the strength to the stake is
+the whole skill.
 
-   GUARDRAIL    catches you before you go off a cliff — warns/blocks on the
-                genuinely dangerous, but leaves room within the safe zone.
-                → automated where possible (linters, CI checks)
+| Mechanism | What it does | How adoption happens |
+|---|---|---|
+| **Paved road** | The easy, supported, default path — do it the standard way and everything works: tooling, templates, docs. Deviating is allowed, but you are on your own | By making the right way the *easy* way |
+| **Guardrail** | Catches you before you go off a cliff — warns or blocks on the genuinely dangerous, while leaving room inside the safe zone | Automated wherever possible: linters, CI checks |
+| **Gate** | A hard requirement that blocks: CI fails, the PR cannot merge | Reserve for things that genuinely must hold |
 
-   GATE         a hard requirement that blocks (CI fails, PR can't merge).
-                → reserve for things that MUST hold; overuse breeds resentment
-```
+The failure mode is reaching for gates first because they feel decisive.
+Overused, they breed resentment and creative evasion. Most standards that stick
+are paved roads that made the alternative simply not worth the effort.
 
 The most effective standards work by making the standard path the *path of least
 resistance* (paved roads) — engineers follow it because it's easier, not because
@@ -90,9 +77,9 @@ the internal-platform movement, and "developer experience" work are all this ide
 
 When you can't just build a paved road (a behavioral standard like "write tests"),
 adoption is a *change-management* problem (Phase 7, driving change), not a decree:
-build buy-in (why does this standard matter — connect it to pain the team feels),
-start with willing early adopters and let success spread, make it easy (examples,
-pairing, tooling), and use social proof and gradual ratcheting rather than a
+build **buy-in**[°](#w-buy-in) (why does this standard matter — connect it to pain the team feels),
+start with willing **early adopters**[°](#w-early-adopters) and let success spread, make it easy (examples,
+pairing, tooling), and use **social proof**[°](#w-social-proof) and gradual ratcheting rather than a
 flag-day mandate. A standard the team *agreed* is worth having (because they
 understand the value and had input) sticks; a standard imposed on them is resented
 and evaded. The lead's move is usually to facilitate the team *choosing* the
@@ -112,7 +99,7 @@ good). Automate the mechanical, reserve the human attention for the judgment.
 {: .note }
 > **The style-police trap</br>**
 > The fastest way to make yourself resented and to make standards counter-
-> productive is to become the person who constantly nitpicks everyone's code
+> productive is to become the person who constantly **nitpicks**[°](#w-nitpick) everyone's code
 > against your preferences. It positions you as an adversary, wastes your leverage
 > on trivia, and teaches the team that standards are about your ego, not their
 > benefit. Escape it two ways: <em>automate</em> the mechanical standards (let the
@@ -144,7 +131,7 @@ in what order?**
 <br>
 A strong response treats this as a change-management and buy-in problem (not a
 decree problem — decree already failed), and uses the paved-road + gradual-
-ratchet + automate approach rather than mandating. A sequence:
+**ratchet**[°](#w-ratchet) + automate approach rather than mandating. A sequence:
 <br><br>
 <strong>1. Diagnose why the non-testers don't test (before prescribing).</strong>
 Don't assume laziness. Talk to them: is it that they don't see the value (they
@@ -383,6 +370,24 @@ resisting the decree temptation when you're under pressure and a mandate feels
 faster (it isn't — it fails, and then you've spent the authority and still don't
 have the standard).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-paved-road-guardrail-gate"></a>**paved road / guardrail / gate** — the easy supported default / the warning that catches danger / the hard block (the lesson defines them fully).
+- <a id="w-decree"></a>**decree** (dih-KREE) — an order imposed from above without consultation.
+- <a id="w-malicious-compliance"></a>**malicious compliance** — obeying an order's exact letter in a way that defeats its purpose.
+- <a id="w-linter-ci-check-formatter"></a>**linter / CI check / formatter** — automated tools that enforce code rules impersonally.
+- <a id="w-style-police"></a>**style police** — the resented person who nitpicks everyone's code against personal taste; <a id="w-nitpick"></a>**nitpick** — to criticize tiny unimportant details.
+- <a id="w-flag-day"></a>**flag day** — an abrupt everyone-switches-at-once change (risky; opposite of gradual).
+- <a id="w-early-adopters"></a>**early adopters** — the willing first users of a change, whose success persuades the rest.
+- <a id="w-social-proof"></a>**social proof** — people adopting something because respected peers already did.
+- <a id="w-ratchet"></a>**ratchet** (RATCH-et) — a mechanism that only turns one way; "ratcheting" = tightening a standard gradually, never loosening.
+- <a id="w-scaffold-generator-template"></a>**scaffold / generator / template** — tooling that creates new projects pre-configured the standard way.
+- <a id="w-buy-in"></a>**buy-in** — genuine agreement and support, not just compliance.
 
 ---
 

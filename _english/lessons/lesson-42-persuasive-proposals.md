@@ -18,18 +18,21 @@ alone isn't enough. Persuasion is the skill of building a case that moves someon
 and it's not manipulation: it's presenting a genuinely good idea in the way most likely to be
 accepted, by addressing what the *reader* needs to believe to say yes.
 
-```
-   WHAT PERSUADES (structure a case around the reader):
-   ┌────────────────────────────────────────────────────┐
-   │ • Frame the PROBLEM they care about (their stakes)  │
-   │ • Show the COST of doing nothing                     │
-   │ • Present your solution + the EVIDENCE               │
-   │ • Address their OBJECTIONS before they raise them    │
-   │ • Make the ASK easy (clear, low-friction next step)  │
-   └────────────────────────────────────────────────────┘
+Persuasion in writing is mostly structure, and the structure is organised
+around the *reader* rather than around your idea.
 
-   Persuasion = a good idea + the reader's perspective.
-```
+- **Frame the problem they care about** — in terms of their stakes, not yours.
+- **Show the cost of doing nothing.** Inaction always looks free until somebody
+  prices it.
+- **Present your solution, with the evidence.**
+- **Address their objections before they raise them.** This is the step people
+  skip, and it is the one that builds trust — naming the strongest argument
+  against your proposal shows you have actually thought about it.
+- **Make the ask easy**: a clear, low-friction next step.
+
+The formula underneath: **persuasion is a good idea plus the reader's
+perspective.** A good idea presented from your own perspective is what most
+rejected proposals actually were.
 
 The reframe: **persuasion is reader-centered, not idea-centered.** A weak proposal just
 describes the idea and its merits (writer's view); a persuasive one is built around what the

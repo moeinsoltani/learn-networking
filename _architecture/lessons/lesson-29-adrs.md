@@ -10,15 +10,7 @@ parent: "Phase 7: Documenting, Evaluating & Evolving Architecture"
 
 # Lesson 29: ADRs & Capturing Decisions
 
-{: .note }
-> **Words to know**
-> - **ADR (Architecture Decision Record)** — a short, dated document capturing one significant decision: its context, the decision, why, and the consequences.
-> - **context (in an ADR)** — the forces and situation that made the decision necessary — what was true when you decided.
-> - **consequences** — what results from the decision, good *and* bad; the trade-off you accepted, spelled out.
-> - **alternatives considered** — the other options you weighed and rejected, and why — often the most valuable part.
-> - **status lifecycle** — proposed → accepted → (later) superseded/deprecated; ADRs are immutable records, not living documents you overwrite.
-> - **one-way / two-way door** — Bezos's terms: a hard-to-reverse decision (deliberate) vs an easy-to-reverse one (move fast).
-> - **relitigation** — re-arguing a decision that was already made, usually because no one recorded *why*.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -28,30 +20,35 @@ assumes it was arbitrary, and either reverses it (breaking something the origina
 reopens the whole debate from scratch. The decision survived in the code; the **why** did not. An
 **Architecture Decision Record (ADR)** exists to fix exactly this: it's a short, dated document that
 captures *one* significant decision — the context that forced it, the decision itself, and the
-consequences — so the reasoning outlives the meeting.
+**consequences**[°](#w-consequences) — so the reasoning outlives the meeting.
 
-```
-   WITHOUT an ADR                         WITH an ADR
-   ┌──────────────────────┐               ┌───────────────────────────────┐
-   │ decision made in a    │               │ ADR-014: Use a saga for booking│
-   │ meeting/Slack thread   │              │  Context: split data, no 2PC…  │
-   │        │               │              │  Decision: choreographed saga   │
-   │   reasoning EVAPORATES │               │  Consequences: eventual consist.│
-   │        ▼               │              │  Alternatives: 2PC (rejected:…) │
-   │ 6 months later:        │              │  Status: Accepted 2026-03-02    │
-   │  "why is it like this?"│              └───────────────┬───────────────┘
-   │  → relitigate OR       │                              ▼
-   │  → reverse & break it  │              the WHY survives the meeting:
-   └──────────────────────┘                onboarding · anti-relitigation ·
-                                            raw material for evaluation
-```
+Consider the same decision with and without a record.
+
+**Without an ADR**, the decision gets made in a meeting or a Slack thread, and
+the *reasoning* evaporates within weeks. Six months later somebody asks "why is
+it like this?" — and there are only two available outcomes: relitigate the
+decision from scratch, or reverse it and break something the original reasoning
+would have protected.
+
+**With an ADR**, there is a short dated document:
+
+> **ADR-014: Use a saga for booking**
+> **Context:** split data, no two-phase commit available…
+> **Decision:** a choreographed saga
+> **Consequences:** eventual consistency, compensating transactions to write
+> **Alternatives:** 2PC — rejected because…
+> **Status:** Accepted, 2026-03-02
+
+What survives the meeting is the **why**, and it pays off in three ways: new
+joiners can read the reasoning instead of asking, settled questions stop being
+reopened, and you have the raw material for the evaluation work in Lesson 30.
 
 An ADR is deliberately *lightweight* (a page, in the repo, in Markdown) and — crucially —
 **immutable**: you don't edit an old decision, you write a *new* ADR that supersedes it. The single
 most valuable part is the one most people skip: the **alternatives you considered and rejected**,
 because that's what stops the next person from re-proposing an option you already ruled out. ADRs turn
 architecture from a set of unexplained facts into a legible *history of reasoning* — which is what makes
-onboarding fast, relitigation rare, and later evaluation (Lesson 30) possible.
+onboarding fast, **relitigation**[°](#w-relitigation) rare, and later evaluation (Lesson 30) possible.
 
 ## Going Deeper
 
@@ -65,7 +62,7 @@ onboarding fast, relitigation rare, and later evaluation (Lesson 30) possible.
 - **Consequences** — what follows, **good and bad**. The honesty here is the point: name the downside
   you're accepting, not just the upside. A decision with only positive consequences listed is a sales
   pitch, not a record.
-- **Alternatives considered** — the options you weighed and rejected, and *why*. (More below.)
+- **Alternatives considered**[°](#w-alternatives-considered) — the options you weighed and rejected, and *why*. (More below.)
 
 That's it — a page. The lightness is a feature: a heavyweight process doesn't get used, and an ADR
 nobody writes captures nothing.
@@ -308,6 +305,20 @@ set of unexplained facts; the reasoning (especially the rejected options and the
 the part that evaporates and the part most worth preserving; and the practice only survives if it's
 lightweight and reserved for the decisions that genuinely matter.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-adr-architecture-decision-record"></a>**ADR (Architecture Decision Record)** — a short, dated document capturing one significant decision: its context, the decision, why, and the consequences.
+- <a id="w-context-in-an-adr"></a>**context (in an ADR)** — the forces and situation that made the decision necessary — what was true when you decided.
+- <a id="w-consequences"></a>**consequences** — what results from the decision, good *and* bad; the trade-off you accepted, spelled out.
+- <a id="w-alternatives-considered"></a>**alternatives considered** — the other options you weighed and rejected, and why — often the most valuable part.
+- <a id="w-status-lifecycle"></a>**status lifecycle** — proposed → accepted → (later) superseded/deprecated; ADRs are immutable records, not living documents you overwrite.
+- <a id="w-one-way-two-way-door"></a>**one-way / two-way door** — Bezos's terms: a hard-to-reverse decision (deliberate) vs an easy-to-reverse one (move fast).
+- <a id="w-relitigation"></a>**relitigation** — re-arguing a decision that was already made, usually because no one recorded *why*.
 
 ---
 

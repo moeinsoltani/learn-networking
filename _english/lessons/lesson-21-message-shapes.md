@@ -16,17 +16,25 @@ The single most useful Slack skill: **structure your message so a busy reader ge
 in one pass.** The most common mistake is burying the ask — making the reader work to
 figure out what you actually want. Lead with the ask, then give context.
 
-```
-   BURIED ASK (reader has to dig)      LEAD WITH THE ASK (one pass)
-   ──────────────────────────────      ────────────────────────────
-   "Hey, so I was looking at the        "Could you review PR #42 today?
-    payment flow and I noticed some      It fixes the login bug and is
-    weird behavior with the tokens,      blocking the release. 🙏"
-    and I've been debugging it, and
-    I think I found a fix, and I made
-    a PR, so I was wondering if maybe
-    you could take a look at it?"        ↑ ask first, context second
-```
+The commonest structural problem in workplace messages is burying the ask at
+the bottom.
+
+**Buried ask** — the reader has to dig:
+
+> "Hey, so I was looking at the payment flow and I noticed some weird behaviour
+> with the tokens, and I've been debugging it, and I think I found a fix, and I
+> made a PR, so I was wondering if maybe you could take a look at it?"
+
+**Lead with the ask** — readable in one pass:
+
+> "Could you review PR #42 today? It fixes the login bug and is blocking the
+> release. 🙏"
+
+**Ask first, context second.** The buried version is not more polite, though it
+often feels that way while writing it — the wind-up is usually anxiety about
+imposing. What the reader experiences is a paragraph they must parse before
+they can tell what is wanted of them, which is a larger imposition than the
+request itself.
 
 The reader — often busy, skimming — should know *what you want from them* in the
 first line, then get the context if they need it. This connects to BLUF (Bottom

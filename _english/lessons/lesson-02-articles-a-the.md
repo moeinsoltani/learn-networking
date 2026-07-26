@@ -17,15 +17,21 @@ of languages that don't have them — and one of the most common error sources. 
 good news: for choosing between *a/an* and *the*, there's **one question** that
 handles most cases:
 
-```
-   "Does the reader already know WHICH one I mean?"
+One question decides between *a* and *the*, every time: **"does the reader
+already know *which* one I mean?"**
 
-   NO  → use  a / an   (introducing it — one of many, not yet specified)
-   YES → use  the      (we both know exactly which one)
+If **no**, use **a** or **an** — you are introducing it, one of many, not yet
+specified. If **yes**, use **the** — you both know exactly which one.
 
-   "I found a bug."          ← a bug: new, one of many, reader doesn't know which
-   "I fixed the bug."        ← the bug: we both know which one (just mentioned it)
-```
+> "I found **a** bug." — *a bug*: new, one of many, the reader does not yet know
+> which.
+> "I fixed **the** bug." — *the bug*: we both know which one, because it was just
+> mentioned.
+
+That pair is the whole pattern in miniature: something typically enters a
+conversation as *a*, and every mention after that is *the*. If you find yourself
+hesitating, ask the question out loud — it resolves the great majority of cases
+without any grammar terminology at all.
 
 Think of it as *new* vs *known*. When you introduce something for the first time,
 or it's just "one of several," the reader doesn't yet know which one you mean — use

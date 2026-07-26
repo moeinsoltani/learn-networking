@@ -10,40 +10,35 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 45: How Your Company Makes Money
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **business model** — how a company creates and captures value: revenue in, costs out.
-> - **revenue model** — the specific way money comes in: **SaaS/subscriptions** (recurring fees), **transactions** (a cut of each sale), ads, licenses, usage-based.
-> - **margin** — revenue minus costs, usually as a percentage; **cost structure** — where the money goes.
-> - **cost center** — a part of the company that spends money but doesn't directly earn it.
-> - **unit economics** — whether one average customer is profitable: **CAC** (customer acquisition cost), **LTV** (lifetime value — total revenue a customer brings), **payback period** (months until a customer covers their CAC).
-> - **churn** — customers leaving (Lesson 42); the enemy of subscription businesses.
-> - **take-rate** — the percentage cut a marketplace keeps of each transaction.
-> - **growth stage vs profitability stage** — grabbing market share fast (funded by investors) vs optimizing margins; each implies different engineering priorities.
-> - **earnings call** — a public company's quarterly presentation of results to investors.
-> - **read like an investor** — understanding the whole company's economics, not just your slice.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Most engineers never really understand how their company makes money — and it limits them. A lead who
-grasps the **business model** (how revenue is made, where the money goes, what stage the company is at)
+grasps the **business model**[°](#w-business-model) (how revenue is made, where the money goes, what stage the company is at)
 can make and justify engineering decisions in business terms, prioritize what actually matters, and be a
 real partner to the business. The shift: **read your company like an investor, not an employee** —
 understanding the economics, not just your slice of the work.
 
-```
-   READ YOUR COMPANY LIKE AN INVESTOR
-   ┌──────────────────────────────────────────────────────┐
-   │ • REVENUE MODEL: how does money come in? (subscriptions,│
-   │   transactions, ads, enterprise licenses, usage...)    │
-   │ • COST STRUCTURE & MARGINS: where does money go? where  │
-   │   does engineering sit? (a cost center? the product?)  │
-   │ • UNIT ECONOMICS: does each customer make money? (CAC,  │
-   │   LTV, payback)                                         │
-   │ • STAGE: growth (grab market) vs profitability (margins)│
-   │   → implies very different engineering priorities       │
-   └──────────────────────────────────────────────────────┘
-```
+You can learn to read your own company the way an investor would, and four
+questions get you most of the way.
+
+- **Revenue model:** how does money actually come in? Subscriptions,
+  transactions, advertising, enterprise licences, usage-based billing?
+- **Cost structure and margins:** where does the money go — and where does
+  engineering sit in that picture? Are you a cost centre being managed down, or
+  are you the product itself?
+- **Unit economics:** does each customer make money? This is where CAC (cost to
+  acquire a customer), LTV (what they're worth over their lifetime), and payback
+  period live.
+- **Stage:** is the company chasing growth and market share, or profitability
+  and margins?
+
+That last one deserves particular attention, because it silently sets your
+engineering priorities. A growth-stage company rewards speed and optionality;
+a profitability-stage company rewards efficiency and reliability. The same
+technical proposal can be obviously right in one and obviously wrong in the
+other.
 
 The reframe: **understand the economics of your company — how it makes money, where engineering fits,
 and what stage implies — so you can prioritize and justify engineering in business terms.** An engineer
@@ -58,20 +53,20 @@ deliberately.
 
 ### The revenue model — how money comes in
 
-Start with: **how does the company actually make money?** The revenue model — subscriptions (SaaS),
+Start with: **how does the company actually make money?** The **revenue model**[°](#w-revenue-model) — subscriptions (SaaS),
 transactions (a cut of each), advertising, enterprise licenses, usage-based, marketplace fees, etc. This
-shapes everything: a subscription business cares about retention (churn) and expansion; a transaction
-business cares about volume and take-rate; an ads business cares about engagement and users. Knowing the
+shapes everything: a subscription business cares about retention (**churn**[°](#w-churn)) and expansion; a transaction
+business cares about volume and **take-rate**[°](#w-take-rate); an ads business cares about engagement and users. Knowing the
 revenue model tells you what the business fundamentally optimizes for — which should inform what
 engineering optimizes for (e.g., in a subscription business, reliability that prevents churn is directly
 revenue-relevant).
 
 ### Cost structure and margins — where engineering sits
 
-Understand **where the money goes** (the cost structure) and the **margins** (revenue minus costs). Key
+Understand **where the money goes** (the **cost structure**[°](#w-cost-structure)) and the **margins**[°](#w-margin) (revenue minus costs). Key
 question: **where does engineering sit in the cost structure?** Sometimes engineering builds the product
 that <em>is</em> the revenue (a software product — engineering is the core value creation); sometimes
-engineering is more of a cost center (internal tools, a non-tech company's IT). And infrastructure/
+engineering is more of a **cost center**[°](#w-cost-center) (internal tools, a non-tech company's IT). And infrastructure/
 compute costs (which engineering controls) can be a major cost line (in some businesses, cloud spend is a
 huge margin factor). Knowing the margins and where engineering fits tells you when engineering's costs
 (compute, efficiency) directly matter to the business's profitability, and when engineering's output <em>is</em>
@@ -79,7 +74,7 @@ the business's value.
 
 ### Unit economics — does each customer make money?
 
-**Unit economics** — the economics of a single customer: does acquiring and serving one customer make
+**Unit economics**[°](#w-unit-economics) — the economics of a single customer: does acquiring and serving one customer make
 money? Key concepts (lightly): **CAC** (customer acquisition cost — what it costs to get a customer),
 **LTV** (lifetime value — the revenue a customer generates over their lifetime), and **payback period**
 (how long until a customer becomes profitable). Healthy unit economics (LTV > CAC, reasonable payback) is
@@ -104,7 +99,7 @@ what engineering should optimize for right now.
 ### Reading the numbers
 
 You can often learn the business model from available sources: a **public company's** financial reports
-and earnings calls (revenue, margins, what leadership emphasizes), a **private company's** board
+and **earnings calls**[°](#w-earnings-call) (revenue, margins, what leadership emphasizes), a **private company's** board
 narrative, all-hands messaging, or fundraising story (what they say about how they make money and their
 focus), and general industry knowledge. Being curious about these — reading your company like an investor
 would — builds the business literacy that most engineers lack and that makes a lead genuinely valuable in
@@ -350,6 +345,23 @@ business (48), and the "should we build this?" question (49) — all requiring t
 lesson develops. The next lesson turns to the product side — understanding the product strategy your PM
 does, well enough to be a real partner in deciding what to build.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-business-model"></a>**business model** — how a company creates and captures value: revenue in, costs out.
+- <a id="w-revenue-model"></a>**revenue model** — the specific way money comes in: **SaaS/subscriptions** (recurring fees), **transactions** (a cut of each sale), ads, licenses, usage-based.
+- <a id="w-margin"></a>**margin** — revenue minus costs, usually as a percentage; <a id="w-cost-structure"></a>**cost structure** — where the money goes.
+- <a id="w-cost-center"></a>**cost center** — a part of the company that spends money but doesn't directly earn it.
+- <a id="w-unit-economics"></a>**unit economics** — whether one average customer is profitable: **CAC** (customer acquisition cost), **LTV** (lifetime value — total revenue a customer brings), **payback period** (months until a customer covers their CAC).
+- <a id="w-churn"></a>**churn** — customers leaving (Lesson 42); the enemy of subscription businesses.
+- <a id="w-take-rate"></a>**take-rate** — the percentage cut a marketplace keeps of each transaction.
+- <a id="w-growth-stage-vs-profitability-stage"></a>**growth stage vs profitability stage** — grabbing market share fast (funded by investors) vs optimizing margins; each implies different engineering priorities.
+- <a id="w-earnings-call"></a>**earnings call** — a public company's quarterly presentation of results to investors.
+- <a id="w-read-like-an-investor"></a>**read like an investor** — understanding the whole company's economics, not just your slice.
 
 ---
 

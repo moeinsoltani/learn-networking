@@ -10,42 +10,30 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 26: Coaching vs Mentoring
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **mentoring** — giving your answer and experience; **coaching** — helping someone find *their own* answer through questions (the lesson's core pair).
-> - **knowledge transfer** — moving facts from one head to another (what mentoring does fast).
-> - **capability / judgment** — the ability to solve *future* problems well (what coaching builds).
-> - **GROW model** — a coaching structure: Goal → Reality → Options → Will (way forward).
-> - **leading question** — a "question" that's really your answer in disguise ("don't you think you should…?"); fake coaching.
-> - **ownership** — feeling that a decision or task is genuinely yours.
-> - **dependence** — the state where the team can't decide without you (what always-mentoring creates).
-> - **intent-based leadership** — Marquet's model: people bring "I intend to do X" instead of "what should I do?"
-> - **onboarding** — the period of learning a new team, codebase, and conventions.
-> - **developmental** — done for the person's growth, not just the task's completion.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 When someone brings you a problem, you have two fundamentally different ways to help: **mentor**
 (give them your answer/expertise) or **coach** (help them find their own answer). Both are
 valuable, but they serve different purposes — and using the wrong one wastes an opportunity or
-creates a bottleneck. The skill is knowing *which* fits the moment: coaching grows the
-answer-finder (building their capability), mentoring transfers your knowledge (fast, direct). A
-lead who only ever mentors creates dependence; one who develops people knows when to step back and
+creates a bottleneck. The skill is knowing *which* fits the moment: **coaching**[°](#w-coaching) grows the
+answer-finder (building their capability), **mentoring**[°](#w-mentoring) transfers your knowledge (fast, direct). A
+lead who only ever mentors creates **dependence**[°](#w-dependence); one who develops people knows when to step back and
 coach.
 
-```
-   MENTORING                        COACHING
-   ─────────                        ────────
-   YOU give the answer /            YOU help THEM find the answer
-   your experience / the pattern     (questions, not answers)
-   → fast, direct knowledge          → grows their judgment & ownership
-     transfer
-   BEST FOR: onboarding, a          BEST FOR: growth, developing
-   knowledge gap, a crisis,          judgment, when they can find it
-   "just tell me the standard"       themselves, building capability
+Mentoring and coaching get used as synonyms and are close to opposites.
 
-   Default to COACHING for growth; MENTOR for gaps/crisis/speed.
-```
+| | **Mentoring** | **Coaching** |
+|---|---|---|
+| **What you do** | Give the answer — your experience, the pattern, the standard | Help *them* find the answer: questions, not answers |
+| **What it produces** | Fast, direct knowledge transfer | Their judgement and ownership grow |
+| **Best for** | Onboarding, a plain knowledge gap, a crisis, "just tell me how we do this here" | Growth, developing judgement, when they *could* find it themselves, building capability |
+
+The working default: **coach for growth, mentor for gaps, crises, and speed.**
+The failure mode in each direction is easy to spot — mentoring someone who was
+perfectly capable of working it out robs them of the reps, while coaching
+someone in the middle of an incident is merely annoying.
 
 The reframe: **your default should be coaching (grow the answer-finder), reaching for mentoring
 when speed or a genuine knowledge gap calls for it.** The instinct — especially for an expert — is
@@ -74,7 +62,7 @@ know something factual (a convention, how the system works, the standard approac
 them to "discover" it would be slow and artificial; just tell them. (2) **a crisis / time
 pressure** — when something's on fire and speed matters, give the answer, don't coach through it.
 (3) **they explicitly need your expertise** — a genuine "what's the right way to do X?" where your
-experience is the value. Mentoring is right when the knowledge transfer itself is what's needed and
+experience is the value. Mentoring is right when the **knowledge transfer**[°](#w-knowledge-transfer) itself is what's needed and
 coaching would be inefficient or artificial.
 
 ### When to coach (the default for growth)
@@ -82,9 +70,9 @@ coaching would be inefficient or artificial.
 Reach for coaching when: (1) **growth is the goal** — the person could develop by working it out,
 and building their judgment matters more than the immediate answer. (2) **they can find it
 themselves** — with the right questions, they're capable of reaching a good answer (so coaching
-develops them and gives ownership). (3) **it's a judgment call, not a fact** — questions of
+develops them and gives **ownership**[°](#w-ownership)). (3) **it's a judgment call, not a fact** — questions of
 approach, trade-offs, and decisions are where coaching builds the judgment that makes someone more
-capable. Default to coaching for anything developmental, because it grows the person — which is the
+capable. Default to coaching for anything **developmental**[°](#w-developmental), because it grows the person — which is the
 higher-leverage outcome than solving one problem for them.
 
 ### The GROW model
@@ -116,11 +104,11 @@ answer. It's coaching applied to decisions: grow people who bring intentions, no
 {: .note }
 > **Default to coaching (grow the answer-finder); mentor for gaps, crises, and speed</br>**
 > When someone brings a problem, you can mentor (give your answer — fast knowledge transfer, right
-> for onboarding, genuine gaps, crises) or coach (help them find their own answer — builds judgment
+> for **onboarding**[°](#w-onboarding), genuine gaps, crises) or coach (help them find their own answer — builds judgment
 > and ownership, right for growth and judgment calls they can work through). The default for
 > anything developmental should be coaching, because it grows people who can solve problems
 > themselves — where always-mentoring makes you a bottleneck and keeps people dependent. Use the
-> GROW model to structure coaching, avoid the leading-question anti-pattern (fake coaching that's
+> **GROW model**[°](#w-grow-model) to structure coaching, avoid the leading-question anti-pattern (fake coaching that's
 > your answer in disguise — genuinely open the question or just mentor), and cultivate "I intend
 > to..." over "tell me what to do." Knowing which mode fits the moment — and defaulting to coaching
 > for growth — is how you develop people rather than creating dependence.
@@ -344,6 +332,23 @@ It scales your impact by growing people who can solve problems themselves. The n
 to deliberately growing engineers — mentoring juniors and mid-levels with intent (scaffolding, growth
 arcs) rather than hoping they develop by osmosis.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-mentoring"></a>**mentoring** — giving your answer and experience; <a id="w-coaching"></a>**coaching** — helping someone find *their own* answer through questions (the lesson's core pair).
+- <a id="w-knowledge-transfer"></a>**knowledge transfer** — moving facts from one head to another (what mentoring does fast).
+- <a id="w-capability-judgment"></a>**capability / judgment** — the ability to solve *future* problems well (what coaching builds).
+- <a id="w-grow-model"></a>**GROW model** — a coaching structure: Goal → Reality → Options → Will (way forward).
+- <a id="w-leading-question"></a>**leading question** — a "question" that's really your answer in disguise ("don't you think you should…?"); fake coaching.
+- <a id="w-ownership"></a>**ownership** — feeling that a decision or task is genuinely yours.
+- <a id="w-dependence"></a>**dependence** — the state where the team can't decide without you (what always-mentoring creates).
+- <a id="w-intent-based-leadership"></a>**intent-based leadership** — Marquet's model: people bring "I intend to do X" instead of "what should I do?"
+- <a id="w-onboarding"></a>**onboarding** — the period of learning a new team, codebase, and conventions.
+- <a id="w-developmental"></a>**developmental** — done for the person's growth, not just the task's completion.
 
 ---
 

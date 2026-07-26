@@ -16,14 +16,21 @@ Every clear English sentence has a simple skeleton: **one subject, one main verb
 and (usually) an object.** The subject is who or what does the action; the verb is
 the action; the object is what the action is done to.
 
-```
-   SUBJECT   +   VERB     +   OBJECT
-   ────────      ────         ──────
-   I             deployed     the fix.
-   The tests     are failing.
-   The build     broke        the pipeline.
-   who/what      the action   what receives it
-```
+Almost every English sentence is built on three slots, in this order:
+**subject + verb + object.** The subject is who or what; the verb is the
+action; the object is what receives it.
+
+| Subject (who/what) | Verb (the action) | Object (what receives it) |
+|---|---|---|
+| I | deployed | the fix. |
+| The tests | are failing. | *(no object needed)* |
+| The build | broke | the pipeline. |
+
+Two things are worth noticing straight away. Some verbs need an object and some
+do not — "the tests are failing" is complete as it stands. And the order is
+**fixed** in English in a way it is not in many other languages: moving the
+subject after the verb does not add emphasis, it produces a question or an
+error.
 
 English carries meaning through **word order** — unlike many languages, English
 usually keeps subject → verb → object. "The bug broke the build" and "The build

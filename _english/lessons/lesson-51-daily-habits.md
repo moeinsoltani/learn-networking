@@ -17,18 +17,21 @@ learned *sticks*. Knowledge you don't use fades; skills grow only through practi
 better communication permanent isn't willpower or big study sessions — it's a handful of **small
 daily habits** woven into work you already do, so improving becomes automatic rather than effortful.
 
-```
-   THE DAILY HABITS (small, woven into real work):
-   ┌──────────────────────────────────────────────────────┐
-   │ • Pre-send scan     check important messages before   │
-   │                     sending (accuracy + clarity + warmth)│
-   │ • Read to learn     notice good writing around you     │
-   │ • Warmth check      "would I like to receive this?"    │
-   │ • Lead with point   in every message, ask/point first  │
-   │ • Rewrite routine   ~10 min, a few times a week        │
-   │ • Be kind to yourself  progress, not perfection         │
-   └──────────────────────────────────────────────────────┘
-```
+Six habits, small enough to survive contact with a real working week:
+
+- **Pre-send scan** — check important messages before sending, for accuracy,
+  clarity, and warmth.
+- **Read to learn** — notice good writing around you; the best English course
+  available to you is your colleagues' Slack.
+- **Warmth check** — "would I like to receive this?"
+- **Lead with the point** — in every message, the ask or the point first.
+- **Rewrite routine** — about ten minutes, a few times a week (Lesson 50).
+- **Be kind to yourself** — progress, not perfection.
+
+That last one is not filler. You are operating in a second language at a
+professional level, which is genuinely hard, and the people who improve fastest
+are the ones who keep writing rather than the ones who wait until they are sure
+it is correct.
 
 The reframe: **improvement comes from small habits woven into daily work, not from separate effort.**
 You don't need to carve out study time or overhaul how you work — you need a few tiny checks and

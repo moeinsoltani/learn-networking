@@ -10,15 +10,7 @@ parent: "Phase 5: Data & Scale"
 
 # Lesson 21: Caching Strategies
 
-{: .note }
-> **Words to know**
-> - **cache** — a fast, temporary copy of data kept close to where it's used, to avoid recomputing/refetching it.
-> - **cache hit / miss** — the data was found in the cache (hit) or wasn't, requiring a fetch from the source (miss).
-> - **staleness** — the cached copy no longer matches the source of truth.
-> - **invalidation** — removing or updating a cache entry when the underlying data changes.
-> - **TTL (time to live)** — an expiry time after which a cache entry is considered stale and dropped.
-> - **cache-aside / read-through / write-through / write-behind** — patterns for who fills the cache and when.
-> - **stampede / thundering herd** — many requests all miss the cache at once and hit the source simultaneously.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,26 +21,32 @@ problems in caching are the two hardest problems in computer science, per the ol
 **cache invalidation** and naming things (and off-by-one errors). The joke is real:
 *keeping the cache correct* is where caching hurts.
 
-```
-   WHY CACHE: source is slow/expensive/far.  Keep a fast copy close.
+You cache because the source of truth is slow, expensive, or far away, and you
+want a fast copy close by.
 
-   [ client ] → [ CDN ] → [ API gateway ] → [ app cache ] → [ DB (source of truth) ]
-      cache        cache        cache          cache            ← truth lives here
-      (browser)   (edge)      (per-request)   (Redis)
-   ── each layer can cache; each adds SPEED and adds STALENESS ──
+In a typical request path, almost every hop can cache: the **browser**, then a
+**CDN** at the edge, then an **API gateway**, then an in-process or shared
+**application cache** such as Redis — and finally the **database**, which is
+where truth actually lives. Each layer adds speed, and each layer adds
+**staleness**.
 
-   THE TWO HARD PROBLEMS:
-   1. INVALIDATION — when the DB changes, how do the copies learn they're stale?
-   2. COHERENCE    — with copies at many layers, which is "right" right now?
+Which produces the two hard problems:
 
-   A cache is a DELIBERATE trade: latency/load ↓  in exchange for  staleness ↑
-```
+1. **Invalidation** — when the database changes, how do all those copies learn
+   they are now wrong?
+2. **Coherence** — with copies at several layers, which one is "right" at this
+   moment?
+
+The framing to keep: **a cache is a deliberate trade** — lower latency and load
+in exchange for higher staleness. Adding one is a decision about how wrong you
+are willing to be, and for how long, and that question deserves an explicit
+answer per piece of data rather than a default.
 
 The mental model to hold: **every cache is a deliberate consistency trade-off** (Lesson 15).
 You're choosing to serve possibly-stale data in exchange for speed and reduced load. That's
 often a great trade — but it must be a *conscious* one, tied to "how stale can this data be
-before the business cares?" A cache added "for performance" without deciding the acceptable
-staleness is a latent correctness bug.
+before the business cares?" A **cache**[°](#w-cache) added "for performance" without deciding the acceptable
+**staleness**[°](#w-staleness) is a latent correctness bug.
 
 ## Going Deeper
 
@@ -89,7 +87,7 @@ stale forever:
 - **Explicit invalidation** — when the underlying data changes, actively evict/update the cache
   entry. Fresher, but *hard*: you must reliably know every place a piece of data is cached and
   invalidate all of them on every change (across layers, across nodes) — miss one and you serve
-  stale data indefinitely. This is the "invalidation is hard" problem.
+  stale data indefinitely. This is the "**invalidation**[°](#w-invalidation) is hard" problem.
 
 Often you combine them (explicit invalidation *plus* a TTL as a safety net, so a missed
 invalidation self-heals eventually).
@@ -346,6 +344,20 @@ one change worth making is usually either (a) removing a dangerous cache from an
 (b) adding stampede protection to a hot cache, or (c) fixing a defect a cache is hiding — a specific,
 prioritized action rather than "add more caching."
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-cache"></a>**cache** — a fast, temporary copy of data kept close to where it's used, to avoid recomputing/refetching it.
+- <a id="w-cache-hit-miss"></a>**cache hit / miss** — the data was found in the cache (hit) or wasn't, requiring a fetch from the source (miss).
+- <a id="w-staleness"></a>**staleness** — the cached copy no longer matches the source of truth.
+- <a id="w-invalidation"></a>**invalidation** — removing or updating a cache entry when the underlying data changes.
+- <a id="w-ttl-time-to-live"></a>**TTL (time to live)** — an expiry time after which a cache entry is considered stale and dropped.
+- <a id="w-cache-aside-read-through-write-through-write-behind"></a>**cache-aside / read-through / write-through / write-behind** — patterns for who fills the cache and when.
+- <a id="w-stampede-thundering-herd"></a>**stampede / thundering herd** — many requests all miss the cache at once and hit the source simultaneously.
 
 ---
 

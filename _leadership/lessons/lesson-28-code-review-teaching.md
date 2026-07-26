@@ -10,18 +10,7 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 28: Code Review as Teaching
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **gate / gating** — acting only as an approve-or-block filter, without teaching.
-> - **the pattern / principle** — the reusable general rule behind a specific fix; teaching it is this lesson's core move.
-> - **comment tiers** — labelling each review comment's weight: **blocking** (must fix), **suggestion** (author's call), **nit** (minor, take it or leave it).
-> - **nit / nitpick** — a tiny style-level comment.
-> - **wall of red marks** — a review that's nothing but corrections; demoralizing even when each is fair.
-> - **magic number** — an unexplained literal value in code (why 86400?) that should be a named constant.
-> - **separation of concerns** — the design principle that one function should do one thing.
-> - **edge case** — an unusual input (empty list, zero, huge value) that breaks naive code.
-> - **PR (pull request)** — a proposed code change submitted for review.
-> - **pair instead** — replacing a huge comment pile with a live working session; warmer and faster for big rework.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,17 +21,23 @@ without teaching the *pattern* behind the feedback, or they're a pile of nitpick
 rather than develop. The skill is reviewing so that people *learn* — teaching the reusable principle,
 not just fixing this instance — while keeping the review efficient and the author motivated.
 
-```
-   GATE-ONLY REVIEW                 TEACHING REVIEW
-   ───────────────                  ───────────────
-   "change this to X"               "I'd extract this into a helper — the
-   (fixes the instance,              principle is that functions doing two
-    teaches nothing)                 things are hard to test and reuse. Here
-   30 nitpicks, no priority          it's doing validation AND saving. Worth
-   (exhausting, demoralizing)        splitting? (nit — take it or leave it)"
-                                          ↑ teaches the PATTERN, labeled,
-                                            so they learn AND aren't exhausted
-```
+Code review is the highest-frequency teaching surface you have, and most of it
+is wasted.
+
+A **gate-only review** says "change this to X." It fixes the instance and
+teaches nothing — and when it arrives as thirty unprioritised nitpicks, it is
+also exhausting and quietly demoralising.
+
+A **teaching review** names the principle and labels its own importance:
+
+> "I'd extract this into a helper — the principle is that functions doing two
+> things are hard to test and reuse. Here it's doing validation *and* saving.
+> Worth splitting? (nit — take it or leave it.)"
+
+Two things are happening there. The **pattern** is taught, so the lesson
+transfers to code you will never see. And the comment is **labelled** — "nit,"
+"blocking," "question" — so the author knows what actually needs to change and
+is not drowned by a flat wall of equally-weighted remarks.
 
 The reframe: **review the code's risk, but teach the pattern.** A review that just says "change
 this" fixes one line but develops no one; a review that explains the *reusable principle* behind the
@@ -107,7 +102,7 @@ amplifies the exhaustion; a conversation resolves it.
 > (not just "change this"), label comment severity (blocking/suggestion/nit, so they can prioritize
 > and aren't overwhelmed), frame feedback as questions (which teach and invite dialogue), praise the
 > good (reinforcing patterns and balancing criticism), prioritize a few high-value lessons per review
-> (don't exhaust), and pair instead when a PR needs extensive change. Since you review constantly,
+> (don't exhaust), and **pair instead**[°](#w-pair-instead) when a PR needs extensive change. Since you review constantly,
 > making reviews teach — efficiently and warmly — compounds into large developmental impact, which is
 > why it's the highest-leverage teaching a lead does.
 
@@ -117,8 +112,8 @@ amplifies the exhaustion; a conversation resolves it.
 
 **The situation:** A junior engineer, Amir, submits a PR. It's *functionally* fine — it works and
 passes tests — but it's structurally naive: one big function doing several things (validation,
-business logic, and database save all mixed together), no separation of concerns, a magic number or
-two, and a missing test for an edge case (empty input). It's the kind of PR where you could leave 25
+business logic, and database save all mixed together), no **separation of concerns**[°](#w-separation-of-concerns), a **magic number**[°](#w-magic-number) or
+two, and a missing test for an **edge case**[°](#w-edge-case) (empty input). It's the kind of PR where you could leave 25
 comments, but that would crush him. You want to review it so he *learns* — without exhausting him.
 
 **Write the review** — the actual comments you'd leave (and how you'd structure it). Then note what
@@ -339,6 +334,23 @@ review, at the volume review happens, is enormous cumulative leverage. The last 
 different, often-overlooked growth tool — sponsorship — spending your credibility on others' visibility,
 which does something mentoring alone can't.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-gate-gating"></a>**gate / gating** — acting only as an approve-or-block filter, without teaching.
+- <a id="w-the-pattern-principle"></a>**the pattern / principle** — the reusable general rule behind a specific fix; teaching it is this lesson's core move.
+- <a id="w-comment-tiers"></a>**comment tiers** — labelling each review comment's weight: **blocking** (must fix), **suggestion** (author's call), **nit** (minor, take it or leave it).
+- <a id="w-nit-nitpick"></a>**nit / nitpick** — a tiny style-level comment.
+- <a id="w-wall-of-red-marks"></a>**wall of red marks** — a review that's nothing but corrections; demoralizing even when each is fair.
+- <a id="w-magic-number"></a>**magic number** — an unexplained literal value in code (why 86400?) that should be a named constant.
+- <a id="w-separation-of-concerns"></a>**separation of concerns** — the design principle that one function should do one thing.
+- <a id="w-edge-case"></a>**edge case** — an unusual input (empty list, zero, huge value) that breaks naive code.
+- <a id="w-pr-pull-request"></a>**PR (pull request)** — a proposed code change submitted for review.
+- <a id="w-pair-instead"></a>**pair instead** — replacing a huge comment pile with a live working session; warmer and faster for big rework.
 
 ---
 

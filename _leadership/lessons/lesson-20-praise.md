@@ -10,37 +10,32 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 20: Praise That Lands
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **recognition** — noticing and naming someone's good work; the positive half of feedback.
-> - **calibrated** — adjusted to fit the person and situation (public vs private).
-> - **growth mindset** — believing ability grows through effort; praised by recognizing *process*, not just results.
-> - **attrition** (ah-TRISH-un) — people gradually leaving an organization.
-> - **favoritism** — visibly preferring some people over others.
-> - **pass credit up** — telling *your* boss specifically what *your people* did well, by name.
-> - **hoarding credit** — letting the team's work look like yours.
-> - **unglamorous** — important but unimpressive-looking (data migrations, cleanup).
-> - **reflexive pleasantry** — an automatic nice phrase that means nothing ("great job!").
-> - **normative** — signalling to everyone what behaviour is valued (public praise is normative).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Recognition is half the feedback job — and most leads under-do it or do it badly. "Great job!"
+**Recognition**[°](#w-recognition) is half the feedback job — and most leads under-do it or do it badly. "Great job!"
 is empty; it recognizes nothing specific and motivates little. Done well, recognition is one of
 the cheapest, most powerful tools a lead has: it reinforces the behaviors you want, makes people
 feel seen, and is a genuine driver of retention and engagement. The skill is making praise
 **specific, deserved, and calibrated** — so it actually lands and means something.
 
-```
-   EMPTY PRAISE                     PRAISE THAT LANDS
-   ────────────                     ─────────────────
-   "Great job!"                     "The way you caught that race condition
-   "Nice work team!"                 before it hit prod — digging into the logs
-   "You're awesome"                  when the test was flaky instead of retrying —
-        ↑ generic, forgettable,       saved us a nasty outage. That kind of
-          could be said to anyone      instinct is exactly what we need."
-                                          ↑ specific behavior, real impact, deserved
-```
+Praise fails for the same reason bad feedback fails: it is too generic to mean
+anything.
+
+**Empty praise** sounds like "great job!", "nice work team!", "you're awesome."
+It is forgettable, and — the giveaway — it could have been said to anyone, about
+anything. People discount it almost instantly.
+
+**Praise that lands** names the specific behaviour and its real effect:
+
+> "The way you caught that race condition before it hit prod — digging into the
+> logs when the test was flaky instead of just retrying — saved us a nasty
+> outage. That kind of instinct is exactly what we need."
+
+Specific behaviour, real impact, and therefore clearly deserved. It also does
+something empty praise cannot: it tells the person *which* of their instincts to
+keep using, and tells anyone listening what good looks like here.
 
 The reframe: **specific praise recognizes a person; generic praise recognizes no one.** "Great
 job" could be said to anyone about anything — so it lands as a pleasant noise, not real
@@ -67,7 +62,7 @@ Recognizing *outcomes* only ("nice, the feature shipped") misses the more valuab
 recognizing the *behaviors and growth* you want to reinforce — the good judgment, the
 perseverance, the improved skill ("the way you handled that ambiguity", "you've gotten much
 sharper at breaking down big problems"). Praising process and growth (a) reinforces the
-controllable behaviors that lead to wins, (b) encourages a growth mindset (effort and learning
+controllable behaviors that lead to wins, (b) encourages a **growth mindset**[°](#w-growth-mindset) (effort and learning
 are valued, not just innate results), and (c) recognizes people whose great work didn't happen to
 produce a visible win.
 
@@ -77,15 +72,15 @@ Calibrate where you praise. **Public** recognition (in a channel, a meeting) amp
 signals to everyone what's valued — great for reinforcing behaviors team-wide and for people who
 appreciate visibility. But calibrate: some people are embarrassed by public praise (praise them
 privately or quietly), and public praise must be *fair* (repeatedly praising one person publicly
-can breed resentment or look like favoritism). Private recognition is more personal and safe for
-the shy; public recognition is amplified and normative. Read the person and the situation.
+can breed resentment or look like **favoritism**[°](#w-favoritism)). Private recognition is more personal and safe for
+the shy; public recognition is amplified and **normative**[°](#w-normative). Read the person and the situation.
 
 ### Recognition as retention
 
 Feeling genuinely valued is a major driver of engagement and retention — people leave managers
 who don't recognize their work far more than they leave for money. Regular, genuine recognition
 is thus one of the cheapest, highest-return things a lead does: it costs a sentence and makes
-people feel seen, which keeps them engaged and reduces the far more expensive cost of attrition.
+people feel seen, which keeps them engaged and reduces the far more expensive cost of **attrition**[°](#w-attrition).
 Under-recognizing good work is a quiet, common, and costly leadership failure.
 
 ### Passing credit upward — accurately
@@ -95,7 +90,7 @@ boss and the wider org *what your people did* ("Priya's rollback design is why t
 zero-downtime"), naming names and specifics. This (a) gets your people the visibility and
 recognition they deserve (which helps their careers — sponsorship, Lesson 29), (b) builds their
 loyalty (a lead who champions them), and (c) reflects well on you (a lead whose team does great
-work). Hoarding credit, or vague "the team did great", fails your people; specific, name-named
+work). **Hoarding credit**[°](#w-hoarding-credit), or vague "the team did great", fails your people; specific, name-named
 credit-passing is a core lead behavior.
 
 {: .note }
@@ -104,7 +99,7 @@ credit-passing is a core lead behavior.
 > highest-return tools they have. Praise that lands is <em>specific</em> (names the behavior and
 > impact — SBI for the positive — so it shows you saw it and reinforces the exact behavior you
 > want), targets <em>process and growth</em> not just wins (reinforcing controllable behaviors and
-> a growth mindset), is <em>calibrated</em> public vs private (amplified/normative vs personal/
+> a growth mindset), is <em>**calibrated**[°](#w-calibrated)</em> public vs private (amplified/normative vs personal/
 > safe — read the person), and drives <em>retention</em> (feeling valued keeps people). And a lead
 > passes credit <em>up and out accurately</em> — naming what their people did to the boss and org —
 > which gets them deserved visibility, builds loyalty, and reflects well on the lead. Generic praise
@@ -117,7 +112,7 @@ credit-passing is a core lead behavior.
 
 **The situation:** Your team just shipped a significant launch. Three people contributed very
 differently: **Priya** did the hard architectural design (the caching layer that made it perform);
-**Marcus** did the unglamorous grind (migrating a mountain of legacy data cleanly, working
+**Marcus** did the **unglamorous**[°](#w-unglamorous) grind (migrating a mountain of legacy data cleanly, working
 carefully through a tedious, error-prone task); and **Sana** (a junior) repeatedly unblocked
 others — noticing when people were stuck, pairing to help, and keeping the team's momentum. You
 want to recognize each of them meaningfully.
@@ -348,6 +343,23 @@ two halves of feedback, and the recognition half builds the relationship and tru
 critical half land. The next lesson turns to the other direction — <em>receiving</em> feedback as a
 lead — where your response determines whether people keep telling you the truth.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-recognition"></a>**recognition** — noticing and naming someone's good work; the positive half of feedback.
+- <a id="w-calibrated"></a>**calibrated** — adjusted to fit the person and situation (public vs private).
+- <a id="w-growth-mindset"></a>**growth mindset** — believing ability grows through effort; praised by recognizing *process*, not just results.
+- <a id="w-attrition"></a>**attrition** (ah-TRISH-un) — people gradually leaving an organization.
+- <a id="w-favoritism"></a>**favoritism** — visibly preferring some people over others.
+- <a id="w-pass-credit-up"></a>**pass credit up** — telling *your* boss specifically what *your people* did well, by name.
+- <a id="w-hoarding-credit"></a>**hoarding credit** — letting the team's work look like yours.
+- <a id="w-unglamorous"></a>**unglamorous** — important but unimpressive-looking (data migrations, cleanup).
+- <a id="w-reflexive-pleasantry"></a>**reflexive pleasantry** — an automatic nice phrase that means nothing ("great job!").
+- <a id="w-normative"></a>**normative** — signalling to everyone what behaviour is valued (public praise is normative).
 
 ---
 

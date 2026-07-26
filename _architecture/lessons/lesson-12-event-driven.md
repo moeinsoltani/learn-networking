@@ -10,15 +10,7 @@ parent: "Phase 3: Architectural Styles"
 
 # Lesson 12: Event-Driven Architecture
 
-{: .note }
-> **Words to know**
-> - **event** — a record that something *happened* (past tense: `OrderPlaced`); a fact, not a request.
-> - **command** — a request for something *to happen* (`PlaceOrder`); directed at one handler, can be rejected.
-> - **broker / message bus** — infrastructure that carries messages between producers and consumers (Kafka, RabbitMQ, SNS/SQS).
-> - **pub/sub** — publish–subscribe: a producer publishes; any number of subscribers receive, without the producer knowing them.
-> - **choreography vs orchestration** — components react to events on their own (choreography) vs a central coordinator directs the steps (orchestration).
-> - **temporal decoupling** — producer and consumer don't need to be running at the same time; the broker buffers.
-> - **dead-letter queue (DLQ)** — where messages go when they can't be processed, so they're not lost.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -28,20 +20,27 @@ reacts. The producer doesn't know or care who's listening. This trades away the 
 linear control flow of request/response in exchange for powerful **decoupling** and
 **scale** — and it's one of the sharpest trade-offs in this whole track.
 
-```
-   REQUEST/RESPONSE (coupled)        EVENT-DRIVEN (decoupled)
-   A ──"charge this"──▶ Payment      A ──emits──▶ [ OrderPlaced ]
-   A ──"reserve"──────▶ Inventory                     │ (broker)
-   A ──"email"────────▶ Notify         ┌──────────────┼──────────────┐
-   A knows all 3, waits for all 3,     ▼              ▼              ▼
-   fails if any is down NOW.        Payment       Inventory       Notify
-                                    (reacts)      (reacts)        (reacts)
-   Add a 4th step → change A.       A knows NONE of them. Add a 5th
-                                    consumer → A doesn't change at all.
-```
+Compare how the same order flow is wired in two styles.
+
+**Request/response — coupled.** Service A calls Payment ("charge this"), then
+Inventory ("reserve"), then Notify ("email"). A knows all three, waits for all
+three, and fails if any of them is down *right now*. Add a fourth step and you
+change A.
+
+**Event-driven — decoupled.** A emits a single `OrderPlaced` event to a broker.
+Payment, Inventory, and Notify each react to it independently. **A knows none of
+them.** Add a fifth consumer and A does not change at all.
+
+That last property is the point of the whole style: new behaviour is added by
+adding a *listener*, not by editing the thing that happened. The cost — and
+Lesson 14 will insist on it — is that you have traded a call stack you can read
+for a choreography you have to trace, and "did it work?" becomes a genuinely
+harder question to answer.
+
+Here is the coupled version in code:
 
 Two properties define the style. **Temporal decoupling:** because a broker buffers the
-event, the producer and consumer need not be up at the same instant — Inventory can be
+**event**[°](#w-event), the producer and consumer need not be up at the same instant — Inventory can be
 down for maintenance and still process the `OrderPlaced` events when it comes back.
 **Extensibility:** adding a new reaction (a fraud-check service that also listens for
 `OrderPlaced`) requires *zero* change to the producer — you just add a subscriber. These
@@ -50,7 +49,7 @@ as a linear flow, and you inherit eventual consistency and a swarm of new failur
 
 ## Going Deeper
 
-**Events vs commands vs messages.** Precision matters. A **command** is a request for
+**Events vs commands vs messages.** Precision matters. A **command**[°](#w-command) is a request for
 something to happen (`PlaceOrder`) — it's directed at one specific handler, expresses
 intent, and can be rejected/validated. An **event** is a notification that something
 *already happened* (`OrderPlaced`) — it's a fact in the past tense, directed at no one in
@@ -105,7 +104,7 @@ then being unable to understand or debug the flow.
 **When EDA fits — and when it hides the system from you.** It fits when: you need loose
 coupling and independent evolution, when reactions are genuinely asynchronous/optional
 (notifications, analytics, downstream projections), when you need to fan out one event to
-many consumers, or when temporal decoupling and buffering (load leveling) are valuable.
+many consumers, or when **temporal decoupling**[°](#w-temporal-decoupling) and buffering (load leveling) are valuable.
 It's a poor fit when: the flow is fundamentally a synchronous request the user is waiting
 on and needs an immediate answer, or when the process is a tightly-coupled transaction that
 really wants ACID. And the meta-warning: EDA can make a system *harder to understand* — the
@@ -354,6 +353,20 @@ trade-off in both directions — where sync should become async, and where async
 be sync — is the point, and it's what separates "use the right tool for the flow" from "events
 are modern, use them everywhere."
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-event"></a>**event** — a record that something *happened* (past tense: `OrderPlaced`); a fact, not a request.
+- <a id="w-command"></a>**command** — a request for something *to happen* (`PlaceOrder`); directed at one handler, can be rejected.
+- <a id="w-broker-message-bus"></a>**broker / message bus** — infrastructure that carries messages between producers and consumers (Kafka, RabbitMQ, SNS/SQS).
+- <a id="w-pub-sub"></a>**pub/sub** — publish–subscribe: a producer publishes; any number of subscribers receive, without the producer knowing them.
+- <a id="w-choreography-vs-orchestration"></a>**choreography vs orchestration** — components react to events on their own (choreography) vs a central coordinator directs the steps (orchestration).
+- <a id="w-temporal-decoupling"></a>**temporal decoupling** — producer and consumer don't need to be running at the same time; the broker buffers.
+- <a id="w-dead-letter-queue-dlq"></a>**dead-letter queue (DLQ)** — where messages go when they can't be processed, so they're not lost.
 
 ---
 

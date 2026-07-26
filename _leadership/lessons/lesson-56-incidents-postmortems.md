@@ -10,48 +10,41 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 56: Incidents and Blameless Postmortems
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **incident** — a live production emergency (outage, data risk); **severity** — its declared seriousness level, which drives the response.
-> - **incident command(er)** — the person running the response: roles, decisions, communications — *not* debugging.
-> - **communications lead** — the role that updates stakeholders on a regular **cadence** so responders aren't interrupted.
-> - **postmortem** (post-MOR-tum) — the structured review after an incident (medical term: examination after death).
-> - **blameless** — focused on the *systemic* factors that allowed the incident, never on punishing the person who triggered it.
-> - **systemic** — belonging to the system (missing review, no rollback) rather than to an individual.
-> - **root cause** — the underlying cause; "root cause = the person" is the anti-pattern.
-> - **scapegoat** — a person unfairly given all the blame.
-> - **rollback / staged rollout** — undoing a change fast / releasing gradually to limit damage.
-> - **near miss** — something that *almost* caused an incident; mature teams report and learn from these.
-> - **action items that ship** — postmortem fixes that are owned, tracked, and actually done — not filed and forgotten.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 When things break — the site's down, data's at risk — the team learns **who you really are as a leader.**
-Incidents test you: leading during the fire (calm coordination, not panic) and after it (a **blameless
+**Incidents**[°](#w-incident) test you: leading during the fire (calm coordination, not panic) and after it (a **blameless
 postmortem** that actually makes things better). The two core principles: during an incident, **the lead
 coordinates, doesn't debug** (your job is command, not fixing); and after, **postmortems are blameless** —
-focused on the systemic factors that let it happen, not on blaming a person, because blame kills the honesty
+focused on the **systemic**[°](#w-systemic) factors that let it happen, not on blaming a person, because blame kills the honesty
 that prevents recurrence.
 
-```
-   INCIDENTS: DURING & AFTER
-   ┌──────────────────────────────────────────────────────┐
-   │ DURING (incident command):                             │
-   │   • the LEAD coordinates, does NOT debug (stay above it)│
-   │   • clear ROLES, comms cadence, honest severity        │
-   │ AFTER (blameless postmortem):                          │
-   │   • BLAMELESS: systemic factors, not "root cause = the  │
-   │     person who pushed the button"                      │
-   │   • action items that SHIP; normalize near-miss reporting│
-   └──────────────────────────────────────────────────────┘
-```
+Incidents have two halves, and the leadership job in each is different.
+
+**During the incident**, you are running incident command. The single most
+important discipline: **the lead coordinates and does not debug.** The pull to
+dive into the logs is enormous and it removes the only person holding the whole
+picture. Beyond that: clear roles, a steady communications cadence, and an
+honest severity assessment rather than an optimistic one.
+
+**After the incident**, you run a **blameless postmortem**. Blameless means
+looking for systemic factors rather than concluding that the root cause was
+"the person who pushed the button" — because that person was operating inside a
+system that made the mistake possible and probably easy.
+
+Two things determine whether postmortems are worth holding at all: **action
+items that actually ship** (a postmortem whose actions are never done is a
+ritual), and **normalising near-miss reporting**, so you get to learn from the
+incidents that did not quite happen.
 
 The reframe: **during an incident, lead (coordinate, communicate) rather than dive into debugging; after,
 run a blameless postmortem focused on systemic fixes, not blame — because blame destroys the honesty needed
 to actually prevent recurrence.** The instinct during a fire is to jump into fixing it yourself (you're a
 good engineer); but the lead's job is coordination (roles, comms, decisions) — someone needs to be above the
 firefight. And the instinct after is to find who caused it; but blame makes people hide information, so a
-blameless focus on <em>why the system allowed it</em> is what actually improves things.
+**blameless**[°](#w-blameless) focus on <em>why the system allowed it</em> is what actually improves things.
 
 ---
 
@@ -72,20 +65,20 @@ a fire, and it's what only the lead can do.
 
 ### Severity honesty and clear roles
 
-Two incident-command basics: (1) **honest severity** — assess and declare the incident's severity honestly
+Two incident-command basics: (1) **honest severity** — assess and declare the incident's **severity**[°](#w-severity) honestly
 (don't under-call it to avoid alarm, or over-call everything) — because severity drives the response (how
 many people, how urgent, who's notified), and mis-calling it means the wrong response. (2) **clear roles** —
 a defined **incident commander** (who runs the response and makes decisions), **investigators/responders**
-(who debug), and a **communications lead** (who updates stakeholders) — so the response is organized, not a
+(who debug), and a **communications lead**[°](#w-communications-lead) (who updates stakeholders) — so the response is organized, not a
 scrum where everyone debugs and no one coordinates or communicates. Clear roles and honest severity turn a
 chaotic scramble into an organized response.
 
 ### Blameless postmortems — systemic factors, not blaming a person
 
-After the incident, the **postmortem** — and the crucial principle is that it's **blameless.** A blameless
+After the incident, the **postmortem**[°](#w-postmortem) — and the crucial principle is that it's **blameless.** A blameless
 postmortem focuses on <strong>the systemic factors that allowed the incident</strong> (why did the system
 let this happen? what conditions, processes, gaps made it possible?), <em>not</em> on blaming the individual
-who triggered it ("root cause: the engineer who pushed the bad config"). Why blameless: (1) **blame kills
+who triggered it ("**root cause**[°](#w-root-cause): the engineer who pushed the bad config"). Why blameless: (1) **blame kills
 honesty** — if people are blamed for incidents, they hide information, avoid reporting problems, and get
 defensive — so you <em>lose the information</em> needed to understand and prevent recurrence (the opposite of
 what a postmortem needs). A blameless environment makes people share openly (what really happened, what they
@@ -97,7 +90,7 @@ the systemic factors that allowed a normal human error to become an incident. Fi
 careful") doesn't prevent recurrence (the next person will also err); fixing the <em>system</em> (add review,
 staging, checks, rollback) does. So blameless postmortems focus on the systemic contributing factors (not
 root-cause-the-individual) because that's both what people will be honest about (no blame) and what actually
-prevents recurrence (fix the system, not scapegoat the person).
+prevents recurrence (fix the system, not **scapegoat**[°](#w-scapegoat) the person).
 
 ### Action items that ship, and near-miss reporting
 
@@ -202,7 +195,7 @@ here builds deep trust (and models the blameless culture for everyone watching).
 allowed it (no review/staging/rollback), not why Sam erred (humans err; that's a given). (2) <strong>Blame
 kills honesty</strong> — blaming Sam would make everyone hide problems, losing the information needed to
 prevent recurrence. (3) <strong>Fix the system, not the person</strong> — systemic fixes (review, staging,
-rollback) prevent recurrence; "be more careful" doesn't. (4) <strong>Action items that ship</strong> — owned,
+rollback) prevent recurrence; "be more careful" doesn't. (4) <strong>**Action items that ship**[°](#w-action-items-that-ship)</strong> — owned,
 tracked systemic fixes (the point of the postmortem). (5) <strong>Redirect 'accountability' to systemic</strong>
 — explain blaming is counterproductive; real accountability is fixing the system. (6) <strong>Protect your
 engineer</strong> — Sam isn't scapegoated (systemic failure); this builds trust and models blamelessness.
@@ -408,6 +401,24 @@ and where trust is built. The next phase (People Management) turns to the EM pat
 management responsibilities (performance, hiring, motivation, org design, psychological safety) that come
 with managing people, not just leading projects.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-incident"></a>**incident** — a live production emergency (outage, data risk); <a id="w-severity"></a>**severity** — its declared seriousness level, which drives the response.
+- <a id="w-incident-command-er"></a>**incident command(er)** — the person running the response: roles, decisions, communications — *not* debugging.
+- <a id="w-communications-lead"></a>**communications lead** — the role that updates stakeholders on a regular **cadence** so responders aren't interrupted.
+- <a id="w-postmortem"></a>**postmortem** (post-MOR-tum) — the structured review after an incident (medical term: examination after death).
+- <a id="w-blameless"></a>**blameless** — focused on the *systemic* factors that allowed the incident, never on punishing the person who triggered it.
+- <a id="w-systemic"></a>**systemic** — belonging to the system (missing review, no rollback) rather than to an individual.
+- <a id="w-root-cause"></a>**root cause** — the underlying cause; "root cause = the person" is the anti-pattern.
+- <a id="w-scapegoat"></a>**scapegoat** — a person unfairly given all the blame.
+- <a id="w-rollback-staged-rollout"></a>**rollback / staged rollout** — undoing a change fast / releasing gradually to limit damage.
+- <a id="w-near-miss"></a>**near miss** — something that *almost* caused an incident; mature teams report and learn from these.
+- <a id="w-action-items-that-ship"></a>**action items that ship** — postmortem fixes that are owned, tracked, and actually done — not filed and forgotten.
 
 ---
 

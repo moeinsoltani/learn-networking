@@ -10,45 +10,41 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 32: Career Development Conversations
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **aspiration** — where someone hopes their career goes.
-> - **performance review** — the backward-looking formal evaluation; a career conversation is its forward-looking opposite.
-> - **bend the work** — to steer someone's assignments toward their goals.
-> - **legible** (LEJ-ih-bul) — clear enough to read and understand; "legible criteria" = promotion requirements everyone can actually see.
-> - **the ladder** — the company's written levels and expectations (junior → senior → staff…).
-> - **promotion packet** — the file of evidence (projects, impact, next-level work) that supports a promotion case.
-> - **cycle** — a company's fixed promotion/review season ("not this cycle" = wait for the next round).
-> - **false hope** — vague comfort that hides the real answer; crueler than honesty.
-> - **the gap** — the specific difference between someone's current work and the next level's bar.
-> - **steward** (STOO-erd) — to look after something over time on another's behalf.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 To develop people well, you need to know **where each person actually wants to go** — and then bend
 their work toward it. This is what career development conversations are for: understanding a person's
-aspirations (which are often unclear, even to them) and helping them grow toward them. Crucially,
-these are *not* performance reviews (backward-looking evaluation) — they're forward-looking, about the
+**aspirations**[°](#w-aspiration) (which are often unclear, even to them) and helping them grow toward them. Crucially,
+these are *not* **performance reviews**[°](#w-performance-review) (backward-looking evaluation) — they're forward-looking, about the
 person's growth and future. And the hardest version is the **not-promoted conversation** — telling
 someone who expected a promotion that it isn't happening, honestly and constructively.
 
-```
-   CAREER CONVERSATION ≠ PERFORMANCE REVIEW
-   ┌──────────────────────────────────────────────────────┐
-   │ PERFORMANCE REVIEW: backward — how did you do?         │
-   │ CAREER CONVERSATION: forward — where do you want to go, │
-   │   and how do we get you there?                         │
-   └──────────────────────────────────────────────────────┘
-   "Where do you want to be in ~3 years?" (and 'I don't know'
-    is a fine answer) → then bend the work toward it.
-   Promotion: legible criteria + the packet you build all year.
-```
+A career conversation is not a performance review, and running them together
+ruins both.
+
+A **performance review looks backward**: how did you do? A **career
+conversation looks forward**: where do you want to go, and how do we get you
+there? Mixing them means every hope gets heard as a bid for a raise, and every
+piece of critical feedback lands on someone's dreams.
+
+The opening question worth asking, roughly annually: **"where do you want to be
+in about three years?"** — with "I don't know" accepted as a completely
+legitimate answer, because it usually is. Then the actual work: **bend the
+assignments toward the answer**, a little at a time. A career conversation with
+no change in what someone works on was a nice chat.
+
+On promotion specifically, two things do the work: **legible criteria**, so
+people know what they are being measured against, and **the packet you build
+all year** — evidence gathered as it happens, not reconstructed the week
+before the committee meets.
 
 The reframe: **know where each person wants to go, and bend their work toward it — via forward-looking
 career conversations separate from performance reviews.** People grow best when their work connects to
 their aspirations, but you can't do that if you don't know their aspirations — which requires
 deliberately asking (in a conversation that's about their future, not their past performance). And when
-promotion is involved, legible criteria and honest conversations (including the hard not-promoted one)
+promotion is involved, **legible**[°](#w-legible) criteria and honest conversations (including the hard not-promoted one)
 are what make it fair and developmental.
 
 ---
@@ -86,19 +82,19 @@ it's how you help them actually grow toward where they want to go, not just do t
 ### Legible promotion criteria and the year-long packet
 
 For promotions, two things make them fair and achievable: (1) **legible criteria** — the person should
-know clearly what's required for the next level (the ladder/expectations), so it's not a mystery;
+know clearly what's required for the next level (**the ladder**[°](#w-the-ladder)/expectations), so it's not a mystery;
 vague, unknowable criteria are unfair and demotivating. (2) **The promotion packet you build all
 year** — a promotion (at most companies) requires evidence of operating at the next level, gathered
 over time; a good lead is building that case throughout the year (noting the person's next-level work,
 giving them opportunities to demonstrate it, documenting impact) — not scrambling at review time.
 Promotion is a year-long project of growing the person into the level and evidencing it, which you
-steward.
+**steward**[°](#w-steward).
 
 ### The not-promoted conversation
 
 The hardest version: someone expects a promotion that isn't happening (they're not ready, or it's not
-this cycle). Handle it honestly and constructively — like the performance conversation (Lesson 46 of
-English track / the feedback lessons): (1) **be honest and clear** (don't be vague or give false hope —
+this **cycle**[°](#w-cycle)). Handle it honestly and constructively — like the performance conversation (Lesson 46 of
+English track / the feedback lessons): (1) **be honest and clear** (don't be vague or give **false hope**[°](#w-false-hope) —
 they need to know where they really stand); (2) **be specific about the gap** (what, concretely, is
 missing for the next level — behavioral, not vague); (3) **be caring and forward-looking** (frame it as
 "here's the path to get there," not just "no"); and (4) **give a concrete plan** (what they need to
@@ -136,7 +132,7 @@ note the principles and mistakes to avoid.
 <details>
 <summary>Show Model Answer</summary>
 <br>
-A strong not-promoted conversation is honest and clear (no false hope), specific about the gap, caring
+A strong not-promoted conversation is honest and clear (no false hope), specific about **the gap**[°](#w-the-gap), caring
 and forward-looking, and paired with a concrete plan. Example:
 <br><br>
 <strong>The conversation:</strong> "Tom, I want to talk about your promotion, and I want to be honest
@@ -360,6 +356,23 @@ want). It's the difference between a lead who grows people toward their own goal
 work. The next lesson covers a specific, high-value growth path: growing seniors into leads — building
 your own succession and multiplying yourself by developing the next generation of leaders.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-aspiration"></a>**aspiration** — where someone hopes their career goes.
+- <a id="w-performance-review"></a>**performance review** — the backward-looking formal evaluation; a career conversation is its forward-looking opposite.
+- <a id="w-bend-the-work"></a>**bend the work** — to steer someone's assignments toward their goals.
+- <a id="w-legible"></a>**legible** (LEJ-ih-bul) — clear enough to read and understand; "legible criteria" = promotion requirements everyone can actually see.
+- <a id="w-the-ladder"></a>**the ladder** — the company's written levels and expectations (junior → senior → staff…).
+- <a id="w-promotion-packet"></a>**promotion packet** — the file of evidence (projects, impact, next-level work) that supports a promotion case.
+- <a id="w-cycle"></a>**cycle** — a company's fixed promotion/review season ("not this cycle" = wait for the next round).
+- <a id="w-false-hope"></a>**false hope** — vague comfort that hides the real answer; crueler than honesty.
+- <a id="w-the-gap"></a>**the gap** — the specific difference between someone's current work and the next level's bar.
+- <a id="w-steward"></a>**steward** (STOO-erd) — to look after something over time on another's behalf.
 
 ---
 

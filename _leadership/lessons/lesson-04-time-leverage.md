@@ -10,18 +10,7 @@ parent: "Phase 1: The Transition"
 
 # Lesson 04: Time and Leverage
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **maker's schedule / manager's schedule** — Paul Graham's terms: long uninterrupted blocks for deep work vs a day sliced into meeting slots (the lesson defines them fully).
-> - **flow (state)** — the deeply focused mental state where hard technical work happens; slow to enter, instantly destroyed by interruption.
-> - **batching** — grouping small interruptions (email, Slack) into a few fixed blocks instead of answering continuously.
-> - **office hours** — a standing open block when anyone can bring you questions.
-> - **async** (AY-sink) — communication that doesn't need both people present at once (messages, docs — not meetings).
-> - **standup** — the short daily team meeting; **all-hands** — a meeting for the whole company or org.
-> - **zombie meeting** — a recurring meeting that has outlived its purpose but nobody cancels.
-> - **firefighting** — constantly reacting to urgent problems instead of working on planned priorities.
-> - **calendar audit** — honestly reviewing where your hours actually went last week.
-> - **buffer** — a person or thing that absorbs disruption to protect others (the lead shields the team from meetings).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -40,17 +29,19 @@ switching between people and problems, availability as a feature. The painful
 truth: **you're now on the manager's schedule, and part of your job is protecting
 the maker's schedule for your team.**
 
-```
-   MAKER'S SCHEDULE (your ICs)          MANAGER'S SCHEDULE (you now)
-   ─────────────────────────            ────────────────────────────
-   ┌──────────────────────┐             ┌──┬──┬──┬──┬──┬──┬──┬──┐
-   │   deep work block    │             │1 │1 │  │mtg│ │1 │  │  │
-   │   (4 hours, flow)    │             │:1│:1│rev│  │pl│:1│..│..│
-   │                      │             └──┴──┴──┴──┴──┴──┴──┴──┘
-   └──────────────────────┘             fragmented — and that's OK,
-   one interruption = day ruined        because the WORK is different.
-                                         Your job: guard THEIR blocks.
-```
+Paul Graham's distinction between two kinds of calendar explains most of the
+friction between you and your engineers.
+
+| | **Maker's schedule** (your ICs) | **Manager's schedule** (you now) |
+|---|---|---|
+| **Unit of time** | Half a day — a long block for deep work and flow | The half-hour or hour slot |
+| **Cost of an interruption** | Enormous: one meeting in the middle can ruin the day | Low: the day is already segmented |
+| **A normal day** | One or two long uninterrupted blocks | 1:1s, reviews, planning, drop-ins — fragmented |
+
+Your calendar is now fragmented, and that is fine, because the work genuinely
+is different. What is *not* fine is imposing your calendar's shape on theirs. A
+standing rule worth adopting: **your job is to guard their blocks**, which
+usually means absorbing the interruption yourself rather than forwarding it.
 
 **Leverage** (Andy Grove): a lead's output isn't hours worked — it's the *impact
 of what those hours enable*. A one-hour decision that unblocks five engineers for
@@ -92,14 +83,14 @@ is what you actually prioritize, regardless of what you say. So audit it:
 
 - **Look at last week honestly.** How much time on leverage work (decisions,
   direction, growing people) vs low-leverage (delegable coding, unnecessary
-  meetings, reactive firefighting)? The gap is usually alarming.
+  meetings, reactive **firefighting**[°](#w-firefighting))? The gap is usually alarming.
 - **Cut ruthlessly.** Decline meetings you don't add value to (or send a
   delegate). Kill recurring meetings that have outlived their purpose (Lesson
   15). Batch shallow work.
 - **Protect blocks — yours and theirs.** Reserve blocks for the leverage work
   that never happens if you stay purely reactive (the planning doc that's always
   "later"). And protect your team's maker-blocks: cluster the meetings *you* need
-  from them, shield them from the org's meeting sprawl, be the buffer.
+  from them, shield them from the org's meeting sprawl, be the **buffer**[°](#w-buffer).
 
 ### Batch interrupts; be available without being always-on
 
@@ -130,11 +121,11 @@ that means absorbing interruptions into yourself to protect theirs.
 team's quarterly planning doc is three weeks overdue, and two engineers have
 mentioned they "never get time with him." His typical week:
 
-- **Daily:** 9:00 standup (30 min, whole team, Sam runs it); ~3 hours scattered
+- **Daily:** 9:00 **standup**[°](#w-standup) (30 min, whole team, Sam runs it); ~3 hours scattered
   coding on a feature Sam owns (on the critical path); ~2 hours of Slack/email
   answered reactively throughout the day, fragmenting everything.
 - **Recurring meetings:** a 1-hour weekly "sync" with an adjacent team (Sam
-  mostly listens); a 1-hour weekly all-hands (org-wide); a 90-min weekly
+  mostly listens); a 1-hour weekly **all-hands**[°](#w-all-hands) (org-wide); a 90-min weekly
   "architecture review" that's become a status meeting; a 30-min daily leadership
   check-in.
 - **What's NOT on the calendar:** no 1:1s with his engineers, no protected time
@@ -158,7 +149,7 @@ single problem and Lesson 03's exact trap. Sam is on the critical path, which is
 why he's a bottleneck and has no time for leadership. Delegate the feature (with
 coaching/pairing to set the owner up), reclaiming ~15 hours/week — the single
 highest-return move. (2) <em>The adjacent-team sync Sam "mostly listens" to</em> —
-if he adds no value, either send someone else, get the notes async, or drop it
+if he adds no value, either send someone else, get the notes **async**[°](#w-async), or drop it
 (low leverage; an hour back). (3) <em>Standup at 30 min daily run by Sam</em> —
 tighten to 10–15 min and rotate who runs it (grows the team, frees Sam, and a
 30-min daily standup is usually bloated). (4) <em>The reactive Slack/email
@@ -358,6 +349,23 @@ org's — Q2). Re-run this audit quarterly; calendar drift toward reactive low-
 leverage work is constant, and the periodic re-audit is how you correct it before
 you're the busy-and-behind Sam from the lab.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-makers-schedule-managers-schedule"></a>**maker's schedule / manager's schedule** — Paul Graham's terms: long uninterrupted blocks for deep work vs a day sliced into meeting slots (the lesson defines them fully).
+- <a id="w-flow-state"></a>**flow (state)** — the deeply focused mental state where hard technical work happens; slow to enter, instantly destroyed by interruption.
+- <a id="w-batching"></a>**batching** — grouping small interruptions (email, Slack) into a few fixed blocks instead of answering continuously.
+- <a id="w-office-hours"></a>**office hours** — a standing open block when anyone can bring you questions.
+- <a id="w-async"></a>**async** (AY-sink) — communication that doesn't need both people present at once (messages, docs — not meetings).
+- <a id="w-standup"></a>**standup** — the short daily team meeting; <a id="w-all-hands"></a>**all-hands** — a meeting for the whole company or org.
+- <a id="w-zombie-meeting"></a>**zombie meeting** — a recurring meeting that has outlived its purpose but nobody cancels.
+- <a id="w-firefighting"></a>**firefighting** — constantly reacting to urgent problems instead of working on planned priorities.
+- <a id="w-calendar-audit"></a>**calendar audit** — honestly reviewing where your hours actually went last week.
+- <a id="w-buffer"></a>**buffer** — a person or thing that absorbs disruption to protect others (the lead shields the team from meetings).
 
 ---
 

@@ -18,17 +18,20 @@ even when everything else is correct. The biggest offenders: **do vs make**, **s
 vs tell**, and a few others. Like prepositions (Lesson 6), these are mostly
 **learned as fixed combinations**, not from rules.
 
-```
-   do   → tasks, activities, work in general
-          "do a review", "do the work", "do testing"
-   make → creating/producing something, decisions, changes
-          "make a change", "make a decision", "make a mistake"
+Two pairs of verbs cause more trouble than any others, because most languages
+cover both members of each pair with a single word.
 
-   say  → the words themselves (no person needed)
-          "he said it's broken", "say that again"
-   tell → informing a PERSON (needs a person)
-          "tell me what happened", "he told the team"
-```
+**do** is for tasks, activities, and work in general — "do a review," "do the
+work," "do testing." **make** is for creating or producing something, and for
+decisions and changes — "make a change," "make a decision," "make a mistake."
+
+**say** is about the words themselves and needs no person — "he said it's
+broken," "say that again." **tell** is about informing a *person*, and it needs
+one — "tell me what happened," "he told the team."
+
+That last distinction is the more useful test: if there is a person receiving
+the information, you want **tell**. "He said me" is wrong for the same reason
+"he told that it's broken" is — each verb is missing the thing it requires.
 
 You won't master every one, but the handful of high-frequency work collocations
 (do/make + common work nouns, say/tell) are worth locking in, because they come up

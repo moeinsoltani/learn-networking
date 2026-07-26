@@ -10,40 +10,32 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 25: Listening and Powerful Questions
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **the advice trap** — the urge to give advice the instant you hear a problem, before understanding it.
-> - **presented problem vs real problem** — the surface version someone brings vs the actual issue underneath.
-> - **symptom** — a visible sign of a deeper problem, not the problem itself.
-> - **levels of listening** — 1: waiting to reply; 2: hearing the words; 3: hearing what's underneath.
-> - **powerful question** — a question that makes someone think, not just answer ("what's the real challenge here for you?").
-> - **the AWE question** — "And What Else?" — because the first answer is rarely the whole answer.
-> - **hold the space / tolerate silence** — staying quiet after a question so the person can actually think.
-> - **reflect back / summarize-and-check** — repeating what you heard in your own words and asking if it's right.
-> - **buy in(to)** — to genuinely accept and support a solution (people buy into answers they found themselves).
-> - **tangle** — a knot of mixed-together issues.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 The most useful thing a lead can often do is *not* have the answer — it's to **listen deeply and
 ask the question that surfaces the real problem.** People rarely present their actual issue first;
-they present a symptom, a proposed solution, or the surface version. Great listening and
+they present a **symptom**[°](#w-symptom), a proposed solution, or the surface version. Great listening and
 questioning gets underneath to the real challenge — which is where the leverage is. And it fights
 a powerful instinct: the urge to jump in with advice the moment you hear a problem (the "advice
 trap").
 
-```
-   THE ADVICE TRAP                 LISTEN + POWERFUL QUESTIONS
-   ──────────────                  ───────────────────────────
-   hear a problem →                hear a problem →
-   immediately give advice          ask "what's the real challenge
-   (on the SURFACE problem,          here for you?" → listen → the
-    which is rarely the real one)    REAL problem surfaces → then help
+The most common coaching mistake is answering the question you were asked.
 
-   "Should we use Kafka?"          "What's making you reach for Kafka?
-        ↓ (jump to answering)          What problem are you actually solving?"
-   ...answers the wrong question       ↓ often reveals the real issue
-```
+**The advice trap:** you hear a problem and immediately give advice — on the
+*surface* problem, which is rarely the real one. Someone asks "should we use
+Kafka?" and you find yourself weighing Kafka, when the useful question was
+never about Kafka at all.
+
+**Listening plus powerful questions** takes one step back: "what's the real
+challenge here for you?" or "what's making you reach for Kafka — what problem
+are you actually solving?" You listen, the real problem surfaces, and *then*
+you help.
+
+This is slower for one conversation and much faster over a quarter, because
+the surface problem tends to come back in a new costume until the real one gets
+addressed.
 
 The reframe: **the presented problem is rarely the real problem — so ask before you advise.** When
 someone brings you a question ("should we use Kafka?") or a problem, the instinct is to answer it.
@@ -71,16 +63,16 @@ moment you hear a problem.** It feels helpful (you have expertise!) and efficien
 misfires: (1) you're advising on the *presented* problem, which is rarely the real one, so you
 solve the wrong thing; (2) you rob the person of thinking it through themselves (which is how they
 grow and how they buy into the solution); and (3) you stop listening (once you're formulating
-advice, you've left Level 3). Resisting the advice trap — staying curious a bit longer before
+advice, you've left Level 3). Resisting **the advice trap**[°](#w-the-advice-trap) — staying curious a bit longer before
 advising — is the core discipline (Stanier's *The Coaching Habit*: "stay curious a little longer,
 rush to advice a little slower").
 
 ### "What's the real challenge here for you?"
 
-The single most powerful question (from *The Coaching Habit*): **"what's the real challenge here for
+The single most **powerful question**[°](#w-powerful-question) (from *The Coaching Habit*): **"what's the real challenge here for
 you?"** It cuts past the presented problem to the actual one, and the "for you" makes it personal
 and specific (not the abstract problem, but <em>their</em> real challenge). When someone brings a
-tangle of issues or a surface question, this question focuses them on what the real difficulty
+**tangle**[°](#w-tangle) of issues or a surface question, this question focuses them on what the real difficulty
 actually is — which is often different from and more useful than what they led with. Other powerful
 questions: "what have you already thought about?", "what would need to be true for this to work?",
 "what's really going on here?", "and what else?" (the "AWE" question — there's usually more).
@@ -337,6 +329,23 @@ pairs with the English track's listening/clarifying lessons. The next lesson bui
 knowing <em>when</em> to coach (grow the answer-finder, using these questioning skills) versus mentor
 (give the answer/your expertise) — the judgment of which mode fits the moment.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-the-advice-trap"></a>**the advice trap** — the urge to give advice the instant you hear a problem, before understanding it.
+- <a id="w-presented-problem-vs-real-problem"></a>**presented problem vs real problem** — the surface version someone brings vs the actual issue underneath.
+- <a id="w-symptom"></a>**symptom** — a visible sign of a deeper problem, not the problem itself.
+- <a id="w-levels-of-listening"></a>**levels of listening** — 1: waiting to reply; 2: hearing the words; 3: hearing what's underneath.
+- <a id="w-powerful-question"></a>**powerful question** — a question that makes someone think, not just answer ("what's the real challenge here for you?").
+- <a id="w-the-awe-question"></a>**the AWE question** — "And What Else?" — because the first answer is rarely the whole answer.
+- <a id="w-hold-the-space-tolerate-silence"></a>**hold the space / tolerate silence** — staying quiet after a question so the person can actually think.
+- <a id="w-reflect-back-summarize-and-check"></a>**reflect back / summarize-and-check** — repeating what you heard in your own words and asking if it's right.
+- <a id="w-buy-in-to"></a>**buy in(to)** — to genuinely accept and support a solution (people buy into answers they found themselves).
+- <a id="w-tangle"></a>**tangle** — a knot of mixed-together issues.
 
 ---
 

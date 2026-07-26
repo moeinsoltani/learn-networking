@@ -18,14 +18,23 @@ cause big trouble, because they rarely follow logical rules — they're mostly
 the same idea. The winning strategy is not to memorize rules but to **learn the
 whole phrase as a chunk**.
 
-```
-   Don't learn:  "depend" + [rule for which preposition?]
-   DO learn:     "depend ON"  as one unit
-                 "agree WITH a person" / "agree ON a plan"  as units
-                 "deployed TO production"  as a unit
+Prepositions are the part of English with the fewest usable rules, so stop
+looking for one.
 
-   When in doubt, learn the verb + preposition TOGETHER, like one word.
-```
+**Don't learn** "depend" and then hunt for the rule about which preposition
+follows it. **Do learn** the two words together, as a single unit:
+
+- **depend ON**
+- **agree WITH** a person / **agree ON** a plan
+- **deployed TO** production
+
+Notice the second line: the same verb takes different prepositions for
+different meanings, which is exactly why a rule would not help you. These are
+vocabulary items, not grammar.
+
+So when in doubt, **learn the verb and its preposition together, as though they
+were one word** — and when you meet a new one in a code review or a document,
+write down the pair rather than the verb alone.
 
 You'll never get every preposition right (even advanced speakers slip), and that's
 fine — prepositions are low-stakes for being understood. But a handful of

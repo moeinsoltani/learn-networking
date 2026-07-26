@@ -10,23 +10,14 @@ parent: "Phase 3: Birds of Canada"
 
 # Lesson 13: Forest Birds
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **woodpecker** — a bird that clings to trunks and drills wood for insects and to make nest holes.
-> - **drumming** — a woodpecker's fast hammering on wood, used like a song to claim territory.
-> - **downy** (DOW-nee) — the smallest common woodpecker; "downy" for its soft white back feathers.
-> - **pileated** (PIE-lee-ay-tid *or* PILL-ee-ay-tid) — the big crow-sized woodpecker with a red crest.
-> - **grouse** (rhymes with "house") — a plump ground-dwelling forest bird, like a wild chicken.
-> - **Canada jay** — a soft grey jay of the northern forest, famously tame; also called "whisky-jack."
-> - **camouflage** (KAM-oo-flahzh) — colouring that blends into the background (the grouse's specialty).
-> - **cache** (kash) — food hidden away to eat later; Canada jays cache thousands of items for winter.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Step into the woods and the birds change again — many you'll **hear before you
-see**. Four are especially worth knowing: two **woodpeckers** (the tiny downy and
-the giant pileated), the plump **ruffed grouse** on the forest floor, and the
-tame grey **Canada jay** of the boreal. Each is identified by a distinctive
+see**. Four are especially worth knowing: two **woodpeckers**[°](#w-woodpecker) (the tiny **downy**[°](#w-downy) and
+the giant **pileated**[°](#w-pileated)), the plump **ruffed grouse** on the forest floor, and the
+tame grey **Canada jay**[°](#w-canada-jay) of the boreal. Each is identified by a distinctive
 behaviour or sound as much as by looks.
 
 ![A downy woodpecker clinging to a stem: small, black-and-white, checkered wings](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dryobates_pubescens_UL_03.jpg/960px-Dryobates_pubescens_UL_03.jpg)
@@ -46,7 +37,7 @@ thin stems. Photo:
 ***Pileated woodpecker** — the giant: nearly **crow-sized**, black with white neck
 stripes and a flaming **red triangular crest** (the "Woody Woodpecker" bird). It
 chisels big **rectangular holes** in dead trees hunting carpenter ants, and its
-loud ringing call and deep drumming carry through the forest. Photo:
+loud ringing call and deep **drumming**[°](#w-drumming) carry through the forest. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PileatedWoodpeckerFeedingonTree%2C_crop.jpg).*
 
 Downy and pileated share the woodpecker toolkit but sit at opposite ends of the
@@ -72,7 +63,7 @@ wings. In spring, males "**drum**" by beating their wings to make a deep, accele
 ***Canada jay** — soft grey above, pale below, with a white face and dark nape;
 **no crest** (unlike the blue jay). A bird of the boreal and mountain forests,
 famous for being **fearless around people** — it'll take food from your hand,
-earning the old name "whisky-jack" (from the Cree *Wisakedjak*). It **caches**
+earning the old name "whisky-jack" (from the Cree *Wisakedjak*). It **caches**[°](#w-cache)
 thousands of food items in bark to survive winter, and nests in the cold of late
 winter. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Perisoreus_canadensis_mercier2.jpg).*
@@ -84,7 +75,7 @@ Forest birding leans heavily on the ear:
 - **Fast hammering on wood** → a woodpecker **drumming** (territory), not eating.
 - **A deep, accelerating thumping** in spring woods → a male **ruffed grouse**
   drumming with its wings.
-- **A sudden explosion of wingbeats from the ground** → you just flushed a grouse.
+- **A sudden explosion of wingbeats from the ground** → you just flushed a **grouse**[°](#w-grouse).
 - **A loud, ringing, jungle-like call** deep in the trees → often a **pileated
   woodpecker**.
 
@@ -229,6 +220,21 @@ from the ground at my feet in a whir of wings → a <strong>ruffed grouse</stron
 identified purely by that behaviour." Full marks for naming a bird detected first
 by sound or behaviour — the core skill of forest birding.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-woodpecker"></a>**woodpecker** — a bird that clings to trunks and drills wood for insects and to make nest holes.
+- <a id="w-drumming"></a>**drumming** — a woodpecker's fast hammering on wood, used like a song to claim territory.
+- <a id="w-downy"></a>**downy** (DOW-nee) — the smallest common woodpecker; "downy" for its soft white back feathers.
+- <a id="w-pileated"></a>**pileated** (PIE-lee-ay-tid *or* PILL-ee-ay-tid) — the big crow-sized woodpecker with a red crest.
+- <a id="w-grouse"></a>**grouse** (rhymes with "house") — a plump ground-dwelling forest bird, like a wild chicken.
+- <a id="w-canada-jay"></a>**Canada jay** — a soft grey jay of the northern forest, famously tame; also called "whisky-jack."
+- <a id="w-camouflage"></a>**camouflage** (KAM-oo-flahzh) — colouring that blends into the background (the grouse's specialty).
+- <a id="w-cache"></a>**cache** (kash) — food hidden away to eat later; Canada jays cache thousands of items for winter.
 
 ---
 

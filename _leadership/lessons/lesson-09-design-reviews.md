@@ -10,37 +10,31 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 09: Running Design Reviews
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **design review** — the team examining a proposed design (usually a written doc) before it's built.
-> - **gauntlet** (GAWNT-let) — a punishing trial you must run through ("running the gauntlet").
-> - **gatekeeping** — acting as a barrier whose approval must be won; the adversarial reviewer stance.
-> - **stance** — the attitude you take into an interaction (curious vs gatekeeping).
-> - **bikeshedding** — spending the meeting on trivial details (the bike shed's colour) while ignoring the big questions.
-> - **pile-on** — many people criticizing one person at once.
-> - **steamroller** — a person whose force of opinion flattens all discussion.
-> - **siloed** (SY-lohd) — knowledge trapped in one person or team, like grain in a silo.
-> - **moderate** (verb: MOD-er-ate) — to guide a discussion, keeping it fair and on track.
-> - **overrule** — to use your authority to decide against the group's preference.
-> - **facilitate** (fah-SIL-ih-tate) — to make a discussion work well without dictating its outcome.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-A design review can be one of two things: a gauntlet where senior engineers
+A **design review**[°](#w-design-review) can be one of two things: a **gauntlet**[°](#w-gauntlet) where senior engineers
 prove how smart they are by tearing designs apart, or the team's single best
 venue for catching risk, spreading knowledge, and growing people. Which one it is
 depends almost entirely on how the lead runs it.
 
 The reframe: a design review has three goals, and their *order* matters:
 
-```
-   1. CATCH RISK    — find the flaws, gaps, and risks before they're built
-                      (the obvious goal, but not the only one)
-   2. SPREAD CONTEXT — everyone leaves understanding the design and the system
-                      better; knowledge doesn't stay siloed in one head
-   3. GROW PEOPLE   — the author and the reviewers both level up their design
-                      judgment; it's a teaching venue, not just a filter
-```
+A design review has three jobs, and teams that only know about the first one
+run bad reviews.
+
+1. **Catch risk** — find the flaws, gaps, and risks before they are built. This
+   is the obvious goal, and it is not the only one.
+2. **Spread context** — everyone leaves understanding the design, and the
+   system around it, better than they arrived. Knowledge stops living in one
+   person's head.
+3. **Grow people** — the author and the reviewers both sharpen their design
+   judgement. A review is a teaching venue, not merely a filter.
+
+Reviews optimised only for the first job become adversarial gate-keeping, and
+people learn to avoid them. Reviews that consciously serve all three are the
+ones engineers actually ask for.
 
 Most people think design review is only goal 1 (catch the flaws). But a review
 run purely as flaw-hunting becomes adversarial — authors get defensive, juniors
@@ -50,10 +44,10 @@ build shared understanding — becomes the highest-leverage technical venue the
 team has, because it improves the design, the system knowledge, and the people,
 all at once.
 
-The lead's role is to *set the tone* (curious, not gatekeeping), *protect the
+The lead's role is to *set the tone* (curious, not **gatekeeping**[°](#w-gatekeeping)), *protect the
 author* (especially juniors) from pile-ons, and *steer* toward the important
-issues rather than bikeshedding — while occasionally exercising the judgment to
-overrule when needed.
+issues rather than **bikeshedding**[°](#w-bikeshedding) — while occasionally exercising the judgment to
+**overrule**[°](#w-overrule) when needed.
 
 ---
 
@@ -61,7 +55,7 @@ overrule when needed.
 
 ### The reviewer's stance: curious, not gatekeeping
 
-The difference between a good and bad review culture is the stance reviewers
+The difference between a good and bad review culture is the **stance**[°](#w-stance) reviewers
 take. **Gatekeeping** stance: "here's what's wrong with this," "why didn't you
 consider X," "this won't work" — adversarial, positional, makes the author defend.
 **Curious** stance: "help me understand why you chose X over Y," "what happens if
@@ -89,16 +83,16 @@ whose strong opinions and status shut down discussion, so the review becomes
 "whatever they think," and juniors' good ideas and the author's reasoning get
 flattened. The lead intervenes: draw out other voices ("before we settle on
 Sara's approach — [author], walk us through your reasoning again," "[quieter
-person], what's your read?"), and privately coach the steamroller. The
-**pile-on** — several reviewers piling criticism on one author (especially a
+person], what's your read?"), and privately coach the **steamroller**[°](#w-steamroller). The
+**pile-on**[°](#w-pile-on) — several reviewers piling criticism on one author (especially a
 junior), which is demoralizing and unproductive regardless of whether the
-criticisms are valid. The lead moderates: consolidate the feedback ("it sounds
+criticisms are valid. The lead **moderates**[°](#w-moderate): consolidate the feedback ("it sounds
 like the core concern is X — let's focus there"), protect the author's dignity,
 and if needed take it to a smaller conversation rather than a public gang-up.
 
 ### When to overrule
 
-Usually the lead facilitates and lets the team reach the decision. But sometimes
+Usually the lead **facilitates**[°](#w-facilitate) and lets the team reach the decision. But sometimes
 the lead must overrule — when the team is converging on a genuinely bad choice, or
 is deadlocked and someone needs to decide (disagree-and-commit, Lesson 7). Do it
 sparingly (overruling often kills the team's ownership and engagement) and
@@ -370,6 +364,24 @@ erodes easily as teams grow and pressure rises); the ongoing work is maintaining
 and coaching new/senior members into the stance rather than letting it drift toward
 gatekeeping.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-design-review"></a>**design review** — the team examining a proposed design (usually a written doc) before it's built.
+- <a id="w-gauntlet"></a>**gauntlet** (GAWNT-let) — a punishing trial you must run through ("running the gauntlet").
+- <a id="w-gatekeeping"></a>**gatekeeping** — acting as a barrier whose approval must be won; the adversarial reviewer stance.
+- <a id="w-stance"></a>**stance** — the attitude you take into an interaction (curious vs gatekeeping).
+- <a id="w-bikeshedding"></a>**bikeshedding** — spending the meeting on trivial details (the bike shed's colour) while ignoring the big questions.
+- <a id="w-pile-on"></a>**pile-on** — many people criticizing one person at once.
+- <a id="w-steamroller"></a>**steamroller** — a person whose force of opinion flattens all discussion.
+- <a id="w-siloed"></a>**siloed** (SY-lohd) — knowledge trapped in one person or team, like grain in a silo.
+- <a id="w-moderate"></a>**moderate** (verb: MOD-er-ate) — to guide a discussion, keeping it fair and on track.
+- <a id="w-overrule"></a>**overrule** — to use your authority to decide against the group's preference.
+- <a id="w-facilitate"></a>**facilitate** (fah-SIL-ih-tate) — to make a discussion work well without dictating its outcome.
 
 ---
 

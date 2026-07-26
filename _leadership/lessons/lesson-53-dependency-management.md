@@ -10,39 +10,31 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 53: Dependency Management
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **critical path** — the chain of dependent work that sets the project's minimum duration; a slip on it slips everything (Lesson 03).
-> - **gate** (verb) — to block progress until done ("this dependency gates the launch").
-> - **dependency kickoff** — the early alignment conversation with a team you'll depend on, held *before* you're blocked.
-> - **interface-first** — agreeing the API/contract up front so both teams build in **parallel** instead of waiting in sequence.
-> - **mock / stub** — a fake stand-in for a not-yet-built component, letting you build against it.
-> - **serialize** — to force work into one-after-another order (what dependencies do if unmanaged).
-> - **buffer or decouple** — the two defenses: plan slack around a risky dependency, or remove its power to block you.
-> - **blindsided** — surprised by something you should have seen coming (Lesson 36/41).
-> - **early-warning signs** — the small signals that a promise is slipping, visible before the miss.
-> - **track like your own** — monitoring others' commitments as actively as your own tasks.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Dependencies — on other teams, external services, or things outside your control — are one of the most
 common reasons projects slip, precisely because they're *not in your hands.* Managing them well is about
-**not being blindsided by them**: mapping the critical path, aligning early (before you're blocked),
+**not being blindsided by them**: mapping the **critical path**[°](#w-critical-path), aligning early (before you're blocked),
 designing interfaces so teams can work in parallel, tracking others' promises like your own tasks, and
 building in buffers or decoupling. This complements Lesson 43 (getting things from other teams) — here the
 focus is the *project-management* discipline of coordinating dependencies.
 
-```
-   DEPENDENCY MANAGEMENT (don't let them sink you)
-   ┌──────────────────────────────────────────────────────┐
-   │ • MAP the CRITICAL PATH (which dependencies gate the    │
-   │   whole project?)                                       │
-   │ • DEPENDENCY KICKOFFS (align BEFORE you're blocked)     │
-   │ • INTERFACE-FIRST contracts → teams work in PARALLEL    │
-   │ • track others' PROMISES like your own tasks            │
-   │ • BUFFER or DECOUPLE (reduce the dependency's risk)     │
-   └──────────────────────────────────────────────────────┘
-```
+Dependencies sink more projects than technical difficulty does. Five practices
+keep them manageable.
+
+- **Map the critical path** — of all the things you are waiting on, which ones
+  actually gate the project? Most do not, and treating them all as equally
+  urgent wastes the goodwill you will need for the ones that do.
+- **Hold dependency kickoffs**: align *before* you are blocked, not after.
+- **Agree the interface first.** Once the contract between two systems is fixed,
+  both teams can build in parallel against it instead of one waiting for the
+  other.
+- **Track other people's promises like your own tasks.** Nobody else is tracking
+  their commitment to you with the attention you are.
+- **Buffer or decouple** where you can — a dependency you can proceed without,
+  even in degraded form, has stopped being a risk.
 
 The reframe: **manage dependencies proactively — map them, align early, interface-first, track them, and
 buffer/decouple — so they don't blindside you.** The failure mode is passive: assume the dependency will be
@@ -58,7 +50,7 @@ what keeps dependencies from being the reason you slip.
 ### Map the critical path
 
 First, understand which dependencies **gate the project** — the **critical path.** Not all dependencies are
-equal: some are on the critical path (the project can't finish until they're done — they gate everything),
+equal: some are on the critical path (the project can't finish until they're done — they **gate**[°](#w-gate) everything),
 others have slack (they're needed but not blocking). Map which dependencies are critical-path (a delay in
 them delays the whole project) so you focus your management on those. The critical path is the sequence of
 dependent work that determines the minimum project duration — a slip anywhere on it slips the project, so
@@ -67,7 +59,7 @@ critical-path dependencies get the most attention and risk-management.
 ### Dependency kickoffs — align before you're blocked
 
 The key proactive move: **align on dependencies early — before you're blocked by them**, not when you hit
-the block. A **dependency kickoff** (early conversation with the team/provider you depend on) establishes:
+the block. A **dependency kickoff**[°](#w-dependency-kickoff) (early conversation with the team/provider you depend on) establishes:
 what you need, when, the interface, and their commitment — <em>at the start</em>, so there's time to
 resolve issues, and so they can plan for it. The failure is passive: assume the dependency will be ready
 when you need it, then discover at the moment you're blocked that they didn't know, can't deliver in time,
@@ -82,7 +74,7 @@ team B's API, don't wait for B to build it before A starts — agree the <strong
 contract, the data format) up front, then both teams can work simultaneously (A builds against the agreed
 interface, e.g., with a mock/stub; B builds to fulfill it). This decouples the work in time — parallel
 instead of sequential — dramatically reducing the schedule impact of the dependency (you're not waiting).
-Interface-first (defining the contract early, then building on both sides in parallel) is a core technique
+**Interface-first**[°](#w-interface-first) (defining the contract early, then building on both sides in parallel) is a core technique
 for keeping dependencies from serializing your project.
 
 ### Track others' promises like your own tasks
@@ -109,12 +101,12 @@ risky dependency's threat rather than just hoping it delivers.
 {: .note }
 > **Manage dependencies proactively — map, align early, interface-first, track, buffer/decouple</br>**
 > Dependencies (on other teams, external things) are a top reason projects slip, because they're not in your
-> hands — so manage them proactively rather than being blindsided. <em>Map the critical path</em> (which
+> hands — so manage them proactively rather than being **blindsided**[°](#w-blindsided). <em>Map the critical path</em> (which
 > dependencies gate the whole project — focus there). Do <em>dependency kickoffs</em> (align on what/when/
 > interface early, before you're blocked, so problems surface with time to fix them). Use <em>interface-first
 > contracts</em> (agree the API up front so teams work in parallel, not serially — decoupling the work in
 > time). <em>Track others' promises like your own tasks</em> (actively monitor, don't assume they'll just
-> happen). And <em>buffer or decouple</em> risky dependencies (build slack, or remove their power to block
+> happen). And <em>**buffer or decouple**[°](#w-buffer-or-decouple)</em> risky dependencies (build slack, or remove their power to block
 > you — decoupling is often stronger). Proactive dependency management is what keeps dependencies from being
 > the reason your project slips.
 
@@ -342,6 +334,23 @@ then be surprised). This is a major quiet risk (Lesson 52) and complements getti
 prioritization — saying no (or "not now") all day while staying trusted, and handling the constant stream of
 competing demands.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-critical-path"></a>**critical path** — the chain of dependent work that sets the project's minimum duration; a slip on it slips everything (Lesson 03).
+- <a id="w-gate"></a>**gate** (verb) — to block progress until done ("this dependency gates the launch").
+- <a id="w-dependency-kickoff"></a>**dependency kickoff** — the early alignment conversation with a team you'll depend on, held *before* you're blocked.
+- <a id="w-interface-first"></a>**interface-first** — agreeing the API/contract up front so both teams build in **parallel** instead of waiting in sequence.
+- <a id="w-mock-stub"></a>**mock / stub** — a fake stand-in for a not-yet-built component, letting you build against it.
+- <a id="w-serialize"></a>**serialize** — to force work into one-after-another order (what dependencies do if unmanaged).
+- <a id="w-buffer-or-decouple"></a>**buffer or decouple** — the two defenses: plan slack around a risky dependency, or remove its power to block you.
+- <a id="w-blindsided"></a>**blindsided** — surprised by something you should have seen coming (Lesson 36/41).
+- <a id="w-early-warning-signs"></a>**early-warning signs** — the small signals that a promise is slipping, visible before the miss.
+- <a id="w-track-like-your-own"></a>**track like your own** — monitoring others' commitments as actively as your own tasks.
 
 ---
 

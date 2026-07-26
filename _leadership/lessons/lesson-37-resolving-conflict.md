@@ -10,40 +10,34 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 37: Resolving Conflict
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **task conflict vs relationship conflict** — disagreement about the *work* (healthy) vs personal friction (corrosive).
-> - **corrosive** (kor-ROH-siv) — slowly destructive, like acid on metal.
-> - **positions vs interests** — what people demand ("use Kafka!") vs *why* they want it (from *Getting to Yes*); resolutions live in the interests.
-> - **groupthink** — a team agreeing too easily because nobody challenges anything.
-> - **curdle** — to go bad (like milk); a task disagreement "curdling" into personal resentment.
-> - **mediate / mediator** (MEE-dee-ate) — to help two parties resolve a conflict as a neutral third person.
-> - **neutral** — taking neither side.
-> - **impasse** (IM-pass) — a deadlock no one can move past at the current level.
-> - **escalation as a service** — taking a genuine impasse upward to someone who can decide — responsible, not a failure.
-> - **agree to differ / let it stand** — accepting an unresolved disagreement that doesn't block the work.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Conflict is inevitable on any team — and a lead's job isn't to eliminate it (some conflict is
 healthy) but to keep it **productive**: moving disputes from *people vs. people* (destructive) to
 *people vs. problem* (constructive). The key distinctions are between **task conflict** (disagreement
-about the work — often healthy) and **relationship conflict** (personal friction — corrosive), and
+about the work — often healthy) and **relationship conflict** (personal friction — **corrosive**[°](#w-corrosive)), and
 between **positions** (what people say they want) and **interests** (why they want it — where
 resolution usually lives).
 
-```
-   TASK CONFLICT (healthy)          RELATIONSHIP CONFLICT (corrosive)
-   ──────────────────────          ────────────────────────────────
-   disagreeing about the WORK       personal friction, it's-about-them
-   (the design, the approach)       (dislike, resentment, ego)
-   → surfaces better ideas          → damages the team, no upside
-   KEEP it task, don't let it       → the lead's job: keep conflict on
-   become personal                     the task, not the people
+Not all conflict is the same, and the lead's job is to keep it on the right
+side of one line.
 
-   POSITIONS ("we must use X") vs INTERESTS (WHY they want X)
-   → resolution usually lives in the interests, not positions
-```
+**Task conflict is healthy.** It is disagreement about the *work* — the design,
+the approach, the trade-off — and it reliably surfaces better ideas than
+consensus does. **Relationship conflict is corrosive.** It is personal friction:
+dislike, resentment, ego. It damages the team and has no upside whatsoever.
+
+Your job is to keep conflict on the task and stop it becoming about the people,
+because task conflict left unresolved has a habit of curdling into the other
+kind.
+
+One tool does most of the work when you are stuck: separate **positions** from
+**interests**. A position is "we must use X." An interest is *why* they want X
+— they were burned by an outage, they own the on-call rota, they have to
+justify the cost. Positions collide head-on; interests usually turn out to be
+compatible, and that is where the resolution lives.
 
 The reframe: **move conflict from people-vs-people to people-vs-problem, and look for the interests
 behind the positions.** Task conflict (about the work) is healthy and produces better outcomes —
@@ -61,7 +55,7 @@ compatible).
 A crucial distinction: **task conflict** (disagreement about the work itself — the design, the
 approach, the priority) is often **healthy** — it surfaces different perspectives, pressure-tests
 ideas, and produces better outcomes; a team with no task conflict is probably not challenging each
-other's thinking (groupthink). **Relationship conflict** (personal friction — dislike, resentment,
+other's thinking (**groupthink**[°](#w-groupthink)). **Relationship conflict** (personal friction — dislike, resentment,
 ego, it's-about-the-person) is **corrosive** — it has no upside, damages the team, and makes everything
 worse. The lead's job is to **encourage healthy task conflict while preventing/defusing relationship
 conflict** — and, critically, to keep task conflict *from becoming* relationship conflict (a
@@ -82,7 +76,7 @@ complexity) that a third option serves. Resolution usually lives in the interest
 ### The mediator stance — for conflicts within your team
 
 When two people on your team are in conflict, you often need to **mediate**. The mediator stance: (1)
-stay **neutral** (don't take sides — you're helping them resolve it, not judging who's right); (2)
+stay **neutral**[°](#w-neutral) (don't take sides — you're helping them resolve it, not judging who's right); (2)
 help each **feel heard** (let both express their view/interests, acknowledge each); (3) **surface the
 interests** behind their positions (dig to why); (4) **refocus on the shared problem/goal** (move from
 you-vs-them to us-vs-the-problem — "you both want the code to be maintainable; let's find an approach
@@ -93,7 +87,7 @@ to hear each other's interests.
 ### Escalation as a service, not a failure
 
 Sometimes a conflict can't be resolved at your level and needs to go up (to a higher manager, a
-decision-maker). Reframe **escalation as a service, not a failure**: escalating a genuine impasse to
+decision-maker). Reframe **escalation as a service, not a failure**: escalating a genuine **impasse**[°](#w-impasse) to
 someone who can resolve it (a decision that needs a higher authority, a cross-team conflict needing a
 shared manager) is the responsible thing, not an admission of defeat. The failure is letting an
 unresolvable conflict fester because escalating feels like failing. Escalate well (present it neutrally,
@@ -360,6 +354,23 @@ core part of leading through people you don't fully control. The next lesson add
 aligning teams around a direction — creating alignment that survives after you leave the room, so that
 teams don't drift into building incompatible things.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-task-conflict-vs-relationship-conflict"></a>**task conflict vs relationship conflict** — disagreement about the *work* (healthy) vs personal friction (corrosive).
+- <a id="w-corrosive"></a>**corrosive** (kor-ROH-siv) — slowly destructive, like acid on metal.
+- <a id="w-positions-vs-interests"></a>**positions vs interests** — what people demand ("use Kafka!") vs *why* they want it (from *Getting to Yes*); resolutions live in the interests.
+- <a id="w-groupthink"></a>**groupthink** — a team agreeing too easily because nobody challenges anything.
+- <a id="w-curdle"></a>**curdle** — to go bad (like milk); a task disagreement "curdling" into personal resentment.
+- <a id="w-mediate-mediator"></a>**mediate / mediator** (MEE-dee-ate) — to help two parties resolve a conflict as a neutral third person.
+- <a id="w-neutral"></a>**neutral** — taking neither side.
+- <a id="w-impasse"></a>**impasse** (IM-pass) — a deadlock no one can move past at the current level.
+- <a id="w-escalation-as-a-service"></a>**escalation as a service** — taking a genuine impasse upward to someone who can decide — responsible, not a failure.
+- <a id="w-agree-to-differ-let-it-stand"></a>**agree to differ / let it stand** — accepting an unresolved disagreement that doesn't block the work.
 
 ---
 

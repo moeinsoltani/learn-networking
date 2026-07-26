@@ -10,18 +10,7 @@ parent: "Phase 1: The Transition"
 
 # Lesson 01: What Actually Changes
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **IC (individual contributor)** — an engineer who builds things personally and manages no one.
-> - **leverage** — impact per hour of your time; **multiplier** — work that increases *other people's* output instead of adding your own.
-> - **artifact** — a visible product of work (a commit, a document, a ticket); much lead work leaves none.
-> - **1:1 (one-on-one)** — the regular private meeting between a lead and each team member.
-> - **Sev-1** (severity one) — the most critical class of production incident; everything stops for it.
-> - **scope / poorly-scoped** — the defined size of a piece of work / vague and too big.
-> - **throughput** — how much work gets finished per week; **bottleneck** — the one point everything else waits on.
-> - **heads-down** — working with full focus, ignoring everything else; **unblock** — to remove whatever is stopping someone's progress.
-> - **dopamine** (DOH-pah-meen) — the brain's reward chemical; shorthand for "the good feeling of visible progress."
-> - **retention risk** — the danger that a team member quits.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -33,28 +22,27 @@ As a senior engineer, your value was clear and measurable — you shipped
 features, fixed hard bugs, made good technical calls. Your hands on the
 keyboard created the value. The mental model was simple:
 
-```
-   SENIOR ENGINEER                    LEAD
-   ──────────────                     ────
-   your value = what YOU build        your value = what your TEAM builds
-                                                    + teams you influence
+The shift is easiest to see by putting the two jobs side by side.
 
-   a great week = shipped the         a great week = your team shipped,
-   thing, solved the hard problem     unblocked each other, made good calls,
-                                       and grew — often WITHOUT you touching
-                                       the code
-```
+| | **Senior engineer** | **Lead** |
+|---|---|---|
+| **Where your value comes from** | What *you* build | What your *team* builds — plus the teams you influence |
+| **What a great week looks like** | You shipped the thing and solved the hard problem | Your team shipped, unblocked each other, made good calls, and grew — often **without you touching the code** |
+
+That second row is the one that takes months to feel normal. A week in which
+you personally wrote nothing and the team moved faster than ever is, in the new
+job, an excellent week.
 
 This is a genuinely disorienting shift, because the thing that made you
 successful (personal technical output) is now, at best, a small part of the
-job — and at worst, a trap. The hours you spend heads-down coding are hours you
-*aren't* doing the multiplier work only you can do: setting direction,
+job — and at worst, a trap. The hours you spend **heads-down**[°](#w-heads-down) coding are hours you
+*aren't* doing the **multiplier**[°](#w-multiplier) work only you can do: setting direction,
 unblocking people, growing the team, making the calls that let five engineers
 work well instead of one engineer working brilliantly.
 
 Andy Grove (Intel's CEO) put it as a formula in *High Output Management*: a
 manager's output is the output of their team plus the output of neighboring
-teams they influence. Your leverage — the multiplier on your effort — is now
+teams they influence. Your **leverage**[°](#w-leverage) — the multiplier on your effort — is now
 enormous *and* indirect. One good architectural decision, one unblocked
 engineer, one well-run design review shapes weeks of others' work. But you
 won't *feel* that value the way you felt shipping code, which is why this
@@ -69,7 +57,7 @@ transition is as much emotional as practical (Lesson 05).
 The concrete change is in what you optimize for hour to hour. A senior
 engineer's good day is measured in personal progress. A lead's good day is
 measured in the *team's* progress and health — and the highest-value things you
-do often leave no artifact with your name on it:
+do often leave no **artifact**[°](#w-artifact) with your name on it:
 
 - You spotted that two engineers were about to build incompatible things, and a
   five-minute conversation saved a week of rework. (No commit. Enormous value.)
@@ -88,7 +76,7 @@ The skills that got you promoted don't disappear, but their *application*
 changes:
 
 - **Being the best coder** → the temptation to do the hard tasks yourself,
-  which caps your team at your personal throughput and stops others from
+  which caps your team at your personal **throughput**[°](#w-throughput) and stops others from
   growing (Lesson 03).
 - **Deep focus** → the maker's schedule, which fragments the moment you have a
   team depending on your availability (Lesson 04).
@@ -138,7 +126,7 @@ The reasoning, in leverage terms: fixing it yourself saves ~half a day <em>this
 week</em> but produces nothing lasting — and it costs you the planning doc time
 (the highest-leverage thing on your plate: it shapes a <em>quarter</em> of five
 people's work), signals to the team that hard problems flow to you (so they
-stop growing and you become the bottleneck — Lesson 03), and denies Priya a
+stop growing and you become the **bottleneck**[°](#w-bottleneck) — Lesson 03), and denies Priya a
 real growth opportunity in a subsystem she needs to learn. Priya taking the day
 "costs" more hours <em>this week</em> but: she levels up in that subsystem
 (compounding — next time she's faster and independent), the bug still gets
@@ -146,7 +134,7 @@ fixed, and you protect your leverage work. That's the whole reframe — you
 optimized for the team's output and growth over your personal throughput.
 
 The nuance that separates a good answer from a naive one: <strong>severity and
-context matter</strong>. If this were a Sev-1 outage costing money every minute,
+context matter</strong>. If this were a **Sev-1**[°](#w-sev-1) outage costing money every minute,
 "fastest fix wins" is correct — you fix it (or pair on it live), because
 right-now impact outweighs growth; then you make it a teaching moment
 afterward. The lesson isn't "never touch code" — it's "default to leverage and
@@ -290,6 +278,23 @@ new leads who thrive are the ones who make peace with trading the reliable
 dopamine of "I built this" for the delayed, diffuse, but far larger reward of
 "my team is better and shipped more because of choices I made."
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-ic-individual-contributor"></a>**IC (individual contributor)** — an engineer who builds things personally and manages no one.
+- <a id="w-leverage"></a>**leverage** — impact per hour of your time; <a id="w-multiplier"></a>**multiplier** — work that increases *other people's* output instead of adding your own.
+- <a id="w-artifact"></a>**artifact** — a visible product of work (a commit, a document, a ticket); much lead work leaves none.
+- <a id="w-1-1-one-on-one"></a>**1:1 (one-on-one)** — the regular private meeting between a lead and each team member.
+- <a id="w-sev-1"></a>**Sev-1** (severity one) — the most critical class of production incident; everything stops for it.
+- <a id="w-scope-poorly-scoped"></a>**scope / poorly-scoped** — the defined size of a piece of work / vague and too big.
+- <a id="w-throughput"></a>**throughput** — how much work gets finished per week; <a id="w-bottleneck"></a>**bottleneck** — the one point everything else waits on.
+- <a id="w-heads-down"></a>**heads-down** — working with full focus, ignoring everything else; <a id="w-unblock"></a>**unblock** — to remove whatever is stopping someone's progress.
+- <a id="w-dopamine"></a>**dopamine** (DOH-pah-meen) — the brain's reward chemical; shorthand for "the good feeling of visible progress."
+- <a id="w-retention-risk"></a>**retention risk** — the danger that a team member quits.
 
 ---
 

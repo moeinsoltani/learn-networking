@@ -10,39 +10,33 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 50: Planning and Roadmaps
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **milestone** — a marked point of progress; good ones *prove* something, not just mark dates.
-> - **risk retirement** — removing an unknown by proving the risky thing works (or doesn't) early.
-> - **slack / buffer** — deliberately unscheduled time that absorbs the inevitable surprises; a feature, not padding.
-> - **brittle vs robust** — shatters at the first surprise vs absorbs surprises and holds.
-> - **work backward** — planning from the target date to today, to see what must be true when.
-> - **now / next / later** — a roadmap format whose precision honestly decreases with distance.
-> - **Gantt chart** (GANT) — the classic bar-chart project schedule that pretends to know far-future dates.
-> - **false precision** — exact-looking numbers that imply certainty nobody has.
-> - **cadence** — the repeating rhythm of planning and reality-checking (Lesson 38).
-> - **stale artifact** — a document nobody updates or believes anymore.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Plans are essential and yet almost always wrong — "no plan survives contact with reality." The goal
 isn't a perfect plan (impossible) but a plan that's **useful despite being wrong** — one that helps you
 navigate, adapt, and retire risk, rather than a rigid schedule that shatters on first contact. The key
-ideas: **milestones as risk-retirement** (each milestone proves something / removes a risk, not just
+ideas: **milestones as risk-retirement** (each **milestone**[°](#w-milestone) proves something / removes a risk, not just
 marks calendar time), **slack as a feature** (build in buffer — plans with no slack always slip), and a
 **planning cadence** (plan, then reality-check regularly).
 
-```
-   MILESTONES = RISK RETIREMENT (not calendar decoration)
-   ┌──────────────────────────────────────────────────────┐
-   │ BAD milestone: "week 4: 50% done" (calendar, meaningless)│
-   │ GOOD milestone: "week 4: proven the risky integration   │
-   │   works end-to-end" (retires a RISK)                    │
-   │ • work BACKWARD from the date                           │
-   │ • SLACK is a feature (buffer for the unknowns)          │
-   │ • CADENCE: plan (quarterly) + reality-check (weekly)    │
-   └──────────────────────────────────────────────────────┘
-```
+The most useful reframing in planning: **milestones are for retiring risk, not
+decorating the calendar.**
+
+A **bad milestone** is "week 4: 50% done." It is a calendar entry that measures
+nothing — you cannot verify it, and it is compatible with the project being in
+serious trouble. A **good milestone** is "week 4: proven the risky integration
+works end to end." It retires a specific risk, and it is either true or false.
+
+Three practices follow:
+
+- **Work backward from the date**, rather than forward from today, so the plan
+  is forced to confront what actually has to be true.
+- **Treat slack as a feature**, not padding to be negotiated away. It is the
+  buffer that absorbs the unknowns you have not met yet.
+- **Run two cadences**: plan quarterly, reality-check weekly. Plans made
+  quarterly and never revisited are fiction by week three.
 
 The reframe: **plan to retire risk and to adapt, not to predict — milestones prove things (retire
 risks), slack absorbs the inevitable unknowns, and you reality-check the plan continuously.** A plan
@@ -68,7 +62,7 @@ about real progress and risk) rather than arbitrary calendar checkpoints.
 
 ### Work backward from the date
 
-When there's a target date, **work backward** from it: what has to be true by then, and therefore by
+When there's a target date, **work backward**[°](#w-work-backward) from it: what has to be true by then, and therefore by
 each preceding milestone, to hit it? Working backward (from the goal to the steps) rather than only
 forward (from now, hoping it adds up) surfaces whether the date is feasible and what each milestone must
 achieve. It reveals early if the date is impossible (the backward math doesn't fit) — a much better time
@@ -87,17 +81,17 @@ important — the no-slack plan just fails later.
 
 ### Now / next / later roadmaps
 
-For roadmaps (vs. detailed project plans), a useful format is **now / next / later** — instead of false-
+For roadmaps (vs. detailed project plans), a useful format is **now / next / later**[°](#w-now-next-later) — instead of false-
 precision dated commitments far out (which will be wrong), express the roadmap as what we're doing
 <em>now</em> (committed, specific), <em>next</em> (soon, less certain), and <em>later</em> (directional,
 vague). This honestly conveys certainty decreasing with distance (near-term is firm, far-term is
 directional), avoids over-committing to specific far-future dates (which reality will break), and is more
-truthful than a Gantt chart pretending to know exact dates a year out. Match the precision to the actual
+truthful than a **Gantt chart**[°](#w-gantt-chart) pretending to know exact dates a year out. Match the precision to the actual
 certainty.
 
 ### The planning cadence — plan + reality-check
 
-Planning isn't one-time — it's a **cadence**: plan at a longer interval (e.g., quarterly — set direction
+Planning isn't one-time — it's a **cadence**[°](#w-cadence): plan at a longer interval (e.g., quarterly — set direction
 and milestones) AND reality-check frequently (e.g., weekly — is the plan still holding? what's changed?
 are we hitting milestones? new risks?). The reality-checks catch divergence early (so you adapt while
 there's room), keep the plan current (as reality unfolds), and prevent the plan from becoming a stale
@@ -181,7 +175,7 @@ last</strong> — leaves the scariest risks unretired until late (discovering th
 week 10 is a disaster); do hardest-first; (3) <strong>no slack</strong> — a no-buffer plan for a critical
 system with guaranteed surprises will slip; (4) <strong>not working backward</strong> — not checking if the
 quarter is even feasible (finding out at the deadline); (5) <strong>plan-and-forget</strong> — no
-reality-check cadence, so divergence isn't caught; (6) <strong>false precision</strong> — pretending to know
+reality-check cadence, so divergence isn't caught; (6) <strong>**false precision**[°](#w-false-precision)</strong> — pretending to know
 exact dates for a project full of unknowns (the milestones are ~approximate, adjusted as you learn); (7)
 <strong>ignoring the migration/rollout risk</strong> — auth is critical-path; the risky part is often the
 safe cutover, not the new code.
@@ -350,6 +344,23 @@ navigation rather than doomed prediction. This is the foundation of project lead
 you've decided is worth doing. The next lesson tackles the hardest part of planning — estimation — why it
 fails, and how to estimate honestly and communicate uncertainty so you stop being surprised.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-milestone"></a>**milestone** — a marked point of progress; good ones *prove* something, not just mark dates.
+- <a id="w-risk-retirement"></a>**risk retirement** — removing an unknown by proving the risky thing works (or doesn't) early.
+- <a id="w-slack-buffer"></a>**slack / buffer** — deliberately unscheduled time that absorbs the inevitable surprises; a feature, not padding.
+- <a id="w-brittle-vs-robust"></a>**brittle vs robust** — shatters at the first surprise vs absorbs surprises and holds.
+- <a id="w-work-backward"></a>**work backward** — planning from the target date to today, to see what must be true when.
+- <a id="w-now-next-later"></a>**now / next / later** — a roadmap format whose precision honestly decreases with distance.
+- <a id="w-gantt-chart"></a>**Gantt chart** (GANT) — the classic bar-chart project schedule that pretends to know far-future dates.
+- <a id="w-false-precision"></a>**false precision** — exact-looking numbers that imply certainty nobody has.
+- <a id="w-cadence"></a>**cadence** — the repeating rhythm of planning and reality-checking (Lesson 38).
+- <a id="w-stale-artifact"></a>**stale artifact** — a document nobody updates or believes anymore.
 
 ---
 

@@ -10,50 +10,41 @@ parent: "Phase 8: The Architect in Practice"
 
 # Lesson 36: Capstone — Design a System End to End
 
-{: .note }
-> **Words to know**
-> - **capstone** — the culminating exercise that puts the whole track together; synthesis, not new material.
-> - **the arc** — the end-to-end path an architect walks: drivers → quality attributes → style → boundaries → data → communication & resilience → cross-cutting → deployment → documentation → evaluation & evolution.
-> - **ASR (architecturally significant requirement)** — the small set of requirements that actually shape the architecture (Lesson 4).
-> - **defended design** — a design presented with its reasoning, trade-offs, and rejected alternatives made explicit — not just boxes and arrows.
-> - **conscious trade-off** — a downside you named and accepted on purpose, rather than one you stumbled into.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 This is the synthesis. Everything in the track has been a *part* of the job — reasoning about quality
 attributes, choosing structure and style, taming distributed data, designing for the cross-cutting
-qualities, documenting, evaluating, evolving. The capstone puts them in **sequence**: taking a real
+qualities, documenting, evaluating, evolving. The **capstone**[°](#w-capstone) puts them in **sequence**: taking a real
 product brief from raw requirements to a *defended* architecture, walking the whole arc the way an
 architect actually does. There is no new material here — the skill being tested is *integration*: doing
 the parts in the right order, letting each stage feed the next, and — the thread through the entire track
 — making every trade-off **explicit and conscious** instead of implicit and accidental.
 
-```
-   THE ARC — the architect's end-to-end path (each stage feeds the next)
+Here is the whole track as one path — the order an architect actually works in,
+with each stage feeding the next.
 
-   ① drivers & ASRs ────────▶ ② quality attributes (measurable scenarios)
-      (Lesson 4)                  (Lesson 3)
-        │                            │
-        ▼                            ▼
-   ③ style choice ◀──────────── from the drivers (Lesson 8)
-        │
-        ▼
-   ④ bounded contexts & boundaries (Lessons 5–7)
-        │
-        ▼
-   ⑤ data & consistency (Lessons 15,17,19,22) ─▶ ⑥ communication & resilience (16,18)
-        │                                              │
-        ▼                                              ▼
-   ⑦ cross-cutting: security · observability · scale (23–25)
-        │
-        ▼
-   ⑧ deployment (27) ─▶ ⑨ documentation: C4 + key ADRs (28–29)
-        │
-        ▼
-   ⑩ evaluation & evolution plan (30–32)  ─── and throughout: NAME THE TRADE-OFFS
-```
+1. **Drivers and architecturally significant requirements** (Lesson 04) — what
+   is actually forcing the design.
+2. **Quality attributes** as measurable scenarios (Lesson 03).
+3. **Style choice**, derived *from the drivers* rather than from preference
+   (Lesson 08).
+4. **Bounded contexts and boundaries** (Lessons 05–07).
+5. **Data and consistency** (Lessons 15, 17, 19, 22).
+6. **Communication and resilience** (Lessons 16, 18).
+7. **Cross-cutting concerns**: security, observability, scale (Lessons 23–25).
+8. **Deployment** (Lesson 27).
+9. **Documentation** — C4 views plus the key ADRs (Lessons 28–29).
+10. **Evaluation and an evolution plan** (Lessons 30–32).
 
-The arc is not a rigid waterfall — you'll loop back (a data-consistency reality forces a style rethink) —
+Two things about this list matter more than its order. Every stage is fed by
+the one above it, so a design that skips step 1 is guessing at everything after
+it. And running through all ten, at every stage: **name the trade-offs.** That
+is the habit this entire track has been building, and it is what separates an
+architecture from a set of preferences.
+
+**The arc**[°](#w-the-arc) is not a rigid waterfall — you'll loop back (a data-consistency reality forces a style rethink) —
 but the *ordering* matters: the **drivers and ASRs come first** (Lesson 4 — find the few things that
 actually shape the architecture), because everything downstream is *justified by them*. A style chosen
 without drivers is fashion; a boundary drawn without the domain is guesswork; a consistency model chosen
@@ -466,6 +457,18 @@ reflexive-decision gaps, deliberately, is the practice — for the rest of your 
 > in service of reasoning like an architect. Keep running the arc on real systems; the judgment compounds.
 > Pair it with the [Engineering Leadership]({{ '/leadership/learning-plan.html' | relative_url }}) track
 > for the people-half of the role.
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-capstone"></a>**capstone** — the culminating exercise that puts the whole track together; synthesis, not new material.
+- <a id="w-the-arc"></a>**the arc** — the end-to-end path an architect walks: drivers → quality attributes → style → boundaries → data → communication & resilience → cross-cutting → deployment → documentation → evaluation & evolution.
+- <a id="w-asr-architecturally-significant-requirement"></a>**ASR (architecturally significant requirement)** — the small set of requirements that actually shape the architecture (Lesson 4).
+- <a id="w-defended-design"></a>**defended design** — a design presented with its reasoning, trade-offs, and rejected alternatives made explicit — not just boxes and arrows.
+- <a id="w-conscious-trade-off"></a>**conscious trade-off** — a downside you named and accepted on purpose, rather than one you stumbled into.
 
 ---
 

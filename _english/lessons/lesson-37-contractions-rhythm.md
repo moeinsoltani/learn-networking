@@ -19,17 +19,30 @@ gliding over the small ones). Non-native speakers often speak in full, uncluster
 speech is "I'm gonna send you the doc" — relaxed, warmer, easier to say. Learning the music
 of spoken English makes you both easier to understand and more comfortable to talk with.
 
-```
-   STIFF / FORMAL                     NATURAL / WARM
-   ─────────────                      ──────────────
-   "I am not sure."                   "I'm not sure."
-   "We will look into it."            "We'll look into it."
-   "Do you not have it?"              "Don't you have it?"
-   "I would like to..."               "I'd like to..."
+Contractions are not sloppy — in spoken English and in chat, their **absence**
+is what sounds odd.
 
-   Plus RHYTHM: stress the MEANING words, glide over the small ones.
-   "I'll SEND you the DOC by FRIday."  (caps = stressed)
-```
+| Stiff / formal | Natural / warm |
+|---|---|
+| "I am not sure." | "I'm not sure." |
+| "We will look into it." | "We'll look into it." |
+| "Do you not have it?" | "Don't you have it?" |
+| "I would like to…" | "I'd like to…" |
+
+Many learners are taught to avoid contractions for correctness, which produces
+speech that is accurate and faintly robotic. In conversation and chat, use
+them by default; save the full forms for formal writing or deliberate emphasis
+("I am *not* going to do that").
+
+Then there is **rhythm**, which matters more for being understood than
+pronouncing individual sounds perfectly. English **stresses the meaning words
+and glides over the small ones**:
+
+> "I'll **SEND** you the **DOC** by **FRI**day."
+
+Send, doc, Friday carry the meaning and get the stress. Everything else
+compresses. Getting this right does more for intelligibility than any amount of
+accent work.
 
 The point isn't to lose your accent — accents are fine, and yours is part of you. The point
 is that **contractions and natural stress make you sound warmer, more relaxed, and easier to

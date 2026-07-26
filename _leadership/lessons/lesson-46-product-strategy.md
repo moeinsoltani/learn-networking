@@ -10,42 +10,37 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 46: Customer Needs and Product Strategy
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **jobs-to-be-done (JTBD)** — the lens that customers "hire" a product to accomplish a *job* (the underlying need), not for its features ("they don't want a drill, they want a hole").
-> - **segment** — a group of customers with similar needs; **persona** — an invented archetypal user representing a segment.
-> - **monolithic** — treated as one uniform block; "the customer" isn't.
-> - **choosing what to disappoint** — strategy's essence: deciding which customers and requests you deliberately *won't* serve.
-> - **bloated** — swollen with too many features; **incoherent** — without a unifying logic.
-> - **roadmap** — the planned sequence of what to build; good ones follow strategy, bad ones are a **grab-bag** (random assortment).
-> - **differentiator** — what makes your product meaningfully different from competitors.
-> - **product thinking** — the PM's discipline of deciding what's worth building and why.
-> - **fluff** — impressive-sounding filler without substance (Lesson 06).
-> - **lens** — a way of looking at something that reveals particular aspects.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 To be a real partner to your PM (and to make good engineering-informed product decisions), you need to
-understand the **product thinking** they do — not to become a PM, but to speak the language and
+understand the **product thinking**[°](#w-product-thinking) they do — not to become a PM, but to speak the language and
 contribute meaningfully. Two core ideas: **jobs-to-be-done** (people "hire" a product to do a job — focus
 on the underlying need, not the features) and **product strategy as choosing what to disappoint** (a
 strategy is defined as much by what you *won't* do and who you *won't* serve as by what you will).
 
-```
-   PRODUCT THINKING (enough to be a real partner)
-   ┌──────────────────────────────────────────────────────┐
-   │ JOBS-TO-BE-DONE: people "hire" a product for a JOB      │
-   │   (the underlying need), not for features               │
-   │   "they don't want a drill, they want a hole"           │
-   │ STRATEGY = CHOOSING WHAT TO DISAPPOINT                   │
-   │   a strategy is defined by what you WON'T do & who you   │
-   │   WON'T serve (saying yes to everything = no strategy)   │
-   └──────────────────────────────────────────────────────┘
-```
+Two ideas will make you a genuine product partner rather than an implementer
+with opinions.
+
+**Jobs to be done.** People "hire" a product to do a *job* — to meet some
+underlying need — not because they wanted features. The standard illustration:
+nobody wants a drill, they want a hole. Ask what job your users are hiring your
+product for and a surprising amount of the roadmap rearranges itself.
+
+**Strategy is choosing what to disappoint.** A strategy is defined as much by
+what you will *not* do and who you will *not* serve as by what you will. Saying
+yes to everything is not an ambitious strategy; it is the absence of one, and it
+shows up downstream as an architecture with no shape and a team with no
+priorities.
+
+The second idea is the one that makes you useful in planning meetings, because
+it lets you ask the question nobody else wants to: *what are we choosing not to
+do here?*
 
 The reframe: **product strategy is about focus — choosing which customers and needs to serve (and which
 to deliberately disappoint) — and understanding the underlying job, not just the requested features.** A
-product that tries to serve everyone and do everything has no strategy (and becomes an incoherent mess);
+product that tries to serve everyone and do everything has no strategy (and becomes an **incoherent**[°](#w-incoherent) mess);
 a good strategy makes hard choices about who and what to focus on. And understanding customers means
 understanding the <em>job</em> they're trying to get done (the real need), not just the features they
 request.
@@ -56,7 +51,7 @@ request.
 
 ### Jobs-to-be-done — the underlying need
 
-**Jobs-to-be-done (JTBD)** is a lens: people "hire" a product to do a **job** — to make progress on
+**Jobs-to-be-done (JTBD)**[°](#w-jobs-to-be-done-jtbd) is a **lens**[°](#w-lens): people "hire" a product to do a **job** — to make progress on
 something they're trying to accomplish — not for its features per se. The classic line: "people don't
 want a quarter-inch drill, they want a quarter-inch hole" (and really, they want to hang the picture).
 Focusing on the <em>job</em> (the underlying need/progress the customer wants) rather than the features
@@ -67,11 +62,11 @@ building features that don't actually serve a real job. It connects to translati
 
 ### Segments and personas — without the fluff
 
-Products serve different **segments** (groups of customers with different needs) and **personas**
-(archetypal users). The useful core (without the marketing fluff): different customers have different
+Products serve different **segments**[°](#w-segment) (groups of customers with different needs) and **personas**[°](#w-persona)
+(archetypal users). The useful core (without the marketing **fluff**[°](#w-fluff)): different customers have different
 needs, and you can't serve all of them equally — so understanding your segments (who your customers are,
 what different groups need) lets you make deliberate choices about who to focus on. The practical value is
-recognizing that "the customer" isn't monolithic — a feature great for one segment may be irrelevant or
+recognizing that "the customer" isn't **monolithic**[°](#w-monolithic) — a feature great for one segment may be irrelevant or
 harmful for another — so product decisions involve choosing which segments to prioritize.
 
 ### Product strategy = choosing what to disappoint
@@ -79,7 +74,7 @@ harmful for another — so product decisions involve choosing which segments to 
 The deepest idea: **a product strategy is defined by what you choose NOT to do and who you choose NOT to
 serve** — strategy is about focus and trade-offs, so "choosing which customers to disappoint" is the
 essence of it. A product that says yes to every customer request and tries to serve every segment has
-<em>no</em> strategy — it becomes an incoherent, bloated mess that serves no one well (trying to please
+<em>no</em> strategy — it becomes an incoherent, **bloated**[°](#w-bloated) mess that serves no one well (trying to please
 everyone pleases no one). A real strategy makes hard choices: <em>these</em> customers and <em>these</em>
 needs are our focus; <em>those</em> we deliberately won't serve well (we'll disappoint them). This focus
 is what makes a product coherent and excellent for its target — and the discipline to say no (to
@@ -88,7 +83,7 @@ your team) see why the answer to "can we add X?" is often (correctly) "no — th
 
 ### Roadmap logic — why these, in this order
 
-A **roadmap** should follow from the strategy — the sequence of what to build reflects the strategic
+A **roadmap**[°](#w-roadmap) should follow from the strategy — the sequence of what to build reflects the strategic
 priorities (serving the target customers' most important jobs first, building toward the strategic goals).
 Understanding roadmap logic means seeing <em>why</em> certain things are prioritized (they serve the
 strategy/the key jobs) and others aren't (they don't, even if some customer asked) — rather than a roadmap
@@ -112,7 +107,7 @@ strategy</em>, not just execute it.
 > **Product strategy is choosing what to disappoint — and understanding the job, not just the features</br>**
 > To be a real partner to your PM, understand the product thinking: <em>jobs-to-be-done</em> (people
 > "hire" a product for a job — the underlying need — not for features; solve the real job, not the literal
-> request) and <em>strategy as choosing what to disappoint</em> (a strategy is defined by what you won't do
+> request) and <em>strategy as **choosing what to disappoint**[°](#w-choosing-what-to-disappoint)</em> (a strategy is defined by what you won't do
 > and who you won't serve — saying yes to everything is no strategy and makes an incoherent mess; focus is
 > what makes a product excellent for its target). Understand segments (customers aren't monolithic) and
 > roadmap logic (the sequence follows the strategy). And crucially, engineering insight can <em>change</em>
@@ -153,7 +148,7 @@ compete on simplicity), recognizing that features contradicting the strategy act
 <br><br>
 <strong>Three that matter most (serve the strategy — simplicity, speed, small teams):</strong> <br>•
 <strong>(1) One-click setup for common stacks</strong> — directly serves "radically simpler and faster to
-set up," the core differentiator. <br>• <strong>(7) Clean, simple default that works out of the box</strong>
+set up," the core **differentiator**[°](#w-differentiator). <br>• <strong>(7) Clean, simple default that works out of the box</strong>
 — the essence of the simplicity strategy; this <em>is</em> the product's value. <br>• <strong>(3) Faster
 build times</strong> (or 5, great docs/onboarding, or 9, clear errors — all reinforce simple+fast for small
 teams) — I'd pick faster builds as it directly serves "fast," a core promise. <em>(These three most directly
@@ -372,6 +367,23 @@ into connecting tech to business (Lesson 48) and "should we build this?" (Lesson
 to metrics — speaking both business and engineering metrics natively, honestly connected, and navigating the
 ways metrics get misused.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-jobs-to-be-done-jtbd"></a>**jobs-to-be-done (JTBD)** — the lens that customers "hire" a product to accomplish a *job* (the underlying need), not for its features ("they don't want a drill, they want a hole").
+- <a id="w-segment"></a>**segment** — a group of customers with similar needs; <a id="w-persona"></a>**persona** — an invented archetypal user representing a segment.
+- <a id="w-monolithic"></a>**monolithic** — treated as one uniform block; "the customer" isn't.
+- <a id="w-choosing-what-to-disappoint"></a>**choosing what to disappoint** — strategy's essence: deciding which customers and requests you deliberately *won't* serve.
+- <a id="w-bloated"></a>**bloated** — swollen with too many features; <a id="w-incoherent"></a>**incoherent** — without a unifying logic.
+- <a id="w-roadmap"></a>**roadmap** — the planned sequence of what to build; good ones follow strategy, bad ones are a **grab-bag** (random assortment).
+- <a id="w-differentiator"></a>**differentiator** — what makes your product meaningfully different from competitors.
+- <a id="w-product-thinking"></a>**product thinking** — the PM's discipline of deciding what's worth building and why.
+- <a id="w-fluff"></a>**fluff** — impressive-sounding filler without substance (Lesson 06).
+- <a id="w-lens"></a>**lens** — a way of looking at something that reveals particular aspects.
 
 ---
 

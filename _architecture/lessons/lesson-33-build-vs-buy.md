@@ -10,48 +10,42 @@ parent: "Phase 8: The Architect in Practice"
 
 # Lesson 33: Build vs Buy & Technology Selection
 
-{: .note }
-> **Words to know**
-> - **build vs buy** — decide whether to build a capability yourself, buy/rent it (SaaS, managed service, commercial product), or adopt open-source — or not do it at all.
-> - **core vs generic (domain)** — your *core* domain is your competitive advantage (build it); *generic/supporting* is undifferentiated (buy it). From DDD (Lesson 7).
-> - **TCO (total cost of ownership)** — the full lifetime cost, not the sticker price: integration, operations, maintenance, upgrades, training, exit.
-> - **opportunity cost** — what you *don't* get to build because you spent the time on this instead; the real lens for build-vs-buy.
-> - **lock-in** — how hard it is to leave a technology/vendor later; a cost you pay at the worst possible time.
-> - **résumé-driven development** — choosing tech because it's exciting or looks good on a CV, not because it fits the problem.
-> - **boring technology** — the argument for proven, well-understood tech; every novel technology spends a scarce "innovation token".
-> - **spike / bake-off** — a small time-boxed experiment (or head-to-head trial) to reduce uncertainty before committing.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Two of the most consequential decisions an architect makes aren't *how* to build something — they're
 **whether to build it at all**, and **which technology** to use. Both are routinely made badly, for the
 same reason: by reflex (résumé-driven, hype-driven, "we always use X") instead of by judgment. The
-governing lens for both is **opportunity cost**: every hour and every technology you spend on this is an
+governing lens for both is **opportunity cost**[°](#w-opportunity-cost): every hour and every technology you spend on this is an
 hour and a slot you *don't* spend on something else, so the question is never "can we build it?" (you
 usually can) but "is this the best use of our scarce building capacity?"
 
-```
-   THE TWO DECISIONS, ONE LENS: OPPORTUNITY COST
+Two decisions, one lens — **opportunity cost**.
 
-   BUILD vs BUY                          TECHNOLOGY SELECTION
-   ┌────────────────────────────┐        ┌────────────────────────────────┐
-   │ is it your CORE domain?     │        │ fit to the DRIVER (Lesson 4)?  │
-   │   yes → BUILD (your edge)   │        │ maturity · team skill ·        │
-   │   no  → BUY/RENT/OSS        │        │ operational burden · community │
-   │        (undifferentiated)   │        │ lock-in · TCO                  │
-   │ judge on TCO, not sticker   │        │  vs hype / résumé-driven       │
-   │ price · exit cost · lock-in │        │  "every new tech = 1 token"    │
-   └────────────────────────────┘        └────────────────────────────────┘
-        build your differentiator,             pick for the problem,
-        rent the rest                          not for the CV or the hype
-```
+**Build versus buy** turns on a single question: *is this your core domain?*
+If yes, **build** it — that is your edge, and outsourcing it outsources your
+advantage. If no, **buy, rent, or adopt open source**, because it is
+undifferentiated work that will not win you a customer. Judge on **total cost
+of ownership** rather than sticker price, and include the exit cost and the
+lock-in in that total.
 
-Two heuristics do most of the work. For **build vs buy**: build what is your **core domain** — your
+**Technology selection** turns on fit to the drivers from Lesson 04, plus a
+handful of practical filters: maturity, your team's existing skill, the
+operational burden it adds, the health of its community, lock-in, and again
+TCO.
+
+What both decisions are defending against is choosing for hype or for the CV. A
+useful discipline: treat **every new technology as spending one token** from a
+small budget. A system with three unfamiliar technologies in it is not three
+times as modern; it is one team learning three things while trying to ship.
+
+Two heuristics do most of the work. For **build vs buy**[°](#w-build-vs-buy): build what is your **core domain** — your
 actual competitive advantage, the thing customers pay *you* for (Lesson 7's DDD subdomains) — and buy or
 rent everything **generic** (auth, email, payments, search infrastructure), because building
 undifferentiated capability is spending your best people on something a vendor already does better. For
 **technology selection**: choose for **fit to the driver** (Lesson 4) and honest operational reality —
-maturity, your team's skill, the operational burden, community, and lock-in — weighed against the
+maturity, your team's skill, the operational burden, community, and **lock-in**[°](#w-lock-in) — weighed against the
 **boring-technology** discipline that every novel technology is a cost, not a free upgrade. Both
 decisions are judged on **total cost of ownership**, not the sticker price — because the sticker price is
 always the smallest part.
@@ -83,7 +77,7 @@ the visible up-front one.
 {: .warning }
 > **Evaluate technology honestly — fit and reality over hype and résumé**
 > New technology gets chosen for bad reasons constantly. The failure modes:
-> - <strong>Résumé-driven development</strong> — picking the exciting new database/framework/language
+> - <strong>**Résumé-driven development**[°](#w-resume-driven-development)</strong> — picking the exciting new database/framework/language
 >   because it's fun or good for the CV, not because it fits the problem. The tell: the technology was
 >   chosen <em>before</em> the problem was understood.
 > - <strong>Hype-cycle chasing</strong> — adopting what's trending (the new thing everyone's blogging
@@ -97,7 +91,7 @@ the visible up-front one.
 > - <strong>Operational burden</strong> — what does running it actually cost (Lesson 27)?
 > - <strong>Community & support</strong> — is there a healthy ecosystem, or will you be alone with it?
 > - <strong>Lock-in</strong> — how hard is it to leave if it doesn't work out?
-> The <strong>"boring technology"</strong> argument (Dan McKinley): treat novelty as a scarce resource —
+> The <strong>"**boring technology**[°](#w-boring-technology)"</strong> argument (Dan McKinley): treat novelty as a scarce resource —
 > you get a few "innovation tokens" to spend on genuinely new tech; spend them where the novelty is
 > <em>essential</em> to your core, and use proven, well-understood ("boring") technology for everything
 > else, because boring tech has known failure modes, deep documentation, and a hiring pool. Every new
@@ -315,6 +309,21 @@ architectural decisions, both are usually made by reflex, and the antidotes are 
 opportunity cost and lifetime TCO, build your differentiator and rent the rest, spend novelty only where
 it's essential, and replace argument with a cheap spike when the stakes are real.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-build-vs-buy"></a>**build vs buy** — decide whether to build a capability yourself, buy/rent it (SaaS, managed service, commercial product), or adopt open-source — or not do it at all.
+- <a id="w-core-vs-generic-domain"></a>**core vs generic (domain)** — your *core* domain is your competitive advantage (build it); *generic/supporting* is undifferentiated (buy it). From DDD (Lesson 7).
+- <a id="w-tco-total-cost-of-ownership"></a>**TCO (total cost of ownership)** — the full lifetime cost, not the sticker price: integration, operations, maintenance, upgrades, training, exit.
+- <a id="w-opportunity-cost"></a>**opportunity cost** — what you *don't* get to build because you spent the time on this instead; the real lens for build-vs-buy.
+- <a id="w-lock-in"></a>**lock-in** — how hard it is to leave a technology/vendor later; a cost you pay at the worst possible time.
+- <a id="w-resume-driven-development"></a>**résumé-driven development** — choosing tech because it's exciting or looks good on a CV, not because it fits the problem.
+- <a id="w-boring-technology"></a>**boring technology** — the argument for proven, well-understood tech; every novel technology spends a scarce "innovation token".
+- <a id="w-spike-bake-off"></a>**spike / bake-off** — a small time-boxed experiment (or head-to-head trial) to reduce uncertainty before committing.
 
 ---
 

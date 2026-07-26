@@ -10,41 +10,33 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 44: Negotiation and Expectation Management
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **the iron triangle** — scope, time, and people are linked; you cannot fix all three ("pick two").
-> - **scope** — how much gets built; **descope / cut scope** — deliberately building less.
-> - **over-constrained** — demanding more fixed conditions than reality allows.
-> - **trade-off menu** — offering realistic options ("full scope +3 weeks, or the date with less scope — choose") instead of yes/no.
-> - **BATNA** — Best Alternative To a Negotiated Agreement: what you'll do if no deal is reached; knowing it grounds your position (from *Getting to Yes*).
-> - **under-promise, over-deliver** — committing to less than you expect to achieve, so you reliably exceed it.
-> - **over-commit** — promising the impossible; the doomed "yes."
-> - **renegotiate early** — raising a slipping plan while there's still room to adjust, instead of apologizing after missing.
-> - **agency** — the power to choose; a trade-off menu gives the other side agency.
-> - **interests vs positions** — Lesson 37's pair, central to all negotiation.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-As a lead, you **negotiate constantly** — scope, timelines, staffing, priorities — with product,
+As a lead, you **negotiate constantly** — **scope**[°](#w-scope), timelines, staffing, priorities — with product,
 leadership, other teams. It's now a core part of the job, and doing it well (rather than just
 accepting whatever's demanded, or flatly refusing) determines whether your team is set up to succeed
-or set up to fail. The key frameworks: **interests vs positions** (again — it's everywhere), the **iron
+or set up to fail. The key frameworks: **interests vs positions**[°](#w-interests-vs-positions) (again — it's everywhere), the **iron
 triangle** (scope/time/people — you can't fix all three), and the discipline of **renegotiating early**
 rather than apologizing late.
 
-```
-   THE IRON TRIANGLE (pick your constraints)
-              SCOPE
-             /      \
-            /        \
-        TIME ──────── PEOPLE
-   You can't fix all three independently. Want more scope?
-   → more time or more people. Fix time AND scope AND people?
-   → something gives (usually quality, or it just doesn't happen).
+The **iron triangle** is the oldest idea in project management and still the
+most useful one in a negotiation: **scope, time, and people** are linked, and
+you cannot fix all three independently.
 
-   NEGOTIATE with a TRADE-OFF MENU, not a flat yes or no.
-   RENEGOTIATE EARLY (when you see the problem) > apologize LATE.
-```
+Want more scope? That costs more time, or more people. Insist on fixing time
+*and* scope *and* people simultaneously, and something gives anyway — usually
+quality, sometimes the whole thing simply not happening.
+
+Two practical consequences. **Negotiate with a trade-off menu, not a flat yes
+or no.** "We can have all of it by June, or these three things by April — which
+serves you better?" turns a confrontation into a choice, and it puts the
+decision where it belongs, with the person who owns the priorities.
+
+And **renegotiate early**. The moment you can see the problem is worth
+enormously more than an apology later; the same information delivered six weeks
+sooner is a manageable adjustment rather than a broken promise.
 
 The reframe: **negotiate with a trade-off menu grounded in the iron triangle — and renegotiate early
 rather than apologizing late.** When asked for the impossible (full scope, fixed date, no more people),
@@ -75,7 +67,7 @@ independently fix all three.** More scope needs more time or more people; a fixe
 caps the scope; wanting more of everything means something gives (usually quality suffers, or it just
 doesn't happen). This is the "iron triangle" (or "pick two"). It's a powerful negotiation tool because
 it makes the trade-offs explicit and undeniable: when someone demands full scope, fixed date, and no new
-people, you can show that's over-constrained — one of them <em>must</em> flex. The iron-triangle
+people, you can show that's **over-constrained**[°](#w-over-constrained) — one of them <em>must</em> flex. The iron-triangle
 conversation ("we can have any two of these — which two?") turns an impossible demand into a real
 choice.
 
@@ -83,16 +75,16 @@ choice.
 
 When asked for something that's over-constrained, don't answer with a flat **yes** (over-committing to
 the impossible, then failing — the worst outcome) or a flat **no** (unhelpful, adversarial). Negotiate
-with a **trade-off menu**: "Here's what's possible — (A) full scope, but we'd need 3 more weeks; (B) the
+with a **trade-off menu**[°](#w-trade-off-menu): "Here's what's possible — (A) full scope, but we'd need 3 more weeks; (B) the
 date, but with reduced scope [specifically X]; (C) the date and full scope, but we'd need 2 more
 engineers. Which trade-off works for you?" This: (1) respects the constraint (you're not promising the
-impossible), (2) gives them agency (they choose the trade-off that fits their real priority), and (3)
+impossible), (2) gives them **agency**[°](#w-agency) (they choose the trade-off that fits their real priority), and (3)
 makes you a partner solving the problem (not a blocker or an over-promiser). The trade-off menu turns
 "can you do the impossible?" into "which realistic option do you want?"
 
 ### BATNA and under-promise calibration
 
-Two supporting concepts: (1) **BATNA** (Best Alternative To a Negotiated Agreement — from *Getting to
+Two supporting concepts: (1) **BATNA**[°](#w-batna) (Best Alternative To a Negotiated Agreement — from *Getting to
 Yes*): know your walk-away/alternative, which grounds your negotiating position (e.g., "if we don't get
 more people, the alternative is we cut scope — that's my BATNA, so I won't agree to full scope on the
 original date and people"). (2) **Under-promise calibration** — calibrate commitments so you can
@@ -118,8 +110,8 @@ failure of it. (This connects to no-surprises, Lesson 41, and delivering bad new
 > in the interests). Use the <em>iron triangle</em> (scope/time/people are linked — you can't fix all three;
 > one must flex) to make trade-offs explicit. When asked for the over-constrained, negotiate with a
 > <em>trade-off menu</em> ("here's what's possible — which trade-off do you want?") rather than a doomed
-> yes (over-commit, then fail) or a flat no (unhelpful). Know your <em>BATNA</em>, and calibrate commitments
-> to under-promise/over-deliver (building credibility). Above all, <em>renegotiate early</em> when the plan
+> yes (**over-commit**[°](#w-over-commit), then fail) or a flat no (unhelpful). Know your <em>BATNA</em>, and calibrate commitments
+> to under-promise/over-deliver (building credibility). Above all, <em>**renegotiate early**[°](#w-renegotiate-early)</em> when the plan
 > won't work (so everyone can adjust) rather than staying quiet and apologizing late (blindsiding everyone).
 > Negotiating scope, time, and staffing well — it's your job now — is how you avoid being set up to fail.
 
@@ -361,6 +353,23 @@ right thing, unblock dependencies, and set realistic expectations. The next phas
 Thinking) shifts to thinking beyond engineering — understanding the business and product context that should
 drive what the team builds and why.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-the-iron-triangle"></a>**the iron triangle** — scope, time, and people are linked; you cannot fix all three ("pick two").
+- <a id="w-scope"></a>**scope** — how much gets built; <a id="w-descope-cut-scope"></a>**descope / cut scope** — deliberately building less.
+- <a id="w-over-constrained"></a>**over-constrained** — demanding more fixed conditions than reality allows.
+- <a id="w-trade-off-menu"></a>**trade-off menu** — offering realistic options ("full scope +3 weeks, or the date with less scope — choose") instead of yes/no.
+- <a id="w-batna"></a>**BATNA** — Best Alternative To a Negotiated Agreement: what you'll do if no deal is reached; knowing it grounds your position (from *Getting to Yes*).
+- <a id="w-under-promise-over-deliver"></a>**under-promise, over-deliver** — committing to less than you expect to achieve, so you reliably exceed it.
+- <a id="w-over-commit"></a>**over-commit** — promising the impossible; the doomed "yes."
+- <a id="w-renegotiate-early"></a>**renegotiate early** — raising a slipping plan while there's still room to adjust, instead of apologizing after missing.
+- <a id="w-agency"></a>**agency** — the power to choose; a trade-off menu gives the other side agency.
+- <a id="w-interests-vs-positions"></a>**interests vs positions** — Lesson 37's pair, central to all negotiation.
 
 ---
 

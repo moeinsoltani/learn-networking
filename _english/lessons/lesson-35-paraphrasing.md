@@ -19,17 +19,26 @@ lets you check you got it right (and shows the other person you listened). Secon
 exact term, you describe the idea in simpler words and keep going. For a non-native speaker,
 paraphrasing is one of the highest-value fluency tools.
 
-```
-   TWO USES OF PARAPHRASING:
+Paraphrasing — saying something again in your own words — has two distinct uses
+at work.
 
-   1. CONFIRM     "So if I understand right, you want X before Y — correct?"
-                  → checks understanding, shows you listened
+**1. To confirm understanding:**
 
-   2. WORK AROUND a word you can't recall:
-      (can't remember "idempotent") → "so it's safe to run more than once,
-       calling it twice does the same as once — you know the property I mean?"
-      → describe the idea in simple words; keep talking, don't freeze
-```
+> "So if I understand right, you want X before Y — correct?"
+
+This checks that you got it, and demonstrates that you were listening. In a
+second language it is worth doing more often than a native speaker would.
+
+**2. To work around a word you cannot recall.** Suppose *idempotent* has
+vanished from your head mid-sentence:
+
+> "…so it's safe to run more than once — calling it twice does the same as
+> calling it once. You know the property I mean?"
+
+Describe the idea in simple words and **keep talking**. This is the single most
+valuable habit in this whole phase: a missing word is a small problem, and
+freezing turns it into a large one. Very often a colleague will supply the term,
+and you will remember it permanently after that.
 
 The reframe: **you never need a specific word to express an idea** — you can always describe
 it in simpler terms. So a word you can't recall (or don't know) is never a dead end; you

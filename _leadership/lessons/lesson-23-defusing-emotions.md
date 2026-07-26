@@ -10,19 +10,7 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 23: Defusing Emotional Situations
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **defuse** (dee-FYOOZ) — to remove the explosive charge from a situation (from disarming a bomb).
-> - **"name it to tame it"** — acknowledging an emotion out loud reduces its intensity.
-> - **de-escalate** — to lower a conflict's temperature step by step.
-> - **minimize** — to treat someone's feeling as smaller than it is ("it's not that bad") — which backfires.
-> - **empathy** (EM-pah-thee) — feeling *with* someone and showing you understand their experience.
-> - **vent(ing)** — releasing frustration by talking it out, not seeking solutions.
-> - **contagious** (kun-TAY-juss) — spreading between people; emotional states are.
-> - **regulate** (emotions) — to steady yourself deliberately (a breath) before responding.
-> - **trigger** — the specific thing that reliably sets *you* off emotionally.
-> - **hijacked** — when emotion takes over your response before thinking can.
-> - **circle back** — to return to the matter later, once things are calm.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -33,23 +21,26 @@ detached, but a steadying presence who helps the emotion settle so the situation
 The core skill is counterintuitive: **listen and acknowledge the emotion *before* trying to solve
 anything** — because an emotional person can't problem-solve until they feel heard.
 
-```
-   THE INSTINCT (fails)            WHAT WORKS
-   ───────────────────            ──────────
-   jump to solving                listen first, fully
-   "here's what you should do"    acknowledge the emotion ("name it to tame it")
-   minimize ("it's not so bad")   let them feel heard BEFORE solving
-   match their energy             be the calm, steady presence
-   (get anxious/defensive too)
+When someone brings you something they are upset about, the helpful instinct is
+usually the wrong one.
 
-   Name it to tame it → listen before solving → then help
-```
+| The instinct (fails) | What works |
+|---|---|
+| Jump to solving | Listen first, fully |
+| "Here's what you should do" | Acknowledge the emotion — *name it to tame it* |
+| Minimise it: "it's not so bad" | Let them feel heard **before** solving anything |
+| Match their energy — get anxious or defensive too | Be the calm, steady presence in the room |
+
+The sequence that works is short enough to remember under pressure: **name it
+to tame it → listen before solving → then help.** Naming the feeling out loud
+("that sounds genuinely frustrating") is not therapy-speak; it measurably takes
+the heat out of a conversation, and it costs one sentence.
 
 The reframe: **acknowledging an emotion reduces it; ignoring or jumping past it amplifies it.**
 When someone is emotional and you rush to solutions ("here's what you should do"), you skip the
 thing they most need — to feel heard — which leaves the emotion unaddressed and often makes it
 worse. Naming and acknowledging the emotion ("that sounds really frustrating") actually helps it
-settle ("name it to tame it"), and *only then* can useful problem-solving happen.
+settle (**"name it to tame it"**[°](#w-name-it-to-tame-it)), and *only then* can useful problem-solving happen.
 
 ---
 
@@ -63,7 +54,7 @@ you" — it helps them feel understood and actually lowers the emotional charge 
 response settles when the feeling is recognized). Ignoring or minimizing the emotion ("let's just
 focus on the solution", "it's not that bad") does the opposite — the person feels unheard, so the
 emotion intensifies. So the first move with an emotional person is to name and acknowledge the
-feeling, not to fix or minimize it.
+feeling, not to fix or **minimize**[°](#w-minimize) it.
 
 ### Listen before solving — the advice trap in reverse
 
@@ -83,7 +74,7 @@ Emotions aren't interchangeable — read which one and respond to it:
 - **Anger** — often a response to a perceived wrong or violation; needs acknowledgment and
   (usually) de-escalation, not defensiveness. Don't match it; stay calm, acknowledge the underlying
   concern, and don't take the bait to argue.
-- **Distress / sadness** (grief, burnout, being overwhelmed) — needs empathy and support, not
+- **Distress / sadness** (grief, burnout, being overwhelmed) — needs **empathy**[°](#w-empathy) and support, not
   problem-solving; be present, acknowledge, listen; don't rush to fix.
 - **Frustration** — often about a blocker or unfairness; needs acknowledgment and then, once heard,
   practical help removing the obstacle.
@@ -93,10 +84,10 @@ anger) makes it worse.
 
 ### Be the calm presence — don't match their energy
 
-Emotional states are contagious. If you get anxious, defensive, or heated in response to someone's
+Emotional states are **contagious**[°](#w-contagious). If you get anxious, defensive, or heated in response to someone's
 emotion, you amplify it. Staying visibly calm — steady tone, unhurried, non-defensive — has a
-settling effect and models regulation. This is hard (their emotion triggers yours), but your calm
-is the anchor that helps them settle. Regulate yourself first (a breath) so you can be the steady
+settling effect and models regulation. This is hard (their emotion **triggers**[°](#w-trigger) yours), but your calm
+is the anchor that helps them settle. **Regulate**[°](#w-regulate) yourself first (a breath) so you can be the steady
 presence.
 
 ### When to pause the meeting
@@ -111,8 +102,8 @@ pause (rather than push through) is a key skill.
 
 Two supporting practices: (1) **know your own triggers** — the things that make *you* emotional
 (criticism of your team, being interrupted, a specific person) — so you can catch and manage your
-reaction rather than being hijacked by it. (2) **Follow up after the storm** — once the emotional
-moment passes, circle back (later, privately): check on the person, address the underlying issue,
+reaction rather than being **hijacked**[°](#w-hijacked) by it. (2) **Follow up after the storm** — once the emotional
+moment passes, **circle back**[°](#w-circle-back) (later, privately): check on the person, address the underlying issue,
 and repair if needed. The follow-up shows you care beyond the moment and handles the substance once
 everyone can think clearly.
 
@@ -365,6 +356,24 @@ interpersonal skills a lead needs. The next phase (1:1s, Coaching & Mentoring) t
 developmental relationship with each person — the highest-leverage recurring investment a lead makes in
 growing their people.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-defuse"></a>**defuse** (dee-FYOOZ) — to remove the explosive charge from a situation (from disarming a bomb).
+- <a id="w-name-it-to-tame-it"></a>**"name it to tame it"** — acknowledging an emotion out loud reduces its intensity.
+- <a id="w-de-escalate"></a>**de-escalate** — to lower a conflict's temperature step by step.
+- <a id="w-minimize"></a>**minimize** — to treat someone's feeling as smaller than it is ("it's not that bad") — which backfires.
+- <a id="w-empathy"></a>**empathy** (EM-pah-thee) — feeling *with* someone and showing you understand their experience.
+- <a id="w-vent-ing"></a>**vent(ing)** — releasing frustration by talking it out, not seeking solutions.
+- <a id="w-contagious"></a>**contagious** (kun-TAY-juss) — spreading between people; emotional states are.
+- <a id="w-regulate"></a>**regulate** (emotions) — to steady yourself deliberately (a breath) before responding.
+- <a id="w-trigger"></a>**trigger** — the specific thing that reliably sets *you* off emotionally.
+- <a id="w-hijacked"></a>**hijacked** — when emotion takes over your response before thinking can.
+- <a id="w-circle-back"></a>**circle back** — to return to the matter later, once things are calm.
 
 ---
 

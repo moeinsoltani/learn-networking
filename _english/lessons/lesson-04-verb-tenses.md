@@ -16,18 +16,26 @@ English has many tenses, but workplace writing needs only a handful — and thre
 them cover about 95% of what you write. The good news: you already know these; the
 skill is choosing the right one automatically.
 
-```
-   THE THREE CORE TENSES for work:
+Three tenses carry the overwhelming majority of workplace English. Learn these
+properly and you can say almost anything you need at work.
 
-   PRESENT SIMPLE      facts, habits, how things work
-     "The job runs every night."  "The API returns JSON."
+**Present simple** — facts, habits, and how things work:
 
-   PRESENT CONTINUOUS  happening right now, in progress
-     "I'm working on the fix."  "The tests are running."
+> "The job **runs** every night." · "The API **returns** JSON."
 
-   PRESENT PERFECT     done, and it matters now
-     "I've deployed the fix."  "We've fixed the bug."
-```
+**Present continuous** — happening right now, in progress:
+
+> "I'**m working** on the fix." · "The tests **are running**."
+
+**Present perfect** — done, and it matters *now*:
+
+> "I'**ve deployed** the fix." · "We'**ve fixed** the bug."
+
+The one that gives non-native speakers the most trouble is the third, because
+many languages use a simple past where English prefers the perfect. The
+distinction: use the present perfect when the *result* is what matters
+("I've deployed the fix" — so it's live now), and the past simple when the
+*time* matters ("I deployed it at 4pm").
 
 A status update naturally uses all three: what's *done* (present perfect: "I've
 finished X"), what's *in progress* (present continuous: "I'm working on Y"), and

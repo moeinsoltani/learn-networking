@@ -10,42 +10,32 @@ parent: "Phase 2: Trees of Canada"
 
 # Lesson 05: Conifers — The Evergreens
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **conifer** (KAH-nih-fur) — a cone-bearing tree, usually with needles and usually evergreen.
-> - **needle** — the narrow leaf of a conifer; can be single, in bundles, or flat.
-> - **bundle / fascicle** (FASS-ih-kul) — the little group a pine's needles grow in (2, 3, or 5 together).
-> - **cone** — the woody seed-case; may hang down or stand up depending on the tree.
-> - **spruce, pine, fir** — the three big conifer groups; telling them apart is this lesson's core skill.
-> - **cedar** (SEE-dur) — a conifer with flat scale-leaves instead of needles (here, the white/red cedars).
-> - **hemlock** (HEM-lock) — a graceful conifer with short flat needles and a drooping top. (Not the poisonous plant of the same name.)
-> - **Douglas-fir** — a major western conifer; hyphenated because it's not a "true" fir.
-> - **boreal** (BORE-ee-ul) — the northern evergreen forest belt that covers much of Canada.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Conifers — the needled evergreens — are the signature trees of Canada. Telling
+**Conifers**[°](#w-conifer) — the needled evergreens — are the signature trees of Canada. Telling
 the three big groups apart is the most useful tree skill you can own here, and
 it comes down to a three-word rhyme:
 
 > **Spruce = Square & Sharp. Fir = Flat & Friendly. Pine = Packages.**
 
-- **Spruce** needles are **single**, **square** (you can roll one between your
+- **Spruce** **needles**[°](#w-needle) are **single**, **square** (you can roll one between your
   fingers), and **sharp** to the touch; they grow on tiny woody pegs, so a
   stripped twig feels rough.
 - **Fir** needles are **single**, **flat**, and **friendly** (soft, blunt, won't
-  roll); they leave a smooth round scar. Fir cones stand **up** like candles and
+  roll); they leave a smooth round scar. Fir **cones**[°](#w-cone) stand **up** like candles and
   fall apart on the tree.
 - **Pine** needles come in **packages** — bundles of 2, 3, or 5 held together at
   the base. Count the needles per bundle and you're halfway to the species.
 
-Cedars break the pattern: instead of needles they wear tiny flat **scale-leaves**
+**Cedars**[°](#w-cedar) break the pattern: instead of needles they wear tiny flat **scale-leaves**
 in soft sprays. Learn those four textures — square, flat, bundled, scaled — and
 you can name almost any Canadian evergreen at arm's length.
 
 ![A tall, narrow white spruce with a pointed top](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Picea_glauca_Fairbanks.jpg/960px-Picea_glauca_Fairbanks.jpg)
 
-***White spruce** — Canada's quintessential boreal conifer and the classic
+***White spruce** — Canada's quintessential **boreal**[°](#w-boreal) conifer and the classic
 "Christmas tree" shape. Needles are single, four-sided (roll between your
 fingers), and sharp; cones hang **down**. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Picea_glauca_Fairbanks.jpg).*
@@ -53,6 +43,16 @@ fingers), and sharp; cones hang **down**. Photo:
 ## Going Deeper
 
 ### The three big groups, side by side
+
+Spruce, fir, and pine cover the great majority of conifers you will meet in
+Canada, and they can be separated **by hand** without any equipment. The trick
+is that each has a distinctive *feel*: spruce needles are sharp and square, so
+they roll between your fingers; fir needles are soft and flat, so they will
+not; and pine needles come in bundles rather than singly.
+
+Cone direction is the second free clue — spruce cones hang down, fir cones
+stand up on the branch — and it works from the ground with no climbing
+required.
 
 | Group | Needles | Feel | Cones | Quick tell |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ cool ravines. Photo:
 
 ![A very tall Douglas-fir with thick furrowed bark](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pseudotsuga_menziesii_4584.JPG/960px-Pseudotsuga_menziesii_4584.JPG)
 
-***Douglas-fir** — a giant of the West and one of the world's great timber trees.
+***Douglas-fir**[°](#w-douglas-fir) — a giant of the West and one of the world's great timber trees.
 Soft flat needles set all around the twig; its cones are unmistakable, with
 little three-pointed papery bracts sticking out ("the back legs and tail of a
 mouse diving in"). Note the hyphen: it's not a *true* fir. Photo:
@@ -145,7 +145,7 @@ flat scales in a spray. Name the group for each.
 <summary>Show Model Answer</summary>
 <br>
 (a) rolls + sharp + 4-sided → <strong>spruce</strong>; (b) flat + soft + won't
-roll → <strong>fir</strong> (the same test also fits hemlock/Douglas-fir — all
+roll → <strong>fir</strong> (the same test also fits **hemlock**[°](#w-hemlock)/Douglas-fir — all
 "flat and friendly"); (c) flat scale-leaves, no needles → <strong>cedar</strong>.
 This single tactile test resolves most Canadian conifers to a group in seconds.
 </details>
@@ -263,6 +263,22 @@ feel + bundle-count + cone direction rather than colour, and for a confident
 group ID even where the exact species is uncertain. (Upright cones would have
 pointed you to a true fir; scale-leaves to a cedar.)
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-conifer"></a>**conifer** (KAH-nih-fur) — a cone-bearing tree, usually with needles and usually evergreen.
+- <a id="w-needle"></a>**needle** — the narrow leaf of a conifer; can be single, in bundles, or flat.
+- <a id="w-bundle-fascicle"></a>**bundle / fascicle** (FASS-ih-kul) — the little group a pine's needles grow in (2, 3, or 5 together).
+- <a id="w-cone"></a>**cone** — the woody seed-case; may hang down or stand up depending on the tree.
+- <a id="w-spruce-pine-fir"></a>**spruce, pine, fir** — the three big conifer groups; telling them apart is this lesson's core skill.
+- <a id="w-cedar"></a>**cedar** (SEE-dur) — a conifer with flat scale-leaves instead of needles (here, the white/red cedars).
+- <a id="w-hemlock"></a>**hemlock** (HEM-lock) — a graceful conifer with short flat needles and a drooping top. (Not the poisonous plant of the same name.)
+- <a id="w-douglas-fir"></a>**Douglas-fir** — a major western conifer; hyphenated because it's not a "true" fir.
+- <a id="w-boreal"></a>**boreal** (BORE-ee-ul) — the northern evergreen forest belt that covers much of Canada.
 
 ---
 

@@ -10,40 +10,30 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 60: Evaluating and Closing Candidates
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **debrief** — the post-interview meeting where interviewers share findings and decide.
-> - **evidence before opinions** — presenting what the candidate actually did before anyone states a verdict, to avoid anchoring.
-> - **anchor(ing)** — the first stated opinion pulling everyone else toward it.
-> - **hire bar** — the absolute standard each hire must clear ("would they raise our average?") — never "better than our weakest."
-> - **weak yes** — a hesitant "I guess, probably" — treated as a no, because doubts about hires usually prove right.
-> - **false positive / false negative** — hiring someone you shouldn't have (very costly) / passing on someone good (cheap by comparison).
-> - **references** — conversations with the candidate's past colleagues; useful only with specific behavioral questions.
-> - **lukewarm** — noticeably unenthusiastic; in references, a signal.
-> - **the close** — persuading your chosen candidate to accept; decided mostly on **growth, manager, and mission**, not just money.
-> - **comp (compensation)** — the full pay package: salary, bonus, equity.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 After the interviews comes the hard part: **deciding well under uncertainty** (you never have complete
-information) and then **actually landing the person** you want. The decision hinges on a good **debrief**
-(evidence before opinions, hire-bar not compare-to-team, no weak yeses); the close hinges on understanding
+information) and then **actually landing the person** you want. The decision hinges on a good **debrief**[°](#w-debrief)
+(**evidence before opinions**[°](#w-evidence-before-opinions), hire-bar not compare-to-team, no **weak yeses**[°](#w-weak-yes)); **the close**[°](#w-the-close) hinges on understanding
 **what candidates actually decide on** (usually growth, manager, and mission — not just money) and handling
 **compensation** without games. Both are learnable disciplines that many people do poorly.
 
-```
-   DECIDE WELL → LAND THE PERSON
-   ┌──────────────────────────────────────────────────────┐
-   │ THE DEBRIEF:                                           │
-   │  • EVIDENCE before opinions ("here's what they did")   │
-   │  • HIRE-BAR (above our bar?) not compare-to-the-team    │
-   │  • NO WEAK YESES (a hesitant "I guess" = a NO)          │
-   │ THE CLOSE:                                             │
-   │  • what candidates decide on: GROWTH, MANAGER, MISSION, │
-   │    money (often in that order)                         │
-   │  • comp conversations WITHOUT games                     │
-   └──────────────────────────────────────────────────────┘
-```
+Two moments decide whether good hiring turns into a good hire.
+
+**The debrief.** Three rules keep it honest: **evidence before opinions** —
+"here's what they actually did" rather than "I liked them"; judge against the
+**hiring bar**, not against the current team ("better than our weakest" is not
+a bar); and **no weak yeses** — a hesitant "I guess so" is a no, and treating it
+as anything else is how teams talk themselves into regrettable hires.
+
+**The close.** It helps to know what candidates actually decide on, which is
+usually **growth, manager, mission, and money — often in that order.** Money
+matters, and it is rarely the deciding factor for a strong engineer choosing
+between two decent offers. Have the compensation conversation **without games**:
+inflated exploding deadlines and coy negotiation tactics are remembered long
+after the number is forgotten.
 
 The reframe: **decide on evidence against the hire-bar (no weak yeses), then close by addressing what the
 person actually cares about (usually growth/manager/mission, not just money).** Debriefs go wrong when
@@ -67,7 +57,7 @@ impressions. This also surfaces disagreements productively (comparing evidence, 
 
 ### Hire-bar, not compare-to-the-team
 
-Evaluate against the **hire bar** (is this person above the bar we hire at — will they raise the team?), NOT
+Evaluate against the **hire bar**[°](#w-hire-bar) (is this person above the bar we hire at — will they raise the team?), NOT
 **compared to the current team** ("are they better than our weakest?") or to other candidates ("better than
 the last one"). Why: comparing to the team (or a low reference) leads to hiring people who are merely "okay
 relative to what we have," which lowers the bar over time (you hire people below your best, and the average
@@ -88,10 +78,10 @@ it's a no."
 
 ### References done usefully
 
-**References** (talking to people who've worked with the candidate) are useful if done well: ask specific,
+**References**[°](#w-references) (talking to people who've worked with the candidate) are useful if done well: ask specific,
 behavioral questions (not "were they good?" — which gets bland positives) — "what was it like to work with
 them? what would you have them work on? how did they handle [X]?" — and read between the lines (a hesitant
-or lukewarm reference is a signal, like a weak yes). References are most useful for confirming/checking
+or **lukewarm**[°](#w-lukewarm) reference is a signal, like a weak yes). References are most useful for confirming/checking
 specific concerns from the interviews and for the collaboration/behavioral dimensions (which interviews
 assess less well). Done as a box-tick ("any red flags?"), they're useless; done thoughtfully, they add real
 signal.
@@ -359,6 +349,23 @@ and closing on what really drives the person turn a good interview process into 
 join. This completes the hiring arc (Lessons 59-60). The next lesson turns from bringing people in to keeping
 them engaged — motivation — understanding what actually drives engineers and how not to accidentally kill it.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-debrief"></a>**debrief** — the post-interview meeting where interviewers share findings and decide.
+- <a id="w-evidence-before-opinions"></a>**evidence before opinions** — presenting what the candidate actually did before anyone states a verdict, to avoid anchoring.
+- <a id="w-anchor-ing"></a>**anchor(ing)** — the first stated opinion pulling everyone else toward it.
+- <a id="w-hire-bar"></a>**hire bar** — the absolute standard each hire must clear ("would they raise our average?") — never "better than our weakest."
+- <a id="w-weak-yes"></a>**weak yes** — a hesitant "I guess, probably" — treated as a no, because doubts about hires usually prove right.
+- <a id="w-false-positive-false-negative"></a>**false positive / false negative** — hiring someone you shouldn't have (very costly) / passing on someone good (cheap by comparison).
+- <a id="w-references"></a>**references** — conversations with the candidate's past colleagues; useful only with specific behavioral questions.
+- <a id="w-lukewarm"></a>**lukewarm** — noticeably unenthusiastic; in references, a signal.
+- <a id="w-the-close"></a>**the close** — persuading your chosen candidate to accept; decided mostly on **growth, manager, and mission**, not just money.
+- <a id="w-comp-compensation"></a>**comp (compensation)** — the full pay package: salary, bonus, equity.
 
 ---
 

@@ -10,18 +10,7 @@ parent: "Phase 12: Your Path"
 
 # Lesson 65: Your First 90 Days as an EM
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **peer-to-boss transition** — becoming the manager of people who were your equals yesterday; every relationship must be renegotiated.
-> - **power dynamic** — the asymmetry created when one person influences the other's career (Lesson 21's power gap).
-> - **the friend problem** — managing a close friend fairly while the team watches for favoritism.
-> - **the disappointed rival** — the person who also wanted your job and now reports to you.
-> - **wear the manager hat** — to act in the manager role even when it's personally awkward.
-> - **inherit (a team)** — to take over an existing team from a previous manager; **predecessor** — the person who held the role before you.
-> - **trash** (verb) — to publicly disparage; never do it to your predecessor.
-> - **the real performance picture** — how people are *actually* doing, beneath inherited labels and reputations.
-> - **peer group** — as a manager, your true peers are now other managers, not your old teammates (Lesson 66).
-> - **false pretense** — pretending nothing changed; the tempting, harmful option.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,26 +18,27 @@ Becoming an Engineering Manager is a bigger jump than tech lead — you now have
 performance, and careers. The hardest version is when you're **managing former peers** (or the team you were
 just on) — every relationship has to be renegotiated, including with friends and the person who also wanted
 the job. The first 90 days as an EM are about navigating that transition (the peer-to-boss shift), inheriting
-the team well (without trashing your predecessor), and getting the real picture (1:1s with everyone, the true
+the team well (without trashing your **predecessor**[°](#w-predecessor)), and getting the real picture (1:1s with everyone, the true
 performance state).
 
-```
-   YOUR FIRST 90 DAYS AS AN EM
-   ┌──────────────────────────────────────────────────────┐
-   │ • PEER-TO-BOSS: renegotiate EVERY relationship (the     │
-   │   friend problem; the person who wanted the job)       │
-   │ • INHERITING a team: don't trash the predecessor        │
-   │ • 1:1s with EVERYONE (first two weeks) — build trust,   │
-   │   get the real picture                                 │
-   │ • find the REAL performance picture                     │
-   │ • your new PEER GROUP (other managers); STOP old-job    │
-   │   habits (you're not the IC anymore)                   │
-   └──────────────────────────────────────────────────────┘
-```
+Becoming an EM adds a set of problems that a tech lead never faces.
+
+- **Peer to boss**: every existing relationship has to be renegotiated. Two
+  cases need real thought — the friend who is now your report, and the person
+  who wanted the job you got.
+- **Inheriting a team**: whatever you find, **don't trash your predecessor.** It
+  is tempting, it buys a moment of sympathy, and it teaches everyone exactly how
+  you will talk about *them* later.
+- **1:1s with everyone in the first two weeks** — the fastest way to build trust
+  and to get the real picture rather than the official one.
+- **Find the real performance picture**, which is rarely the documented one.
+- **Adopt your new peer group** — the other managers — and consciously **stop
+  your old-job habits**. You are not the IC any more, and continuing to behave
+  like one is the most common way new EMs fail.
 
 The reframe: **the EM transition (especially managing former peers) requires renegotiating every
 relationship — you're not their peer anymore, you're their manager — and doing it honestly and early.** The
-peer-to-boss shift is the hard part: relationships that were peer-to-peer now have a power dynamic, which
+peer-to-boss shift is the hard part: relationships that were peer-to-peer now have a **power dynamic**[°](#w-power-dynamic), which
 must be acknowledged and renavigated (especially with friends and rivals). Handling this transition
 directly and honestly — rather than pretending nothing changed — is what makes managing former peers work.
 
@@ -77,7 +67,7 @@ have to be a fair manager to you and the whole team"); (2) **be scrupulously fai
 the <em>perception</em> of it — the team watches); (3) **be clear you'll have to wear the manager hat**
 sometimes (including hard feedback or decisions) and that it's not personal. The friendship may change (the
 power dynamic makes pure peer-friendship hard), and being honest about that (rather than pretending) is
-kinder than false pretense. Many manage friends well, but it requires honesty about the changed dynamic.
+kinder than **false pretense**[°](#w-false-pretense). Many manage friends well, but it requires honesty about the changed dynamic.
 
 ### The person who also wanted the job
 
@@ -88,14 +78,14 @@ role, and I imagine that's hard"); (2) **show respect and value** for them (they
 engaged, not alienated); (3) **invest in their growth and their path** (help them toward <em>their</em>
 goals — sponsor them, give them scope — Lesson 33 — so the role isn't a dead end for them); (4) **be secure,
 not threatened** (their capability is an asset, not a rivalry). Handled well (acknowledged, respected,
-invested in), the disappointed rival can become a strong ally; handled badly (ignored, or treated as a
+invested in), **the disappointed rival**[°](#w-the-disappointed-rival) can become a strong ally; handled badly (ignored, or treated as a
 threat), they become resentful and disengaged (or leave).
 
 ### Inheriting a team — don't trash the predecessor
 
 When you inherit an existing team (from a previous manager), a key rule: **don't trash your predecessor.**
 Even if the previous manager did things poorly (and you'll hear about it), publicly criticizing them is a
-mistake: (1) it's unprofessional and looks bad on you; (2) it makes the team wonder if you'll trash them too;
+mistake: (1) it's unprofessional and looks bad on you; (2) it makes the team wonder if you'll **trash**[°](#w-trash) them too;
 (3) it poisons the atmosphere. Instead, be respectful (or neutral) about the predecessor, acknowledge what
 was good, and focus forward (what you'll do), addressing problems constructively without disparaging the
 person. You can fix what was broken without trashing who was there before — and doing so shows class and
@@ -109,7 +99,7 @@ real performance picture** — understand the true state of each person's perfor
 what you assumed as a peer, or from the predecessor's view) — through the 1:1s, the work, and evidence
 (you're now responsible for performance, so you need the real picture). (3) **Build your new peer group** —
 your peers are now <em>other managers</em> (not the engineers you manage), so build relationships with other
-EMs (a crucial support system — Lesson 66) and recognize your peer group has shifted. And **stop old-job
+EMs (a crucial support system — Lesson 66) and recognize your **peer group**[°](#w-peer-group) has shifted. And **stop old-job
 habits** — you're not the IC anymore, so let go of the individual work and the peer-relationships-as-peers,
 and step fully into the manager role.
 
@@ -118,10 +108,10 @@ and step fully into the manager role.
 > Becoming an EM (especially over former peers) is a big jump — the peer-to-boss shift changes <em>every</em>
 > relationship (a power dynamic now exists), and you must renegotiate each honestly rather than pretending
 > nothing changed. Handle the hard cases directly: the <em>friend</em> (acknowledge the changed dynamic, be
-> scrupulously fair, be honest you'll wear the manager hat) and the <em>person who wanted the job</em>
+> scrupulously fair, be honest you'll **wear the manager hat**[°](#w-wear-the-manager-hat)) and the <em>person who wanted the job</em>
 > (acknowledge it, respect and invest in them, be secure not threatened — turn a rival into an ally). When
 > <em>inheriting a team</em>, don't trash your predecessor (unprofessional, and poisons trust). Do <em>1:1s
-> with everyone</em> early (build trust, get the real performance picture), build your <em>new peer group</em>
+> with everyone</em> early (build trust, get **the real performance picture**[°](#w-the-real-performance-picture)), build your <em>new peer group</em>
 > (other managers), and <em>stop old-job habits</em> (you're not the IC anymore). The transition works when
 > you navigate the changed relationships honestly and directly — not by pretending you're still everyone's
 > peer.
@@ -364,6 +354,23 @@ or avoiding, it creates confusion, resentment, and a poisoned start. This makes 
 next lesson addresses something crucial for surviving and thriving in leadership — building your support
 system, so you stop learning leadership alone.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-peer-to-boss-transition"></a>**peer-to-boss transition** — becoming the manager of people who were your equals yesterday; every relationship must be renegotiated.
+- <a id="w-power-dynamic"></a>**power dynamic** — the asymmetry created when one person influences the other's career (Lesson 21's power gap).
+- <a id="w-the-friend-problem"></a>**the friend problem** — managing a close friend fairly while the team watches for favoritism.
+- <a id="w-the-disappointed-rival"></a>**the disappointed rival** — the person who also wanted your job and now reports to you.
+- <a id="w-wear-the-manager-hat"></a>**wear the manager hat** — to act in the manager role even when it's personally awkward.
+- <a id="w-inherit-a-team"></a>**inherit (a team)** — to take over an existing team from a previous manager; <a id="w-predecessor"></a>**predecessor** — the person who held the role before you.
+- <a id="w-trash"></a>**trash** (verb) — to publicly disparage; never do it to your predecessor.
+- <a id="w-the-real-performance-picture"></a>**the real performance picture** — how people are *actually* doing, beneath inherited labels and reputations.
+- <a id="w-peer-group"></a>**peer group** — as a manager, your true peers are now other managers, not your old teammates (Lesson 66).
+- <a id="w-false-pretense"></a>**false pretense** — pretending nothing changed; the tempting, harmful option.
 
 ---
 

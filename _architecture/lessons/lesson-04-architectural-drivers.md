@@ -10,14 +10,7 @@ parent: "Phase 1: The Architect's Role & Mindset"
 
 # Lesson 04: Architectural Drivers & the "Architecturally Significant"
 
-{: .note }
-> **Words to know**
-> - **architectural driver** — one of the few inputs that actually shapes the design: quality attributes, key features, constraints, and concerns.
-> - **ASR (Architecturally Significant Requirement)** — a requirement that, if changed, would force the architecture to change; the ones worth your attention.
-> - **constraint** — a fixed boundary you can't negotiate away (a regulation, a deadline, the existing tech, the team's skills).
-> - **concern** — a broad principle or cross-cutting worry that shapes many decisions (e.g., "must be cloud-agnostic").
-> - **last responsible moment (LRM)** — the latest point you can defer a decision without the delay causing harm; decide *then*, not before.
-> - **noise** — the majority of requirements that matter to *building* the system but not to *shaping* it.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -25,31 +18,32 @@ A product brief has fifty requirements. Maybe five of them shape the architectur
 the other forty-five are important to *build* but don't change the *structure*. The
 architect's first analytical act is separating those five from the forty-five —
 finding the **architecturally significant** requirements and letting the rest be
-someone else's concern (for now). Chase all fifty and you'll boil the ocean and
+someone else's **concern**[°](#w-concern) (for now). Chase all fifty and you'll boil the ocean and
 deliver nothing; find the five and you can design.
 
-There are four kinds of **architectural drivers** — the inputs that legitimately
+There are four kinds of **architectural drivers**[°](#w-architectural-driver) — the inputs that legitimately
 shape a design:
 
-```
-   THE FOUR DRIVERS
+Four things — and only four — should drive an architecture.
 
-   1. QUALITY ATTRIBUTES   the top-ranked -ilities (Lesson 3)
-      "99.9% available, p99 < 200ms, handles 10× current load"
+**1. Quality attributes**: the top-ranked "-ilities" from Lesson 03, stated
+concretely enough to test. "99.9% available, p99 under 200 ms, handles ten times
+current load."
 
-   2. KEY FUNCTIONAL REQS  the FEW features that stress the architecture
-      "real-time collaborative editing"  ← this one shapes everything
-      "user can change their avatar"      ← this one shapes nothing
+**2. Key functional requirements**: the *few* features that genuinely stress the
+architecture. Note how unequal these are — "real-time collaborative editing"
+shapes everything about the system; "the user can change their avatar" shapes
+nothing at all. Most features are in the second category.
 
-   3. CONSTRAINTS          non-negotiable boundaries
-      "must run on-prem", "GDPR", "ship by Q3", "team knows Java", "$X budget"
+**3. Constraints**: the non-negotiable boundaries. "Must run on-premises,"
+"GDPR applies," "ship by Q3," "the team knows Java," "the budget is $X."
 
-   4. CONCERNS             cross-cutting principles / worries
-      "avoid cloud lock-in", "must be auditable", "keep ops burden low"
-                    │
-                    ▼
-            These four → the architecture.  Everything else → build it later.
-```
+**4. Concerns**: cross-cutting principles and worries. "Avoid cloud lock-in,"
+"must be auditable," "keep the operational burden low."
+
+Those four produce the architecture. **Everything else you build later** — and
+being able to say which category a given requirement falls into is what stops
+an architecture from being designed around the avatar-upload feature.
 
 Most functional requirements are *not* drivers. But a *few* are: "real-time
 collaborative editing" or "must work offline and sync" will bend the entire design,
@@ -64,10 +58,10 @@ business, and how *architecturally difficult/risky* is it? The requirements that
 both important and hard are where your design attention and your early prototyping go
 (you want to retire that risk first — Lesson 30). The important-but-easy ones you'll
 handle in stride; the unimportant-but-hard ones you push back on ("do we really need
-this? it's expensive"); the unimportant-and-easy ones are noise.
+this? it's expensive"); the unimportant-and-easy ones are **noise**[°](#w-noise).
 
 **Constraints are the drivers you can't argue with — respect them first.** A
-constraint isn't a preference; it's a fixed boundary. "Must comply with GDPR"
+**constraint**[°](#w-constraint) isn't a preference; it's a fixed boundary. "Must comply with GDPR"
 (regulatory), "must ship before the conference" (deadline), "the team is five Java
 developers" (skills), "must integrate with the existing SAP system" (legacy),
 "€200k budget" (money). A beautiful architecture that violates a real constraint is
@@ -314,6 +308,19 @@ don't lock the irreversible calls until you've reduced their uncertainty." If yo
 past project actually did all this well, note <em>what practice</em> made that happen,
 because most don't.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-architectural-driver"></a>**architectural driver** — one of the few inputs that actually shapes the design: quality attributes, key features, constraints, and concerns.
+- <a id="w-asr-architecturally-significant-requirement"></a>**ASR (Architecturally Significant Requirement)** — a requirement that, if changed, would force the architecture to change; the ones worth your attention.
+- <a id="w-constraint"></a>**constraint** — a fixed boundary you can't negotiate away (a regulation, a deadline, the existing tech, the team's skills).
+- <a id="w-concern"></a>**concern** — a broad principle or cross-cutting worry that shapes many decisions (e.g., "must be cloud-agnostic").
+- <a id="w-last-responsible-moment-lrm"></a>**last responsible moment (LRM)** — the latest point you can defer a decision without the delay causing harm; decide *then*, not before.
+- <a id="w-noise"></a>**noise** — the majority of requirements that matter to *building* the system but not to *shaping* it.
 
 ---
 

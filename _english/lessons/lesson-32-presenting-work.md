@@ -19,19 +19,21 @@ performer; it's about **structure and clarity** — leading with the point, tell
 story, and knowing your few key messages. Those are learnable, and they matter far more
 than eloquence.
 
-```
-   THE PRESENTATION ARC:
-   ┌──────────────────────────────────────────────────┐
-   │ 1. THE POINT     "We should adopt Redis. Here's   │
-   │                   why in 3 minutes."              │
-   │ 2. THE CONTEXT   the problem / why it matters     │
-   │ 3. THE BODY      2-3 key messages, each supported │
-   │ 4. THE ASK       what you want (decision/feedback)│
-   │ 5. RECAP         "So: adopt Redis, because X."    │
-   └──────────────────────────────────────────────────┘
+Presenting work has a five-part arc:
 
-   Lead with the point. 2-3 messages, not 20. End with the ask.
-```
+1. **The point** — "We should adopt Redis. Here's why, in three minutes."
+2. **The context** — the problem, and why it matters.
+3. **The body** — two or three key messages, each supported.
+4. **The ask** — what you want: a decision, or feedback.
+5. **The recap** — "So: adopt Redis, because X."
+
+Three rules follow from it, and they are the ones people break. **Lead with the
+point** — the conclusion goes first, not at the end as a reveal; this is the
+opposite of how many educational systems teach presentation, and it is what
+business audiences expect. **Two or three messages, not twenty** — anything more
+and the audience remembers none of them. And **end with the ask**, explicitly,
+because a presentation that finishes with "so… yeah, that's it" gets no
+decision and has to be given again.
 
 The core principles are the ones you've built all along, now spoken to a group: **lead with
 the point** (Lesson 21), **know your 2–3 key messages** (don't drown people in detail), and

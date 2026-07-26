@@ -10,49 +10,43 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 58: Underperformance and PIPs
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **underperformance** — consistently working below the role's expected bar.
-> - **PIP (Performance Improvement Plan)** — a formal written plan with specific goals, a deadline, and support; either a genuine chance or "exit paperwork."
-> - **exit paperwork** — documentation of a departure already decided.
-> - **skill vs will** — can't do it vs won't/doesn't want to; different causes, different responses.
-> - **escalation ladder** — the fair sequence: feedback → clear expectations → support → PIP.
-> - **the bar** — the expected performance level for a role.
-> - **HR** — Human Resources: the department owning formal processes, with legal requirements.
-> - **part ways** — the soft phrase for ending employment.
-> - **with dignity** — handled so the person keeps their self-respect.
-> - **drag on** — to continue unresolved far too long; what avoidance produces.
-> - **false hope** — pretending a predetermined PIP is a real chance — the cruel failure (Lesson 32).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Handling underperformance is the **hardest management duty** — emotionally difficult, high-stakes, and
+Handling **underperformance**[°](#w-underperformance) is the **hardest management duty** — emotionally difficult, high-stakes, and
 often avoided (which makes it worse). Done well, it's early, fair, and gives the person a real chance;
 done badly (or avoided), it drags on, demoralizes the team, and ends unfairly. The key disciplines:
 **diagnose the cause first** (underperformance has many causes needing different responses), escalate
 support fairly (feedback → clear expectations → support → PIP), and understand what a **PIP** really is
-(and whether it's a genuine improvement tool or exit paperwork).
+(and whether it's a genuine improvement tool or **exit paperwork**[°](#w-exit-paperwork)).
 
-```
-   HANDLING UNDERPERFORMANCE (early, fair, with dignity)
-   ┌──────────────────────────────────────────────────────┐
-   │ 1. DIAGNOSE FIRST: skill? will? role fit? life? YOU?    │
-   │    (different causes → very different responses)       │
-   │ 2. ESCALATION LADDER: feedback → clear expectations →   │
-   │    support → PIP (fair process, real chance)           │
-   │ 3. PIP: honest improvement tool OR exit paperwork —     │
-   │    know which, and be honest                           │
-   │ • the cost of NOT acting (your best people notice)      │
-   │ • part ways with DIGNITY if it comes to that            │
-   └──────────────────────────────────────────────────────┘
-```
+Handling underperformance early, fairly, and with dignity has a clear sequence.
+
+**First, diagnose.** Is this a *skill* problem, a *will* problem, a *role fit*
+problem, something happening in their *life* — or something *you* are doing?
+These have very different remedies, and treating a role-fit problem as a
+motivation problem wastes months and damages the person.
+
+**Then work the escalation ladder** in order: direct feedback, then explicitly
+clear expectations, then real support, and only then a formal improvement plan.
+Each rung deserves genuine time before the next.
+
+Two more things worth being honest about. A **PIP is either a real improvement
+tool or exit paperwork** — know which one you are running, and do not pretend
+it is the first when it is the second. And there is a real **cost of not
+acting**: your best people notice sustained underperformance long before you
+formalise anything, and what they conclude is that the standard is optional.
+
+If it does come to parting ways, do it **with dignity**. Everyone still on the
+team is watching how you treat someone on their way out.
 
 The reframe: **diagnose the cause of underperformance before responding — and act early and fairly,
 because avoiding it harms everyone (the person, the team, you).** The instinct is to avoid the hard
-conversation (hope it improves) — but that lets it drag on, which is worse for everyone. Handling it well
+conversation (hope it improves) — but that lets it **drag on**[°](#w-drag-on), which is worse for everyone. Handling it well
 means diagnosing <em>why</em> (skill, will, role fit, life circumstances, or your own management), then
 applying the right response through a fair escalation, giving a real chance to improve, and — if it comes
-to parting ways — doing it with dignity.
+to parting ways — doing it **with dignity**[°](#w-with-dignity).
 
 ---
 
@@ -76,7 +70,7 @@ expectations you never set, is unfair and ineffective). Diagnose first.
 
 Handle underperformance through a **fair escalation**, not jumping to the end: (1) **feedback** — first,
 give clear feedback that there's a problem (SBI — specific, Lesson 19); often this alone resolves it (the
-person didn't realize). (2) **Clear expectations** — make explicit what "meeting the bar" looks like (so
+person didn't realize). (2) **Clear expectations** — make explicit what "meeting **the bar**[°](#w-the-bar)" looks like (so
 they know the target). (3) **Support** — provide what they need to improve (mentoring, resources, removing
 blockers, addressing the diagnosed cause). (4) **PIP** (Performance Improvement Plan) — if it doesn't
 improve, a formal plan. This ladder gives the person a fair, escalating chance (feedback and support before
@@ -91,10 +85,10 @@ support — and the crucial question is whether it's a **genuine improvement too
 which some people do) or **exit paperwork** (a formality to document the case before letting someone go, with
 the outcome effectively predetermined). Both exist, and **you should know which it is and be honest**: (1) a
 genuine PIP means you believe the person can improve and you're giving them a real, supported chance (with
-achievable goals and genuine support); (2) exit paperwork means the decision to part ways is effectively
+achievable goals and genuine support); (2) exit paperwork means the decision to **part ways**[°](#w-part-ways) is effectively
 made and the PIP documents it. The dishonest failure is a fake "genuine" PIP (pretending it's a real chance
-when the outcome's decided) — which is cruel (false hope) and erodes trust. Be honest with yourself and
-(appropriately) the person about which it is. Work with **HR** on PIPs (there are legal and process
+when the outcome's decided) — which is cruel (**false hope**[°](#w-false-hope)) and erodes trust. Be honest with yourself and
+(appropriately) the person about which it is. Work with **HR**[°](#w-hr) on PIPs (there are legal and process
 requirements) — this is where the EM role intersects with formal process.
 
 ### The cost of NOT acting
@@ -112,7 +106,7 @@ kinder and necessary choice.
 ### Parting ways with dignity
 
 If it comes to parting ways (the improvement doesn't happen, or it's genuinely the wrong fit), do it **with
-dignity**: (1) it shouldn't be a surprise (the escalation ladder means they saw it coming); (2) be honest,
+dignity**: (1) it shouldn't be a surprise (the **escalation ladder**[°](#w-escalation-ladder) means they saw it coming); (2) be honest,
 clear, and humane; (3) preserve their dignity (it's a hard moment; don't humiliate — it's often a fit
 problem, not a worth problem); (4) be generous where you can (a fair transition, a good reference if
 deserved, help landing elsewhere). Parting ways is sometimes right (for the person too — they may thrive
@@ -365,6 +359,24 @@ credibility — where avoiding it harms all three. This builds on performance ma
 team-building — hiring and interviewing (Lesson 59) and evaluating/closing candidates (Lesson 60) — building
 a strong team in the first place.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-underperformance"></a>**underperformance** — consistently working below the role's expected bar.
+- <a id="w-pip-performance-improvement-plan"></a>**PIP (Performance Improvement Plan)** — a formal written plan with specific goals, a deadline, and support; either a genuine chance or "exit paperwork."
+- <a id="w-exit-paperwork"></a>**exit paperwork** — documentation of a departure already decided.
+- <a id="w-skill-vs-will"></a>**skill vs will** — can't do it vs won't/doesn't want to; different causes, different responses.
+- <a id="w-escalation-ladder"></a>**escalation ladder** — the fair sequence: feedback → clear expectations → support → PIP.
+- <a id="w-the-bar"></a>**the bar** — the expected performance level for a role.
+- <a id="w-hr"></a>**HR** — Human Resources: the department owning formal processes, with legal requirements.
+- <a id="w-part-ways"></a>**part ways** — the soft phrase for ending employment.
+- <a id="w-with-dignity"></a>**with dignity** — handled so the person keeps their self-respect.
+- <a id="w-drag-on"></a>**drag on** — to continue unresolved far too long; what avoidance produces.
+- <a id="w-false-hope"></a>**false hope** — pretending a predetermined PIP is a real chance — the cruel failure (Lesson 32).
 
 ---
 

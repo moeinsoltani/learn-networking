@@ -10,42 +10,34 @@ parent: "Phase 3: Architectural Styles"
 
 # Lesson 11: Microservices
 
-{: .note }
-> **Words to know**
-> - **microservice** — a small, independently deployable service, owned by one team, sized around a business capability (bounded context).
-> - **independently deployable** — you can ship one service without rebuilding or redeploying the others; the defining property.
-> - **distributed monolith** — services that must be deployed together because they're tightly coupled; the worst-of-both anti-pattern.
-> - **distributed-systems tax** — the added cost microservices impose: network failure, latency, eventual consistency, harder debugging/testing, ops burden.
-> - **"you must be this tall"** — Fowler's phrase: prerequisites (automation, observability, org maturity) you need before microservices pay off.
-> - **service ownership** — one team owns a service end to end (build, deploy, run, on-call).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Microservices are the most hyped and most misapplied style in modern software. An
+**Microservices**[°](#w-microservice) are the most hyped and most misapplied style in modern software. An
 architect's duty is to understand them *honestly* — the real benefits, and the very
 large bill that comes attached. A microservice is a **small, independently deployable
 service, owned by one team, sized around a business capability** (usually a bounded
 context, Lesson 7). The defining property is the middle one: **independent
 deployability**. If you can't deploy your services independently, you don't have
-microservices — you have a distributed monolith.
+microservices — you have a **distributed monolith**[°](#w-distributed-monolith).
 
-```
-   WHAT MICROSERVICES BUY          WHAT THEY COST (the distributed tax)
-   ─────────────────────           ─────────────────────────────────
-   ✓ independent deploy            ✗ network: calls fail, are slow, retry
-     (ship one, not all)           ✗ eventual consistency (no cross-service
-   ✓ independent scale               ACID transaction — sagas, Lesson 17)
-     (scale the hot one)           ✗ distributed debugging (no single stack
-   ✓ independent tech                trace; you need tracing, Lesson 25)
-     (right tool per service)      ✗ testing across services is hard
-   ✓ fault isolation               ✗ operational burden explodes (many
-     (one down ≠ all down)           deploys, versions, monitors, on-call)
-   ✓ team autonomy                 ✗ data is fragmented (Lesson 24)
-     (org scaling)                 ✗ more moving parts = more failure modes
+Microservices are a genuine trade, and it is worth seeing both columns before
+you take it.
 
-           Microservices are an ORGANIZATIONAL solution
-           as much as a technical one — they scale TEAMS.
-```
+| What they buy you | What they cost — the distributed tax |
+|---|---|
+| **Independent deploy** — ship one service, not all of them | **The network**: calls fail, are slow, and must be retried |
+| **Independent scale** — scale only the hot service | **Eventual consistency** — no cross-service ACID transaction, so you need sagas (Lesson 17) |
+| **Independent technology** — the right tool per service | **Distributed debugging** — no single stack trace; you need tracing (Lesson 25) |
+| **Fault isolation** — one service down is not everything down | **Testing across services is hard** |
+| **Team autonomy** — the organisation can scale | **Operational burden explodes**: many deploys, versions, monitors, on-call rotations |
+| | **Data is fragmented** (Lesson 24), and more moving parts means more failure modes |
+
+The sentence to carry away: **microservices are an organisational solution as
+much as a technical one — what they primarily scale is teams.** If your problem
+is not "too many people cannot ship without colliding," the right-hand column is
+a price you are paying for nothing.
 
 The honest summary: microservices trade *simplicity* for *independence* — of
 deployment, scaling, technology, failure, and teams. That independence is genuinely
@@ -58,7 +50,7 @@ the whole lesson is about knowing which situation you're in.
 under-appreciated point: the biggest problem microservices solve is *organizational
 scaling*. With one monolith, many teams contend in one codebase and one deploy
 pipeline — they block each other, coordinate constantly, and step on each other's
-changes. Give each team its own independently deployable service and they regain
+changes. Give each team its own **independently deployable**[°](#w-independently-deployable) service and they regain
 autonomy: they ship on their own schedule, own their own tech, and don't need a
 company-wide release train. This is Conway's Law (Lesson 6) used deliberately. The
 corollary is decisive: **if you don't have the org-scaling problem — one small team,
@@ -70,7 +62,7 @@ and you're paying the tax for a benefit you can't use.
 > If you split a system into services but they remain tightly coupled — chatty
 > synchronous calls into each other, shared database, a change to one forcing lockstep
 > changes and deploys of others — you have a **distributed monolith**: you pay the
-> <em>full distributed-systems tax</em> (network failures, latency, eventual
+> <em>full **distributed-systems tax**[°](#w-distributed-systems-tax)</em> (network failures, latency, eventual
 > consistency, hard debugging, ops burden) <em>and</em> keep the monolith's coupling
 > (can't deploy independently), getting the downsides of both and the benefits of
 > neither. It is strictly worse than either a clean monolith or clean microservices.
@@ -85,7 +77,7 @@ without which microservices actively hurt: **deployment automation** (you can't
 manually deploy 30 services — you need CI/CD and infrastructure-as-code), **thorough
 observability** (you can't debug across services without distributed tracing,
 centralized logging, and good metrics — Lesson 25), **operational maturity** (on-call,
-incident response, service ownership culture), and often **containers/orchestration**
+incident response, **service ownership**[°](#w-service-ownership) culture), and often **containers/orchestration**
 to manage the fleet. A team without these that adopts microservices spends all its time
 fighting operational fires instead of shipping.
 
@@ -144,7 +136,7 @@ architecture is failing to solve. And crucially, the deploys are already smooth 
 a week — the monolith is <em>working</em>.
 <br><br>
 <strong>What the 20-service plan would cost <em>this</em> team.</strong> They fail every
-"you must be this tall" prerequisite: they deploy <em>manually</em> (20 services deployed by
+**"you must be this tall"**[°](#w-you-must-be-this-tall) prerequisite: they deploy <em>manually</em> (20 services deployed by
 hand is unworkable — they'd need CI/CD and IaC first), they have <em>no distributed
 tracing</em> (so the first cross-service bug becomes an un-debuggable nightmare — Lesson 25),
 and <em>no one has run microservices</em> (no operational experience with the failure modes).
@@ -321,6 +313,19 @@ that most of the "good architecture" they want is available <em>now</em>, cheapl
 modular monolith's boundaries clean — so the honest near-term investment is boundary hygiene plus
 building the prerequisites, both of which pay off regardless of whether the split ever happens.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-microservice"></a>**microservice** — a small, independently deployable service, owned by one team, sized around a business capability (bounded context).
+- <a id="w-independently-deployable"></a>**independently deployable** — you can ship one service without rebuilding or redeploying the others; the defining property.
+- <a id="w-distributed-monolith"></a>**distributed monolith** — services that must be deployed together because they're tightly coupled; the worst-of-both anti-pattern.
+- <a id="w-distributed-systems-tax"></a>**distributed-systems tax** — the added cost microservices impose: network failure, latency, eventual consistency, harder debugging/testing, ops burden.
+- <a id="w-you-must-be-this-tall"></a>**"you must be this tall"** — Fowler's phrase: prerequisites (automation, observability, org maturity) you need before microservices pay off.
+- <a id="w-service-ownership"></a>**service ownership** — one team owns a service end to end (build, deploy, run, on-call).
 
 ---
 

@@ -10,41 +10,35 @@ parent: "Phase 6: Cross-Cutting Quality Attributes"
 
 # Lesson 23: Scalability & Performance Architecture
 
-{: .note }
-> **Words to know**
-> - **latency** — how long *one* operation takes (delay); measured per request.
-> - **throughput** — how *many* operations per unit time the system handles (capacity).
-> - **scalability** — how well the system handles *more* load, ideally by adding resources.
-> - **stateless** — a service that keeps no per-client state between requests, so any instance can serve any request.
-> - **horizontal scaling** — adding more instances; enabled by statelessness.
-> - **bottleneck** — the one component that limits the whole system's throughput.
-> - **load leveling** — using a queue to smooth spiky load so downstream isn't overwhelmed.
-> - **percentile (p99)** — the value below which 99% of measurements fall; the "tail" users actually feel.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-"Fast" and "scalable" are not the same thing, and conflating them is a classic mistake. **Latency**
-is how long one operation takes; **throughput** is how many you can do per second; **scalability**
+"Fast" and "scalable" are not the same thing, and conflating them is a classic mistake. **Latency**[°](#w-latency)
+is how long one operation takes; **throughput**[°](#w-throughput) is how many you can do per second; **scalability**[°](#w-scalability)
 is whether you can *increase* throughput (usually by adding hardware) as load grows. A system can
 be fast but not scalable (blazing on one machine, falls over at 2× load) or scalable but not
 especially fast (each request is a bit slow, but you can handle millions by adding nodes). The
 architect designs for the *specific* need — and often they trade against each other.
 
-```
-   LATENCY vs THROUGHPUT vs SCALABILITY
+Three words get used interchangeably and mean quite different things.
 
-   LATENCY:      ──[req]──▶ 50ms         "how long does ONE take?"
-   THROUGHPUT:   ═══[10,000 req/s]═══▶   "how MANY per second?"
-   SCALABILITY:  add nodes → throughput rises (ideally linearly)
-                 ┌──┐ ┌──┐ ┌──┐ ┌──┐     "does adding hardware HELP?"
-                 └──┘ └──┘ └──┘ └──┘
-                 If adding a node barely helps → it does NOT scale
-                 (something shared is the bottleneck).
+**Latency** asks *how long does one request take?* — 50 ms. **Throughput** asks
+*how many can we handle per second?* — 10,000 requests per second.
+**Scalability** asks a different kind of question entirely: *when we add
+hardware, does throughput actually rise* — ideally close to linearly?
 
-   THE ENABLER OF HORIZONTAL SCALE:  STATELESSNESS
-   stateless service → any instance serves any request → just add instances
-   stateful service  → requests pinned to instances → scaling is hard
-```
+That third one is the architectural property. A system where adding a node
+barely helps **does not scale**, and the reason is always the same: something
+shared is the bottleneck — a database, a lock, a queue, a single-writer
+service. Adding machines cannot fix contention on a shared resource.
+
+Which points at the main enabler of horizontal scale: **statelessness.** A
+stateless service lets any instance serve any request, so scaling out is a
+matter of adding instances. A stateful service pins requests to particular
+instances, and scaling becomes a data-migration problem wearing a capacity
+costume. Push state into a datastore or a cache and the services themselves
+become the easy part.
 
 The single most important architectural enabler of scale is **statelessness**: if a service keeps
 no per-client state between requests (state lives in a database, cache, or the request itself),
@@ -56,7 +50,7 @@ shared stores.
 ## Going Deeper
 
 **Find the bottleneck before optimizing anything.** A system's throughput is limited by its single
-worst bottleneck — the slowest, most-contended component — and optimizing anything *else* is wasted
+worst **bottleneck**[°](#w-bottleneck) — the slowest, most-contended component — and optimizing anything *else* is wasted
 effort (Amdahl's Law: speeding up a part that's 10% of the time can improve things by at most 10%).
 So performance work starts with *measurement*, not guessing: profile the system, use the **USE
 method** (for each resource — CPU, memory, disk, network — check Utilization, Saturation, Errors)
@@ -68,7 +62,7 @@ the root of all evil" (Knuth) is really "optimize the measured bottleneck, ignor
 **Async and queue-based load leveling.** A powerful scalability pattern: put a **queue** between a
 spiky producer and a downstream that can only process at a steady rate. The queue absorbs bursts
 (requests pile up in the queue instead of overwhelming or being rejected by the downstream), and
-the downstream processes at its sustainable pace. This **load leveling** turns a spiky, peak-driven
+the downstream processes at its sustainable pace. This **load leveling**[°](#w-load-leveling) turns a spiky, peak-driven
 capacity problem into a steady-average one — you provision for the *average*, not the *peak*,
 because the queue buffers the difference. It's why async processing (Lesson 16) is a scalability
 tool, not just a decoupling one: it lets you decouple the *arrival* rate from the *processing* rate.
@@ -94,7 +88,7 @@ is over-engineering (Lesson 35). A startup designing for a billion users it may 
 in complexity, cost, and slower delivery — for a benefit that's hypothetical, while a competitor
 who kept it simple ships and wins. Statelessness and clean boundaries are cheap and keep the
 *option* to scale open; actually building the sharded, multi-region, queue-everywhere machinery
-before the load exists is premature. Design so you *can* scale (stateless, measurable, evolvable),
+before the load exists is premature. Design so you *can* scale (**stateless**[°](#w-stateless), measurable, evolvable),
 but scale *when the numbers demand it* — which is why capacity math and measurement come first.
 
 ---
@@ -316,6 +310,21 @@ cache, degrade), scalability is enabled by statelessness and limited by the firs
 (usually data), and both fast and scalable are specific, measured targets — not vague virtues — with
 premature scaling being as real a mistake as ignoring scale.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-latency"></a>**latency** — how long *one* operation takes (delay); measured per request.
+- <a id="w-throughput"></a>**throughput** — how *many* operations per unit time the system handles (capacity).
+- <a id="w-scalability"></a>**scalability** — how well the system handles *more* load, ideally by adding resources.
+- <a id="w-stateless"></a>**stateless** — a service that keeps no per-client state between requests, so any instance can serve any request.
+- <a id="w-horizontal-scaling"></a>**horizontal scaling** — adding more instances; enabled by statelessness.
+- <a id="w-bottleneck"></a>**bottleneck** — the one component that limits the whole system's throughput.
+- <a id="w-load-leveling"></a>**load leveling** — using a queue to smooth spiky load so downstream isn't overwhelmed.
+- <a id="w-percentile-p99"></a>**percentile (p99)** — the value below which 99% of measurements fall; the "tail" users actually feel.
 
 ---
 

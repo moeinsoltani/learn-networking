@@ -123,6 +123,38 @@ immediately after the H1, before Concept. The Lab specifics:
   Wikipedia species pages, Merlin/iNaturalist/eBird, the ABA code of ethics)
   instead of man pages; only link URLs certain to exist.
 
+### Presentation rules for ALL non-terminal tracks (2026-07-26)
+Applied across `canada`, `family`, `leadership`, `nature`, `architecture`, and
+`english`. These are about *presentation*, and they hold regardless of whether a
+track keeps its Lab:
+
+- **Never put prose in a fenced code block.** ASCII boxes holding a comparison,
+  a list, or a definition must be a markdown table or flowing prose. Fenced
+  blocks now survive only where they hold **real code** (three files in
+  `architecture`) or a genuine labelled diagram introduced by a sentence (one in
+  `canada`, Lesson 09's fur-trade supply chain).
+- **Every content table needs a lead-in** that teaches the idea and defers only
+  the detail to the grid. A `### Heading` immediately followed by `| Column |`
+  is the thing the student objected to. (English's **Phrase Bank** tables are
+  exempt — the heading is self-explanatory and they are a reference appendix.)
+- **The glossary lives in the footer.** Each lesson ends with `## Words to Know`;
+  the first mention of each term in the body is bolded and carries a small
+  `[°](#w-slug)` link down to its entry, anchored with `<a id="w-slug"></a>`
+  before the bolded term. A one-line italic pointer sits under the H1 (in
+  `family`, under the `{: .important }` disclaimer). Multi-term bullets need one
+  anchor **per term**, or the links break. `english` has no glossary box.
+- **Never let a ° marker land inside a code fence or the YAML front matter**, and
+  never wrap a term in `**` when it already sits inside an emphasis span — bold
+  spans in these files often wrap across two lines, so check statefully.
+
+**Labs:** `canada` and `family` have **no Lab and no Homework** (below).
+`leadership`, `english`, `nature`, and `architecture` **keep both** — in those
+tracks the Lab *is* the teaching method (write your response, rewrite the
+message, identify the bird, sketch the design), and English is nothing but
+drills. The four terminal tracks (networking, virtualization, security, os) were
+deliberately left untouched: their code blocks are real commands and their labs
+are the point of a hands-on course.
+
 ### Reading-first tracks: canada and family (2026-07-26)
 The student read Canada Lesson 06 and asked for these tracks to read as a
 **flowing explanation**, not as an exercise workbook. Both tracks were reworked

@@ -10,45 +10,42 @@ parent: "Phase 6: Cross-Cutting Quality Attributes"
 
 # Lesson 25: Observability Architecture
 
-{: .note }
-> **Words to know**
-> - **observability** — how well you can understand a system's internal state from its outputs, including for problems you didn't anticipate.
-> - **monitoring** — watching predefined metrics/alerts for known failure modes; a subset of observability.
-> - **the three pillars** — logs, metrics, and traces.
-> - **distributed tracing** — following one request as it flows across many services, stitched by a shared trace ID.
-> - **correlation / trace ID** — a unique id attached to a request and propagated to every service it touches.
-> - **structured logging** — logs as machine-parseable key-value data (JSON), not free-form text.
-> - **SLI / SLO / error budget** — a measured indicator, a target for it, and the allowed amount of failure.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 A distributed system you can't *see into* is a system you can't *operate*. When something breaks
 across ten services, "check the logs" is useless if you can't tell which service, which request, or
-what the request was doing. **Observability** — the ability to understand what your system is doing
+what the request was doing. **Observability**[°](#w-observability) — the ability to understand what your system is doing
 and why, *including for problems you never anticipated* — is not a tool you buy after an outage; it's
 an architectural property you must design in, because the hooks (trace IDs threaded through every
 service, structured logs, instrumented code) have to be built into the system itself.
 
-```
-   MONITORING vs OBSERVABILITY
+**Monitoring** answers known-unknowns: "CPU above 80%? Alert." It is predefined
+dashboards and alerts for the failures you foresaw.
 
-   MONITORING (known-unknowns)      OBSERVABILITY (unknown-unknowns)
-   "CPU > 80%? alert."              "checkout is slow for some users —
-   Predefined dashboards/alerts      why? which service? which requests?"
-   for failures you FORESAW.         Explore/ask new questions of the
-                                     system's outputs after the fact.
-   ── monitoring is a SUBSET of observability ──
+**Observability** answers unknown-unknowns: "checkout is slow for *some* users —
+why, which service, which requests?" It is the ability to ask new questions of
+the system's outputs after the fact, without shipping new code to answer them.
 
-   THE THREE PILLARS
-   LOGS    — discrete events: "what happened here, in detail"
-   METRICS — aggregated numbers over time: "how much / how fast / how many"
-   TRACES  — one request across services: "where did the time/error go"
-              stitched by a shared TRACE ID threaded from the edge ───┐
-                                                                       ▼
-   [edge]──trace:abc──▶[svc A]──abc──▶[svc B]──abc──▶[svc C]  ← follow ONE request
-```
+Monitoring is best thought of as a **subset** of observability, not a rival to
+it.
 
-**Monitoring** answers the questions you knew to ask (CPU, error rate, latency dashboards for known
+Three pillars provide the raw material:
+
+| Pillar | What it gives you |
+|---|---|
+| **Logs** | Discrete events — what happened here, in detail |
+| **Metrics** | Aggregated numbers over time — how much, how fast, how many |
+| **Traces** | One request across many services — where the time or the error went |
+
+Traces are the one that distributed systems live or die by, and they work by
+threading a shared **trace ID** from the edge through every hop, so that a
+single request can be followed end to end: the edge tags a request, and service
+A, B, and C all carry the same id. Without it, "why was this one request slow?"
+is essentially unanswerable once you have more than a few services.
+
+**Monitoring**[°](#w-monitoring) answers the questions you knew to ask (CPU, error rate, latency dashboards for known
 failure modes — *known-unknowns*). **Observability** is broader: the ability to ask *new* questions
 you didn't predefine ("why is checkout slow *for users in this region on this device*?" — the
 *unknown-unknowns* that cause the hardest incidents). In a distributed system, you need both, and the
@@ -59,7 +56,7 @@ observability part must be architected in.
 **The three pillars, and what each answers.**
 - **Logs** — discrete, timestamped records of events ("order 123 failed validation: missing
   address"). They tell you *what happened* in detail at a point. The architectural requirement:
-  **structured logging** (JSON key-value, not free text) so logs are queryable/aggregatable, and
+  **structured logging**[°](#w-structured-logging) (JSON key-value, not free text) so logs are queryable/aggregatable, and
   **centralized** (shipped to one searchable place, not sitting on individual hosts), because in a
   distributed system the relevant log lines are scattered across many services.
 - **Metrics** — numeric measurements aggregated over time (request rate, error rate, latency
@@ -70,7 +67,7 @@ observability part must be architected in.
 - **Traces** — the path of a *single request* across all the services it touches, showing where the
   time went and where it failed. This is the pillar that distributed systems *cannot live without*
   and monoliths didn't need: in a monolith one stack trace shows the whole request; across ten
-  services, only distributed tracing reconstructs the end-to-end journey.
+  services, only **distributed tracing**[°](#w-distributed-tracing) reconstructs the end-to-end journey.
 
 {: .warning }
 > **The correlation/trace ID is an architectural requirement — thread it from the edge**
@@ -128,7 +125,7 @@ single checkout across the services. The on-call engineer spends hours guessing 
 fault.
 
 **Design the observability architecture** so that "checkout is slow/failing" can be diagnosed in
-minutes. Specify what you'd instrument across the three pillars — the trace-ID propagation, what to
+minutes. Specify what you'd instrument across **the three pillars**[°](#w-the-three-pillars) — the trace-ID propagation, what to
 log (and how), which metrics (RED), and how tracing ties it together — and define one SLO with an
 error budget for checkout. Explain what changes about the on-call engineer's experience.
 
@@ -345,6 +342,20 @@ systems have a concrete, high-value gap (usually tracing) whose fix converts pai
 incidents into fast diagnoses — a specific, prioritized investment rather than a vague "improve
 monitoring."
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-observability"></a>**observability** — how well you can understand a system's internal state from its outputs, including for problems you didn't anticipate.
+- <a id="w-monitoring"></a>**monitoring** — watching predefined metrics/alerts for known failure modes; a subset of observability.
+- <a id="w-the-three-pillars"></a>**the three pillars** — logs, metrics, and traces.
+- <a id="w-distributed-tracing"></a>**distributed tracing** — following one request as it flows across many services, stitched by a shared trace ID.
+- <a id="w-correlation-trace-id"></a>**correlation / trace ID** — a unique id attached to a request and propagated to every service it touches.
+- <a id="w-structured-logging"></a>**structured logging** — logs as machine-parseable key-value data (JSON), not free-form text.
+- <a id="w-sli-slo-error-budget"></a>**SLI / SLO / error budget** — a measured indicator, a target for it, and the allowed amount of failure.
 
 ---
 

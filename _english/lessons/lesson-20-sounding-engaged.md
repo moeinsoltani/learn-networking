@@ -17,17 +17,25 @@ so a neutral, correct message can read as flat, cold, or disengaged even when yo
 genuinely interested and friendly. This lesson covers the small signals that add back
 the engagement text removes, so your messages feel warm and alive rather than flat.
 
-```
-   FLAT (correct but lifeless)        ENGAGED (warm, alive)
-   ──────────────────────────         ─────────────────────
-   "ok."                              "Sounds great! 🙌"
-   "I see."                           "Ah, that makes sense — good call!"
-   "The bug is fixed."                "Fixed it! 🎉 that was a tricky one"
-   "Thanks for the update."           "Thanks for the update — really helpful!"
+Correct English can still sound lifeless, and at work that has real costs — people
+read flatness as disengagement or displeasure.
 
-   engagement signals: reactions ("nice!", "oh interesting!"),
-   one exclamation mark, emoji, and reacting before redirecting
-```
+| Flat (correct but lifeless) | Engaged (warm, alive) |
+|---|---|
+| "ok." | "Sounds great! 🙌" |
+| "I see." | "Ah, that makes sense — good call!" |
+| "The bug is fixed." | "Fixed it! 🎉 that was a tricky one" |
+| "Thanks for the update." | "Thanks for the update — really helpful!" |
+
+The engagement signals are small and repeatable: **a reaction word** ("nice!",
+"oh interesting!"), **one exclamation mark**, an **emoji** where the register
+allows it, and — the most useful of the four — **reacting before redirecting**.
+That last one means responding to what the person said before adding your own
+point, which is what makes a reply feel like a conversation rather than a
+queue.
+
+One is the operative number for exclamation marks. Several in a row reads as
+manic rather than warm.
 
 The core issue: in person, your tone and expression show you're engaged; in text, a
 bare "ok" or "I see" gives none of that, so it can read as cold or bored even when you

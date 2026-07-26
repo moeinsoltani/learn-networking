@@ -10,41 +10,40 @@ parent: "Phase 3: Architectural Styles"
 
 # Lesson 13: Service Granularity & Decomposition
 
-{: .note }
-> **Words to know**
-> - **granularity** — how big or small your services are; coarse-grained = few big ones, fine-grained = many small ones.
-> - **disintegrator** — a force that argues for *splitting* something into separate services.
-> - **integrator** — a force that argues for *keeping* things together in one service.
-> - **nano-service** — a service so small it does almost nothing useful alone; a granularity anti-pattern.
-> - **chatty / chattiness** — many back-and-forth network calls to do one logical operation; a sign services are split too finely.
-> - **decompose** — to break a system (usually a monolith) into components/services.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 "How big should a service be?" is the question that sinks most microservice efforts. The
 wrong answers are equally common: too coarse (you didn't really gain independence) and too
-fine ("nano-services" so small that a single business operation requires ten chatty network
+fine ("**nano-services**[°](#w-nano-service)" so small that a single business operation requires ten chatty network
 calls, reintroducing all the coupling as latency and failure). There's no magic size — the
-right granularity is a **balance of opposing forces**.
+right **granularity**[°](#w-granularity) is a **balance of opposing forces**.
 
-```
-   FORCES THAT PUSH APART                 FORCES THAT PULL TOGETHER
-   (disintegrators — reasons to SPLIT)    (integrators — reasons to MERGE)
-   ────────────────────────────────      ────────────────────────────────
-   • different scaling needs              • a shared database / data that
-   • fault isolation needed                 must stay transactionally consistent
-   • different rate of change             • a workflow that's one unit of work
-   • different security/compliance zone   • chatty back-and-forth (would become
-   • separate team ownership                network calls)
-   • different technology needs           • strong data dependency between them
+Decomposition is a tug-of-war between two sets of forces, and naming them turns
+an argument into an analysis.
 
-            The right granularity is the BALANCE point, not the extreme.
-            "Smallest possible" is a mistake as surely as "one giant service."
-```
+| Forces that push **apart** (reasons to split) | Forces that pull **together** (reasons to merge) |
+|---|---|
+| Different scaling needs | A shared database, or data that must stay transactionally consistent |
+| Fault isolation is required | A workflow that is really one unit of work |
+| Different rates of change | Chatty back-and-forth, which would become network calls |
+| Different security or compliance zones | A strong data dependency between them |
+| Separate team ownership | |
+| Different technology needs | |
+
+The disintegrators are the ones people list instinctively; the integrators are
+the ones that get ignored and then bite. Two components that talk constantly, or
+that must commit together, are telling you something — splitting them converts a
+function call into a distributed transaction, which is one of the worst trades
+in this course.
+
+The right granularity is the **balance point**, not either extreme. "Smallest
+possible services" is a mistake exactly as surely as "one giant service."
 
 The mental model (from *Software Architecture: The Hard Parts*): for any candidate
-boundary, list the **disintegrator** forces (reasons to pull it apart) and the
-**integrator** forces (reasons to keep it together), and let them argue. Split when the
+boundary, list the **disintegrator**[°](#w-disintegrator) forces (reasons to pull it apart) and the
+**integrator**[°](#w-integrator) forces (reasons to keep it together), and let them argue. Split when the
 disintegrators clearly win; keep together when the integrators do. "Microservices" does
 *not* mean "as small as possible" — it means "the size where the forces balance," which is
 often bigger than beginners think.
@@ -332,6 +331,19 @@ granularity judgment applied prospectively. The best answers show that the decis
 telling which is which by weighing the two force sets — the same discipline whether you're
 splitting a monolith or fixing an over-decomposed distributed system.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-granularity"></a>**granularity** — how big or small your services are; coarse-grained = few big ones, fine-grained = many small ones.
+- <a id="w-disintegrator"></a>**disintegrator** — a force that argues for *splitting* something into separate services.
+- <a id="w-integrator"></a>**integrator** — a force that argues for *keeping* things together in one service.
+- <a id="w-nano-service"></a>**nano-service** — a service so small it does almost nothing useful alone; a granularity anti-pattern.
+- <a id="w-chatty-chattiness"></a>**chatty / chattiness** — many back-and-forth network calls to do one logical operation; a sign services are split too finely.
+- <a id="w-decompose"></a>**decompose** — to break a system (usually a monolith) into components/services.
 
 ---
 

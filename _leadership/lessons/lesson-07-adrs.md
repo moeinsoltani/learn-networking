@@ -10,18 +10,7 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 07: Architecture Decisions and ADRs
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **ADR (Architecture Decision Record)** — a short document capturing one significant decision: context, choice, consequences.
-> - **superseded** (soo-per-SEE-ded) — replaced by a newer decision (an ADR status).
-> - **one-way / two-way door** — Bezos's terms: an irreversible decision vs one you can walk back; reversibility sets how long you deliberate.
-> - **deliberation** — careful discussion before deciding; the "**deliberation budget**" = how much of it a decision deserves.
-> - **defer** — to postpone a decision on purpose; **interim** — temporary, until the real answer.
-> - **de-risk** — to reduce a decision's risk before committing (by learning more, prototyping).
-> - **disagree and commit** — once a decision is made, everyone executes it fully — including those who argued against it.
-> - **consensus** (kun-SEN-sus) — everyone agreeing; requiring it for everything causes paralysis.
-> - **relitigate** (ree-LIT-ih-gate) — to reopen and re-argue a settled question.
-> - **archaeology** (metaphor) — digging through old code/chats to reconstruct why something was done.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -31,26 +20,28 @@ that was actually deliberate, and the reasoning is lost. An **Architecture
 Decision Record (ADR)** fixes this: a short, durable document capturing one
 significant decision, its context, and its consequences.
 
-```
-   ADR structure (one per significant decision):
-   ┌────────────────────────────────────────────────┐
-   │ TITLE:  short, e.g. "Use Postgres, not Mongo"   │
-   │ STATUS: proposed / accepted / superseded        │
-   │ CONTEXT: what forces are at play? the problem,  │
-   │          constraints, requirements — the "why    │
-   │          are we deciding this"                    │
-   │ DECISION: what we chose, stated plainly          │
-   │ CONSEQUENCES: what follows — good AND bad; what  │
-   │          becomes easier, what we're accepting    │
-   └────────────────────────────────────────────────┘
-```
+An ADR is one short document per significant decision, and it has five parts.
+Keeping the shape fixed is what makes a directory of them skimmable years
+later.
+
+| Section | What goes in it |
+|---|---|
+| **Title** | Short and declarative, e.g. "Use Postgres, not Mongo" |
+| **Status** | proposed / accepted / superseded |
+| **Context** | What forces are at play — the problem, the constraints, the requirements. The "why are we deciding this at all" |
+| **Decision** | What you chose, stated plainly and in the active voice |
+| **Consequences** | What follows — the good *and* the bad. What becomes easier, and what you are accepting in exchange |
+
+The section people skip is **Consequences**, and it is the one that makes the
+record worth keeping. A decision with only upsides recorded reads, to whoever
+finds it later, as either dishonest or naive.
 
 The value isn't bureaucracy — it's **legibility over time**. An ADR lets a future
-engineer (often future-you) understand a decision without archaeology, prevents
+engineer (often future-you) understand a decision without **archaeology**[°](#w-archaeology), prevents
 re-litigating settled questions, and — because writing the consequences forces
 you to think them through — improves the decision itself.
 
-A crucial framing that shapes *how much* deliberation a decision deserves: Jeff
+A crucial framing that shapes *how much* **deliberation**[°](#w-deliberation) a decision deserves: Jeff
 Bezos's **one-way vs two-way doors**. A *two-way door* is reversible (you can walk
 back through if it's wrong) — decide fast, don't over-deliberate. A *one-way door*
 is hard or impossible to reverse (a public API, a data model everything depends
@@ -76,19 +67,19 @@ the deliberation budget.
 ### Deciding when to decide
 
 A subtle skill: not every decision should be made *now*. Sometimes the
-responsible move is to *defer* — keep options open until you have more
-information, or make a reversible interim choice while you learn. But deferring
+responsible move is to *defer*[°](#w-defer) — keep options open until you have more
+information, or make a reversible **interim**[°](#w-interim) choice while you learn. But deferring
 has a cost too (the team is blocked or building on uncertainty), so it's a
 judgment: decide now if the team needs to move and the decision is reversible or
 clear; defer if deciding now means guessing on a one-way door you could
-de-risk by waiting. The anti-patterns are both directions: chronic indecision
+**de-risk**[°](#w-de-risk) by waiting. The anti-patterns are both directions: chronic indecision
 (the team stalls waiting for a call that never comes) and premature commitment
 (locking in a one-way door before you had to).
 
 ### Disagree and commit
 
-Not everyone will agree with every decision, and requiring consensus on
-everything is paralysis. **Disagree and commit** (Amazon's principle, and Intel's
+Not everyone will agree with every decision, and requiring **consensus**[°](#w-consensus) on
+everything is paralysis. **Disagree and commit**[°](#w-disagree-and-commit) (Amazon's principle, and Intel's
 before it): once a decision is made — with genuine input heard — everyone
 executes it fully, even those who argued against it, rather than half-heartedly
 undermining it. The lead's responsibility is to make the disagreement genuinely
@@ -336,6 +327,23 @@ a box, not to think), that's a signal to trim it back — the goal is better
 decisions and preserved reasoning, and the moment the ritual outweighs that
 benefit it's failing regardless of how thorough it looks.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-adr-architecture-decision-record"></a>**ADR (Architecture Decision Record)** — a short document capturing one significant decision: context, choice, consequences.
+- <a id="w-superseded"></a>**superseded** (soo-per-SEE-ded) — replaced by a newer decision (an ADR status).
+- <a id="w-one-way-two-way-door"></a>**one-way / two-way door** — Bezos's terms: an irreversible decision vs one you can walk back; reversibility sets how long you deliberate.
+- <a id="w-deliberation"></a>**deliberation** — careful discussion before deciding; the "**deliberation budget**" = how much of it a decision deserves.
+- <a id="w-defer"></a>**defer** — to postpone a decision on purpose; <a id="w-interim"></a>**interim** — temporary, until the real answer.
+- <a id="w-de-risk"></a>**de-risk** — to reduce a decision's risk before committing (by learning more, prototyping).
+- <a id="w-disagree-and-commit"></a>**disagree and commit** — once a decision is made, everyone executes it fully — including those who argued against it.
+- <a id="w-consensus"></a>**consensus** (kun-SEN-sus) — everyone agreeing; requiring it for everything causes paralysis.
+- <a id="w-relitigate"></a>**relitigate** (ree-LIT-ih-gate) — to reopen and re-argue a settled question.
+- <a id="w-archaeology"></a>**archaeology** (metaphor) — digging through old code/chats to reconstruct why something was done.
 
 ---
 

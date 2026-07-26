@@ -10,39 +10,31 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 31: Assigning for Growth, Not Speed
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **the fastest-person trap** — always assigning important work to whoever is quickest, so nobody else grows.
-> - **locally vs globally optimal** — best for this one task vs best for the whole system over time.
-> - **calcify** (KAL-sih-fy) — to harden into a fixed state (a team whose skill gaps stop changing).
-> - **stagnate** — to stop growing.
-> - **blast radius** — how much damage a failure can cause (from explosions); "contained blast radius" = a stretch where mistakes are recoverable.
-> - **glue work** — the unglamorous work that holds a team together: docs, flaky-test fixes, onboarding, coordination (Tanya Reilly's term).
-> - **rotate** — to take turns so no one is stuck with the same duty forever.
-> - **going stale** — doing the same-level work so long you stop developing.
-> - **both/and** — holding two competing goals at once, instead of choosing one ("either/or").
-> - **resilience** — the ability to absorb losses and keep functioning.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Who you assign work to is one of your most powerful development levers — because **the work itself is
 the main way people grow.** But there's a strong pull to always give important work to whoever will do
 it fastest/best (usually the same senior person), which optimizes for short-term speed at the cost of
-long-term team growth. Over time, that calcifies the team: the strong get stronger and everyone else
-stagnates. The skill is deliberately using assignments to *grow* people — while still delivering — which
+long-term team growth. Over time, that **calcifies**[°](#w-calcify) the team: the strong get stronger and everyone else
+**stagnates**[°](#w-stagnate). The skill is deliberately using assignments to *grow* people — while still delivering — which
 means sometimes giving work to the person who'll grow from it, not the one who'll finish it fastest.
 
-```
-   THE FASTEST-PERSON TRAP
-   ┌──────────────────────────────────────────────────────┐
-   │ important work → always the fastest/best person       │
-   │   → they get stronger, everyone else stagnates         │
-   │   → team calcifies; you depend on one person more      │
-   │   → short-term speed, long-term fragility & no growth  │
-   └──────────────────────────────────────────────────────┘
-   ASSIGN FOR GROWTH: sometimes give the stretch work to the
-   person who'll GROW from it (with support), not the fastest.
-```
+There is a trap that feels like good management every single time you fall into
+it.
+
+Important work appears, and you give it to the fastest, best person — because
+of course you do. They get stronger. Everyone else stagnates. The team
+calcifies around one person's capability, and your dependence on them deepens.
+You have bought short-term speed at the price of long-term fragility and no
+growth.
+
+The counter-move is to **assign for growth**: sometimes give the stretch work to
+the person who will *grow* from it, with support, rather than the person who
+will finish it soonest. It costs you some velocity this quarter. It is the only
+thing that raises the team's ceiling next year, and it is how you stop being the
+single point of failure for your own team.
 
 The reframe: **assignments are a development tool, not just a delivery mechanism — so assign for growth,
 not only speed.** Always assigning to the fastest person is locally optimal (this task ships quickest)
@@ -63,8 +55,8 @@ single task it's locally optimal. But repeated over time it's harmful: (1) the f
 the interesting/growth work (getting even stronger), while everyone else gets the routine work (stagnating);
 (2) the team **calcifies** — the capability gap widens, fewer people can do the important work, and you
 grow ever more dependent on the one person; (3) it's fragile (bus factor — Lesson 34) and demoralizing
-(others see the same person always gets the good stuff). The fastest-person trap trades long-term team
-growth and resilience for short-term speed.
+(others see the same person always gets the good stuff). **The fastest-person trap**[°](#w-the-fastest-person-trap) trades long-term team
+growth and **resilience**[°](#w-resilience) for short-term speed.
 
 ### Stretch assignments with contained blast radius
 
@@ -78,7 +70,7 @@ you find real stretches with limited downside.
 
 ### Rotate the glue work fairly
 
-**Glue work** — the unglamorous, essential work that holds a team together (fixing flaky tests, writing
+**Glue work**[°](#w-glue-work) — the unglamorous, essential work that holds a team together (fixing flaky tests, writing
 docs, onboarding, incident cleanup, coordination) — tends to fall unfairly: often on whoever volunteers,
 or disproportionately on certain people (frequently women and underrepresented folks, a known pattern).
 Two problems: it's often undervalued (so those doing it don't get credit — see Tanya Reilly's "Being
@@ -94,7 +86,7 @@ person, and delivery pressure is real) *or* only assign for speed (or the team n
 give the highest-stakes/urgent work to whoever's best when it truly matters, but consciously distribute
 the stretch opportunities (not everything has to go to the fastest person — much work is a fine stretch
 for someone), and protect some growth even under delivery pressure (or you'll always default to speed and
-never develop anyone). It's a both/and, held in tension deliberately.
+never develop anyone). It's a **both/and**[°](#w-both-and), held in tension deliberately.
 
 ### Track who's growing stale
 
@@ -111,8 +103,8 @@ address through assignments.
 > trap is always giving important work to the fastest/best person (usually the same senior) — locally
 > efficient but globally harmful: the team calcifies (the strong get stronger, others stagnate), you grow
 > dependent on one person, and it's fragile and demoralizing. Instead, deliberately assign for growth:
-> give stretch assignments (with contained blast radius) to people who'll grow from them, rotate the glue
-> work fairly (and make it visible), and track who's growing vs. going stale. You must balance delivery
+> give stretch assignments (with contained **blast radius**[°](#w-blast-radius)) to people who'll grow from them, **rotate**[°](#w-rotate) the glue
+> work fairly (and make it visible), and track who's growing vs. **going stale**[°](#w-going-stale). You must balance delivery
 > and growth — you can't only do one — which means consciously distributing stretch opportunities even
 > under delivery pressure, not defaulting to the fastest person every time. Using assignments deliberately
 > to develop the whole team is what keeps a team growing rather than calcifying.
@@ -341,6 +333,23 @@ delegate and assign is how people grow. The next lesson turns to knowing where e
 go — career development conversations — so you can bend their work toward their aspirations, making the
 growth assignments land on what they actually want.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-the-fastest-person-trap"></a>**the fastest-person trap** — always assigning important work to whoever is quickest, so nobody else grows.
+- <a id="w-locally-vs-globally-optimal"></a>**locally vs globally optimal** — best for this one task vs best for the whole system over time.
+- <a id="w-calcify"></a>**calcify** (KAL-sih-fy) — to harden into a fixed state (a team whose skill gaps stop changing).
+- <a id="w-stagnate"></a>**stagnate** — to stop growing.
+- <a id="w-blast-radius"></a>**blast radius** — how much damage a failure can cause (from explosions); "contained blast radius" = a stretch where mistakes are recoverable.
+- <a id="w-glue-work"></a>**glue work** — the unglamorous work that holds a team together: docs, flaky-test fixes, onboarding, coordination (Tanya Reilly's term).
+- <a id="w-rotate"></a>**rotate** — to take turns so no one is stuck with the same duty forever.
+- <a id="w-going-stale"></a>**going stale** — doing the same-level work so long you stop developing.
+- <a id="w-both-and"></a>**both/and** — holding two competing goals at once, instead of choosing one ("either/or").
+- <a id="w-resilience"></a>**resilience** — the ability to absorb losses and keep functioning.
 
 ---
 

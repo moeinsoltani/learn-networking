@@ -10,39 +10,29 @@ parent: "Phase 12: Your Path"
 
 # Lesson 64: Your First 90 Days as a Lead
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **the first 90 days** — the standard framing (from Watkins's book) for a role transition's critical opening period.
-> - **listen-first period** — roughly 30 days of learning and no big changes.
-> - **Chesterton's fence** — don't remove a fence until you know why it was put there; don't change what you don't yet understand.
-> - **build your map** — learning the people, systems, and history before acting.
-> - **"where the bodies are buried"** — idiom: the hidden problems, old wounds, and political sensitivities nobody mentions.
-> - **landmine** — a hidden issue that explodes when accidentally stepped on.
-> - **early win** — a small visible improvement that earns trust without imposing.
-> - **stepping on toes** — intruding on someone else's territory or authority.
-> - **remit** (REE-mit) — the area you're officially responsible for.
-> - **renegotiate your IC workload** — explicitly agreeing with your manager how much individual work you drop to make room for leading.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Becoming a tech lead deliberately — not just "a senior with extra meetings" — starts with how you spend your
 first 90 days. The temptation is to charge in and make changes (prove yourself, fix what you see); the
 wisdom is to **listen first, build your map, and earn trust before changing things.** The classic guidance:
-a **listen-first period** (roughly 30 days of no big changes), building your understanding of the people,
-systems, and history, then early wins that build trust without stepping on toes.
+a **listen-first period**[°](#w-listen-first-period) (roughly 30 days of no big changes), building your understanding of the people,
+systems, and history, then **early wins**[°](#w-early-win) that build trust without **stepping on toes**[°](#w-stepping-on-toes).
 
-```
-   YOUR FIRST 90 DAYS AS A LEAD
-   ┌──────────────────────────────────────────────────────┐
-   │ • LISTEN FIRST (~30 days, no big changes) — understand  │
-   │   before you act                                       │
-   │ • BUILD YOUR MAP: people, systems, where the bodies are │
-   │ • EARLY WINS that build trust (without stepping on toes)│
-   │ • RENEGOTIATE your IC workload EXPLICITLY (you can't do │
-   │   both jobs fully)                                      │
-   │ • BUILD RELATIONSHIPS in week one                       │
-   └──────────────────────────────────────────────────────┘
-```
+The first ninety days as a lead have a well-worn shape.
+
+- **Listen first** — roughly the first thirty days, with no big changes.
+  Understand the system before you act on it; almost every early change made
+  without context has to be undone.
+- **Build your map**: the people, the systems, and where the bodies are buried.
+- **Find early wins that build trust** without stepping on anyone's toes —
+  something visibly useful that nobody was defending.
+- **Renegotiate your IC workload explicitly.** This is the one people skip. You
+  cannot do both jobs fully, and if you do not have the conversation, you will
+  simply do both badly while everyone assumes you are fine.
+- **Build relationships in week one**, before you need them (Lesson 35) — with
+  your team, your peers, and your manager.
 
 The reframe: **listen and build understanding before you change things — earn trust and learn the context
 first, rather than charging in.** New leads often rush to make changes (to prove value or fix what they
@@ -60,7 +50,7 @@ charge.
 The most important early discipline: **listen and learn before making big changes** — a rough guideline is
 no major changes for the first ~30 days. Why: (1) **you don't yet understand the context** — things are
 usually the way they are for reasons (some good, some bad), and changing them before understanding why
-breaks things you didn't know mattered (Chesterton's fence — don't remove a fence until you know why it's
+breaks things you didn't know mattered (**Chesterton's fence**[°](#w-chestertons-fence) — don't remove a fence until you know why it's
 there); (2) **you haven't earned trust** — charging in with changes before you've earned credibility makes
 people defensive and resistant; (3) **listening builds understanding and relationships** — spending the
 early period understanding (asking questions, learning) is how you build both the knowledge to change wisely
@@ -70,10 +60,10 @@ default is listen-first.)
 
 ### Build your map — people, systems, where the bodies are buried
 
-Use the listening period to **build your map**: (1) **people** — who's on the team, their strengths,
+Use the listening period to **build your map**[°](#w-build-your-map): (1) **people** — who's on the team, their strengths,
 aspirations, concerns, dynamics (1:1s with everyone); (2) **systems** — how things work technically (the
 architecture, the codebase, the tooling); (3) **the history and the "bodies"** — why things are the way they
-are, past decisions, known problems, "where the bodies are buried" (the landmines, the tech debt, the
+are, past decisions, known problems, **"where the bodies are buried"**[°](#w-where-the-bodies-are-buried) (the **landmines**[°](#w-landmine), the tech debt, the
 political sensitivities, the things people don't talk about). This map is what lets you lead well —
 understanding the people, the systems, and the context so you can make good decisions and avoid landmines.
 Build it deliberately in the early days (it's why the listen-first period is so valuable).
@@ -82,7 +72,7 @@ Build it deliberately in the early days (it's why the listen-first period is so 
 
 While listening, look for **early wins** — small, visible improvements that build trust and credibility —
 but chosen carefully to **not step on toes**: (1) address something the team clearly wants fixed (a pain
-point they've been asking about — you're helping, not imposing); (2) something within your clear remit (not
+point they've been asking about — you're helping, not imposing); (2) something within your clear **remit**[°](#w-remit) (not
 overriding others); (3) something that demonstrates you're here to help, not to disrupt. Good early wins
 (fixing an annoyance the team wanted fixed, removing a blocker, a quick helpful improvement) build trust and
 show value; bad "early wins" (imposing big changes, overriding people, fixing things that weren't broken to
@@ -116,7 +106,7 @@ well. Relationships are the foundation of leadership, so build them from week on
 > (Chesterton's fence). <em>Build your map</em> (people, systems, the history and where the bodies are
 > buried) — the understanding that lets you lead well. Look for <em>early wins</em> that build trust
 > <em>without stepping on toes</em> (fix what the team wants fixed, within your remit — helping, not
-> imposing). <em>Renegotiate your IC workload explicitly</em> (you can't fully do both jobs — reduce the IC
+> imposing). <em>**Renegotiate your IC workload**[°](#w-renegotiate-your-ic-workload) explicitly</em> (you can't fully do both jobs — reduce the IC
 > load with your manager, or the lead work suffers). And <em>build key relationships in week one</em> (team,
 > manager, stakeholders — the foundation of leadership). Starting deliberately — listening, mapping, earning
 > trust, renegotiating your load, building relationships — sets up the whole role.
@@ -354,6 +344,23 @@ things without trust) or overloading yourself (doing both jobs badly). This make
 concrete and personal. The next lesson covers the bigger jump — the first 90 days as an EM — including the
 hardest part: managing former peers. This begins the final, personal phase of the course — your path.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-the-first-90-days"></a>**the first 90 days** — the standard framing (from Watkins's book) for a role transition's critical opening period.
+- <a id="w-listen-first-period"></a>**listen-first period** — roughly 30 days of learning and no big changes.
+- <a id="w-chestertons-fence"></a>**Chesterton's fence** — don't remove a fence until you know why it was put there; don't change what you don't yet understand.
+- <a id="w-build-your-map"></a>**build your map** — learning the people, systems, and history before acting.
+- <a id="w-where-the-bodies-are-buried"></a>**"where the bodies are buried"** — idiom: the hidden problems, old wounds, and political sensitivities nobody mentions.
+- <a id="w-landmine"></a>**landmine** — a hidden issue that explodes when accidentally stepped on.
+- <a id="w-early-win"></a>**early win** — a small visible improvement that earns trust without imposing.
+- <a id="w-stepping-on-toes"></a>**stepping on toes** — intruding on someone else's territory or authority.
+- <a id="w-remit"></a>**remit** (REE-mit) — the area you're officially responsible for.
+- <a id="w-renegotiate-your-ic-workload"></a>**renegotiate your IC workload** — explicitly agreeing with your manager how much individual work you drop to make room for leading.
 
 ---
 

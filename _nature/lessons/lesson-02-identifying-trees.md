@@ -10,27 +10,17 @@ parent: "Phase 1: Learning to Look"
 
 # Lesson 02: How to Identify a Tree
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **needle** — the thin, narrow "leaf" of most conifers (spruce, pine, fir).
-> - **scale-leaf** — tiny flat overlapping leaves pressed to the twig, like on cedar.
-> - **cone** — the woody seed-holder of a conifer (a "pine cone"); some are hard, some are papery.
-> - **bark** — the outer skin of a trunk; its colour and texture is a great field mark.
-> - **lobe** — a rounded or pointed "finger" on a leaf edge (maple and oak leaves are lobed).
-> - **simple leaf** — one single leaf blade; **compound leaf** — one leaf split into several leaflets.
-> - **crown / canopy** — the leafy top of a tree; its overall shape seen from a distance.
-> - **silhouette** (sil-oo-ET) — the tree's outline against the sky.
-> - **coniferous** (koh-NIH-fur-us) — cone-bearing; **deciduous** (deh-SIH-joo-us) — leaf-dropping.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 You identify a tree the way you recognise a friend across the street: **shape
-first, then details.** From far away you read the **silhouette** (Christmas-tree
+first, then details.** From far away you read the **silhouette**[°](#w-silhouette) (Christmas-tree
 point? round shade tree? white-barked and slender?). Up close you check three
 things in order:
 
-1. **Leaves or needles** — broad flat leaf, or needle/scale?
-2. **Bark** — colour, and smooth/rough/peeling?
+1. **Leaves or needles** — broad flat leaf, or **needle**[°](#w-needle)/scale?
+2. **Bark**[°](#w-bark) — colour, and smooth/rough/peeling?
 3. **Shape & size** — the overall crown, and how tall.
 
 That's the whole method. Ninety percent of Canadian tree ID is just the first
@@ -45,7 +35,7 @@ loses its leaves in autumn. This is the "shade tree" silhouette. Photo:
 
 ![A tall, narrow, pointed white spruce](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Picea_glauca_Fairbanks.jpg/960px-Picea_glauca_Fairbanks.jpg)
 
-*A **conifer** (white spruce): needles instead of flat leaves, cones, a narrow
+*A **conifer** (white spruce): needles instead of flat leaves, **cones**[°](#w-cone), a narrow
 pointed "Christmas-tree" silhouette, stays green all winter. The pointed shape
 sheds snow — an adaptation to the Canadian winter. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Picea_glauca_Fairbanks.jpg).*
@@ -53,6 +43,12 @@ sheds snow — an adaptation to the Canadian winter. Photo:
 ## Going Deeper
 
 ### Step 1 — needle or leaf? (this does most of the work)
+
+Almost every tree you meet sorts itself in the first second, before you know
+anything else about it, on one question: **needle or leaf?** Needles and tiny
+scale-leaves mean a conifer; a broad flat leaf means a broadleaf tree. That one
+split cuts the possibilities roughly in half and tells you which of the later
+steps to bother with.
 
 | If you see… | It's a… | Examples (Phase 2) |
 |---|---|---|
@@ -62,12 +58,12 @@ sheds snow — an adaptation to the Canadian winter. Photo:
 
 A quick winter trick: if a tree is **green in January**, it's almost always a
 conifer (an evergreen). If it's **bare sticks in January**, it's a broadleaf
-(deciduous) tree resting for winter. The main exception is the **larch/tamarack**
+(**deciduous**[°](#w-deciduous)) tree resting for winter. The main exception is the **larch/tamarack**
 — a conifer that *does* drop its needles each fall, turning gold first.
 
 ### Step 2 — read the leaf (for broadleaf trees)
 
-- **Lobed** (fingers with gaps): maples have lobes meeting at a point in the
+- **Lobed** (fingers with gaps): maples have **lobes**[°](#w-lobe) meeting at a point in the
   middle; oaks have rounded or bristle-tipped lobes.
 - **Toothed edge, oval leaf:** birch, beech, elm.
 - **Simple vs compound:** is it one blade (maple, oak) or one leaf divided into
@@ -246,6 +242,22 @@ a <strong>maple</strong>." Full marks for reaching a confident *group* ID and
 citing which feature convinced you — that's the whole skill. You'll confirm the
 exact species in Phase 2.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-needle"></a>**needle** — the thin, narrow "leaf" of most conifers (spruce, pine, fir).
+- <a id="w-scale-leaf"></a>**scale-leaf** — tiny flat overlapping leaves pressed to the twig, like on cedar.
+- <a id="w-cone"></a>**cone** — the woody seed-holder of a conifer (a "pine cone"); some are hard, some are papery.
+- <a id="w-bark"></a>**bark** — the outer skin of a trunk; its colour and texture is a great field mark.
+- <a id="w-lobe"></a>**lobe** — a rounded or pointed "finger" on a leaf edge (maple and oak leaves are lobed).
+- <a id="w-simple-leaf"></a>**simple leaf** — one single leaf blade; <a id="w-compound-leaf"></a>**compound leaf** — one leaf split into several leaflets.
+- <a id="w-crown-canopy"></a>**crown / canopy** — the leafy top of a tree; its overall shape seen from a distance.
+- <a id="w-silhouette"></a>**silhouette** (sil-oo-ET) — the tree's outline against the sky.
+- <a id="w-coniferous"></a>**coniferous** (koh-NIH-fur-us) — cone-bearing; <a id="w-deciduous"></a>**deciduous** (deh-SIH-joo-us) — leaf-dropping.
 
 ---
 

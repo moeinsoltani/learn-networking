@@ -10,46 +10,37 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 43: Other Engineering Teams and Dependencies
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **dependency** — work of yours that cannot proceed until another team delivers theirs.
-> - **dependency contract** — the written agreement: *what* they'll deliver, *when*, with what *interface*.
-> - **interface** — the exact technical boundary (API, schema, spec) two teams meet at.
-> - **incentives** — what actually drives a team's choices: their goals, metrics, mandate — not kindness.
-> - **goodwill** — friendly willingness to help; real but unreliable when priorities compete.
-> - **burning bridges** — winning today in a way that destroys the relationship you'll need tomorrow.
-> - **over someone's head** — going to a person's boss without trying them first.
-> - **platform team** — a team whose product is tooling and infrastructure for other teams; you are its **customer**.
-> - **mandate** — what a team is officially chartered to do.
-> - **reciprocal** (rih-SIP-roh-kul) — flowing both ways over time; cross-team relationships are.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Your work often depends on **other engineering teams** — a platform team, an API you need changed, a
+Your work often depends on **other engineering teams** — a **platform team**[°](#w-platform-team), an API you need changed, a
 service another team owns — who don't report to you and have their **own roadmap and priorities.** You
 can't order them, and their kindness alone won't reliably get you what you need. The skills: making
-**dependency contracts** explicit (what, when, interface — in writing), understanding their
-**incentives** (not relying on goodwill), escalating **without burning bridges**, and being a **good
+**dependency contracts**[°](#w-dependency-contract) explicit (what, when, **interface**[°](#w-interface) — in writing), understanding their
+**incentives**[°](#w-incentives) (not relying on **goodwill**[°](#w-goodwill)), escalating **without burning bridges**, and being a **good
 customer** to platform teams. Getting things from teams that don't work for you is a core leadership
 challenge.
 
-```
-   DEPENDENCY REALITY
-   ┌──────────────────────────────────────────────────────┐
-   │ • they have their OWN roadmap & priorities (not yours) │
-   │ • you can't ORDER them → influence, not authority      │
-   │ • DEPENDENCY CONTRACT: what + when + interface, WRITTEN │
-   │ • understand their INCENTIVES (why would THEY help?)   │
-   │ • escalate WITHOUT burning bridges (you'll need them    │
-   │   again)                                                │
-   └──────────────────────────────────────────────────────┘
-```
+Five realities govern every dependency on a team you do not control.
+
+- **They have their own roadmap and priorities**, and those are not yours.
+- **You cannot order them.** This is influence, not authority (Lesson 35).
+- **Write down the dependency contract:** what, by when, and through which
+  interface. Verbal agreements between teams decay at exactly the speed of
+  everyone's memory.
+- **Understand their incentives.** Why would *they* help — what does this do for
+  their goals, their on-call load, their metrics? An ask framed in your terms is
+  a favour; framed in theirs, it is a reason.
+- **Escalate without burning bridges.** Escalation is sometimes correct, but you
+  will need this team again next quarter, so escalate the *problem* and not the
+  people.
 
 The reframe: **get things from other teams through explicit contracts and understanding their
 incentives — not by assuming their goodwill will prioritize your need over their roadmap.** Another
 team has their own priorities; your need competes with theirs. Relying on kindness ("they'll help
 because we're all one company") is unreliable — they're rationally focused on their own goals. So you
-make dependencies explicit (contracts), align your need with their incentives (why would helping you
+make **dependencies**[°](#w-dependency) explicit (contracts), align your need with their incentives (why would helping you
 serve <em>them</em>?), and escalate skillfully when needed — all while preserving the relationship for
 next time.
 
@@ -71,7 +62,7 @@ writing, early — the fuzzy dependency is the one that blows up your timeline.
 
 The crucial mindset shift: **understand and align with the other team's incentives, don't rely on their
 kindness.** Another team helps you reliably when helping you serves <em>their</em> goals (their
-priorities, their metrics, their mandate) — not out of pure goodwill (which is unreliable when your need
+priorities, their metrics, their **mandate**[°](#w-mandate)) — not out of pure goodwill (which is unreliable when your need
 competes with their roadmap). So ask: <em>why would this team want to help me? what's in it for them?</em>
 — and frame your need in terms of their incentives ("this helps you hit the adoption target you care
 about," "this is exactly the platform use case you're mandated to support"). If there's genuine
@@ -111,7 +102,7 @@ when you can (building goodwill and reciprocity), be reliable and reasonable (so
 you), and don't burn bridges over any single conflict (you'll need them again). The team that's a good
 partner over time — helpful, reliable, reasonable — gets cooperation when they need it; the team that's
 purely extractive or adversarial finds doors closed. Invest in the cross-team relationships as
-long-term reciprocal partnerships, not one-off transactions.
+long-term **reciprocal**[°](#w-reciprocal) partnerships, not one-off transactions.
 
 {: .note }
 > **Get things from other teams via explicit contracts and their incentives — not their kindness</br>**
@@ -119,7 +110,7 @@ long-term reciprocal partnerships, not one-off transactions.
 > and their goodwill alone won't reliably prioritize your need over theirs. Make dependencies explicit:
 > a written <em>dependency contract</em> (what + when + interface) creates clarity and accountability
 > (the fuzzy dependency is the one that blows up). Align with their <em>incentives</em> (why would helping
-> you serve <em>them</em>?) rather than relying on kindness. <em>Escalate without burning bridges</em>
+> you serve <em>them</em>?) rather than relying on kindness. <em>Escalate without **burning bridges**[°](#w-burning-bridges)</em>
 > (working level first, warn them, frame neutrally, preserve the relationship — you'll need them again). Be
 > a <em>good customer</em> to platform teams (clear, reasonable, appreciative — which gets you prioritized).
 > And treat cross-team relationships as long-term reciprocal partnerships (help others, build goodwill,
@@ -378,6 +369,23 @@ cross-team work, which is much of how larger efforts actually get done. The last
 together the stakeholder skills into negotiation and expectation management — negotiating scope, time, and
 staffing, which is now a core part of the job.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-dependency"></a>**dependency** — work of yours that cannot proceed until another team delivers theirs.
+- <a id="w-dependency-contract"></a>**dependency contract** — the written agreement: *what* they'll deliver, *when*, with what *interface*.
+- <a id="w-interface"></a>**interface** — the exact technical boundary (API, schema, spec) two teams meet at.
+- <a id="w-incentives"></a>**incentives** — what actually drives a team's choices: their goals, metrics, mandate — not kindness.
+- <a id="w-goodwill"></a>**goodwill** — friendly willingness to help; real but unreliable when priorities compete.
+- <a id="w-burning-bridges"></a>**burning bridges** — winning today in a way that destroys the relationship you'll need tomorrow.
+- <a id="w-over-someones-head"></a>**over someone's head** — going to a person's boss without trying them first.
+- <a id="w-platform-team"></a>**platform team** — a team whose product is tooling and infrastructure for other teams; you are its **customer**.
+- <a id="w-mandate"></a>**mandate** — what a team is officially chartered to do.
+- <a id="w-reciprocal"></a>**reciprocal** (rih-SIP-roh-kul) — flowing both ways over time; cross-team relationships are.
 
 ---
 

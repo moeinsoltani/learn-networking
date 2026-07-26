@@ -18,18 +18,23 @@ the message gets lost. The skill is language that is **clear about the issue and
 delivery** — so the person hears what needs to change *and* feels supported, not attacked. There
 are proven structures (like SBI) and specific phrasings that make this reliably work.
 
-```
-   THE SBI STRUCTURE (a reliable frame):
-   ┌──────────────────────────────────────────────────────┐
-   │ SITUATION  when/where: "In yesterday's standup…"       │
-   │ BEHAVIOR   what you observed (facts, not judgment):    │
-   │            "…you cut off Sana before she finished."    │
-   │ IMPACT     the effect: "…and she seemed to shut down    │
-   │            and didn't share her idea."                  │
-   └──────────────────────────────────────────────────────┘
+**SBI** — Situation, Behaviour, Impact — is a reliable frame for feedback, and
+its value is that it keeps you on facts.
 
-   Facts + impact, not character judgment. Then a conversation.
-```
+| Part | What it is | Example |
+|---|---|---|
+| **Situation** | When and where | "In yesterday's standup…" |
+| **Behaviour** | What you observed — facts, not judgement | "…you cut off Sana before she finished." |
+| **Impact** | The effect it had | "…and she seemed to shut down and didn't share her idea." |
+
+The crucial discipline is in the middle row. "You cut off Sana" is an
+observation that a camera would have recorded. "You're dismissive" is a
+character judgement, and it invites an argument about who someone *is* — which
+nobody has ever won.
+
+And SBI is an **opening**, not a speech. Deliver the three parts, then stop and
+let the other person talk. What follows should be a conversation; if it is a
+monologue, the frame has not helped you.
 
 The reframe: **feedback is about specific behavior and its impact, not about the person's
 character** — "you interrupted Sana and she went quiet" (behavior + impact) not "you're

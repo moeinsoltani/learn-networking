@@ -18,17 +18,21 @@ glide through your writing; choppy or rambling ones make them work. The two skil
 per paragraph** (with the point up front), and **connecting sentences** so each flows into the
 next. This is what turns a pile of correct sentences into writing that reads smoothly.
 
-```
-   A PARAGRAPH THAT FLOWS:
-   ┌──────────────────────────────────────────────────────┐
-   │ [Topic sentence: the point of this paragraph]         │
-   │ [Supporting sentence, connected to the point]         │
-   │ [Another, linked with a connector: "This means…"]     │
-   │ [A closing/transition sentence to the next idea]      │
-   └──────────────────────────────────────────────────────┘
+A paragraph that flows has a predictable internal shape:
 
-   One idea per paragraph · point first · sentences linked
-```
+1. **A topic sentence** stating the point of the paragraph.
+2. **A supporting sentence**, connected to that point.
+3. **Another**, linked with a connector — "This means…", "As a result…".
+4. **A closing or transition sentence** leading to the next idea.
+
+Three rules produce it: **one idea per paragraph**, **point first**, and
+**sentences linked** to each other rather than merely adjacent.
+
+The second rule is the one that most often needs unlearning. Many educational
+traditions build to the point at the end of the paragraph; English business
+writing puts it in the first sentence, so that a reader skimming only first
+sentences still follows the whole argument. That is not a stylistic preference —
+it is how your document will actually be read.
 
 The reframe: **a paragraph is one idea, and its first sentence should tell the reader what
 that idea is** (a "topic sentence"). Then the sentences within connect with linking words

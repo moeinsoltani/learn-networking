@@ -10,42 +10,36 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 40: Working with Product Managers and Designers
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **the triad** — product + design + engineering working as three equal partners.
-> - **PM (product manager)** — owns *what* to build and *why* (user needs, business value, priorities).
-> - **feature factory** — an engineering team that only executes finished specs with no say in what gets built.
-> - **spec** — a written specification of what to build; **ticket** — one packaged unit of work.
-> - **healthy tension** — productive disagreement between perspectives that produces better decisions.
-> - **problem definition** — the stage where the *problem* is chosen, before any solution; where engineering should engage.
-> - **feasibility** (fee-zih-BIL-ih-tee) — whether something can practically be built at acceptable cost.
-> - **veto** — blocking something outright; push back **with alternatives** instead.
-> - **conduit** (KON-doo-it) — a channel things flow through; the lead is the conduit for the "why."
-> - **UX** — user experience: how the product works for the humans using it.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Engineering doesn't ship in isolation — it works with **product** (what to build and why) and
 **design** (how it should work for users), forming a **triad**. The best products come from this
-triad working as genuine partners with *healthy tension* — each bringing their perspective — not from
-engineering being a passive "feature factory" that receives fully-specced tickets and builds them. The
-key shift: engage at **problem definition**, not ticket receipt — be a partner in deciding *what* to
+triad working as genuine partners with *healthy tension*[°](#w-healthy-tension) — each bringing their perspective — not from
+engineering being a passive "**feature factory**[°](#w-feature-factory)" that receives fully-specced **tickets**[°](#w-ticket) and builds them. The
+key shift: engage at **problem definition**[°](#w-problem-definition), not ticket receipt — be a partner in deciding *what* to
 build, not just an executor of decisions already made.
 
-```
-   THE FEATURE FACTORY              THE HEALTHY TRIAD
-   ──────────────────              ─────────────────
-   PM decides WHAT →               PM (what/why) + Design (UX) +
-   hands eng a spec →              Eng (feasibility/how) as PARTNERS
-   eng builds it                   engage at PROBLEM DEFINITION,
-   (eng = executor)                not ticket-receipt
-        ↑ eng has no say,               ↑ healthy tension, each perspective,
-          builds the wrong thing          ships the RIGHT thing
-```
+There are two ways product, design and engineering can work together, and one
+of them produces the wrong software efficiently.
+
+**The feature factory:** the PM decides *what*, hands engineering a spec, and
+engineering builds it. Engineering is an executor, has no say in the problem
+definition, and — predictably — builds the wrong thing well.
+
+**The healthy triad:** PM (what and why), Design (the user experience), and
+Engineering (feasibility and how) operating as **partners**, engaging at
+**problem definition** rather than at ticket receipt.
+
+The triad has more friction, and that is the point. Each perspective catches
+what the others miss, and the resulting tension is what gets the *right* thing
+shipped. If your engineers first hear about a feature when the ticket arrives,
+you have a factory, whatever the org chart says.
 
 The reframe: **be a partner in the triad, engaging at problem definition — not a feature factory
-receiving specs.** When engineering is only handed finished specs to build, it (a) can't contribute
-its perspective (feasibility, technical opportunities, simpler alternatives), (b) often builds the
+receiving specs.** When engineering is only handed finished **specs**[°](#w-spec) to build, it (a) can't contribute
+its perspective (**feasibility**[°](#w-feasibility), technical opportunities, simpler alternatives), (b) often builds the
 wrong thing (the spec solved the wrong problem), and (c) is disengaged. Engaging early — at the
 problem, not the solution — lets engineering shape what gets built, catch problems early, and ship
 the right thing.
@@ -79,7 +73,7 @@ to be in the room at problem definition, not just handed the conclusion.
 ### Push back with alternatives, not vetoes
 
 When you disagree with product/design (a feature that's too expensive, solves the wrong problem, or
-has a better approach), push back **with alternatives, not vetoes.** A veto ("we can't/won't build
+has a better approach), push back **with alternatives, not vetoes.** A **veto**[°](#w-veto) ("we can't/won't build
 that") is adversarial and unhelpful; an alternative ("that would take three months, but we could solve
 the same user problem this simpler way in three weeks — would that work?") is collaborative and
 constructive. Framing pushback as "here's a better way to achieve <em>your</em> goal" (their goal is
@@ -88,10 +82,10 @@ a blocker. Bring options, not refusals.
 
 ### Share the "why" downward
 
-As the eng lead in the triad, you learn the *why* behind what you're building (the user problem, the
+As the eng lead in **the triad**[°](#w-the-triad), you learn the *why* behind what you're building (the user problem, the
 business goal, the priorities). **Share that "why" with your team** — engineers who understand why
 they're building something make better decisions, are more motivated, and can contribute better ideas,
-where engineers just handed tasks build blindly. Being the conduit for the product context (not just
+where engineers just handed tasks build blindly. Being the **conduit**[°](#w-conduit) for the product context (not just
 the tasks) is part of the lead's role in the triad — you translate the "why" from product to your
 engineers.
 
@@ -106,7 +100,7 @@ product insight, not just execution capacity.
 
 {: .note }
 > **Be a partner in the triad, engaging at problem definition — not a feature factory</br>**
-> The best products come from product (what/why), design (UX), and engineering (feasibility/how) as
+> The best products come from product (what/why), design (**UX**[°](#w-ux)), and engineering (feasibility/how) as
 > genuine partners with healthy tension — not from engineering as a passive feature factory receiving
 > specs. The key shift: engage at <em>problem definition</em>, not ticket receipt — so engineering can
 > contribute its perspective (feasibility, simpler alternatives), catch problems early, and shape the
@@ -346,6 +340,23 @@ engineering a real partner in shipping the right thing, which requires influence
 different critical stakeholder — your own manager — and managing up so they're effective on your behalf and
 never surprised.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-the-triad"></a>**the triad** — product + design + engineering working as three equal partners.
+- <a id="w-pm-product-manager"></a>**PM (product manager)** — owns *what* to build and *why* (user needs, business value, priorities).
+- <a id="w-feature-factory"></a>**feature factory** — an engineering team that only executes finished specs with no say in what gets built.
+- <a id="w-spec"></a>**spec** — a written specification of what to build; <a id="w-ticket"></a>**ticket** — one packaged unit of work.
+- <a id="w-healthy-tension"></a>**healthy tension** — productive disagreement between perspectives that produces better decisions.
+- <a id="w-problem-definition"></a>**problem definition** — the stage where the *problem* is chosen, before any solution; where engineering should engage.
+- <a id="w-feasibility"></a>**feasibility** (fee-zih-BIL-ih-tee) — whether something can practically be built at acceptable cost.
+- <a id="w-veto"></a>**veto** — blocking something outright; push back **with alternatives** instead.
+- <a id="w-conduit"></a>**conduit** (KON-doo-it) — a channel things flow through; the lead is the conduit for the "why."
+- <a id="w-ux"></a>**UX** — user experience: how the product works for the humans using it.
 
 ---
 

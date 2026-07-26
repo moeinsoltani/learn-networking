@@ -10,16 +10,7 @@ parent: "Phase 1: Learning to Look"
 
 # Lesson 01: Why Watch Trees and Birds?
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **species** (SPEE-sheez) — one specific kind of living thing (e.g. "sugar maple" is a species). The word is the same for one or many.
-> - **conifer** (KAH-nih-fur) — a tree that makes cones and usually has needles; most stay green all winter ("evergreen").
-> - **broadleaf** — a tree with wide, flat leaves (maple, oak, birch); most drop their leaves in autumn.
-> - **deciduous** (deh-SIH-joo-us) — a tree that drops all its leaves each fall. Most broadleaf trees are deciduous.
-> - **native** — a species that has lived in a place for a very long time on its own, not brought by people.
-> - **habitat** (HAB-ih-tat) — the kind of place a species lives (forest, wetland, city park).
-> - **field mark** — a single feature you use to identify something (a bird's black cap, a tree's white bark).
-> - **birding / birdwatching** — the hobby of finding and identifying wild birds. People who do it are "birders."
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -46,7 +37,7 @@ opens up.
 
 ![A boreal forest of dark spruce around a still northern lake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jack_London_Lake_by_bartosh.jpg/960px-Jack_London_Lake_by_bartosh.jpg)
 
-*The **boreal forest** — spruce, fir, pine, and lakes — is the largest habitat
+*The **boreal forest** — spruce, fir, pine, and lakes — is the largest **habitat**[°](#w-habitat)
 in Canada, wrapping the whole country in a green band. Much of what you'll learn
 lives here, but you don't have to travel to it: city parks hold the same
 families of trees and birds. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jack_London_Lake_by_bartosh.jpg).*
@@ -73,7 +64,7 @@ Not every tree or bird you see is Canadian by origin. Some of the most common
 city birds (the **house sparrow**, the **rock pigeon**, the **European
 starling**) were brought from Europe and now thrive here; many city trees
 (Norway maple, ginkgo) were planted. That's fine — this course teaches you what
-you'll actually *see*, native or not — but we'll flag the famous introduced ones
+you'll actually *see*, **native**[°](#w-native) or not — but we'll flag the famous introduced ones
 so you know the difference between "wild Canada" and "what humans added."
 
 {: .note }
@@ -87,7 +78,7 @@ so you know the difference between "wild Canada" and "what humans added."
 ### How to use this course
 
 1. **Read each lesson beside the photos.** Don't skim past the pictures — they
-   *are* the lesson. Look at the field marks named in the caption.
+   *are* the lesson. Look at the **field marks**[°](#w-field-mark) named in the caption.
 2. **Then go outside within a day or two.** Recognition only sticks when you
    match a picture to a living thing. A single park bench for ten minutes is
    enough.
@@ -102,7 +93,7 @@ so you know the difference between "wild Canada" and "what humans added."
 
 **Exercise 1 — the two-group sort.** Here are eight living things you might see
 on a Canadian street. Sort each into **tree** or **bird**, and for the trees say
-**conifer** or **broadleaf**: (a) blue jay, (b) sugar maple, (c) white spruce,
+**conifer**[°](#w-conifer) or **broadleaf**[°](#w-broadleaf): (a) blue jay, (b) sugar maple, (c) white spruce,
 (d) Canada goose, (e) paper birch, (f) black-capped chickadee, (g) eastern white
 pine, (h) red oak.
 
@@ -115,7 +106,7 @@ Birds: (a) blue jay, (d) Canada goose, (f) black-capped chickadee. Trees —
 broadleaf: (b) sugar maple, (e) paper birch, (h) red oak. Trees — conifer:
 (c) white spruce, (g) eastern white pine. If you weren't sure which trees are
 conifers, remember the shortcut: needles or scales + cones = conifer; wide flat
-leaves = broadleaf. You'll meet every one of these species by name later in the
+leaves = broadleaf. You'll meet every one of these **species**[°](#w-species) by name later in the
 course.
 </details>
 
@@ -223,6 +214,21 @@ gives names to what you've started to see. If you noticed a small grey bird with
 a black cap that let you get close, you've almost certainly already met your
 first species: the black-capped chickadee (Lesson 10).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-species"></a>**species** (SPEE-sheez) — one specific kind of living thing (e.g. "sugar maple" is a species). The word is the same for one or many.
+- <a id="w-conifer"></a>**conifer** (KAH-nih-fur) — a tree that makes cones and usually has needles; most stay green all winter ("evergreen").
+- <a id="w-broadleaf"></a>**broadleaf** — a tree with wide, flat leaves (maple, oak, birch); most drop their leaves in autumn.
+- <a id="w-deciduous"></a>**deciduous** (deh-SIH-joo-us) — a tree that drops all its leaves each fall. Most broadleaf trees are deciduous.
+- <a id="w-native"></a>**native** — a species that has lived in a place for a very long time on its own, not brought by people.
+- <a id="w-habitat"></a>**habitat** (HAB-ih-tat) — the kind of place a species lives (forest, wetland, city park).
+- <a id="w-field-mark"></a>**field mark** — a single feature you use to identify something (a bird's black cap, a tree's white bark).
+- <a id="w-birding-birdwatching"></a>**birding / birdwatching** — the hobby of finding and identifying wild birds. People who do it are "birders."
 
 ---
 

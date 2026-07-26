@@ -10,18 +10,7 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 54: Prioritization and Trade-offs
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **the one ranked list** — a single visible priority order; makes every "no" a transparent trade-off instead of a personal rejection.
-> - **cost of delay** — how much value is lost per week of postponing something; value × urgency.
-> - **WSJF** — Weighted Shortest Job First: cost of delay ÷ effort; do high-value, cheap, urgent things first.
-> - **urgent vs important** — the Eisenhower distinction: deadline-pressured vs genuinely valuable; the urgent crowds out the important unless you protect it.
-> - **the tyranny of the urgent** — the pattern where fires consume all capacity forever.
-> - **interrupt budget** — a fixed share of team capacity reserved for unplanned work (support, bugs).
-> - **on-call / support rotation** — one person absorbing the interrupts so the rest keep focus (Lesson 34/42).
-> - **"not now" vs "no"** — deferred vs declined; most good ideas are "not now."
-> - **strings along** — keeps someone hoping with vague maybes (Lesson 42).
-> - **who shouts loudest** — the anti-method: prioritizing by noise instead of value.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,26 +18,31 @@ As a lead, you **say no (or "not now") all day** — there's always more demand 
 is to decide what the team does and (mostly) doesn't do. Done badly, this makes you a bottleneck or a
 source of frustration; done well, it focuses the team on what matters while keeping requesters trusting
 you. The keys: **making prioritization visible** (one ranked list everyone can see), using **cost of
-delay** to prioritize by value-and-urgency, protecting an **interrupt budget** for the unplanned, and
+delay** to prioritize by value-and-urgency, protecting an **interrupt budget**[°](#w-interrupt-budget) for the unplanned, and
 saying no in a way that stays trusted.
 
-```
-   PRIORITIZATION (saying no all day, staying trusted)
-   ┌──────────────────────────────────────────────────────┐
-   │ • ONE ranked list, VISIBLE (prioritization is public)  │
-   │ • COST OF DELAY: value × urgency (what's costly to      │
-   │   delay ranks higher) — WSJF-lite                      │
-   │ • URGENT vs IMPORTANT trap (urgent crowds out important)│
-   │ • INTERRUPT BUDGET for support/bugs (protect focus)     │
-   │ • say NO / "not now" clearly, with the WHY — stay trusted│
-   └──────────────────────────────────────────────────────┘
-```
+Prioritisation is the art of saying no all day and remaining trusted. Five
+things make that possible.
+
+- **One ranked list, visible to everyone.** Prioritisation done in private looks
+  like favouritism; done in public it looks like a decision, and people can see
+  what their request is actually competing with.
+- **Cost of delay** — value combined with urgency. What is expensive to delay
+  ranks higher than what is merely valuable. This is WSJF in its lightest
+  usable form.
+- **The urgent-versus-important trap.** Urgent work reliably crowds out
+  important work unless something structural protects the important.
+- **An interrupt budget** for support and bugs — a known, bounded slice, so
+  interruptions stop eating focus at random.
+- **Say no, or "not now," clearly and with the reason.** A clear no with a
+  rationale preserves trust; a vague maybe that quietly never happens destroys
+  it.
 
 The reframe: **prioritization is deciding what NOT to do, made visible and value-based — and saying no
 well keeps you trusted.** Everything can't be top priority (if everything's a priority, nothing is), so
 prioritization is fundamentally about the trade-offs — what to do <em>instead of</em> other things. Making
 the priorities visible (one ranked list) turns "no" from a personal rejection into a transparent trade-off;
-prioritizing by cost of delay focuses on value; and saying no clearly and kindly (with the why) keeps
+prioritizing by **cost of delay**[°](#w-cost-of-delay) focuses on value; and saying no clearly and kindly (with the why) keeps
 requesters trusting you even when you decline them.
 
 ---
@@ -71,10 +65,10 @@ prioritization from opaque, individual "no"s into a transparent, shared understa
 A useful prioritization lens: **cost of delay** — how much value is lost by delaying something. This
 combines <em>value</em> (how important/valuable) and <em>urgency</em> (how time-sensitive — does delaying
 it cost more over time?). Something high-value <em>and</em> urgent (costly to delay) ranks above something
-high-value but not urgent (fine to delay) or low-value-but-urgent. **WSJF** (Weighted Shortest Job First,
+high-value but not urgent (fine to delay) or low-value-but-urgent. **WSJF**[°](#w-wsjf) (Weighted Shortest Job First,
 "lite") refines this: prioritize by cost-of-delay divided by effort (do the high-cost-of-delay, low-effort
 things first — best value per effort). The point isn't a precise formula but the lens: prioritize by what's
-costly to delay (value × urgency) relative to effort, not by who shouts loudest or what's newest. Cost of
+costly to delay (value × urgency) relative to effort, not by **who shouts loudest**[°](#w-who-shouts-loudest) or what's newest. Cost of
 delay grounds prioritization in value rather than noise.
 
 ### The urgent-vs-important trap — at team scale
@@ -85,7 +79,7 @@ things (the strategic work, the tech-debt paydown, the big initiative) have no d
 keep getting deferred for the urgent — and never happen. As a lead, you must <em>protect</em> the important-
 but-not-urgent work from being perpetually crowded out by the urgent — by deliberately allocating capacity
 to it (not just filling the team's time with whatever's urgent), because the important work is usually where
-the real value is, and it only happens if protected. Don't let the tyranny of the urgent consume all the
+the real value is, and it only happens if protected. Don't let **the tyranny of the urgent**[°](#w-the-tyranny-of-the-urgent) consume all the
 capacity that should go to the important.
 
 ### Interrupt budgets — protect focus from the unplanned
@@ -380,6 +374,23 @@ requesters trusting you even when declined. It's central to project leadership a
 planning and prioritization, a project slips anyway — recovering slipping projects with your credibility
 intact.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-the-one-ranked-list"></a>**the one ranked list** — a single visible priority order; makes every "no" a transparent trade-off instead of a personal rejection.
+- <a id="w-cost-of-delay"></a>**cost of delay** — how much value is lost per week of postponing something; value × urgency.
+- <a id="w-wsjf"></a>**WSJF** — Weighted Shortest Job First: cost of delay ÷ effort; do high-value, cheap, urgent things first.
+- <a id="w-urgent-vs-important"></a>**urgent vs important** — the Eisenhower distinction: deadline-pressured vs genuinely valuable; the urgent crowds out the important unless you protect it.
+- <a id="w-the-tyranny-of-the-urgent"></a>**the tyranny of the urgent** — the pattern where fires consume all capacity forever.
+- <a id="w-interrupt-budget"></a>**interrupt budget** — a fixed share of team capacity reserved for unplanned work (support, bugs).
+- <a id="w-on-call-support-rotation"></a>**on-call / support rotation** — one person absorbing the interrupts so the rest keep focus (Lesson 34/42).
+- <a id="w-not-now-vs-no"></a>**"not now" vs "no"** — deferred vs declined; most good ideas are "not now."
+- <a id="w-strings-along"></a>**strings along** — keeps someone hoping with vague maybes (Lesson 42).
+- <a id="w-who-shouts-loudest"></a>**who shouts loudest** — the anti-method: prioritizing by noise instead of value.
 
 ---
 

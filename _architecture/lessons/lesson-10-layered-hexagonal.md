@@ -10,15 +10,7 @@ parent: "Phase 3: Architectural Styles"
 
 # Lesson 10: Layered, Hexagonal & Clean Architecture
 
-{: .note }
-> **Words to know**
-> - **layer / tier** — a horizontal slice by technical role (presentation, business, data); a *tier* is a physically separate layer.
-> - **dependency inversion** — making high-level code depend on an abstraction, and the low-level detail depend on that same abstraction, so the arrow points *away* from the details.
-> - **port** — an interface the domain defines for something it needs (a "driven" port) or something that drives it (a "driving" port).
-> - **adapter** — a concrete implementation of a port that plugs a real technology (a database, a web framework) into the domain.
-> - **domain / business logic** — the core rules of the application, ideally independent of any framework or infrastructure.
-> - **infrastructure** — the plumbing: databases, message brokers, web servers, external APIs.
-> - **indirection** — an extra layer of abstraction between two things; buys flexibility, costs directness.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -27,29 +19,32 @@ independent of the plumbing**, so the plumbing can change (or be tested) without
 touching the domain. The naive layered architecture almost achieves this — and then
 trips on one detail that hexagonal/clean architecture fixes.
 
-```
-   NAIVE LAYERED (the trap)         HEXAGONAL / PORTS & ADAPTERS (the fix)
-   ┌──────────────┐                        ┌─────────────┐
-   │ Presentation │                   HTTP→│   adapter   │→┐
-   ├──────────────┤                        └─────────────┘ │  driving side
-   │  Business    │   depends on           ┌───────────────▼──────────────┐
-   ├──────────────┤ ─────────────▶         │      DOMAIN (business logic)   │
-   │  Data/ORM    │   (domain depends       │   defines PORTS (interfaces)   │
-   └──────────────┘    on the DB!)          └───────────────┬──────────────┘
-        │                                    driven side     │ (domain says "I need
-        ▼  the domain is coupled                             ▼  a Repository")
-   the database detail                       ┌─────────────┐
-   leaks UP into the core.                   │   adapter   │→ Postgres
-                                             └─────────────┘
-                              Dependencies point INWARD, toward the domain.
-                              The domain depends on NOTHING external.
-```
+**Naive layering** is the trap. Presentation sits on top of Business, which sits
+on top of Data — and each layer *depends downward*, which means the domain
+depends on the database. The consequence is that database details leak upward
+into the core: your business logic imports ORM types, and the thing you most
+want to keep stable is coupled to the thing most likely to change.
+
+**Hexagonal architecture** — ports and adapters — inverts that. The **domain**
+sits in the middle and depends on **nothing external**. It defines **ports**,
+which are interfaces expressing what it needs: "I require a repository that can
+save an order." **Adapters** on the outside implement those ports — a Postgres
+adapter, a Stripe adapter, an SMTP adapter — and a driving adapter on the other
+side translates incoming HTTP into calls on the domain.
+
+The whole idea compresses into one rule: **dependencies point inward, toward
+the domain.** The database, the web framework, and the payment provider all
+become details plugged into the core, replaceable without touching the business
+logic — which is also what makes the domain testable without any of them
+running.
+
+Here is what the coupled version looks like in practice:
 
 In naive layering, the business layer calls the data layer, which means the domain
 *depends on* the database/ORM — so a database change ripples up into your core business
-rules, and you can't test the domain without a database. **Dependency inversion** flips
-this: the domain defines an *interface* (a "port") for what it needs ("I need something
-that can save an Order"), and the database adapter *implements* that interface. Now the
+rules, and you can't test the domain without a database. **Dependency inversion**[°](#w-dependency-inversion) flips
+this: the domain defines an *interface* (a "**port**[°](#w-port)") for what it needs ("I need something
+that can save an Order"), and the database **adapter**[°](#w-adapter) *implements* that interface. Now the
 dependency points *from* the database *toward* the domain — the domain depends on
 nothing, and the database is a swappable, mockable detail.
 
@@ -77,11 +72,11 @@ the outside that depends inward.
 > **What this buys, and what it costs**
 > <strong>Buys:</strong> (1) <em>Testability</em> — you can test the domain with no
 > database, no web server, no network, by plugging in fake adapters; tests are fast and
-> focused on business rules. (2) <em>Swappable infrastructure</em> — change Postgres for
+> focused on business rules. (2) <em>Swappable **infrastructure**[°](#w-infrastructure)</em> — change Postgres for
 > DynamoDB, REST for gRPC, or a real payment provider for a test double, by writing a
 > new adapter, without touching the domain. (3) <em>Domain clarity</em> — the business
 > rules live in one place, uncontaminated by framework code, so they're easy to read and
-> reason about. <strong>Costs:</strong> (1) <em>Indirection and ceremony</em> — more
+> reason about. <strong>Costs:</strong> (1) <em>**Indirection**[°](#w-indirection) and ceremony</em> — more
 > interfaces, more mapping between domain objects and DB/DTO models, more files;
 > simple CRUD can feel buried under abstraction. (2) <em>A learning curve</em> — the
 > inverted dependencies confuse people used to "the service calls the repository." (3)
@@ -331,6 +326,20 @@ everything" but matching the structure to the amount of domain and volatility �
 identifying the <em>one</em> component where inverting the database dependency would most
 improve testability, as a concrete, high-value first step rather than a sweeping rewrite.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-layer-tier"></a>**layer / tier** — a horizontal slice by technical role (presentation, business, data); a *tier* is a physically separate layer.
+- <a id="w-dependency-inversion"></a>**dependency inversion** — making high-level code depend on an abstraction, and the low-level detail depend on that same abstraction, so the arrow points *away* from the details.
+- <a id="w-port"></a>**port** — an interface the domain defines for something it needs (a "driven" port) or something that drives it (a "driving" port).
+- <a id="w-adapter"></a>**adapter** — a concrete implementation of a port that plugs a real technology (a database, a web framework) into the domain.
+- <a id="w-domain-business-logic"></a>**domain / business logic** — the core rules of the application, ideally independent of any framework or infrastructure.
+- <a id="w-infrastructure"></a>**infrastructure** — the plumbing: databases, message brokers, web servers, external APIs.
+- <a id="w-indirection"></a>**indirection** — an extra layer of abstraction between two things; buys flexibility, costs directness.
 
 ---
 

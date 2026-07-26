@@ -10,18 +10,7 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 24: 1:1s That Aren't Status Meetings
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **1:1 (one-on-one)** — the regular private meeting between a lead and one team member.
-> - **report** (noun) — a person who reports to you ("your reports" = your team members).
-> - **status meeting / status report** — an update on what got done; what a 1:1 should *not* be.
-> - **cadence** (KAY-dence) — how often something repeats (weekly, biweekly).
-> - **non-negotiable** — not to be cancelled or traded away.
-> - **agenda** — here: whose topics the meeting serves — theirs, not yours.
-> - **question bank** — a prepared list of good questions to draw from.
-> - **surface** (verb) — to bring a hidden problem into the open.
-> - **theme** — a topic that keeps returning across weeks; tracking themes is the note-taking skill.
-> - **disengaged** — mentally checked out; still present, no longer invested.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,23 +21,25 @@ meetings (which a Slack update could replace) or "everything's fine" in five min
 is running 1:1s that do what only a 1:1 can — and the key mental shift is that **it's *their*
 meeting, not yours.**
 
-```
-   THE 1:1 FAILURE MODE          WHAT A 1:1 IS FOR
-   ────────────────────          ─────────────────
-   status report                 THEIR agenda: blockers, growth,
-   ("what did you ship?")          concerns, career, how they're doing
-   YOU talk 80%                  YOU listen 80%, ask questions
-   skipped when busy             non-negotiable (protects trust)
-   "everything's fine" (5 min)   real conversation (trust + depth)
-        ↑ a Slack update              ↑ what only a 1:1 can do
-          would do this
-```
+Most bad 1:1s fail in the same recognisable way.
+
+| The failure mode | What a 1:1 is actually for |
+|---|---|
+| A status report — "what did you ship?" | **Their** agenda: blockers, growth, concerns, career, how they are really doing |
+| You talk 80% of the time | You listen 80% of the time, and ask questions |
+| Skipped whenever things get busy | Non-negotiable — protecting it is what protects the trust |
+| "Everything's fine", done in five minutes | A real conversation, with trust and some depth |
+
+The test for the left-hand column: **a Slack update would have done that job.**
+If the meeting produced only information you could have read, it was not a 1:1;
+it was a status check with extra steps. And cancelling it when you are busy
+sends a message you cannot take back with words.
 
 The reframe: **the 1:1 is the report's meeting, for their agenda — not your status update.**
 Status ("what did you ship this week?") is a poor use of the 1:1 (get that async); the 1:1's
 unique value is the things that need a private, regular, trusting conversation — their blockers,
 frustrations, growth, career, and how they're actually doing. Making it their meeting, listening
-more than talking, and holding it as non-negotiable is what unlocks its leverage.
+more than talking, and holding it as **non-negotiable**[°](#w-non-negotiable) is what unlocks its leverage.
 
 ---
 
@@ -56,8 +47,8 @@ more than talking, and holding it as non-negotiable is what unlocks its leverage
 
 ### It's *their* meeting
 
-The single most important shift: the 1:1 is primarily for the *report*, not the manager — their
-agenda, their concerns, their growth, their questions. Your job is largely to listen and help,
+The single most important shift: the 1:1 is primarily for the *report*[°](#w-report), not the manager — their
+**agenda**[°](#w-agenda), their concerns, their growth, their questions. Your job is largely to listen and help,
 not to extract a status report or run through your list. Start by asking what's on *their* mind
 ("what would be most useful to talk about today?"), and let them drive. A 1:1 dominated by the
 manager's agenda (status, tasks) misses the point — those things can go async; the 1:1 is the
@@ -77,19 +68,19 @@ Hold 1:1s **regularly** (usually weekly or biweekly) and **protect them** — do
 cancel or reschedule them for "more important" things. Cancelling a 1:1 sends a message ("you're
 not a priority"), and skipped 1:1s mean problems fester unsurfaced. The regularity and reliability
 are part of the value: a dependable, protected 1:1 signals the person matters and creates the
-consistent space where trust builds and issues surface early. Treat them as non-negotiable.
+consistent space where trust builds and issues **surface**[°](#w-surface) early. Treat them as non-negotiable.
 
 ### Questions that open people up
 
 Since it's their meeting and you're listening, good *questions* are your main tool. Beyond "how's
 it going?" (which gets "fine"), use questions that open real conversation: "what's frustrating you
 right now?", "what would make your work better?", "how are you feeling about your growth?", "what's
-something you're stuck on or unsure about?", "what's not being said in the team?". A question bank
+something you're stuck on or unsure about?", "what's not being said in the team?". A **question bank**[°](#w-question-bank)
 helps you go deeper than surface status. (Lesson 25 develops the questioning skill.)
 
 ### Track themes across weeks
 
-Keep light notes and track *themes* over time — a concern raised repeatedly, a growth goal, a
+Keep light notes and track *themes*[°](#w-theme) over time — a concern raised repeatedly, a growth goal, a
 brewing frustration, a career aspiration. This lets you (a) follow up (showing you listened and
 things don't vanish), (b) notice patterns (a small frustration mentioned three times is a real
 issue), and (c) support their growth over time (returning to their development goals). A 1:1 that
@@ -114,7 +105,7 @@ genuine attention.
 
 **The situation:** Your 1:1s with one of your engineers, Ravi, have become useless. Every time, he
 says "yeah, everything's fine, [brief status], no blockers" and it's over in five minutes. You
-sense there's more — he's been a bit disengaged lately, and "fine" doesn't ring true — but the
+sense there's more — he's been a bit **disengaged**[°](#w-disengaged) lately, and "fine" doesn't ring true — but the
 pattern is set and he's not opening up. You want to break this pattern.
 
 **Design your next three 1:1s with Ravi to break the "everything's fine" pattern** — what you'd do
@@ -329,6 +320,23 @@ coaching) which develop the skills that make 1:1s and all developmental conversa
 lesson goes deep on the core skill underlying great 1:1s and coaching: listening and asking powerful
 questions that surface the real problem, which is rarely the presented one.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-1-1-one-on-one"></a>**1:1 (one-on-one)** — the regular private meeting between a lead and one team member.
+- <a id="w-report"></a>**report** (noun) — a person who reports to you ("your reports" = your team members).
+- <a id="w-status-meeting-status-report"></a>**status meeting / status report** — an update on what got done; what a 1:1 should *not* be.
+- <a id="w-cadence"></a>**cadence** (KAY-dence) — how often something repeats (weekly, biweekly).
+- <a id="w-non-negotiable"></a>**non-negotiable** — not to be cancelled or traded away.
+- <a id="w-agenda"></a>**agenda** — here: whose topics the meeting serves — theirs, not yours.
+- <a id="w-question-bank"></a>**question bank** — a prepared list of good questions to draw from.
+- <a id="w-surface"></a>**surface** (verb) — to bring a hidden problem into the open.
+- <a id="w-theme"></a>**theme** — a topic that keeps returning across weeks; tracking themes is the note-taking skill.
+- <a id="w-disengaged"></a>**disengaged** — mentally checked out; still present, no longer invested.
 
 ---
 

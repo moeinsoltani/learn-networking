@@ -10,18 +10,7 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 61: Motivation
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **autonomy / mastery / purpose** — control over your work / getting better at what matters / work that means something — the three drivers of knowledge-work motivation (Dan Pink's *Drive*).
-> - **intrinsic vs extrinsic** — motivation from the work itself vs from external rewards and punishments ("carrots and sticks").
-> - **demotivator** — something that kills existing motivation; most are manager-controlled.
-> - **churn / thrash** — constant direction changes that waste work (nothing demoralizes like discarded work).
-> - **invisible work** — contributions nobody acknowledges (Lesson 20).
-> - **burnout** — chronic exhaustion + cynicism + reduced capability from sustained stress (Lesson 05); needs load reduction, not slogans.
-> - **coasting** — doing the minimum comfortably; the disengaged-but-present state.
-> - **platitude** (PLAT-ih-tood) — an empty comforting phrase ("practice self-care!") substituting for real change.
-> - **efficacy** (EF-ih-kah-see) — the sense that your effort actually works.
-> - **re-engage** — to reconnect a checked-out person with what once drove them.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -30,20 +19,26 @@ of the highest-leverage things a manager does (a motivated team vastly outperfor
 research is clear: for knowledge work, the real drivers are **autonomy, mastery, and purpose** (not carrots
 and sticks). But the key insight is that **motivation is diagnosed per-person, not team-wide** — different
 people are driven by different things and demotivated by different things — and many of the biggest
-demotivators are ones **you (the manager) control** and can accidentally inflict.
+**demotivators**[°](#w-demotivator) are ones **you (the manager) control** and can accidentally inflict.
 
-```
-   WHAT DRIVES ENGINEERS (autonomy / mastery / purpose)
-   ┌──────────────────────────────────────────────────────┐
-   │ • AUTONOMY: control over how they work                 │
-   │ • MASTERY: getting better at something that matters     │
-   │ • PURPOSE: work that means something                    │
-   │ MOTIVATION is diagnosed PER-PERSON (not one-size)       │
-   │ DEMOTIVATORS you control: micromanagement, churn,       │
-   │   invisible work, broken promises → STOP killing it     │
-   │ • watch BURNOUT signals; re-engage the coasting senior  │
-   └──────────────────────────────────────────────────────┘
-```
+Daniel Pink's three drivers hold up well for engineers: **autonomy** (control
+over how they work), **mastery** (getting better at something that matters), and
+**purpose** (work that means something).
+
+Two refinements make them usable. First, motivation is diagnosed
+**per-person**, not applied one-size-fits-all — the engineer who wants autonomy
+above all and the one who wants mastery need quite different things from you,
+and guessing wrong looks like not caring.
+
+Second, and more actionable: pay attention to the **demotivators you control**.
+Micromanagement, constant churn and reprioritisation, invisible work that nobody
+notices, and broken promises. Most motivation problems on most teams are not a
+shortage of inspiration — they are an accumulation of these. Stopping the things
+that kill motivation is faster and more reliable than trying to add motivation.
+
+Finally, watch for the two failure states: **burnout signals** in the people
+carrying too much, and the **coasting senior** who has quietly disengaged and
+usually needs a new challenge rather than a talking-to.
 
 The reframe: **motivation comes from autonomy/mastery/purpose, is diagnosed per-person, and is most often
 <em>killed</em> by things the manager controls — so a huge part of "motivating" is not <em>demotivating</em>.**
@@ -84,7 +79,7 @@ The most important practical point: **the biggest demotivators are often things 
 can accidentally inflict.** People usually start motivated; managers frequently <em>kill</em> that
 motivation through: (1) **micromanagement** — removing autonomy (the fastest way to demotivate a capable
 person); (2) **churn/thrash** — constantly changing direction, wasted work, chaos (nothing is more
-demoralizing than work that gets thrown away); (3) **invisible work** — not recognizing people's
+demoralizing than work that gets thrown away); (3) **invisible work**[°](#w-invisible-work) — not recognizing people's
 contributions (feeling unseen and unvalued — Lesson 20); (4) **broken promises** — not following through on
 commitments to people (destroys trust and motivation); plus unclear priorities, no growth, blocked
 autonomy, and pointless process. The key reframe: **a huge part of "motivating" people is <em>not
@@ -94,10 +89,10 @@ something is often you (the manager). Look first at what you might be doing to d
 
 ### Burnout signals and real responses
 
-**Burnout** (chronic exhaustion, cynicism, reduced efficacy from sustained stress/overwork) is a serious
+**Burnout**[°](#w-burnout) (chronic exhaustion, cynicism, reduced **efficacy**[°](#w-efficacy) from sustained stress/overwork) is a serious
 motivation-and-health issue. Watch for signals: declining energy/output, disengagement, cynicism,
 withdrawal, working long hours unsustainably, irritability, a previously-engaged person going flat. The
-<em>real</em> responses (not platitudes): actually reduce the load (fewer things, realistic expectations —
+<em>real</em> responses (not **platitudes**[°](#w-platitude)): actually reduce the load (fewer things, realistic expectations —
 not "practice self-care" while keeping the workload crushing), address the causes (overwork, lack of
 control, unfairness, unclear expectations, values mismatch — the drivers of burnout), give real recovery
 (time off that's actually off), and take it seriously (burnout is a management/systemic issue, often, not a
@@ -106,10 +101,10 @@ personal weakness). Preventing burnout (sustainable pace, sane workloads) is far
 ### Re-engaging a coasting senior
 
 A common case: a **coasting senior** — a capable, experienced person who's disengaged, doing the minimum,
-no longer growing or contributing at their level. Re-engaging them: diagnose <em>why</em> they're coasting
+no longer growing or contributing at their level. Re-engaging them: diagnose <em>why</em> they're **coasting**[°](#w-coasting)
 (bored/unchallenged? stalled growth? a past disappointment/resentment? life circumstances? a values
 mismatch?), then address that specific cause — often a new challenge, growth opportunity, or bigger scope
-(mastery/purpose) re-engages a bored senior; sometimes it's a resentment to address or a role that no longer
+(mastery/purpose) **re-engages**[°](#w-re-engage) a bored senior; sometimes it's a resentment to address or a role that no longer
 fits. Don't just accept the coasting (a disengaged senior is a big loss of capability and a bad signal to
 others) — diagnose and re-engage (or, if it's a genuine mismatch, address that honestly). The re-engagement
 is per-person (the coasting has a specific cause).
@@ -353,6 +348,23 @@ people bring. This connects to autonomy in delegation (Lesson 30), growth (Lesso
 (Lesson 20). The next lesson zooms out to structure — org design and team topologies — how the shape of teams
 profoundly affects everything (structure eats process for breakfast).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-autonomy-mastery-purpose"></a>**autonomy / mastery / purpose** — control over your work / getting better at what matters / work that means something — the three drivers of knowledge-work motivation (Dan Pink's *Drive*).
+- <a id="w-intrinsic-vs-extrinsic"></a>**intrinsic vs extrinsic** — motivation from the work itself vs from external rewards and punishments ("carrots and sticks").
+- <a id="w-demotivator"></a>**demotivator** — something that kills existing motivation; most are manager-controlled.
+- <a id="w-churn-thrash"></a>**churn / thrash** — constant direction changes that waste work (nothing demoralizes like discarded work).
+- <a id="w-invisible-work"></a>**invisible work** — contributions nobody acknowledges (Lesson 20).
+- <a id="w-burnout"></a>**burnout** — chronic exhaustion + cynicism + reduced capability from sustained stress (Lesson 05); needs load reduction, not slogans.
+- <a id="w-coasting"></a>**coasting** — doing the minimum comfortably; the disengaged-but-present state.
+- <a id="w-platitude"></a>**platitude** (PLAT-ih-tood) — an empty comforting phrase ("practice self-care!") substituting for real change.
+- <a id="w-efficacy"></a>**efficacy** (EF-ih-kah-see) — the sense that your effort actually works.
+- <a id="w-re-engage"></a>**re-engage** — to reconnect a checked-out person with what once drove them.
 
 ---
 

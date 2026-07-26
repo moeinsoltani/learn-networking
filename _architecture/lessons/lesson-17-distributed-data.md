@@ -10,42 +10,45 @@ parent: "Phase 4: Distributed Systems"
 
 # Lesson 17: Distributed Data (Transactions, Sagas, Outbox, Idempotency)
 
-{: .note }
-> **Words to know**
-> - **ACID transaction** — all-or-nothing, consistent, isolated, durable; the guarantee a single database gives you.
-> - **two-phase commit (2PC)** — a protocol to make a transaction span multiple databases; correct but slow and fragile at scale.
-> - **saga** — a sequence of local transactions across services, with **compensating** actions to undo earlier steps if a later one fails.
-> - **compensating transaction** — an action that semantically undoes a completed step (refund a charge, release a reservation).
-> - **dual-write problem** — updating a database *and* publishing a message as two separate steps that can partially fail.
-> - **transactional outbox** — write the event to the same database, in the same transaction, then publish it separately — solving the dual-write.
-> - **idempotency** — processing the same message twice has the same effect as processing it once.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Here's the hardest truth of distributed data: **the moment you split data across services,
 you lose the database transaction.** In a monolith, "charge the customer AND reserve stock"
-is one ACID transaction — both happen or neither does, guaranteed by the database. Split
+is one **ACID transaction**[°](#w-acid-transaction) — both happen or neither does, guaranteed by the database. Split
 Payment and Inventory into separate services with separate databases, and no single
 transaction can span them. You must now maintain consistency *yourself*, across the network,
 in the face of partial failures. This is the tax that Lesson 15's eventual consistency and
 Lesson 14's fallacies cash out into concrete engineering.
 
-```
-   MONOLITH (one database)              DISTRIBUTED (separate databases)
-   BEGIN TRANSACTION                    Payment.charge()   ← succeeds
-     charge customer                    Inventory.reserve() ← FAILS
-     reserve stock                      ...now what? Customer is charged,
-   COMMIT  (both, or neither)           stock isn't reserved. No rollback.
-   ────────────────────────             ────────────────────────────────
-   The DB guarantees atomicity.         YOU must guarantee it, with:
-                                        • SAGA (compensating transactions)
-                                        • OUTBOX (reliable event publish)
-                                        • IDEMPOTENCY (safe retries)
-```
+Splitting the database is where distribution stops being an abstraction.
+
+**In a monolith with one database**, you write a transaction: begin, charge the
+customer, reserve the stock, commit. Both happen or neither does, and the
+database guarantees it.
+
+**Across separate databases**, that guarantee is gone. `Payment.charge()`
+succeeds. `Inventory.reserve()` fails. Now what? The customer has been charged
+and the stock is not reserved, and there is **no rollback** — the payment
+service has already committed, and it has never heard of your inventory
+service.
+
+The atomicity the database used to provide, **you** now have to provide, and
+three patterns are how:
+
+- **Saga** — a sequence of local transactions, each with a *compensating*
+  transaction that undoes it. You do not roll back; you apply a correction.
+- **Outbox** — write the event to your own database in the same transaction as
+  the state change, then publish it reliably, so "it happened" and "we told
+  people" cannot diverge.
+- **Idempotency** — make operations safe to retry, because in a distributed
+  system you *will* retry, and you often cannot tell whether the first attempt
+  landed.
 
 There is no magic that gives you back cross-service ACID at scale. Instead you accept
-*eventual* consistency and engineer three things to make it correct: **sagas** (undo on
-failure), the **outbox** (publish events reliably), and **idempotency** (survive the retries
+*eventual* consistency and engineer three things to make it correct: **sagas**[°](#w-saga) (undo on
+failure), the **outbox** (publish events reliably), and **idempotency**[°](#w-idempotency) (survive the retries
 that are guaranteed to happen). Together they're how real distributed systems stay correct
 without a distributed transaction.
 
@@ -61,7 +64,7 @@ and availability-multiplication microservices were meant to escape. So at scale,
 generally avoided; you accept eventual consistency and use sagas instead.
 
 **The saga pattern.** A saga is a sequence of *local* transactions (each service commits in
-its own database), coordinated so that if a later step fails, **compensating transactions**
+its own database), coordinated so that if a later step fails, **compensating transactions**[°](#w-compensating-transaction)
 undo the earlier ones. "Charge, then reserve, then ship" — if reserve fails after charge, run
 the compensating action *refund*. Compensations are *semantic* undo, not a rollback (you can't
 un-charge; you issue a refund). Two flavors (Lesson 12): **orchestrated** (a central saga
@@ -77,7 +80,7 @@ compensation logic, orchestration is usually worth it because you can *see* the 
 > two separate operations, they can partially fail — the DB write commits but the publish
 > fails (event lost, downstream never reacts), or the publish succeeds but the DB write rolls
 > back (a phantom event for something that didn't happen). You <em>cannot</em> wrap a database
-> and a message broker in one transaction. The fix is the <strong>transactional outbox</strong>:
+> and a message broker in one transaction. The fix is the <strong>**transactional outbox**[°](#w-transactional-outbox)</strong>:
 > write the event into an <code>outbox</code> table <em>in the same database transaction</em>
 > as the business change (so they commit atomically — either both or neither), then a separate
 > process reads the outbox and publishes the events to the broker, marking them sent. The
@@ -364,6 +367,20 @@ lesson landing. The overall takeaway: cross-store consistency in a distributed s
 or automatic; it's engineered from sagas, outboxes, and idempotency, and it always carries a
 business decision about how failures resolve.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-acid-transaction"></a>**ACID transaction** — all-or-nothing, consistent, isolated, durable; the guarantee a single database gives you.
+- <a id="w-two-phase-commit-2pc"></a>**two-phase commit (2PC)** — a protocol to make a transaction span multiple databases; correct but slow and fragile at scale.
+- <a id="w-saga"></a>**saga** — a sequence of local transactions across services, with **compensating** actions to undo earlier steps if a later one fails.
+- <a id="w-compensating-transaction"></a>**compensating transaction** — an action that semantically undoes a completed step (refund a charge, release a reservation).
+- <a id="w-dual-write-problem"></a>**dual-write problem** — updating a database *and* publishing a message as two separate steps that can partially fail.
+- <a id="w-transactional-outbox"></a>**transactional outbox** — write the event to the same database, in the same transaction, then publish it separately — solving the dual-write.
+- <a id="w-idempotency"></a>**idempotency** — processing the same message twice has the same effect as processing it once.
 
 ---
 

@@ -10,43 +10,36 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 42: Customers and Users
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **support rotation** — engineers taking turns handling real customer support tickets.
-> - **engineering signal** — the real underlying problem extracted from what users literally say.
-> - **anecdote vs data** — one vivid story vs aggregate numbers; depth vs breadth — use both.
-> - **over-index** — to give something more weight than it deserves.
-> - **prevalence** (PREV-ah-lence) — how widespread a problem actually is.
-> - **enterprise customer** — a large company client, usually paying far more than ordinary users.
-> - **escalation** (customer sense) — a big customer pushing their demand up through management.
-> - **churn** (customer sense) — a customer leaving for good.
-> - **hijack the roadmap** — one loud customer's demands displacing everyone else's priorities.
-> - **string along** — to keep someone hoping with vague "maybes" instead of an honest no.
-> - **qualitative / quantitative** — the *why* and texture vs the *how many*.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Engineering exists to serve the humans on the other end — customers and users — but teams easily lose
 touch with them, building based on assumptions, specs, and internal opinions rather than real user
 reality. A lead's job includes **keeping the team connected to the actual humans** they're building
-for: getting engineers direct exposure to users, translating complaints into engineering signal, and
-navigating the hard cases (an enterprise escalation, saying no to a customer, weighing an anecdote
+for: getting engineers direct exposure to users, translating complaints into **engineering signal**[°](#w-engineering-signal), and
+navigating the hard cases (an enterprise **escalation**[°](#w-escalation), saying no to a customer, weighing an anecdote
 against data).
 
-```
-   DISCONNECTED TEAM               CONNECTED TEAM
-   ─────────────────               ──────────────
-   builds from specs &             engineers hear/see real users
-   internal assumptions             (support rotations, calls)
-   "users probably want X"         → real understanding of the pain
-   never talks to a user           → build the right thing
-        ↑ builds the wrong thing,       ↑ translates complaints into
-          loses touch with reality        engineering signal
-```
+Teams sit somewhere on a spectrum of contact with the people who use what they
+build.
+
+**A disconnected team** works from specs and internal assumptions. The sentence
+you hear is "users probably want X," nobody has spoken to an actual user, and
+the team gradually builds the wrong thing while losing its sense of what is
+real.
+
+**A connected team** puts engineers in earshot of real users — support
+rotations, sitting in on calls, reading the tickets. What that produces is not
+sentiment but *information*: a real understanding of where the pain is, and the
+ability to translate a stream of complaints into an engineering signal.
+
+You do not need a research programme to fix this. An engineer doing one support
+rotation a quarter changes their design instincts for the rest of the year.
 
 The reframe: **keep the team connected to real users — direct exposure beats second-hand
 assumptions.** Engineers who never encounter real users build based on guesses ("users probably want
-X"), which are often wrong; engineers with direct exposure (support rotations, customer calls, watching
+X"), which are often wrong; engineers with direct exposure (**support rotations**[°](#w-support-rotation), customer calls, watching
 real usage) develop genuine understanding of the actual pain, which leads to building the right thing.
 The lead's job is to create that connection and to help translate what users say (complaints,
 requests) into what engineering should actually do.
@@ -80,7 +73,7 @@ interpretation, not literal implementation.
 
 A key judgment: **weigh anecdote against data.** A single loud customer's complaint (an anecdote) is
 vivid and compelling but may not represent the broader user base; aggregate data (usage metrics, how
-many users hit the issue) shows the real prevalence. Both matter: anecdotes provide rich qualitative
+many users hit the issue) shows the real **prevalence**[°](#w-prevalence). Both matter: anecdotes provide rich qualitative
 understanding (the <em>why</em> and the human texture) that data lacks, while data provides the scale
 (the <em>how many</em>) that anecdotes lack. The mistake is over-indexing on either — building for one
 loud customer (anecdote) while ignoring what most users need (data), or drowning in metrics without the
@@ -92,7 +85,7 @@ A common hard case: a **big enterprise customer escalates** — demanding a fix 
 account management pushing hard (they don't want to lose the customer). This creates pressure to drop
 everything for one customer. Navigate it: (1) understand the real need (translate the demand); (2) weigh
 it fairly (one big customer's demand vs. the broader roadmap and other users — anecdote vs. the whole);
-(3) recognize the business reality (a major customer's threat to churn is a real business input, not to
+(3) recognize the business reality (a major customer's threat to **churn**[°](#w-churn) is a real business input, not to
 be dismissed) while (4) not letting one loud customer hijack the whole roadmap (which happens easily and
 harms everyone else). It's a judgment balancing the specific customer's importance against the broader
 good — often needing negotiation and trade-offs, not just capitulation or refusal.
@@ -117,14 +110,14 @@ track Lesson 18 / Lesson 47 for the language.)
 > real underlying problem (the right fix may differ from what they asked for). Weigh <em>anecdote vs
 > data</em> (a loud customer vs. the broader base — use anecdotes for depth, data for breadth). Navigate
 > the <em>enterprise escalation</em> (balance the customer's importance against the broader good, don't
-> let one customer hijack the roadmap) and <em>say no</em> well when needed (heard, honest, explained,
+> let one customer **hijack the roadmap**[°](#w-hijack-the-roadmap)) and <em>say no</em> well when needed (heard, honest, explained,
 > with an alternative). Keeping the team grounded in real user reality is how you build the right thing.
 
 ---
 
 ## Lab — Scenario
 
-**The situation:** A major enterprise customer (one of your biggest accounts) is demanding a specific
+**The situation:** A major **enterprise customer**[°](#w-enterprise-customer) (one of your biggest accounts) is demanding a specific
 feature — a custom workflow that fits <em>their</em> unusual process. The problem: it **contradicts your
 product direction** (it'd add complexity that hurts the experience for your many other, smaller
 customers, and pulls the product toward being a bespoke tool for this one customer). Making it worse:
@@ -367,6 +360,24 @@ key stakeholder relationship (the ultimate stakeholder — the user) and connect
 next phase). The next lesson turns to another set of stakeholders — other engineering teams you depend on but
 don't control — and getting what you need from teams with their own roadmaps and incentives.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-support-rotation"></a>**support rotation** — engineers taking turns handling real customer support tickets.
+- <a id="w-engineering-signal"></a>**engineering signal** — the real underlying problem extracted from what users literally say.
+- <a id="w-anecdote-vs-data"></a>**anecdote vs data** — one vivid story vs aggregate numbers; depth vs breadth — use both.
+- <a id="w-over-index"></a>**over-index** — to give something more weight than it deserves.
+- <a id="w-prevalence"></a>**prevalence** (PREV-ah-lence) — how widespread a problem actually is.
+- <a id="w-enterprise-customer"></a>**enterprise customer** — a large company client, usually paying far more than ordinary users.
+- <a id="w-escalation"></a>**escalation** (customer sense) — a big customer pushing their demand up through management.
+- <a id="w-churn"></a>**churn** (customer sense) — a customer leaving for good.
+- <a id="w-hijack-the-roadmap"></a>**hijack the roadmap** — one loud customer's demands displacing everyone else's priorities.
+- <a id="w-string-along"></a>**string along** — to keep someone hoping with vague "maybes" instead of an honest no.
+- <a id="w-qualitative-quantitative"></a>**qualitative / quantitative** — the *why* and texture vs the *how many*.
 
 ---
 

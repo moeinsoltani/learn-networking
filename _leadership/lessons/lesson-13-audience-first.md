@@ -10,18 +10,7 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 13: Audience-First Communication
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **BLUF** — "Bottom Line Up Front": state your conclusion first, support it after.
-> - **sender-first / audience-first** — organizing a message around what *you* want to say vs what the *receiver* needs to hear.
-> - **curse of knowledge** — once you know something deeply, you can't remember what not-knowing felt like, so you skip the context others need.
-> - **triage** (TREE-ahzh) — quickly sorting by importance before acting; here: audience → purpose → medium.
-> - **medium** — the channel a message travels in (Slack, email, doc, meeting).
-> - **calibrate** — to adjust to fit ("calibrate detail to the audience").
-> - **takeaway** — the one thing the audience should remember.
-> - **jargon** — specialist vocabulary outsiders don't share.
-> - **spin** — dishonest framing that misleads; audience-shaping with consistent facts is *not* spin.
-> - **executive summary** — the few lines at the top that carry the whole message for busy readers.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -31,17 +20,22 @@ effective communicators from ineffective ones — is communicating from the
 say; the skill is shaping it around what the audience needs to hear, in a form
 they can absorb.
 
-```
-   SENDER-FIRST (the default, and the mistake)
-   "here is everything I know / did / think, in the order I think it"
-        → the audience has to work to extract what matters TO THEM
-        → often tunes out, misunderstands, or misses the point
+Almost every piece of communication takes one of two shapes, and the default
+one is the mistake.
 
-   AUDIENCE-FIRST (the skill)
-   "what does THIS audience need, care about, and already know —
-    and what's the ONE thing they should take away?"
-        → shaped for the receiver; lands; gets the response you wanted
-```
+**Sender-first** says, in effect, *"here is everything I know, did, and think,
+in the order I happen to think it."* The audience then has to do the work of
+extracting what matters to them — so they tune out, misunderstand, or miss the
+point entirely.
+
+**Audience-first** starts from a different question: *what does this particular
+audience need, care about, and already know — and what is the one thing they
+should take away?* The message is then shaped for the receiver. It lands, and
+it gets the response you actually wanted.
+
+The tell that you are in sender-first mode is chronology: if your update begins
+with what you did on Monday, you are organising by your experience rather than
+by their needs.
 
 The same information gets communicated completely differently depending on who's
 receiving it. A production incident is described one way to your engineers (root
@@ -51,8 +45,8 @@ happened in their terms, what you're doing, reassurance). Same facts, three
 different messages — because the audiences need different things.
 
 Two foundational principles run through all workplace communication: **lead with
-the conclusion** (BLUF — Bottom Line Up Front: state the point first, then
-support it, because busy readers need the takeaway immediately, not after three
+the conclusion** (**BLUF**[°](#w-bluf) — Bottom Line Up Front: state the point first, then
+support it, because busy readers need the **takeaway**[°](#w-takeaway) immediately, not after three
 paragraphs of buildup), and **one message, one point** (each communication should
 have a single clear thing you want the audience to know or do — burying it among
 five other things means it gets lost).
@@ -63,9 +57,9 @@ five other things means it gets lost).
 
 ### The curse of knowledge
 
-The root cause of sender-first communication is the *curse of knowledge*: once you
+The root cause of sender-first communication is the *curse of knowledge*[°](#w-curse-of-knowledge): once you
 know something deeply, it's genuinely hard to remember what it's like not to know
-it, so you skip the context the audience needs, use jargon they don't share, and
+it, so you skip the context the audience needs, use **jargon**[°](#w-jargon) they don't share, and
 assume understanding they don't have. Fighting it requires deliberately modeling
 the audience: what do they already know? what do they care about? what's their
 context? A senior engineer explaining to another senior engineer can assume a
@@ -79,9 +73,9 @@ Before communicating anything important, three quick questions: **Audience** —
 is receiving this, what do they know, what do they care about? **Purpose** — what
 do I want to happen as a result (inform? get a decision? get help? align?)? —
 because the purpose shapes everything (a message meant to get a decision looks
-different from one meant to inform). **Medium** — is this a Slack message, an
+different from one meant to inform). **Medium**[°](#w-medium) — is this a Slack message, an
 email, a doc, a meeting, a presentation? (matching medium to message matters —
-Lesson 15/18). This triage takes seconds and prevents the most common failures
+Lesson 15/18). This **triage**[°](#w-triage) takes seconds and prevents the most common failures
 (wrong content for the audience, no clear ask, wrong channel).
 
 ### BLUF and calibrating detail
@@ -92,7 +86,7 @@ migration will slip three weeks; here's why and what I need" beats three
 paragraphs of context ending in the point (which the reader may never reach).
 Then **calibrate detail to the audience**: engineers want the technical depth;
 executives want the impact and the ask with the detail available if they want it
-(an executive summary up top, detail below — Lesson 41 in the English track).
+(an **executive summary**[°](#w-executive-summary) up top, detail below — Lesson 41 in the English track).
 Giving an exec engineering detail loses them; giving an engineer only the
 high-level frustrates them. Match the depth to who's reading.
 
@@ -186,7 +180,7 @@ central for the director (delivery), a learning for the team (retro), and entire
 absent for the customer (irrelevant to them); the technical specifics are detailed
 for the team, summarized for the director, and gone for the customer. This is
 audience-first communication: same truth, three resolutions, each shaped by what
-that receiver needs, cares about, and can use — <em>not</em> spin (the facts don't
+that receiver needs, cares about, and can use — <em>not</em> **spin**[°](#w-spin) (the facts don't
 contradict), but appropriate framing. Common mistakes: (1) writing one version and
 sending it to all three (engineering detail bores the director and confuses the
 customer; customer-reassurance framing frustrates the team); (2) burying the point
@@ -362,6 +356,23 @@ audience very like you (where sender and audience-first converge — the test is
 message to a <em>different</em> audience, like an exec or customer, where the gap
 shows).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-bluf"></a>**BLUF** — "Bottom Line Up Front": state your conclusion first, support it after.
+- <a id="w-sender-first-audience-first"></a>**sender-first / audience-first** — organizing a message around what *you* want to say vs what the *receiver* needs to hear.
+- <a id="w-curse-of-knowledge"></a>**curse of knowledge** — once you know something deeply, you can't remember what not-knowing felt like, so you skip the context others need.
+- <a id="w-triage"></a>**triage** (TREE-ahzh) — quickly sorting by importance before acting; here: audience → purpose → medium.
+- <a id="w-medium"></a>**medium** — the channel a message travels in (Slack, email, doc, meeting).
+- <a id="w-calibrate"></a>**calibrate** — to adjust to fit ("calibrate detail to the audience").
+- <a id="w-takeaway"></a>**takeaway** — the one thing the audience should remember.
+- <a id="w-jargon"></a>**jargon** — specialist vocabulary outsiders don't share.
+- <a id="w-spin"></a>**spin** — dishonest framing that misleads; audience-shaping with consistent facts is *not* spin.
+- <a id="w-executive-summary"></a>**executive summary** — the few lines at the top that carry the whole message for busy readers.
 
 ---
 

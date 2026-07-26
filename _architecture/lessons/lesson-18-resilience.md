@@ -10,44 +10,39 @@ parent: "Phase 4: Distributed Systems"
 
 # Lesson 18: Reliability & Resilience Patterns
 
-{: .note }
-> **Words to know**
-> - **resilience** — the ability to keep working (perhaps degraded) despite failures, and to recover.
-> - **timeout** — a limit on how long you'll wait for a response before giving up.
-> - **retry with backoff + jitter** — retrying a failed call, waiting progressively longer, with randomness to avoid synchronized storms.
-> - **circuit breaker** — a switch that stops calling a failing dependency for a while, so you don't hammer it or hang on it.
-> - **bulkhead** — isolating resources (like thread pools) so one overloaded dependency can't sink the whole ship.
-> - **backpressure / load shedding** — refusing or slowing incoming work when overloaded, instead of collapsing.
-> - **blast radius** — how far the damage spreads when one thing fails.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 In a distributed system, failure is not an exception — it's the *normal operating condition*.
 Something is always slow, restarting, or briefly unreachable (Lesson 14's fallacies made this
-concrete). So resilience isn't about *preventing* failure; it's about *designing so that the
+concrete). So **resilience**[°](#w-resilience) isn't about *preventing* failure; it's about *designing so that the
 failures that will certainly happen stay contained* and the system degrades gracefully instead
 of collapsing. The mindset shift: stop asking "how do I make this never fail?" and start
-asking "when this fails — and it will — what happens, and how do I limit the blast radius?"
+asking "when this fails — and it will — what happens, and how do I limit the **blast radius**[°](#w-blast-radius)?"
 
-```
-   THE CASCADING FAILURE (what happens without resilience)
+Start with how a single slow dependency takes down an entire site.
 
-   Payment service gets slow ──▶ Checkout's calls to it HANG (no timeout)
-        ──▶ Checkout's threads all block waiting on Payment
-        ──▶ Checkout runs out of threads ──▶ Checkout stops responding
-        ──▶ everything that calls Checkout now hangs too ...
-        ──▶ ONE slow dependency took down the whole site.
+The Payment service gets slow. Checkout's calls to it hang, because nobody set
+a timeout. Checkout's threads all block, waiting. Checkout runs out of threads
+and stops responding at all. Everything that calls Checkout now hangs too. One
+slow dependency — not even a failed one — has taken down the whole system.
 
-   THE RESILIENCE TOOLKIT (what contains it)
-   TIMEOUT         → don't wait forever; fail fast
-   RETRY+backoff   → survive transient blips (carefully!)
-   CIRCUIT BREAKER → stop calling a downed dependency; fail fast, recover later
-   BULKHEAD        → isolate resources so one failure can't drain them all
-   FALLBACK        → degrade gracefully (cached/default/partial response)
-   LOAD SHEDDING   → refuse excess work rather than collapse under it
-```
+The resilience toolkit exists to contain exactly that chain:
 
-The classic failure is a *cascade*: one slow dependency, plus a missing timeout, exhausts the
+| Pattern | What it does |
+|---|---|
+| **Timeout** | Don't wait forever — fail fast. The single highest-value line of the list |
+| **Retry with backoff** | Survive transient blips — carefully, since naive retries amplify an overload |
+| **Circuit breaker** | Stop calling a dependency that is down; fail fast now, probe for recovery later |
+| **Bulkhead** | Isolate resources so one failure cannot drain them all |
+| **Fallback** | Degrade gracefully — a cached, default, or partial response |
+| **Load shedding** | Refuse excess work rather than collapse under it |
+
+Notice that the failure above needed only the first row to be prevented. Most
+cascading failures are a missing timeout wearing a more complicated costume.
+
+The classic failure is a *cascade*: one slow dependency, plus a missing **timeout**[°](#w-timeout), exhausts the
 caller's threads, which takes the caller down, which takes *its* callers down — one small
 problem becomes a total outage. Nearly every resilience pattern exists to break some link in
 that chain.
@@ -81,7 +76,7 @@ dependency from cascading.
 
 {: .note }
 > **Bulkheads — isolate so one leak can't sink the ship**
-> Named after a ship's watertight compartments: if one floods, the bulkheads keep it from
+> Named after a ship's watertight compartments: if one floods, the **bulkheads**[°](#w-bulkhead) keep it from
 > sinking the whole vessel. Architecturally, you <em>isolate resources</em> so one
 > misbehaving dependency can't consume all of them. Example: if your service calls Payments,
 > Search, and Recommendations all from one shared thread pool, a slow Payments will consume
@@ -159,7 +154,7 @@ jitter</em>, a bounded retry budget, and retry only <em>transient</em> errors (n
 decline). Combined with idempotency (Lesson 17 — a retried charge must not double-charge), this
 lets checkout survive brief blips without hammering a downed Payment into the ground.
 <br><br>
-<strong>3. Circuit breaker on the Payment call.</strong> Even with timeouts, if Payment is down
+<strong>3. **Circuit breaker**[°](#w-circuit-breaker) on the Payment call.</strong> Even with timeouts, if Payment is down
 for minutes, every checkout request still <em>tries</em> Payment, waits for the timeout, then
 fails — wasting time/threads and continuing to pound a dead dependency. Wrap Payment in a
 <strong>circuit breaker</strong>: after failures cross a threshold, the breaker <em>opens</em>
@@ -361,6 +356,20 @@ call path to contain the blast radius of the failures that <em>will</em> happen 
 systems have latent cascading-failure risks (a missing timeout, a shared pool) that haven't
 fired <em>yet</em> only because the dependency hasn't been slow at the wrong moment.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-resilience"></a>**resilience** — the ability to keep working (perhaps degraded) despite failures, and to recover.
+- <a id="w-timeout"></a>**timeout** — a limit on how long you'll wait for a response before giving up.
+- <a id="w-retry-with-backoff-jitter"></a>**retry with backoff + jitter** — retrying a failed call, waiting progressively longer, with randomness to avoid synchronized storms.
+- <a id="w-circuit-breaker"></a>**circuit breaker** — a switch that stops calling a failing dependency for a while, so you don't hammer it or hang on it.
+- <a id="w-bulkhead"></a>**bulkhead** — isolating resources (like thread pools) so one overloaded dependency can't sink the whole ship.
+- <a id="w-backpressure-load-shedding"></a>**backpressure / load shedding** — refusing or slowing incoming work when overloaded, instead of collapsing.
+- <a id="w-blast-radius"></a>**blast radius** — how far the damage spreads when one thing fails.
 
 ---
 

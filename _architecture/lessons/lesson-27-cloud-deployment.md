@@ -10,15 +10,7 @@ parent: "Phase 6: Cross-Cutting Quality Attributes"
 
 # Lesson 27: Cloud & Deployment Architecture
 
-{: .note }
-> **Words to know**
-> - **twelve-factor app** — a set of practices (config in the environment, stateless processes, disposability…) that make a service easy to deploy, scale, and run.
-> - **stateless service** — a service that keeps no per-request state in its own memory/disk; any instance can serve any request, so you can add or kill instances freely.
-> - **immutable infrastructure** — you never patch a running server; you replace it with a freshly built one. No "snowflake" servers drifting apart.
-> - **IaC (infrastructure as code)** — the servers, networks, and config defined in version-controlled files, applied by a tool — not clicked together by hand.
-> - **blue-green / canary / rolling** — deployment strategies for releasing a new version without downtime and with controlled risk.
-> - **orchestration** — a system (e.g. Kubernetes) that schedules containers onto machines, restarts failed ones, and scales them.
-> - **build vs rent (managed service)** — using a provider's managed database/queue instead of running your own; you trade control and cost for operational burden.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -30,27 +22,31 @@ performance or security does. A design that can only be released by hand, at mid
 is a *worse architecture* than one that ships continuously with zero downtime — even if the
 boxes-and-arrows look identical.
 
-```
-   DEPLOYMENT IS PART OF THE DESIGN, NOT AN AFTERTHOUGHT
+**Deployment is part of the design, not an afterthought.**
 
-   old world:  design ──▶ build ──▶ "throw it over the wall" to ops
-                                     (deploy = manual, risky, rare, downtime)
+In the old model, you designed, built, and then threw the result over the wall
+to operations — where deploying was manual, risky, rare, and involved downtime.
+The design had nothing to say about any of that.
 
-   now:        design INCLUDES how it is built, shipped, and run
-               ┌─────────────────────────────────────────────┐
-               │ stateless services  → scale & replace freely │
-               │ config in the env   → same build, any stage  │
-               │ immutable infra/IaC → rebuild, don't patch   │
-               │ blue-green/canary   → release w/o downtime    │
-               │ managed services    → rent the undifferentiated│
-               │ cost                → a design OUTPUT, not free│
-               └─────────────────────────────────────────────┘
-                 deployability = a quality attribute you design FOR
-```
+Now the design *includes* how the system is built, shipped, and run, and a
+handful of properties do most of the work:
+
+| Property | Why it matters |
+|---|---|
+| **Stateless services** | You can scale and replace instances freely |
+| **Configuration in the environment** | The same build runs in any stage |
+| **Immutable infrastructure / IaC** | Rebuild rather than patch; environments stop drifting |
+| **Blue-green and canary releases** | Release without downtime, and roll back cheaply |
+| **Managed services** | Rent the undifferentiated heavy lifting |
+| **Cost** | A design *output*, not something free that arrives with the bill |
+
+The framing worth adopting: **deployability is a quality attribute** (Lesson
+03), and like any other, you design for it deliberately or you discover you did
+not have it at the worst possible moment.
 
 The organizing idea is that the way a system is **built, deployed, and operated** is now inseparable
-from its architecture. The twelve-factor app gives the baseline; statelessness and externalized state
-make horizontal scale and safe releases possible; containers and orchestration change what a
+from its architecture. The **twelve-factor app**[°](#w-twelve-factor-app) gives the baseline; statelessness and externalized state
+make horizontal scale and safe releases possible; containers and **orchestration**[°](#w-orchestration) change what a
 "deployable unit" is; and the cloud turns decisions that used to be capital purchases (a data center,
 a database cluster) into architectural trade-offs you make continuously — including **cost**, which
 in the cloud is a direct output of your design.
@@ -84,7 +80,7 @@ beneath containers and cluster networking.)*
 
 **Immutable infrastructure & infrastructure as code.** The old model produced **snowflake servers** —
 long-lived machines patched and tweaked by hand until each one was unique, undocumented, and terrifying
-to touch. **Immutable infrastructure** replaces that: you never modify a running server; to change
+to touch. **Immutable infrastructure**[°](#w-immutable-infrastructure) replaces that: you never modify a running server; to change
 anything you build a *new* image and replace the old instance. Combined with **infrastructure as code**
 (IaC — the servers, networks, and policies defined in version-controlled files and applied by a tool
 like Terraform), your whole environment becomes reproducible, reviewable, and diffable. The
@@ -106,7 +102,7 @@ your infrastructure is subject to the same review and testing discipline as your
 > - <strong>Canary</strong> — release to a small slice of traffic (1%, then 5%, then 25%…), watch the
 >   metrics (Lesson 25), and roll forward or back based on real signal. The safest for risky changes;
 >   needs good observability and traffic-splitting to work.
-> All three depend on <strong>stateless services + externalized state</strong> and
+> All three depend on <strong>**stateless services**[°](#w-stateless-service) + externalized state</strong> and
 > <strong>backward-compatible changes</strong>. If instances hold state, or a new version's DB schema
 > breaks the old version still running, none of these are safe. Deployability constrains the design.
 
@@ -317,6 +313,20 @@ answer reaches: deployability is designed, not inherited; statelessness + extern
 foundation everything else (scaling, safe releases) stands on; and the biggest wins usually come from
 removing hidden local state and manual release steps rather than from adopting a fancier platform.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-twelve-factor-app"></a>**twelve-factor app** — a set of practices (config in the environment, stateless processes, disposability…) that make a service easy to deploy, scale, and run.
+- <a id="w-stateless-service"></a>**stateless service** — a service that keeps no per-request state in its own memory/disk; any instance can serve any request, so you can add or kill instances freely.
+- <a id="w-immutable-infrastructure"></a>**immutable infrastructure** — you never patch a running server; you replace it with a freshly built one. No "snowflake" servers drifting apart.
+- <a id="w-iac-infrastructure-as-code"></a>**IaC (infrastructure as code)** — the servers, networks, and config defined in version-controlled files, applied by a tool — not clicked together by hand.
+- <a id="w-blue-green-canary-rolling"></a>**blue-green / canary / rolling** — deployment strategies for releasing a new version without downtime and with controlled risk.
+- <a id="w-orchestration"></a>**orchestration** — a system (e.g. Kubernetes) that schedules containers onto machines, restarts failed ones, and scales them.
+- <a id="w-build-vs-rent-managed-service"></a>**build vs rent (managed service)** — using a provider's managed database/queue instead of running your own; you trade control and cost for operational burden.
 
 ---
 

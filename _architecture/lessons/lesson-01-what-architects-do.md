@@ -10,14 +10,7 @@ parent: "Phase 1: The Architect's Role & Mindset"
 
 # Lesson 01: What a Software Architect Actually Does
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **architecture** — the set of decisions about a system that are both *significant* and *hard to change later*.
-> - **quality attribute / "-ility"** — a property of the whole system (scalability, security, maintainability) rather than a feature it performs.
-> - **irreversible / one-way door** — a decision that is expensive or impossible to undo once made.
-> - **ivory tower** (idiom) — a place cut off from real work; the "ivory-tower architect" draws diagrams but never faces the code's reality.
-> - **guardrail / constraint** — a boundary you set so teams can move fast *within* it without breaking the system.
-> - **stakeholder** — anyone affected by the system: engineers, product, security, operations, the business, customers.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -27,23 +20,25 @@ of which you will never write a line for. Ralph Johnson's famous definition:
 *architecture is the set of decisions you wish you could get right early, because
 they are expensive to change later.* That "expensive to change" is the whole
 distinction. Which programming style to use in a function is cheap to change — not
-architecture. Whether the system is one deployable or fifty, whether services share
+**architecture**[°](#w-architecture). Whether the system is one deployable or fifty, whether services share
 a database, what your consistency model is, where the trust boundary sits — those
 are expensive to change, so they're architecture.
 
-```
-   The altitude shift:
+The shift is one of altitude, and it changes what "doing the job well" even
+means.
 
-   SENIOR DEVELOPER                 ARCHITECT
-   ────────────────                 ─────────
-   "How do I build this well?"      "What should we build, and how
-                                     should the whole thing be shaped?"
-   Optimizes a component            Optimizes the system & its qualities
-   Depth in one area                Breadth across many, deep enough in each
-   Output = working code            Output = decisions, constraints,
-                                     shared understanding
-   Reversible choices, fast         Irreversible choices, made carefully
-```
+| | **Senior developer** | **Architect** |
+|---|---|---|
+| **The question you ask** | "How do I build this well?" | "What should we build, and how should the whole thing be shaped?" |
+| **What you optimise** | A component | The system and its qualities |
+| **Knowledge shape** | Depth in one area | Breadth across many, deep enough in each |
+| **Your output** | Working code | Decisions, constraints, shared understanding |
+| **Nature of your choices** | Reversible, made fast | Often irreversible, made carefully |
+
+That last row is the one that changes how the job *feels*. As a developer, most
+mistakes cost you an afternoon. As an architect, some cost the company two
+years — which is why the rest of this track is largely about how to decide well
+under that asymmetry.
 
 Your real deliverables are not diagrams. They are: **decisions** (with the reasoning
 preserved), **constraints and guardrails** (so teams move fast safely), and
@@ -270,6 +265,19 @@ feel how much critical reasoning is currently unpreserved. If your five are all
 well-documented and were all correctly categorized, you're in rare and enviable
 shape — and you should note <em>what practice</em> made that true, so you keep it.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-architecture"></a>**architecture** — the set of decisions about a system that are both *significant* and *hard to change later*.
+- <a id="w-quality-attribute-ility"></a>**quality attribute / "-ility"** — a property of the whole system (scalability, security, maintainability) rather than a feature it performs.
+- <a id="w-irreversible-one-way-door"></a>**irreversible / one-way door** — a decision that is expensive or impossible to undo once made.
+- <a id="w-ivory-tower"></a>**ivory tower** (idiom) — a place cut off from real work; the "ivory-tower architect" draws diagrams but never faces the code's reality.
+- <a id="w-guardrail-constraint"></a>**guardrail / constraint** — a boundary you set so teams can move fast *within* it without breaking the system.
+- <a id="w-stakeholder"></a>**stakeholder** — anyone affected by the system: engineers, product, security, operations, the business, customers.
 
 ---
 

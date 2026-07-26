@@ -10,44 +10,36 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 30: The Delegation Ladder
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **delegation** — handing over work *and* the responsibility for it.
-> - **micromanage** — to delegate but then control every step; **abdicate** (AB-dih-kate) — the opposite: dump the work with no support ("throw it over the wall").
-> - **outcome vs task** — the goal to achieve ("make CI reliable") vs prescribed steps to execute; delegate the former.
-> - **rung** — one step of a ladder; here, a level of autonomy.
-> - **autonomy** (aw-TON-oh-mee) — freedom to decide how to do the work.
-> - **monitoring contract** — the agreed check-in rhythm and escalation rules that replace hovering.
-> - **escalate** — to bring a problem up to you when agreed conditions are met.
-> - **hover** — to watch over someone's shoulder constantly.
-> - **the boomerang** — delegated work that comes flying back to you when the person struggles; don't catch it.
-> - **flounder** — to struggle helplessly without support.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Delegation is how a lead scales — but most people do it badly: they either **micromanage** (delegate
-a task, then hover and control every step) or **abdicate** (throw something over the wall with no
+**Delegation**[°](#w-delegation) is how a lead scales — but most people do it badly: they either **micromanage**[°](#w-micromanage) (delegate
+a task, then **hover**[°](#w-hover) and control every step) or **abdicate**[°](#w-abdicate) (throw something over the wall with no
 support and hope). The skill is delegating **outcomes, not tasks**, at the **right level** for each
-person and situation — and setting up a monitoring contract that catches problems without hovering.
+person and situation — and setting up a **monitoring contract**[°](#w-monitoring-contract) that catches problems without hovering.
 And a key insight: you should delegate the things you're *good at* — that's exactly the point.
 
-```
-   THE DELEGATION LADDER (rungs of autonomy):
-   ┌──────────────────────────────────────────────────────┐
-   │ "do exactly this"          (lowest — task, no judgment)│
-   │ "do this, check with me"                               │
-   │ "propose an approach, then do it"                      │
-   │ "handle it, tell me what you did"                      │
-   │ "own this area"            (highest — full ownership)  │
-   └──────────────────────────────────────────────────────┘
-   Match the RUNG to the person's competence + confidence
-   for THIS work — and delegate OUTCOMES, not step-by-step tasks.
-```
+Delegation is not binary. It is a ladder of autonomy, and the rungs run roughly
+like this:
+
+1. **"Do exactly this."** The lowest rung — a task, with no judgement required.
+2. **"Do this, and check with me."**
+3. **"Propose an approach, then do it."**
+4. **"Handle it, and tell me what you did."**
+5. **"Own this area."** The highest rung — full ownership.
+
+Two rules make the ladder work. **Match the rung to the person's competence and
+confidence for *this* particular work** — not to their seniority in general; a
+strong engineer may be at rung five for backend work and rung two for anything
+customer-facing. And **delegate outcomes, not step-by-step tasks**: handing
+someone a sequence of instructions is rung one wearing a disguise, and it grows
+nobody.
 
 The reframe: **delegate outcomes at the rung that matches the person — not tasks with you still
 driving.** Delegating a *task* ("do exactly these steps") keeps you the brain and them the hands (no
 growth, and you're still the bottleneck); delegating an *outcome* ("own getting our CI reliable")
-gives them the real thing to own. And the *rung* — how much autonomy — should match their competence
+gives them the real thing to own. And the *rung*[°](#w-rung) — how much **autonomy**[°](#w-autonomy) — should match their competence
 and confidence for that specific work, with a monitoring contract that fits.
 
 ---
@@ -71,14 +63,14 @@ capable, confident person on familiar work gets a high rung ("own it, keep me po
 or on unfamiliar territory gets a lower rung ("propose an approach and let's discuss, then do it"). The
 same person is at different rungs for different work (senior on backend, novice on frontend). Pitching
 the rung right — enough autonomy to own and grow, enough support to not fail — is the core judgment.
-Too high a rung for the person = abdication (they flounder); too low = micromanagement (they don't grow,
+Too high a rung for the person = abdication (they **flounder**[°](#w-flounder)); too low = micromanagement (they don't grow,
 you're still driving).
 
 ### The monitoring contract — check in without hovering
 
 Delegation isn't "assign and disappear" — it's delegation *with* an agreed **monitoring contract**:
 how you'll stay informed and catch problems without hovering. Agree up front on check-in cadence
-(weekly sync? milestone reviews?), what they'll escalate (when to bring you in), and how you'll know
+(weekly sync? milestone reviews?), what they'll **escalate**[°](#w-escalate) (when to bring you in), and how you'll know
 it's on track — so you have appropriate visibility (a safety net) without controlling every step. This
 gives them autonomy *and* catches problems early. The contract should match the rung: higher autonomy =
 lighter monitoring; lower rung = more frequent check-ins.
@@ -97,7 +89,7 @@ to take it back.
 
 A common failure: you delegate something, the person struggles or brings it back ("can you just do
 this part?"), and you *take it back* — which teaches them that struggling returns the work to you (so
-they stop trying), and re-establishes you as the bottleneck. Resist the boomerang: when they bring it
+they stop trying), and re-establishes you as the bottleneck. Resist **the boomerang**[°](#w-the-boomerang): when they bring it
 back, coach them through it ("what have you tried? what would you do?") and hand it back, rather than
 solving it yourself. Taking it back feels efficient now but destroys the delegation (and their growth).
 Support them through the struggle; don't absorb the work back.
@@ -340,6 +332,23 @@ scaled you) — which is the entire purpose. This is the engine of growing the t
 deeper on using the work itself as the development tool — assigning for growth, not just speed, and
 countering the trap of always giving the interesting work to the fastest person.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-delegation"></a>**delegation** — handing over work *and* the responsibility for it.
+- <a id="w-micromanage"></a>**micromanage** — to delegate but then control every step; <a id="w-abdicate"></a>**abdicate** (AB-dih-kate) — the opposite: dump the work with no support ("throw it over the wall").
+- <a id="w-outcome-vs-task"></a>**outcome vs task** — the goal to achieve ("make CI reliable") vs prescribed steps to execute; delegate the former.
+- <a id="w-rung"></a>**rung** — one step of a ladder; here, a level of autonomy.
+- <a id="w-autonomy"></a>**autonomy** (aw-TON-oh-mee) — freedom to decide how to do the work.
+- <a id="w-monitoring-contract"></a>**monitoring contract** — the agreed check-in rhythm and escalation rules that replace hovering.
+- <a id="w-escalate"></a>**escalate** — to bring a problem up to you when agreed conditions are met.
+- <a id="w-hover"></a>**hover** — to watch over someone's shoulder constantly.
+- <a id="w-the-boomerang"></a>**the boomerang** — delegated work that comes flying back to you when the person struggles; don't catch it.
+- <a id="w-flounder"></a>**flounder** — to struggle helplessly without support.
 
 ---
 

@@ -10,46 +10,38 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 55: When Projects Slip
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **slip** — to fall behind schedule.
-> - **death march** — a doomed period of forced overwork trying to hit an impossible date.
-> - **crunch** — sustained long hours under deadline pressure; borrows from the future (burnout, bugs).
-> - **watermelon status** — a project reported "green" outside but actually red inside.
-> - **velocity** — the measured rate at which work actually completes (the honest signal).
-> - **Brooks's Law** — "adding manpower to a late software project makes it later" (onboarding + communication overhead exceed the added capacity).
-> - **communication overhead** — coordination cost that grows with team size.
-> - **divisible** — able to be split among more people ("nine women can't make a baby in one month").
-> - **recovery menu** — the honest options when slipping: cut scope / move date / add people / cut quality — mostly cut scope.
-> - **must-haves vs nice-to-haves** — the essential core vs the droppable extras.
-> - **false economy** — a "saving" that costs more later (cutting quality).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Despite good planning, projects slip — it's normal, not a personal failure. What matters is **recovering
+Despite good planning, projects **slip**[°](#w-slip) — it's normal, not a personal failure. What matters is **recovering
 well**: detecting the slip early, choosing the right recovery (which is usually cutting scope, not a death
 march), communicating it honestly (no surprises), and preserving your credibility and your team's health.
 The two big traps: **detecting slip too late** (status stays "green" until the deadline, then it's a
 crisis) and **the death march** (crunching harder, adding people — which usually makes it worse).
 
-```
-   RECOVERING A SLIPPING PROJECT (credibility intact, no death march)
-   ┌──────────────────────────────────────────────────────┐
-   │ • DETECT EARLY (velocity, not "status: green" lies)     │
-   │ • BROOKS'S LAW: adding people to a late project makes it │
-   │   LATER (onboarding cost > added capacity, short-term)  │
-   │ • RECOVERY MENU: scope / date / people / quality —      │
-   │   mostly CUT SCOPE                                      │
-   │ • COMMUNICATE the slip EARLY (no surprises — Lesson 41)  │
-   │ • crunch has real costs (burnout, bugs) — rarely worth it│
-   └──────────────────────────────────────────────────────┘
-```
+Recovering a slipping project without destroying your credibility or ordering a
+death march comes down to five things.
+
+- **Detect it early**, from velocity and evidence rather than from a status
+  field that says green. Projects rarely slip suddenly; they slip a day at a
+  time while nobody wants to be the first to say so.
+- **Remember Brooks's law**: adding people to a late project makes it later. In
+  the short term, the cost of onboarding exceeds the capacity added — the new
+  people need exactly the attention of those already behind.
+- **Work the recovery menu**: scope, date, people, quality. In practice you will
+  mostly **cut scope**, because it is the only lever that reliably works and
+  does not damage something else.
+- **Communicate the slip early.** No surprises (Lesson 41) — the same news is a
+  manageable adjustment six weeks out and a betrayal three days before launch.
+- **Be honest about crunch.** It has real costs in burnout and defects, it
+  borrows capacity from next quarter, and it is rarely worth it.
 
 The reframe: **projects slip normally — recover by detecting early, cutting scope (not crunching or adding
 people), and communicating honestly; protect credibility and the team, no death marches.** The instinct
-when slipping is to hide it (status green), then crunch or add people to recover — all of which fail
+when slipping is to hide it (status green), then **crunch**[°](#w-crunch) or add people to recover — all of which fail
 (late detection makes it a crisis, crunching burns people out and adds bugs, adding people makes it later —
-Brooks's Law). The professional recovery is early detection, honest communication (no surprises), and
+**Brooks's Law**[°](#w-brookss-law)). The professional recovery is early detection, honest communication (no surprises), and
 cutting scope — sustainable and credible.
 
 ---
@@ -62,7 +54,7 @@ The first key: **detect slippage early**, when you can still recover gracefully 
 enemy is the "**status: green**" lie — projects that report "on track / green" right up until they
 suddenly miss (the "watermelon" status: green outside, red inside). Green-until-it-isn't happens because
 people are optimistic, avoid admitting problems, or don't measure real progress. Detect early instead by
-watching **real signals**: actual velocity (are we completing work at the rate needed?), whether milestones
+watching **real signals**: actual **velocity**[°](#w-velocity) (are we completing work at the rate needed?), whether milestones
 (risk-retiring ones — Lesson 50) are actually being hit, and honest status (creating safety for people to
 report red — Lesson 21). Early detection (from real velocity/progress signals, not optimistic status) gives
 you time to recover with options; late detection (green until the deadline) gives you a crisis with none.
@@ -73,7 +65,7 @@ A crucial counterintuitive law: **"adding manpower to a late software project ma
 Law). The instinct when behind is to add people — but in the short term it usually makes things <em>worse</em>,
 because: (1) new people need <strong>onboarding</strong> (ramp-up time, and they take existing people's time
 to onboard — reducing current capacity while they learn); (2) more people means more <strong>communication
-overhead</strong> (coordination cost grows with team size); and (3) work isn't always <strong>divisible</strong>
+overhead</strong> (coordination cost grows with team size); and (3) work isn't always <strong>**divisible**[°](#w-divisible)</strong>
 (you can't always parallelize — "nine women can't make a baby in one month"). So adding people to a late
 project, especially late in it, typically slows it further (the onboarding and coordination cost exceeds the
 added capacity in the timeframe that matters). Adding people can help for the <em>long</em> term (if there's
@@ -82,13 +74,13 @@ rarely the right recovery move.
 
 ### The recovery menu — mostly cut scope
 
-When recovering a slipping project, the honest options (the "recovery menu") map to the iron triangle
+When recovering a slipping project, the honest options (the "**recovery menu**[°](#w-recovery-menu)") map to the iron triangle
 (Lesson 44): (1) **cut scope** — deliver less (the usually-best option — see below); (2) **move the date** —
 take more time (if the date can flex); (3) **add people** — usually backfires short-term (Brooks's Law); (4)
-**reduce quality** — cut corners (dangerous — creates debt/bugs, usually a false economy). Of these,
+**reduce quality** — cut corners (dangerous — creates debt/bugs, usually a **false economy**[°](#w-false-economy)). Of these,
 **cutting scope is usually the best recovery**: it's the most controllable (you decide what to drop), it
 preserves quality and the date, and there's often scope that's less essential (the walking skeleton /
-must-haves vs nice-to-haves). Adding people backfires (Brooks), reducing quality creates problems, moving
+**must-haves vs nice-to-haves**[°](#w-must-haves-vs-nice-to-haves)). Adding people backfires (Brooks), reducing quality creates problems, moving
 the date isn't always possible — so <em>cut scope first</em>. The recovery conversation is usually "what can
 we drop to hit the date (or a reasonable date) with quality?"
 
@@ -104,7 +96,7 @@ renegotiating early (Lesson 44) — the slip is bad news to deliver well.
 
 ### The crunch decision and its real costs
 
-The pressure when slipping is to **crunch** (long hours, death march) to recover. Crunch has **real costs**
+The pressure when slipping is to **crunch** (long hours, **death march**[°](#w-death-march)) to recover. Crunch has **real costs**
 that usually make it a bad deal: (1) **burnout** — sustained crunch exhausts and demoralizes people, causing
 attrition and reduced productivity afterward (you borrow from the future); (2) **more bugs** — tired people
 make more mistakes, so crunch often produces lower-quality work (creating problems that cost more later); (3)
@@ -363,6 +355,24 @@ professional recovery is early detection, scope-cutting, and honest communicatio
 the recovery menu is the iron triangle). The last Phase 10 lesson covers leading during and after the most
 acute crises — incidents and blameless postmortems — where teams learn who a leader really is.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-slip"></a>**slip** — to fall behind schedule.
+- <a id="w-death-march"></a>**death march** — a doomed period of forced overwork trying to hit an impossible date.
+- <a id="w-crunch"></a>**crunch** — sustained long hours under deadline pressure; borrows from the future (burnout, bugs).
+- <a id="w-watermelon-status"></a>**watermelon status** — a project reported "green" outside but actually red inside.
+- <a id="w-velocity"></a>**velocity** — the measured rate at which work actually completes (the honest signal).
+- <a id="w-brookss-law"></a>**Brooks's Law** — "adding manpower to a late software project makes it later" (onboarding + communication overhead exceed the added capacity).
+- <a id="w-communication-overhead"></a>**communication overhead** — coordination cost that grows with team size.
+- <a id="w-divisible"></a>**divisible** — able to be split among more people ("nine women can't make a baby in one month").
+- <a id="w-recovery-menu"></a>**recovery menu** — the honest options when slipping: cut scope / move date / add people / cut quality — mostly cut scope.
+- <a id="w-must-haves-vs-nice-to-haves"></a>**must-haves vs nice-to-haves** — the essential core vs the droppable extras.
+- <a id="w-false-economy"></a>**false economy** — a "saving" that costs more later (cutting quality).
 
 ---
 

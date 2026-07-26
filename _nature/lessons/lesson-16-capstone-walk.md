@@ -10,13 +10,7 @@ parent: "Phase 4: Seasons, Habitats & Field Skills"
 
 # Lesson 16: A Walk in the Woods (Capstone)
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **capstone** — a final project that pulls together everything you've learned.
-> - **field notes** — quick written observations made while outdoors.
-> - **habitat cue** — a clue from the *place* (water, deep forest, open field) that narrows what you'll see.
-> - **GISS / jizz** — a living thing's overall "feel" (size, shape, movement) — your fastest ID tool.
-> - **checklist** — a running list of species observed on an outing (as in the eBird app).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -48,8 +42,8 @@ you identify a single thing. Photo:
    sound. Lead with what it *is* and what it's *doing*.
 4. **Season overlays it all** (Lesson 15). The same woods in June (singing
    migrants everywhere) and January (a few hardy residents) are different scenes.
-5. **Write it down.** A few field notes — date, place, species, one detail — turn
-   a nice walk into lasting knowledge, and a checklist app (eBird/iNaturalist)
+5. **Write it down.** A few **field notes**[°](#w-field-notes) — date, place, species, one detail — turn
+   a nice walk into lasting knowledge, and a **checklist**[°](#w-checklist) app (eBird/iNaturalist)
    makes it a record.
 
 ### A worked example
@@ -318,6 +312,18 @@ citing real field marks for each ID, and connecting the trees, birds, and season
 into one coherent scene. That's the whole course — congratulations, you can now
 read the living landscape of Canada.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-capstone"></a>**capstone** — a final project that pulls together everything you've learned.
+- <a id="w-field-notes"></a>**field notes** — quick written observations made while outdoors.
+- <a id="w-habitat-cue"></a>**habitat cue** — a clue from the *place* (water, deep forest, open field) that narrows what you'll see.
+- <a id="w-giss-jizz"></a>**GISS / jizz** — a living thing's overall "feel" (size, shape, movement) — your fastest ID tool.
+- <a id="w-checklist"></a>**checklist** — a running list of species observed on an outing (as in the eBird app).
 
 ---
 

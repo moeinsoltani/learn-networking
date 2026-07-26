@@ -10,44 +10,32 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 17: Presenting and Demos
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **story shape** — structuring a presentation as situation → tension → resolution instead of a flat list of facts.
-> - **demo** — showing the real working thing; a **live demo** runs it in front of the audience (and can break).
-> - **a net / fallback** — the backup (recording, screenshots) ready for when the live demo fails ("without a net" = no backup).
-> - **narrate** — to talk the audience through what they're seeing, as a story.
-> - **flustered** — visibly rattled and losing composure.
-> - **credit** (verb) — to publicly name who did the work; the opposite of taking it yourself.
-> - **self-promotion** — advertising yourself; making the *team's* work visible is not this.
-> - **QBR (quarterly business review)** — the regular meeting where teams present results to leadership.
-> - **bluffing** — pretending to know an answer; caught bluffs destroy credibility ("I don't know, I'll follow up" beats it).
-> - **deflect** — to dodge a question instead of answering it.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-A lead regularly has to present — quarterly reviews, demos, proposals to
+A lead regularly has to present — quarterly reviews, **demos**[°](#w-demo), proposals to
 leadership, all-hands updates. And a critical, under-appreciated part of the job is
 making your *team's* work visible: engineers who do great work that leadership
 never sees don't get the recognition, resources, or trust their work should earn.
-Presenting well isn't self-promotion; it's ensuring the work — yours and your
+Presenting well isn't **self-promotion**[°](#w-self-promotion); it's ensuring the work — yours and your
 team's — lands and gets credited.
 
-```
-   A presentation's job: make the work LAND and get CREDITED.
+A presentation has a narrower job than most people give it: **make the work
+land, and get it credited.**
 
-   STORY SHAPE (why it works on human attention):
-     SITUATION  →  TENSION  →  RESOLUTION
-     "here's     "here's the   "here's what we did
-      where we    problem/       and the impact"
-      were"       challenge"
+The reliable shape is a story, because that is what human attention is built
+for: **situation → tension → resolution.** Here is where we were; here is the
+problem or challenge that appeared; here is what we did and what it changed.
 
-   SLIDES = evidence, NOT your script (nobody wants to
-            watch you read bullet points)
+Two rules follow from that. **Slides are evidence, not your script** — nobody
+wants to watch someone read bullet points aloud, and a slide that is readable
+in full is a slide that makes you redundant. And **make the team visible**:
+name who did what, upward, in front of the people whose opinion affects their
+careers. Credit costs you nothing and is one of the few genuinely free things a
+lead can give.
 
-   MAKE THE TEAM VISIBLE: their work, credited, upward
-```
-
-Two ideas do most of the work. **Story shape**: human attention is built for
+Two ideas do most of the work. **Story shape**[°](#w-story-shape): human attention is built for
 narrative, so structure a presentation as situation → tension → resolution (where
 we were, the challenge/problem, what we did and its impact) rather than a flat list
 of facts — the tension is what holds attention and makes the resolution land.
@@ -98,7 +86,7 @@ screenshots, the ability to gracefully continue) so a demo failure is a hiccup, 
 a disaster. When it does break ("well, it worked this morning" — universal), stay
 calm, don't apologize excessively, switch to the fallback, and move on — the
 audience forgives a smooth recovery far more than they remember the glitch, but a
-flustered meltdown is what they'll remember.
+**flustered**[°](#w-flustered) meltdown is what they'll remember.
 
 ### Making the team's work visible upward
 
@@ -106,7 +94,7 @@ This is the leadership-specific part: a big reason to present is to make your
 *team's* work visible to leadership — because work that leadership doesn't see
 doesn't earn the recognition, resources, and trust it should. When you present your
 team's work: **credit the team** accurately (name contributors, "the team built
-X" — not "I built X"; taking credit for the team's work is both wrong and
+X" — not "I built X"; taking **credit**[°](#w-credit) for the team's work is both wrong and
 corrosive — Lesson 20's praise, and it will lose you the team's trust fast), frame
 the work in terms of *impact* leadership cares about (Lesson 14 — business terms,
 not technical detail), and be the advocate who ensures your engineers' good work is
@@ -120,7 +108,7 @@ the team resources and their engineers recognition.
 > sometimes hostile. The moves: <em>listen fully</em> (don't get defensive or
 > interrupt — understand the real question, which is often different from the
 > surface one); <em>answer honestly</em> (including "I don't know, I'll follow up"
-> — far better than bluffing, which destroys credibility when caught); stay
+> — far better than **bluffing**[°](#w-bluffing), which destroys credibility when caught); stay
 > <em>calm and non-defensive</em> (a defensive reaction signals weakness; a calm,
 > direct answer signals command); and if a question reveals a real gap, acknowledge
 > it ("that's a fair concern, here's how we're thinking about it") rather than
@@ -416,6 +404,23 @@ time pressure. This closes the communication-fundamentals for spoken/presented w
 the next lesson covers the written/async channels that are increasingly where
 leadership communication actually happens.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-story-shape"></a>**story shape** — structuring a presentation as situation → tension → resolution instead of a flat list of facts.
+- <a id="w-demo"></a>**demo** — showing the real working thing; a **live demo** runs it in front of the audience (and can break).
+- <a id="w-a-net-fallback"></a>**a net / fallback** — the backup (recording, screenshots) ready for when the live demo fails ("without a net" = no backup).
+- <a id="w-narrate"></a>**narrate** — to talk the audience through what they're seeing, as a story.
+- <a id="w-flustered"></a>**flustered** — visibly rattled and losing composure.
+- <a id="w-credit"></a>**credit** (verb) — to publicly name who did the work; the opposite of taking it yourself.
+- <a id="w-self-promotion"></a>**self-promotion** — advertising yourself; making the *team's* work visible is not this.
+- <a id="w-qbr-quarterly-business-review"></a>**QBR (quarterly business review)** — the regular meeting where teams present results to leadership.
+- <a id="w-bluffing"></a>**bluffing** — pretending to know an answer; caught bluffs destroy credibility ("I don't know, I'll follow up" beats it).
+- <a id="w-deflect"></a>**deflect** — to dodge a question instead of answering it.
 
 ---
 

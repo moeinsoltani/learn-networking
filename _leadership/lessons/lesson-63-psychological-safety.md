@@ -10,40 +10,35 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 63: Psychological Safety and Culture
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **psychological safety** — the shared belief that it's safe to take *interpersonal risks*: ask, admit mistakes, disagree, raise problems (Amy Edmondson's term).
-> - **interpersonal risk** — an act that could make you look bad to colleagues (a "dumb" question, a confessed mistake).
-> - **Project Aristotle** — Google's study finding psychological safety the #1 predictor of team effectiveness.
-> - **not niceness** — the key correction: safety coexists with high standards; it's honesty without fear, not comfort.
-> - **complacency** — comfortable low standards (safety *without* standards).
-> - **the flinch** — the small visible negative reaction that teaches people not to bring you truth (Lesson 21).
-> - **punishing the messenger** — reacting badly to whoever reports the problem, guaranteeing you stop hearing about problems.
-> - **"culture is what you tolerate"** — culture equals the worst behaviour you allow to continue, not the values poster.
-> - **micro-behaviors** — the small everyday reactions that build or destroy safety.
-> - **safe-to-fail** — designed so failure is survivable and instructive (blameless retros, experiments).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-**Psychological safety** — the shared belief that it's safe to take interpersonal risks (ask questions,
+**Psychological safety**[°](#w-psychological-safety) — the shared belief that it's safe to take **interpersonal risks**[°](#w-interpersonal-risk) (ask questions,
 admit mistakes, disagree, raise problems) — is the single biggest factor in team effectiveness (Google's
-Project Aristotle found it the top predictor). It's the foundation for everything: problems surface early,
+**Project Aristotle**[°](#w-project-aristotle) found it the top predictor). It's the foundation for everything: problems surface early,
 people do their best work, learning happens. Crucially, **it's not comfort or niceness** — it's the safety
 to be honest and take risks. And leaders **destroy it in small ways** (a flinch at bad news, blame, cutting
 people off) — so building and protecting it is constant, deliberate work.
 
-```
-   PSYCHOLOGICAL SAFETY (the foundation of team effectiveness)
-   ┌──────────────────────────────────────────────────────┐
-   │ = safe to take INTERPERSONAL RISKS (ask, admit, disagree,│
-   │   raise problems) — NOT comfort/niceness/low standards │
-   │ • top predictor of team effectiveness (Project Aristotle)│
-   │ • leaders DESTROY it in small ways: flinches, blame,     │
-   │   interrupting, "you should know that"                  │
-   │ • "culture is what you TOLERATE"                        │
-   │ • rituals compound: blameless retros, demos, safe-to-fail│
-   └──────────────────────────────────────────────────────┘
-```
+**Psychological safety** means it is safe to take *interpersonal* risks: to ask
+a basic question, admit a mistake, disagree with someone senior, or raise a
+problem early. It is emphatically **not** comfort, niceness, or low standards —
+the highest-performing teams combine high safety with high standards, and
+safety without standards produces a pleasant team that ships nothing.
+
+It is worth taking seriously because it was the **top predictor of team
+effectiveness** in Google's Project Aristotle research.
+
+The uncomfortable part: **leaders destroy it in small ways.** A flinch when
+someone brings bad news, a note of blame in a postmortem, interrupting, "you
+should know that by now." None of these feels like a significant act, and each
+teaches the room something.
+
+Two ideas to hold onto. **Culture is what you tolerate** — not what you say in
+a values deck. And **rituals compound**: blameless retrospectives, regular
+demos, and explicitly safe-to-fail work build safety far more reliably than any
+statement about wanting people to speak up.
 
 The reframe: **psychological safety is the safety to take interpersonal risks (be honest, admit mistakes,
 disagree) — the foundation of team effectiveness — and leaders destroy it in small, everyday ways, so
@@ -66,7 +61,7 @@ disagreement and hard feedback); (2) niceness (it's not superficial politeness �
 honestly critical); (3) low standards (this is the key misconception — psychological safety <em>coexists with
 high standards</em>: the best teams are both high-safety AND high-standards — safety is what lets people meet
 high standards by surfacing problems, admitting mistakes, and pushing each other honestly). Safety + high
-standards = the learning/high-performance zone; safety without standards = comfort/complacency; standards
+standards = the learning/high-performance zone; safety without standards = comfort/**complacency**[°](#w-complacency); standards
 without safety = anxiety/fear. So psychological safety is about honest risk-taking, not comfort — and it
 enables high performance, not excuses low performance.
 
@@ -90,12 +85,12 @@ realizing.** A single reaction can teach people it's not safe: (1) a **flinch** 
 frown, visible displeasure — teaches "don't bring problems"); (2) **blame** (blaming a person for a
 mistake — teaches "hide mistakes"); (3) **interrupting/dismissing** (cutting people off, dismissing ideas —
 teaches "don't speak up"); (4) **"you should know that"** (making someone feel stupid for a question —
-teaches "don't ask questions"); (5) punishing the messenger, public criticism, reacting badly to
+teaches "don't ask questions"); (5) **punishing the messenger**[°](#w-punishing-the-messenger), public criticism, reacting badly to
 disagreement. These small moments (magnified when they come from the leader, whom everyone watches) teach
 people what's safe — and a few bad reactions can shut people down (as in receiving feedback, Lesson 21). So
 protecting safety requires <em>consistent</em> good behavior in the small moments: welcome questions, thank
 people for raising problems, respond well to mistakes and disagreement, don't flinch/blame/dismiss. Safety is
-destroyed or built in the everyday micro-behaviors.
+destroyed or built in the everyday **micro-behaviors**[°](#w-micro-behaviors).
 
 ### Culture is what you tolerate
 
@@ -129,7 +124,7 @@ declared once.
 > low standards — it coexists with high standards (safety + standards = high performance; it enables honest
 > risk-taking, not complacency). Leaders <em>destroy</em> it in small everyday ways (flinches at bad news,
 > blame, interrupting, "you should know that"), so protecting it is constant deliberate work in the
-> micro-moments. Remember "culture is what you tolerate" (address the behaviors that destroy safety, reinforce
+> micro-moments. Remember **"culture is what you tolerate"**[°](#w-culture-is-what-you-tolerate) (address the behaviors that destroy safety, reinforce
 > those that build it), use compounding rituals (blameless retros/postmortems, demos), and transmit culture
 > through onboarding and modeling. Building safety — where people are honest, take risks, and do their best
 > work — is the foundational leadership work everything else rests on.
@@ -386,6 +381,23 @@ motivation, org design, and psychological safety — the people-management craft
 build and lead a strong, healthy, high-performing team. The final phase (Your Path) turns to <em>you</em> —
 choosing your path (tech-lead vs EM), the first 90 days, and building your support system as a new leader.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-psychological-safety"></a>**psychological safety** — the shared belief that it's safe to take *interpersonal risks*: ask, admit mistakes, disagree, raise problems (Amy Edmondson's term).
+- <a id="w-interpersonal-risk"></a>**interpersonal risk** — an act that could make you look bad to colleagues (a "dumb" question, a confessed mistake).
+- <a id="w-project-aristotle"></a>**Project Aristotle** — Google's study finding psychological safety the #1 predictor of team effectiveness.
+- <a id="w-not-niceness"></a>**not niceness** — the key correction: safety coexists with high standards; it's honesty without fear, not comfort.
+- <a id="w-complacency"></a>**complacency** — comfortable low standards (safety *without* standards).
+- <a id="w-the-flinch"></a>**the flinch** — the small visible negative reaction that teaches people not to bring you truth (Lesson 21).
+- <a id="w-punishing-the-messenger"></a>**punishing the messenger** — reacting badly to whoever reports the problem, guaranteeing you stop hearing about problems.
+- <a id="w-culture-is-what-you-tolerate"></a>**"culture is what you tolerate"** — culture equals the worst behaviour you allow to continue, not the values poster.
+- <a id="w-micro-behaviors"></a>**micro-behaviors** — the small everyday reactions that build or destroy safety.
+- <a id="w-safe-to-fail"></a>**safe-to-fail** — designed so failure is survivable and instructive (blameless retros, experiments).
 
 ---
 

@@ -10,40 +10,31 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 16: Writing Design Documents and Proposals
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **design doc** — the written proposal through which significant technical decisions get reviewed and made.
-> - **problem statement** — the section that says precisely what is being solved; the most-skipped, most-important part.
-> - **skimmer** — a reader who jumps through a document reading only headings and highlights (i.e., almost everyone).
-> - **executive summary** — the one paragraph at the top carrying the whole doc in miniature (Lesson 13's BLUF).
-> - **solicit** (soh-LIS-it) — to actively ask for (feedback, review).
-> - **design-by-committee** — a proposal watered down trying to please every reviewer until it stands for nothing; **mush** — the shapeless result.
-> - **point of view** — a clear recommendation the doc actually argues for.
-> - **decision log** — the record at the end: what was decided, when, by whom, and why.
-> - **bikeshedding** — arguing trivial details instead of the substance (Lesson 09).
-> - **wall of text** — a long unbroken block of writing nobody finishes.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Design docs and proposals are how significant technical and organizational
+**Design docs**[°](#w-design-doc) and proposals are how significant technical and organizational
 decisions get made in most engineering orgs — and a lead writes and reviews many
 of them. A good doc gets read, gets useful feedback, and gets to a decision; a bad
-doc is a wall of text nobody finishes, that generates bikeshedding instead of
+doc is a **wall of text**[°](#w-wall-of-text) nobody finishes, that generates **bikeshedding**[°](#w-bikeshedding) instead of
 substantive review, and that never reaches a clear outcome.
 
-```
-   A design doc's job: get to a good DECISION, efficiently.
-   ┌──────────────────────────────────────────────────────┐
-   │ CONTEXT     — what's the situation, why are we here?  │
-   │ PROBLEM     — what exactly are we solving?            │
-   │ OPTIONS     — what did we consider? (builds trust)    │
-   │ RECOMMEND'N — what we propose, and why                │
-   │ RISKS       — what could go wrong, what we're unsure  │
-   │ + a one-paragraph SUMMARY at the very top (BLUF)      │
-   └──────────────────────────────────────────────────────┘
-   written for SKIMMERS: headings carry the argument, so
-   someone reading only the headings still gets the story
-```
+A design doc has one job: **get to a good decision, efficiently.** That job
+implies a shape.
+
+| Section | What it does |
+|---|---|
+| **Summary** | One paragraph at the very top — the recommendation up front (BLUF: bottom line up front) |
+| **Context** | What is the situation, and why are we here? |
+| **Problem** | What exactly are we solving? |
+| **Options** | What did we consider? Showing the discarded options is what builds trust |
+| **Recommendation** | What we propose, and why |
+| **Risks** | What could go wrong, and what we remain unsure about |
+
+Write it for **skimmers**. Most readers will read the headings and the first
+sentence under each, so the headings should carry the argument on their own —
+someone who reads nothing else should still come away with the story.
 
 The reusable structure — context → problem → options → recommendation → risks,
 with a summary up top — works for almost any design doc or proposal because it
@@ -89,8 +80,8 @@ more). The English track's Lesson 41 develops the exec summary.
 ### Soliciting review without design-by-committee
 
 A design doc invites feedback — but there's a failure mode where the doc's clear
-recommendation gets watered into mush by trying to accommodate every reviewer's
-opinion (design-by-committee). The lead's craft: genuinely solicit and incorporate
+recommendation gets watered into **mush**[°](#w-mush) by trying to accommodate every reviewer's
+opinion (**design-by-committee**[°](#w-design-by-committee)). The lead's craft: genuinely **solicit**[°](#w-solicit) and incorporate
 substantive feedback (the doc should get *better* from review — catch flaws,
 consider missed options, sharpen the reasoning), while maintaining a clear
 recommendation and not diluting it to please everyone. Distinguish feedback that
@@ -98,14 +89,14 @@ improves the decision (incorporate) from feedback that's just a different
 preference (acknowledge, but the doc can still recommend one thing — disagree and
 commit, Lesson 7). The options-considered section helps: a reviewer's alternative
 is addressed there (considered, here's why it lost) rather than derailing the
-recommendation. A good doc has a *point of view*, informed by review, not a
+recommendation. A good doc has a *point of view*[°](#w-point-of-view), informed by review, not a
 committee-averaged mush.
 
 ### End with the decision
 
 A proposal's purpose is a decision, so make reaching one easy: state clearly what
 decision is being requested and from whom, and — good practice — include a
-decision log at the end (what was decided, when, by whom, and the key reasoning —
+**decision log**[°](#w-decision-log) at the end (what was decided, when, by whom, and the key reasoning —
 essentially an ADR, Lesson 7, capturing the outcome). A doc that generates
 discussion but never reaches a documented decision has failed at its job; the
 structure should drive toward "here's what we're asking you to decide" and then
@@ -119,7 +110,7 @@ structure should drive toward "here's what we're asking you to decide" and then
 > But a doc that doesn't nail the problem invites solutions to the wrong problem,
 > lets reviewers argue past each other (each solving a different implicit problem),
 > and can't be evaluated (you can't judge a solution without knowing what it's
-> solving). Spend disproportionate effort on the problem statement — a crisp,
+> solving). Spend disproportionate effort on the **problem statement**[°](#w-problem-statement) — a crisp,
 > agreed problem is half the decision, and a doc whose reviewers all agree on the
 > problem will reach a good decision far more easily than one where the problem was
 > assumed.
@@ -153,7 +144,7 @@ crowding the decision), and produces a genuine skimmable outline plus an exec
 summary. Example (with invented specifics — say the system is a new event-
 processing pipeline):
 <br><br>
-<strong>Executive summary (one paragraph, at the very top):</strong> "We need a new
+<strong>**Executive summary**[°](#w-executive-summary) (one paragraph, at the very top):</strong> "We need a new
 event-processing pipeline because our current approach can't handle the volume and
 latency our growth demands — events are processed too slowly and we're hitting
 scaling limits that will cause failures within [timeframe]. This doc recommends
@@ -201,7 +192,7 @@ decision-log space for the outcome.
 <br><br>
 <strong>What the restructuring fixes:</strong> (1) The <strong>missing summary</strong>
 — now a reader gets the essence in one paragraph and can decide how deeply to
-engage (respects the skimmer, Lesson 13's BLUF). (2) The <strong>missing problem
+engage (respects the **skimmer**[°](#w-skimmer), Lesson 13's BLUF). (2) The <strong>missing problem
 statement</strong> — now the doc states crisply what it's solving <em>before</em>
 the solution, so reviewers evaluate the solution against a clear, agreed problem
 (the note's point — the most important fix) rather than arguing past each other. (3)
@@ -411,6 +402,23 @@ maintaining that structure under time pressure (when it's tempting to dump the
 solution without the problem statement or skip the summary) and helping your team
 adopt it.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-design-doc"></a>**design doc** — the written proposal through which significant technical decisions get reviewed and made.
+- <a id="w-problem-statement"></a>**problem statement** — the section that says precisely what is being solved; the most-skipped, most-important part.
+- <a id="w-skimmer"></a>**skimmer** — a reader who jumps through a document reading only headings and highlights (i.e., almost everyone).
+- <a id="w-executive-summary"></a>**executive summary** — the one paragraph at the top carrying the whole doc in miniature (Lesson 13's BLUF).
+- <a id="w-solicit"></a>**solicit** (soh-LIS-it) — to actively ask for (feedback, review).
+- <a id="w-design-by-committee"></a>**design-by-committee** — a proposal watered down trying to please every reviewer until it stands for nothing; <a id="w-mush"></a>**mush** — the shapeless result.
+- <a id="w-point-of-view"></a>**point of view** — a clear recommendation the doc actually argues for.
+- <a id="w-decision-log"></a>**decision log** — the record at the end: what was decided, when, by whom, and why.
+- <a id="w-bikeshedding"></a>**bikeshedding** — arguing trivial details instead of the substance (Lesson 09).
+- <a id="w-wall-of-text"></a>**wall of text** — a long unbroken block of writing nobody finishes.
 
 ---
 

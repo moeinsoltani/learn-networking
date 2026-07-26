@@ -17,16 +17,25 @@ actually unblock people is a valuable, well-liked trait. A good answer gives the
 person what they need to move forward, warmly; a poor answer is vague, or answers a
 different question, or leaves them still stuck.
 
-```
-   WEAK ANSWER                        STRONG ANSWER
-   ───────────                        ─────────────
-   "check the docs"                   "You'll want the `retryPolicy` setting —
-                                       it's in config.yaml, line ~40. Here's an
-                                       example: [code]. Let me know if that
-                                       doesn't work!"
+Answering well is a skill of its own, and the difference is usually effort
+placement.
 
-   answer the QUESTION first, then add context. Unblock them.
-```
+**A weak answer:**
+
+> "check the docs"
+
+**A strong answer:**
+
+> "You'll want the `retryPolicy` setting — it's in config.yaml, around line 40.
+> Here's an example: [code]. Let me know if that doesn't work!"
+
+The principle: **answer the question first, then add context. Unblock them.**
+
+"Check the docs" is not wrong, and it is not helpful — it converts your five
+seconds of knowledge into twenty minutes of someone else's searching. The
+strong version costs a minute and ends the problem, and the closing invitation
+("let me know if that doesn't work") makes it safe to come back rather than
+struggle silently.
 
 The core skill: **answer the question first, then add context.** Lead with the direct
 answer (so they're unblocked immediately), then any elaboration. And if you don't

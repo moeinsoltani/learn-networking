@@ -10,17 +10,7 @@ parent: "Phase 8: The Architect in Practice"
 
 # Lesson 35: Architecture Anti-Patterns & Pitfalls
 
-{: .note }
-> **Words to know**
-> - **anti-pattern** — a common "solution" that looks reasonable but reliably makes things worse; worth knowing by name so you catch it early.
-> - **big ball of mud** — a system with no discernible structure; everything depends on everything. The default you get by not choosing.
-> - **distributed monolith** — microservices that are so coupled they must deploy together — the costs of both styles, the benefits of neither.
-> - **accidental complexity** — complexity you added (over-engineering, gold-plating), as opposed to complexity the problem demands.
-> - **gold-plating / speculative generality** — building more (or more general) than anyone asked for, "just in case".
-> - **YAGNI** — "You Aren't Gonna Need It" — the counter to speculative building (Lesson 31).
-> - **premature optimization / scaling** — optimizing or scaling before you have evidence you need to; a debt, not a virtue.
-> - **analysis paralysis** — deliberating so long (chasing certainty) that you never decide; the opposite failure to reckless decisions.
-> - **leaky abstraction** — an abstraction that fails to hide its underlying details, so callers must know them anyway.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -31,30 +21,38 @@ guide to the classics: what each looks like, why it harms, and the corrective. A
 place to spot them is **in your own designs first** — every one of these felt reasonable to the person who
 built it.
 
-```
-   THE RECURRING FAILURE MODES (recognize them EARLY, in your own design)
+The recurring failure modes are worth being able to name, because the point is
+to recognise them **early, in your own design**, when they are still cheap.
 
-   STRUCTURE GONE          TOO MUCH               TOO LITTLE / TOO LATE
-   ┌──────────────────┐    ┌──────────────────┐   ┌──────────────────────┐
-   │ big ball of mud  │    │ over-engineering  │   │ premature optimization│
-   │ distributed      │    │ gold-plating      │   │ premature scaling     │
-   │  monolith        │    │ speculative       │   │ analysis paralysis    │
-   │ leaky abstraction│    │  generality       │   │ ivory tower           │
-   │ accidental       │    │ résumé/hype-driven│   │ (decide too late /    │
-   │  vendor lock-in  │    │ 2nd-system effect │   │  never)               │
-   └──────────────────┘    └──────────────────┘   └──────────────────────┘
-        no structure          more than needed        wrong amount/timing
-   corrective: choose         corrective: YAGNI,       corrective: evidence-
-   & enforce boundaries       "just enough"            driven, decide & move
-```
+**Structure gone** — no real boundaries:
+
+- the **big ball of mud**; the **distributed monolith** (all the coupling, plus
+  the network); **leaky abstractions**; and **accidental vendor lock-in**.
+- *The corrective:* choose boundaries deliberately and enforce them.
+
+**Too much** — more than the problem needs:
+
+- **over-engineering**, **gold-plating**, **speculative generality**,
+  **résumé- and hype-driven design**, and the **second-system effect**.
+- *The corrective:* YAGNI, and "just enough" architecture.
+
+**Too little, or too late** — the wrong amount at the wrong time:
+
+- **premature optimisation**, **premature scaling**, **analysis paralysis**, and
+  the **ivory tower** that decides too late or never.
+- *The corrective:* be evidence-driven — decide and move.
+
+Notice that the second and third groups are opposite errors, which is why "add
+more design" and "add less design" are both bad general advice. The skill is
+reading which one you are currently committing.
 
 They cluster into three families. **Structure gone** — the design has lost (or never had) real
-boundaries: the *big ball of mud* (no structure at all), the *distributed monolith* (services coupled so
-tightly they're a monolith with network latency added), *leaky abstractions*, *accidental vendor
+boundaries: the *big ball of mud*[°](#w-big-ball-of-mud) (no structure at all), the *distributed monolith*[°](#w-distributed-monolith) (services coupled so
+tightly they're a monolith with network latency added), *leaky abstractions*[°](#w-leaky-abstraction), *accidental vendor
 lock-in*. **Too much** — complexity you inflicted on yourself: *over-engineering*, *gold-plating*,
 *speculative generality*, *résumé/hype-driven design*, the *second-system effect*. **Too little / too
 late** — the wrong amount or timing: *premature optimization* and *premature scaling* (doing it before
-the evidence), and *analysis paralysis* and the *ivory tower* (never deciding, or deciding disconnected
+the evidence), and *analysis paralysis*[°](#w-analysis-paralysis) and the *ivory tower* (never deciding, or deciding disconnected
 from reality). Learn them so you can name them — because you can't correct what you can't see, and the
 first place to look is the mirror.
 
@@ -77,7 +75,7 @@ independently deployable — or, honestly, to merge them back into a well-modula
 complexity** (Lesson 31) that you added: **over-engineering** (a solution more complex than the problem
 warrants), **gold-plating** (adding polish and features nobody asked for), and **speculative generality**
 (building generic, configurable, "flexible" machinery for imagined future needs that usually don't arrive
-as guessed). All three are the **YAGNI** violation, and all three are *seductive* because they feel like
+as guessed). All three are the **YAGNI**[°](#w-yagni) violation, and all three are *seductive* because they feel like
 craftsmanship and foresight — but they're a permanent tax on everyone who touches the system, and (the
 counter-intuitive part from Lesson 31) they often make the system *harder* to change, not easier, because
 you've committed to the wrong abstraction. Closely related: **résumé-driven / hype-driven design**
@@ -119,7 +117,7 @@ until leaving is prohibitively expensive — lock-in you never *chose*, that sho
 possible moment. Corrective: keep volatile/vendor dependencies behind a boundary (ports & adapters,
 anti-corruption layer) and *enforce* it with a fitness function (Lessons 30–31).
 
-**Spotting them in your own design first.** The meta-skill: every one of these anti-patterns *felt
+**Spotting them in your own design first.** The meta-skill: every one of these **anti-patterns**[°](#w-anti-pattern) *felt
 reasonable* to the person who created it — the big ball of mud was built one sensible shortcut at a time;
 the speculative generality felt like good foresight; the premature scaling felt like being responsible.
 So the productive stance is *self-suspicion*: run the "what would break this?" review (Lesson 30) against
@@ -334,6 +332,22 @@ your own designs, on paper, where they're still cheap to fix. The unifying cure 
 reversible, and add complexity only when a genuine need earns it — while still <em>deciding</em> rather than
 deliberating forever.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-anti-pattern"></a>**anti-pattern** — a common "solution" that looks reasonable but reliably makes things worse; worth knowing by name so you catch it early.
+- <a id="w-big-ball-of-mud"></a>**big ball of mud** — a system with no discernible structure; everything depends on everything. The default you get by not choosing.
+- <a id="w-distributed-monolith"></a>**distributed monolith** — microservices that are so coupled they must deploy together — the costs of both styles, the benefits of neither.
+- <a id="w-accidental-complexity"></a>**accidental complexity** — complexity you added (over-engineering, gold-plating), as opposed to complexity the problem demands.
+- <a id="w-gold-plating-speculative-generality"></a>**gold-plating / speculative generality** — building more (or more general) than anyone asked for, "just in case".
+- <a id="w-yagni"></a>**YAGNI** — "You Aren't Gonna Need It" — the counter to speculative building (Lesson 31).
+- <a id="w-premature-optimization-scaling"></a>**premature optimization / scaling** — optimizing or scaling before you have evidence you need to; a debt, not a virtue.
+- <a id="w-analysis-paralysis"></a>**analysis paralysis** — deliberating so long (chasing certainty) that you never decide; the opposite failure to reckless decisions.
+- <a id="w-leaky-abstraction"></a>**leaky abstraction** — an abstraction that fails to hide its underlying details, so callers must know them anyway.
 
 ---
 

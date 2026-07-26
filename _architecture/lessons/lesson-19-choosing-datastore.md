@@ -10,42 +10,33 @@ parent: "Phase 5: Data & Scale"
 
 # Lesson 19: Choosing a Data Store (Polyglot Persistence)
 
-{: .note }
-> **Words to know**
-> - **data model** — how a store organizes data: relational (tables), document (JSON), key-value, wide-column, graph, etc.
-> - **access pattern** — how your app actually reads and writes data: the queries, the read/write ratio, the shape of lookups.
-> - **relational / RDBMS** — tables with rows, joins, and ACID transactions (Postgres, MySQL).
-> - **document store** — stores self-contained documents (JSON-like), flexible schema (MongoDB).
-> - **key-value store** — a giant hash map: get/put by key, very fast (Redis, DynamoDB).
-> - **polyglot persistence** — deliberately using different stores for different needs in one system.
-> - **normalization / denormalization** — splitting data to avoid duplication vs duplicating it to speed reads.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 The reflex "we need a database, use the one we always use" is one of the most consequential
-un-decisions in software. Different data stores are built for different **access patterns**,
+un-decisions in software. Different data stores are built for different **access patterns**[°](#w-access-pattern),
 and the right choice flows from *how you'll read and write the data*, not from what the data
 "is." The architect's discipline: **match the store to the access pattern.**
 
-```
-   THE DATA-MODEL FAMILIES (each is FOR an access pattern)
+Each family of datastore exists **for an access pattern**, and choosing well
+means starting from how you will read and write rather than from what is
+fashionable.
 
-   RELATIONAL   tables, joins, ACID     → complex queries, relationships,
-   (Postgres)                             transactions, "I don't know all my
-                                          queries yet" → the safe default
-   DOCUMENT     self-contained JSON      → aggregate you read/write whole
-   (Mongo)                                (a product, an order), flexible schema
-   KEY-VALUE    get/put by key           → simple, ultra-fast lookups by id;
-   (Redis,DDB)                            caching, sessions, high throughput
-   WIDE-COLUMN  rows w/ huge, sparse     → massive write volume, time-series-ish,
-   (Cassandra)  column sets               known query patterns, horizontal scale
-   GRAPH        nodes + edges            → relationship-heavy traversals
-   (Neo4j)                                (social graph, recommendations, fraud)
-   SEARCH       inverted index           → full-text search, faceting, ranking
-   (Elastic)                              (a product catalog search box)
-   TIME-SERIES  timestamped points       → metrics, IoT, append-heavy by time
-   (Influx)
-```
+| Family | Shape | What it is for |
+|---|---|---|
+| **Relational** (Postgres) | Tables, joins, ACID | Complex queries, real relationships, transactions — and "I don't know all my queries yet." **The safe default** |
+| **Document** (MongoDB) | Self-contained JSON | An aggregate you read and write whole — a product, an order — with a flexible schema |
+| **Key-value** (Redis, DynamoDB) | Get and put by key | Simple, ultra-fast lookups by id: caching, sessions, high throughput |
+| **Wide-column** (Cassandra) | Rows with huge, sparse column sets | Massive write volume, time-series-ish data, known query patterns, horizontal scale |
+| **Graph** (Neo4j) | Nodes and edges | Relationship-heavy traversals: social graphs, recommendations, fraud rings |
+| **Search** (Elasticsearch) | Inverted index | Full-text search, faceting, ranking — the product-catalogue search box |
+| **Time-series** (InfluxDB) | Timestamped points | Metrics, IoT, append-heavy data organised by time |
+
+Two notes worth holding. **Relational is the right default** far more often than
+architecture blogs suggest, and "we don't know our queries yet" is a positive
+argument for it rather than an admission. And these are not exclusive — most
+mature systems run several, each serving the pattern it is good at.
 
 The key inversion: don't ask "what does my data look like?" — ask "**how will I query and
 write it?**" A social graph *is* relational data, but if your access pattern is deep
@@ -114,7 +105,7 @@ needs Elasticsearch." Weigh the specialization benefit against the operational b
 owns which data* (and therefore which store) is more architecturally significant than the store
 technology itself — the database-per-service question (Lesson 24). Choosing a store is often
 downstream of the boundary decision: once a bounded context owns its data, it can pick the store
-that fits *its* access pattern, independently of other contexts. Polyglot persistence and
+that fits *its* access pattern, independently of other contexts. **Polyglot persistence**[°](#w-polyglot-persistence) and
 service boundaries reinforce each other — each service's autonomy includes choosing its own store.
 
 ---
@@ -162,7 +153,7 @@ relevance ranking, or efficient faceting at scale). Note the pattern: the catalo
 kept in sync (a CQRS-ish read projection, Lesson 20) — you don't have to make Elasticsearch
 authoritative.
 <br><br>
-<strong>3. Cart & sessions → key-value store (Redis, or DynamoDB).</strong> The access pattern
+<strong>3. Cart & sessions → **key-value store**[°](#w-key-value-store) (Redis, or DynamoDB).</strong> The access pattern
 is <em>get/put by a single key, on nearly every request, must be very fast, short-lived, no
 complex queries</em> — the textbook key-value case. Redis gives sub-millisecond lookups, TTL for
 expiry, and takes the read/write load of session/cart access off your relational database. No
@@ -351,6 +342,20 @@ that's introducing a specialized store for a workload that has outgrown the gene
 retiring a specialized store whose cost isn't justified — turns the audit into a concrete,
 prioritized action rather than an abstract "we should think about our data layer."
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-data-model"></a>**data model** — how a store organizes data: relational (tables), document (JSON), key-value, wide-column, graph, etc.
+- <a id="w-access-pattern"></a>**access pattern** — how your app actually reads and writes data: the queries, the read/write ratio, the shape of lookups.
+- <a id="w-relational-rdbms"></a>**relational / RDBMS** — tables with rows, joins, and ACID transactions (Postgres, MySQL).
+- <a id="w-document-store"></a>**document store** — stores self-contained documents (JSON-like), flexible schema (MongoDB).
+- <a id="w-key-value-store"></a>**key-value store** — a giant hash map: get/put by key, very fast (Redis, DynamoDB).
+- <a id="w-polyglot-persistence"></a>**polyglot persistence** — deliberately using different stores for different needs in one system.
+- <a id="w-normalization-denormalization"></a>**normalization / denormalization** — splitting data to avoid duplication vs duplicating it to speed reads.
 
 ---
 

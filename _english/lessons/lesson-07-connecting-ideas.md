@@ -16,18 +16,27 @@ When you have two related thoughts, you need to join them *correctly* — and th
 most common mistake is the **comma splice**: joining two complete sentences with
 just a comma. This is one line away from clear or confusing.
 
-```
-   TWO complete thoughts:
-     "I deployed the fix."   +   "It broke the build."
+Take two complete thoughts:
 
-   ✗ COMMA SPLICE:  "I deployed the fix, it broke the build."
-                    (two full sentences glued by only a comma — wrong)
+> "I deployed the fix." + "It broke the build."
 
-   THREE correct fixes:
-   ✓ Two sentences:  "I deployed the fix. It broke the build."
-   ✓ A joining word: "I deployed the fix, but it broke the build."
-   ✓ A semicolon:    "I deployed the fix; it broke the build."
-```
+Joining them with only a comma is the **comma splice**, and it is one of the
+most common errors in professional writing:
+
+> ✗ "I deployed the fix, it broke the build."
+
+There are three correct ways to fix it, and all three are equally acceptable at
+work:
+
+| Fix | Result |
+|---|---|
+| **Two sentences** | "I deployed the fix. It broke the build." |
+| **A joining word** | "I deployed the fix, **but** it broke the build." |
+| **A semicolon** | "I deployed the fix; it broke the build." |
+
+The joining word is usually the best of the three, because *but* tells the
+reader how the second thought relates to the first — which a full stop and a
+semicolon leave them to work out.
 
 The single most useful move for a non-native writer: **when in doubt, make two
 short sentences.** Short, clear sentences are easier to write correctly and easier

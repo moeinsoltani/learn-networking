@@ -10,49 +10,40 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 39: Driving Change Across an Organization
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **resistance is information** — people resist for reasons, often valid; the resistance tells you what to fix.
-> - **early adopters** — the willing first users (Lesson 10); the **adoption curve** runs early adopters → early majority → late majority → **laggards** (the last, most reluctant).
-> - **beachhead** — a first secured position from which a campaign expands (a military landing metaphor).
-> - **paved road** — making the new way the *easiest* way (Lesson 10).
-> - **visible wins** — early publicized successes that prove the change works.
-> - **momentum** — accumulated motion; success attracting more success.
-> - **the honeymoon** — the initial enthusiasm phase after any change, which fades.
-> - **revert** — to slide back to the old way once attention moves on.
-> - **Kotter's change model** — the classic 8-step organizational-change framework this lesson compresses.
-> - **campaign** — a sustained, planned effort over time (not a single announcement).
-> - **status quo** (STAT-us KWOH) — the current state of things.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 The hardest influence challenge is landing a change **bigger than any team you control** — migrating
 many teams to a new practice, tool, or way of working. You can't mandate it (no authority over them),
 and people resist change (often for good reasons). Success comes from understanding change as a
-*process* with predictable dynamics: resistance is information, early adopters are beachheads, making
-the new way the *easy* way (paved roads), securing visible wins early, and sustaining past the initial
-enthusiasm. This is Kotter's change model, compressed for an engineering org.
+*process* with predictable dynamics: **resistance is information**[°](#w-resistance-is-information), **early adopters**[°](#w-early-adopters) are **beachheads**[°](#w-beachhead), making
+the new way the *easy* way (**paved roads**[°](#w-paved-road)), securing **visible wins**[°](#w-visible-wins) early, and sustaining past the initial
+enthusiasm. This is **Kotter's change model**[°](#w-kotters-change-model), compressed for an engineering org.
 
-```
-   DRIVING ORG-WIDE CHANGE
-   ┌──────────────────────────────────────────────────────┐
-   │ • RESISTANCE is information (why do they resist? often  │
-   │   valid — address it, don't steamroll)                 │
-   │ • EARLY ADOPTERS as beachheads (start with the willing) │
-   │ • make the NEW WAY the EASY way (paved roads)           │
-   │ • VISIBLE WINS early (proof, momentum)                  │
-   │ • SUSTAIN past the honeymoon (change reverts without it)│
-   └──────────────────────────────────────────────────────┘
-   You can't mandate a change across teams you don't control —
-   you make it easy, prove it works, and build momentum.
-```
+Driving change across teams you do not control runs on five principles.
+
+- **Resistance is information.** Ask why people are resisting; the reason is
+  often valid and points at something your plan missed. Address it rather than
+  steamrolling it.
+- **Use early adopters as beachheads.** Start with the willing, not the loudest
+  sceptic.
+- **Make the new way the easy way** — the paved road from Lesson 10. Effort is
+  a far stronger force than mandate.
+- **Get visible wins early**, as proof and as momentum.
+- **Sustain past the honeymoon.** Change that is not maintained reverts, usually
+  around the time everyone has declared victory.
+
+The premise underneath all five: you cannot mandate a change across teams you
+do not control. You can only make it easy, prove it works, and build enough
+momentum that adopting it becomes the path of least resistance.
 
 The reframe: **you drive org-wide change not by mandate but by making the new way easy and proving it
 works — and resistance is information, not an obstacle to steamroll.** People resist change for reasons
 (often legitimate — real costs, real risks, past burns), so resistance tells you what to address.
-Landing a big change is a *campaign*: start with the willing (early adopters), make adoption easy (paved
-roads), generate visible wins (momentum), address resistance (it's data), and sustain it past the
-honeymoon (or it reverts).
+Landing a big change is a *campaign*[°](#w-campaign): start with the willing (early adopters), make adoption easy (paved
+roads), generate visible wins (**momentum**[°](#w-momentum)), address resistance (it's data), and sustain it past the
+honeymoon (or it **reverts**[°](#w-revert)).
 
 ---
 
@@ -123,7 +114,7 @@ wins, and sustainment — not a one-time announcement.
 > address, don't steamroll). Start with <em>early adopters as beachheads</em> (the willing prove it works
 > and spread it). Above all, <em>make the new way the easy way</em> (paved roads — good tooling/defaults;
 > a genuinely easier way spreads itself, a harder one reverts). Generate <em>visible wins early</em>
-> (proof and momentum — evidence beats argument). And <em>sustain past the honeymoon</em> (change reverts
+> (proof and momentum — evidence beats argument). And <em>sustain past **the honeymoon**[°](#w-the-honeymoon)</em> (change reverts
 > without ongoing reinforcement — many efforts fail at sustainment, not launch). Compressed Kotter:
 > urgency, coalition, vision, easy adoption, visible wins, sustainment. You make change happen not by
 > pushing everyone at once, but by making it easy, proving it, and building momentum you sustain.
@@ -151,7 +142,7 @@ sustainment. Example one-page plan:
 <br><br>
 <strong>Q1 — Foundation, urgency, and the first beachhead:</strong>
 <br>• <strong>Establish urgency</strong>: quantify the pain of the shared staging server (hours lost to
-conflicts, flakiness incidents, developer frustration surveys) — make the cost of the status quo visible
+conflicts, flakiness incidents, developer frustration surveys) — make the cost of the **status quo**[°](#w-status-quo) visible
 and undeniable (people change when the pain is clear). <br>• <strong>Build the paved road (start)</strong>:
 invest in making ephemeral environments genuinely <em>easy</em> — good tooling, one-command spin-up, sane
 defaults, docs. This is the highest-leverage work: the new way must be easier than the old. <br>•
@@ -376,6 +367,24 @@ manage, which is much of a lead's real impact. The next phase (Stakeholder Manag
 effectively with the specific stakeholders around you — PMs, designers, your own manager, customers, and
 other teams — the relationships through which much of your work flows.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-resistance-is-information"></a>**resistance is information** — people resist for reasons, often valid; the resistance tells you what to fix.
+- <a id="w-early-adopters"></a>**early adopters** — the willing first users (Lesson 10); the **adoption curve** runs early adopters → early majority → late majority → **laggards** (the last, most reluctant).
+- <a id="w-beachhead"></a>**beachhead** — a first secured position from which a campaign expands (a military landing metaphor).
+- <a id="w-paved-road"></a>**paved road** — making the new way the *easiest* way (Lesson 10).
+- <a id="w-visible-wins"></a>**visible wins** — early publicized successes that prove the change works.
+- <a id="w-momentum"></a>**momentum** — accumulated motion; success attracting more success.
+- <a id="w-the-honeymoon"></a>**the honeymoon** — the initial enthusiasm phase after any change, which fades.
+- <a id="w-revert"></a>**revert** — to slide back to the old way once attention moves on.
+- <a id="w-kotters-change-model"></a>**Kotter's change model** — the classic 8-step organizational-change framework this lesson compresses.
+- <a id="w-campaign"></a>**campaign** — a sustained, planned effort over time (not a single announcement).
+- <a id="w-status-quo"></a>**status quo** (STAT-us KWOH) — the current state of things.
 
 ---
 

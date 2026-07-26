@@ -10,24 +10,15 @@ parent: "Phase 3: Birds of Canada"
 
 # Lesson 12: Raptors — Birds of Prey
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **raptor** (RAP-tor) — a bird of prey that hunts with a hooked bill and gripping **talons** (hawks, eagles, falcons, owls).
-> - **talons** (TAL-unz) — the strong, curved claws a raptor grabs prey with.
-> - **eagle** — a very large raptor; the bald eagle is the biggest common one in Canada.
-> - **hawk** — a medium raptor; the red-tailed hawk is the one you'll see most.
-> - **osprey** (OSS-pray) — a fish-hunting raptor that plunges feet-first into water.
-> - **owl** — a mostly nocturnal raptor with a big flat face and forward eyes; the snowy owl is a famous Arctic one.
-> - **soar** — to fly in circles on rising warm air without flapping.
-> - **raptor "silhouette"** — the shape a bird of prey makes against the sky, key to IDing them high up.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Raptors — birds of prey — are thrilling to spot and easier than you'd think,
+**Raptors**[°](#w-raptor) — birds of prey — are thrilling to spot and easier than you'd think,
 because you usually identify them by **shape and silhouette** high overhead, not
-by fine detail. All share a **hooked bill** and **talons**. Four are worth
+by fine detail. All share a **hooked bill** and **talons**[°](#w-talons). Four are worth
 knowing first in Canada: the **bald eagle**, the **red-tailed hawk**, the
-**osprey**, and the **snowy owl**.
+**osprey**[°](#w-osprey), and the **snowy owl**.
 
 ![A bald eagle: white head and tail, dark brown body, yellow hooked bill](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/960px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg)
 
@@ -43,10 +34,10 @@ near water, where it fishes and scavenges. Photo:
 
 ![A red-tailed hawk perched, showing a pale chest and brick-red tail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg/960px-Red-tailed_Hawk_%2845812546121%29.jpg)
 
-***Red-tailed hawk** — the hawk you'll see most, often perched on a highway pole
+***Red-tailed hawk** — the **hawk**[°](#w-hawk) you'll see most, often perched on a highway pole
 or **soaring** in wide circles. Broad rounded wings, a pale chest with a darker
 "belly band," and (on adults) a brick-**red tail**. Its scream is the classic
-"eagle" sound used in movies. Photo:
+"**eagle**[°](#w-eagle)" sound used in movies. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red-tailed_Hawk_%2845812546121%29.jpg).*
 
 ![An osprey perched on a snag, white below with a dark eye-stripe](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/960px-Osprey_Perched_Snag_Heislerville.jpg)
@@ -59,7 +50,7 @@ nests on poles and platforms. Photo:
 
 ![A snowy owl: large, round-headed, white with dark flecks, yellow eyes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bubo_scandiacus_%28Linnaeus%2C_1758%29_Male.jpg/960px-Bubo_scandiacus_%28Linnaeus%2C_1758%29_Male.jpg)
 
-***Snowy owl** — a large, round-headed, **white** owl (females and young flecked
+***Snowy owl** — a large, round-headed, **white** **owl**[°](#w-owl) (females and young flecked
 with black) with piercing yellow eyes. It breeds on the Arctic tundra and comes
 south in winter, hunting by day over open fields and shorelines — a magical winter
 sighting. It's the **official bird of Quebec**. Photo:
@@ -67,9 +58,19 @@ sighting. It's the **official bird of Quebec**. Photo:
 
 ### Telling them apart in the sky
 
+Overhead, a raptor is usually a silhouette against bright sky, so colour is
+rarely available. What *is* available is **wing shape and flight style**, and
+those are enough.
+
+Broad, plank-like wings held flat and soaring in circles suggest a buteo — a
+red-tailed hawk. A shallow V, with the bird rocking side to side, means a
+turkey vulture. Long pointed wings and fast, direct flapping mean a falcon.
+Short round wings with a long tail, flapping and gliding between trees, mean an
+accipiter.
+
 | Raptor | Size | Silhouette / behaviour | Best mark |
 |---|---|---|---|
-| **Bald eagle** | Huge | Long, plank-flat wings; soars heavily | Adult: **white head + tail** |
+| **Bald eagle** | Huge | Long, plank-flat wings; **soars**[°](#w-soar) heavily | Adult: **white head + tail** |
 | **Red-tailed hawk** | Medium | Broad rounded wings, soars in circles; perches on poles | **Red tail**, pale chest with belly band |
 | **Osprey** | Large | Hovers over water, plunges feet-first | **White below** + dark eye-stripe |
 | **Snowy owl** | Large | Round head, no "ear" tufts; sits on the ground/posts by day | All **white**, yellow eyes (winter fields) |
@@ -238,6 +239,21 @@ and soaring were the most useful clues." Full marks for leading with silhouette 
 behaviour and noting that fine colour was secondary — exactly how raptors are IDed
 in the field.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-raptor"></a>**raptor** (RAP-tor) — a bird of prey that hunts with a hooked bill and gripping **talons** (hawks, eagles, falcons, owls).
+- <a id="w-talons"></a>**talons** (TAL-unz) — the strong, curved claws a raptor grabs prey with.
+- <a id="w-eagle"></a>**eagle** — a very large raptor; the bald eagle is the biggest common one in Canada.
+- <a id="w-hawk"></a>**hawk** — a medium raptor; the red-tailed hawk is the one you'll see most.
+- <a id="w-osprey"></a>**osprey** (OSS-pray) — a fish-hunting raptor that plunges feet-first into water.
+- <a id="w-owl"></a>**owl** — a mostly nocturnal raptor with a big flat face and forward eyes; the snowy owl is a famous Arctic one.
+- <a id="w-soar"></a>**soar** — to fly in circles on rising warm air without flapping.
+- <a id="w-raptor-silhouette"></a>**raptor "silhouette"** — the shape a bird of prey makes against the sky, key to IDing them high up.
 
 ---
 

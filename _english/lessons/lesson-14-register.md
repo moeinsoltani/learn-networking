@@ -18,18 +18,27 @@ should sound different to a teammate in Slack, a manager in email, and a custome
 Getting the register wrong (too formal for chat, too casual for an exec) makes you
 sound off even when the words are correct.
 
-```
-   THREE WORK REGISTERS:
+Work English has three registers, and using the wrong one is a more common
+problem than making grammar mistakes.
 
-   CASUAL        teammates, quick Slack — relaxed, contractions, phrasal
-                 verbs, emoji ok:  "hey, can you take a look at this? 🙏"
+**Casual** — teammates, quick Slack messages. Relaxed, contractions, phrasal
+verbs, emoji fine:
 
-   PROFESSIONAL  cross-team, your manager — friendly but polished:
-                 "Hi Sarah, could you review this when you have a chance?"
+> "hey, can you take a look at this? 🙏"
 
-   FORMAL        execs, customers, official — polished, complete:
-                 "Hi Dr. Chen, I wanted to share an update on the project."
-```
+**Professional** — other teams, your manager. Friendly but polished:
+
+> "Hi Sarah, could you review this when you have a chance?"
+
+**Formal** — executives, customers, anything official. Polished and complete:
+
+> "Hi Dr. Chen, I wanted to share an update on the project."
+
+The most frequent mistake among non-native speakers is using **formal** where
+**casual** is expected — which is safe but creates distance, and can read as
+cold or oddly stiff to teammates. The second most frequent is the opposite in
+customer-facing writing. Reading the room here matters more than any individual
+word choice.
 
 The good news for your goal: **warmth works at every register.** Casual and formal
 aren't "warm" vs "cold" — you can be warm in all three; register is about

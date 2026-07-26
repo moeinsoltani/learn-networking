@@ -10,22 +10,13 @@ parent: "Phase 1: Learning to Look"
 
 # Lesson 04: Tools, Apps & Field Manners
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **binoculars** (bih-NOCK-yoo-lars) — a handheld twin telescope for seeing distant birds close-up. "Binos" for short.
-> - **magnification** — how much closer a thing looks; "8×" means eight times closer.
-> - **field guide** — a book or app that shows and describes species so you can identify them.
-> - **Merlin** — a free bird-ID app from the Cornell Lab; it can name a bird from a photo *or* from its song.
-> - **iNaturalist** (eye-NATCH-ur-uh-list) — a free app/website that identifies any wild organism from a photo and logs your sightings.
-> - **eBird** — a free app for recording bird sightings; the world's biggest bird database.
-> - **playback** — playing a recording of a bird's song outdoors to lure it closer (often discouraged — see ethics).
-> - **baiting** — luring an animal with food to photograph it (discouraged for wild raptors especially).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 You need almost nothing to start — your eyes and attention are 90% of it. But two
 kinds of help make an enormous difference for a beginner: **one optical tool**
-(binoculars) and **one or two free apps** (a bird-ID app and a "what-is-this" app).
+(**binoculars**[°](#w-binoculars)) and **one or two free apps** (a bird-ID app and a "what-is-this" app).
 Add a small notebook and a short code of good manners, and you're fully equipped.
 
 ![A Canada jay — a soft grey and white bird — perched close on a branch](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Perisoreus_canadensis_mercier2.jpg/960px-Perisoreus_canadensis_mercier2.jpg)
@@ -42,7 +33,7 @@ For birds, binoculars turn "a dot in a tree" into "an eastern bluebird." What to
 look for:
 
 - **8×42 or 8×32** is the classic all-round choice. The first number is
-  magnification (8× is steady and bright — bigger isn't better, because higher
+  **magnification**[°](#w-magnification) (8× is steady and bright — bigger isn't better, because higher
   magnification shakes more and darkens the view); the second is lens width in mm
   (42 = brighter, 32 = lighter).
 - **Close focus** matters more than you'd think — good for butterflies and
@@ -56,10 +47,10 @@ look for:
   questions or reads a **photo** *or* a **song from your phone's microphone** and
   tells you the bird. Sound ID is close to magic for a beginner — point your
   phone at a dawn chorus and watch the names appear.
-- **iNaturalist** (free): photograph *any* wild thing — a tree, a bug, a
+- **iNaturalist**[°](#w-inaturalist) (free): photograph *any* wild thing — a tree, a bug, a
   wildflower — and it suggests an ID and logs it with a map pin. Great for trees,
   where you can get a clear leaf/bark photo.
-- **eBird** (free): once you're hooked, this logs your bird sightings and shows
+- **eBird**[°](#w-ebird) (free): once you're hooked, this logs your bird sightings and shows
   you what others are seeing near you — a "what's around right now" map.
 
 Apps are a **teacher, not a crutch**: check the app's suggestion against the
@@ -96,7 +87,7 @@ sighting or your photo.**
 {: .note }
 > **A beginner's starter kit**
 > 1. Your eyes + the method from Lessons 02–03.
-> 2. **Merlin** (birds by photo/sound) and **iNaturalist** (anything by photo) —
+> 2. **Merlin**[°](#w-merlin) (birds by photo/sound) and **iNaturalist** (anything by photo) —
 >    both free.
 > 3. A modest pair of **8×42 binoculars** when you're ready to invest.
 > 4. A pocket **notebook**.
@@ -150,7 +141,7 @@ better approach.
 <details>
 <summary>Show Model Answer</summary>
 <br>
-Model: "I get the temptation — but heavy <em>playback</em> in breeding season
+Model: "I get the temptation — but heavy <em>**playback**[°](#w-playback)</em> in breeding season
 makes the owl burn energy defending its territory against a rival that isn't
 there, and repeated disturbance near a nest can push a parent off eggs or draw
 predators. It can be genuinely harmful for a nesting or rare bird. A kinder path
@@ -243,6 +234,21 @@ I'm confident." If the app and your eyes ever disagree, that's a learning moment
 look again and note which field mark decides it. Using the app as a *teacher you
 check*, not a crutch, is exactly the point.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-binoculars"></a>**binoculars** (bih-NOCK-yoo-lars) — a handheld twin telescope for seeing distant birds close-up. "Binos" for short.
+- <a id="w-magnification"></a>**magnification** — how much closer a thing looks; "8×" means eight times closer.
+- <a id="w-field-guide"></a>**field guide** — a book or app that shows and describes species so you can identify them.
+- <a id="w-merlin"></a>**Merlin** — a free bird-ID app from the Cornell Lab; it can name a bird from a photo *or* from its song.
+- <a id="w-inaturalist"></a>**iNaturalist** (eye-NATCH-ur-uh-list) — a free app/website that identifies any wild organism from a photo and logs your sightings.
+- <a id="w-ebird"></a>**eBird** — a free app for recording bird sightings; the world's biggest bird database.
+- <a id="w-playback"></a>**playback** — playing a recording of a bird's song outdoors to lure it closer (often discouraged — see ethics).
+- <a id="w-baiting"></a>**baiting** — luring an animal with food to photograph it (discouraged for wild raptors especially).
 
 ---
 

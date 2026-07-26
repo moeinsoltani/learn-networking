@@ -10,14 +10,7 @@ parent: "Phase 1: The Architect's Role & Mindset"
 
 # Lesson 02: Architectural Thinking & the Nature of Trade-offs
 
-{: .note }
-> **Words to know**
-> - **trade-off** — a choice where gaining one quality costs you another; you can't maximize everything.
-> - **"it depends"** — the honest architect's default answer; useful only when followed by *what* it depends on.
-> - **second-order effect** — the consequence of the consequence; the effect your decision has two steps downstream.
-> - **best practice** — a recommendation someone found worked in *their* context; suspect until you check it fits *yours*.
-> - **breadth vs depth** — knowing a little about many areas (breadth) vs a lot about one (depth); architects need breadth plus enough depth to be dangerous.
-> - **implicit vs explicit** — hidden/unstated vs written-down and visible; the job is turning implicit trade-offs explicit.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -30,23 +23,27 @@ latency and costs you staleness and invalidation. Strong consistency buys
 correctness and costs you availability and latency. The junior engineer asks "which
 is best?"; the architect asks "best *for what*, at *what cost*?"
 
-```
-   The two answers:
+Watch what happens when someone asks *"is X better than Y?"* — the answer marks
+the experience level exactly.
 
-   "Is X better than Y?"
-        │
-        ├── Junior:  "Yes, X. Everyone uses X."        ← context-free, usually wrong
-        │
-        └── Architect: "It depends. X trades A for B.
-                        Given our drivers (scale is low,
-                        team is small, deadline is tight),
-                        B costs us more than A helps —
-                        so here, Y."                    ← context-aware, defensible
-```
+**The junior answer** is "Yes, X. Everyone uses X." It is context-free, it
+appeals to popularity, and it is usually wrong somewhere important.
 
-This is why "it depends" is the honest answer to almost every architecture
+**The architect's answer** starts with *"it depends"* and then earns that phrase
+rather than hiding behind it:
+
+> "X trades A for B. Given our drivers — scale is low, the team is small, the
+> deadline is tight — B costs us more than A helps. So here, Y."
+
+The difference is not hedging. It is that the second answer is **defensible and
+falsifiable**: it names the trade, names the context that decides it, and could
+be argued with by anyone who disagrees about the context. "It depends" on its
+own is not architecture. "It depends *on these three things, which in our case
+are these values*" is the entire job.
+
+This is why **"it depends"**[°](#w-it-depends) is the honest answer to almost every architecture
 question — and why it's useless unless you immediately say *what* it depends on. The
-skill isn't having opinions; it's exposing the hidden trade-off in every choice and
+skill isn't having opinions; it's exposing the hidden **trade-off**[°](#w-trade-off) in every choice and
 tying it to the specific context.
 
 ## Going Deeper
@@ -59,7 +56,7 @@ The architect's core move is to drag the trade-off into the open: name what you 
 name what you give up, and make the *choice* conscious. A decision the whole team can
 see and challenge is worth ten made silently.
 
-**"Best practice" is context-free, so treat it with suspicion.** A best practice is
+**"Best practice" is context-free, so treat it with suspicion.** A **best practice**[°](#w-best-practice) is
 a solution that worked in *someone else's context*. Cargo-culting it into yours —
 "Netflix uses microservices, so we should" — ignores that you don't have Netflix's
 scale, org, or problems. This isn't "ignore best practices"; it's "understand the
@@ -101,7 +98,7 @@ database. An engineer proposes: *"Let's add a Redis cache in front of the databa
 for the product data."*
 
 **Write the trade-off analysis an architect would produce** before saying yes or no.
-Cover: what the cache buys, what it costs, the second-order effects, and — using the
+Cover: what the cache buys, what it costs, the **second-order effects**[°](#w-second-order-effect), and — using the
 "what would have to be true?" move — the conditions under which it's the right call
 versus the wrong one.
 
@@ -288,6 +285,19 @@ ago" is not a reason to keep paying a cost that no longer buys anything. That
 insight — decisions are conditional on a context that changes — is the bridge to
 evolutionary architecture (Lesson 31).
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-trade-off"></a>**trade-off** — a choice where gaining one quality costs you another; you can't maximize everything.
+- <a id="w-it-depends"></a>**"it depends"** — the honest architect's default answer; useful only when followed by *what* it depends on.
+- <a id="w-second-order-effect"></a>**second-order effect** — the consequence of the consequence; the effect your decision has two steps downstream.
+- <a id="w-best-practice"></a>**best practice** — a recommendation someone found worked in *their* context; suspect until you check it fits *yours*.
+- <a id="w-breadth-vs-depth"></a>**breadth vs depth** — knowing a little about many areas (breadth) vs a lot about one (depth); architects need breadth plus enough depth to be dangerous.
+- <a id="w-implicit-vs-explicit"></a>**implicit vs explicit** — hidden/unstated vs written-down and visible; the job is turning implicit trade-offs explicit.
 
 ---
 

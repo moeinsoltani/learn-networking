@@ -10,15 +10,7 @@ parent: "Phase 8: The Architect in Practice"
 
 # Lesson 34: The Architect as Communicator & Influencer
 
-{: .note }
-> **Words to know**
-> - **influence without authority** — getting people to do something when you don't manage them; the architect's normal condition.
-> - **selling the why** — persuading with the reasoning and trade-offs behind a decision, not decreeing the *what*.
-> - **buy-in** — genuine agreement and commitment from the people who'll implement, not mere compliance.
-> - **ivory tower** — the disconnected architect who dictates from above and never touches the code; the anti-pattern.
-> - **disagree and commit** — after a fair hearing, backing a decision you argued against, so the team can move.
-> - **architecture guild / review** — a forum where architects and senior engineers align on standards and review designs together.
-> - **gardener, not dictator** — the model of an architect who cultivates good decisions across teams rather than commanding them.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -28,28 +20,32 @@ usually doesn't manage — so architecture is not just a technical act, it's a *
 scarce skill isn't producing the right design, it's getting the right design *adopted*. You almost never
 have the authority to command it; you have to earn it through influence.
 
-```
-   THE DECISION IS WORTHLESS UNTIL IT'S ADOPTED
+**An architectural decision is worthless until it is adopted**, which makes
+communication a core part of the job rather than a soft add-on.
 
-   IVORY TOWER (fails)                    GARDENER (works)
-   ┌──────────────────────────┐           ┌──────────────────────────────────┐
-   │ architect decrees the WHAT│           │ architect sells the WHY + trade-offs│
-   │ from above, never codes   │           │ meets each audience where it is:   │
-   │ throws design over wall   │           │   exec · PM · engineer             │
-   │  → teams resist / ignore  │           │ influence WITHOUT authority        │
-   │  → "not invented here"    │           │ disagree & commit · wrong gracefully│
-   │  → the design dies        │           │  → teams OWN it → it gets built    │
-   └──────────────────────────┘           └──────────────────────────────────┘
-       power you don't have                    trust & reasoning you build
-```
+**The ivory tower** approach fails predictably: the architect decrees the *what*
+from above, never writes code, and throws designs over the wall. Teams resist or
+quietly ignore it, "not invented here" sets in, and the design dies without
+anyone formally rejecting it. It depends on power the architect does not
+actually have.
+
+**The gardener** approach works: sell the **why** and the **trade-offs** rather
+than the conclusion, meet each audience where it is — executives, product
+managers, engineers all need different framings of the same decision — and
+practise influence without authority. Disagree and commit when you lose, and be
+wrong gracefully when you are wrong.
+
+The outcome that matters: teams **own** the decision, and therefore build it.
+That is bought with trust and reasoning, which are things you can accumulate,
+rather than with authority, which you were never given.
 
 The shift is from *deciding* to *influencing*. You **sell the why** (the reasoning and the trade-offs)
 rather than decree the what — because people build what they *understand and believe in*, not what
 they're told. You **meet each audience where they are** (an exec, a PM, and an engineer need the same
-decision explained three different ways). You stay out of the **ivory tower** by keeping your hands close
+decision explained three different ways). You stay out of the **ivory tower**[°](#w-ivory-tower) by keeping your hands close
 enough to the ground that your designs are credible and buildable. And you accept that being an architect
 is being a **gardener, not a dictator** — you cultivate good decisions across teams you don't own, which
-means you must be able to be *disagreed with*, to *disagree and commit*, and to be *wrong gracefully*.
+means you must be able to be *disagreed with*, to *disagree and commit*[°](#w-disagree-and-commit), and to be *wrong gracefully*.
 *(This lesson pairs with the entire [Leadership]({{ '/leadership/learning-plan.html' | relative_url }})
 track's communication and influence phases — the people-judgment half of the architect's job.)*
 
@@ -59,7 +55,7 @@ track's communication and influence phases — the people-judgment half of the a
 doesn't manage the teams that implement the architecture — you have responsibility without command
 authority. So the currency is **influence**, not power: your designs get built because people trust your
 judgment and understand your reasoning, not because you can order them to. This means the classic
-technical-leadership skill (Leadership Phase 7, influence without authority) is *central* to
+technical-leadership skill (Leadership Phase 7, **influence without authority**[°](#w-influence-without-authority)) is *central* to
 architecture, not incidental. The architect who says "I decided, so build it" and expects compliance is
 operating on authority they don't have, and their designs quietly die of resistance, foot-dragging, and
 "not invented here."
@@ -71,7 +67,7 @@ saga here"). But people implement what they *believe in*, and belief comes from 
 deployability, which cost us the shared transaction, so we need a saga; here's why that trade is worth it
 here" — the team can *evaluate* it, *improve* it, and *own* it. When you decree the *what*, you get, at
 best, compliance without understanding (they'll implement it wrong the first time they hit a case you
-didn't specify) and, at worst, resentment. Selling the why also makes you *correctable*: if your
+didn't specify) and, at worst, resentment. **Selling the why**[°](#w-selling-the-why) also makes you *correctable*: if your
 reasoning has a flaw, letting people see it means they can catch it — which is a feature, not a
 vulnerability.
 
@@ -111,7 +107,7 @@ fair hearing, the architect (and everyone) must be able to fully back a decision
 the team can move — endless relitigation is its own failure. And **being wrong gracefully:** an architect
 who can't be corrected, who defends a decision past the evidence to protect ego, destroys the trust their
 influence runs on; conversely, an architect who says "you're right, I missed that, let's change it" *gains*
-credibility. The whole stance is **gardener, not dictator** — you cultivate good decisions across teams by
+credibility. The whole stance is **gardener, not dictator**[°](#w-gardener-not-dictator) — you cultivate good decisions across teams by
 creating the conditions (shared reasoning, forums, standards, trust) in which they grow, rather than
 commanding outputs you have no authority to command. *(All of this is the [Leadership]({{
 '/leadership/learning-plan.html' | relative_url }}) track's material — influence, feedback,
@@ -161,7 +157,7 @@ on their actual product. Address the real fear, don't dismiss it.</li>
 lowest-common-denominator imposed on them — bring their requirements in as first-class inputs, design
 extension points for team-specific needs, and maybe pilot with them so it's shaped by a real hard case.
 Co-designing turns "a thing done to us" into "a thing we helped build," which is both better fit and
-genuine buy-in.</li>
+genuine **buy-in**[°](#w-buy-in).</li>
 </ul>
 <strong>Meet each audience where they are and use a forum.</strong> Frame the value in each team's terms
 (velocity reclaimed for A, fit + influence for B), and run the discussion as a collaborative
@@ -304,6 +300,20 @@ it is, involving the people who'll build it, staying close enough to the ground 
 able to disagree-and-commit and be wrong gracefully — the people-judgment half of the architect's job that
 pairs with everything technical in this track.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-influence-without-authority"></a>**influence without authority** — getting people to do something when you don't manage them; the architect's normal condition.
+- <a id="w-selling-the-why"></a>**selling the why** — persuading with the reasoning and trade-offs behind a decision, not decreeing the *what*.
+- <a id="w-buy-in"></a>**buy-in** — genuine agreement and commitment from the people who'll implement, not mere compliance.
+- <a id="w-ivory-tower"></a>**ivory tower** — the disconnected architect who dictates from above and never touches the code; the anti-pattern.
+- <a id="w-disagree-and-commit"></a>**disagree and commit** — after a fair hearing, backing a decision you argued against, so the team can move.
+- <a id="w-architecture-guild-review"></a>**architecture guild / review** — a forum where architects and senior engineers align on standards and review designs together.
+- <a id="w-gardener-not-dictator"></a>**gardener, not dictator** — the model of an architect who cultivates good decisions across teams rather than commanding them.
 
 ---
 

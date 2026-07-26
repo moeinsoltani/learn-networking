@@ -17,15 +17,21 @@ them makes you a coworker people appreciate, while breaking them (even with good
 intentions) quietly annoys everyone. These norms are about respecting people's time,
 attention, and focus in a shared async space.
 
-```
-   THE UNWRITTEN RULES:
+Asynchronous work has unwritten rules, and breaking them is the fastest way to
+irritate a team without realising it.
 
-   • use THREADS for replies (don't clutter the main channel)
-   • @channel / @here sparingly (you're pinging everyone)
-   • don't expect instant replies (async = read when convenient)
-   • schedule-send off-hours messages (don't pressure people)
-   • react with emoji to acknowledge (👍 instead of a "got it" message)
-```
+- **Use threads for replies**, rather than cluttering the main channel.
+- **Use @channel and @here sparingly** — you are interrupting everybody, and
+  people notice who does it.
+- **Don't expect instant replies.** Async means people read when it is
+  convenient; a follow-up "?" after twenty minutes reads as pressure.
+- **Schedule-send off-hours messages.** Writing at 11pm is your business; making
+  someone's phone buzz at 11pm is theirs.
+- **React with an emoji to acknowledge** — a 👍 does the work of a "got it"
+  message without adding a notification for everyone in the thread.
+
+None of these is about grammar, and all of them affect how you are perceived
+far more than your grammar does.
 
 None of these are written down, but violating them — @channel-ing for a non-urgent
 thing, sending messages at midnight, expecting instant replies — creates friction and

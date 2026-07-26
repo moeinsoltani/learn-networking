@@ -10,18 +10,7 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 12: How Much Should a Lead Still Code?
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **crunch** — a period of intense deadline pressure.
-> - **scope** (of a role) — how much responsibility it covers: people, teams, systems.
-> - **credibility** — being trusted because your judgment has proven good; a technical leader's currency.
-> - **top committer** — the person who ships the most code (not what credibility requires).
-> - **technical surface** — the activity through which you stay in contact with the code (for leads: mostly code review).
-> - **incident response** — jumping in on live production problems.
-> - **sustainable** — a level you can keep up indefinitely without burning out.
-> - **autopilot** — acting from habit instead of deliberate choice.
-> - **opportunity cost** — what the time *could* have produced instead (Lesson 11).
-> - **critical path / hero trap / lost-touch trap** — see Lesson 03; this lesson lives between those two failures.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -33,22 +22,27 @@ direction is a common, costly mistake.
 
 The two failure modes bracket the answer:
 
-```
-   TOO MUCH CODING                        TOO LITTLE CODING
-   ────────────────                       ──────────────────
-   the hero trap (Lesson 3):              the lost-touch trap (Lesson 3):
-   on the critical path, bottleneck,      can't review designs credibly,
-   team can't grow, leverage work         makes disconnected decisions,
-   undone                                  loses the team's respect
+There are two ways to get the amount of hands-on coding wrong, and they fail in
+opposite directions.
 
-        ← the sustainable level lives in between, and MOVES →
-              with role, team size, and situation
-```
+**Too much coding** lands you back in the hero trap from Lesson 03: you are on
+the critical path, you become the bottleneck, the team cannot grow into the
+work, and your own leverage work goes undone.
+
+**Too little coding** produces the opposite problem — losing touch. You cannot
+review designs credibly, you make decisions disconnected from what the code is
+actually like to work in, and over time you lose the team's technical respect.
+
+The sustainable level lives between them, and it **moves**: with your role,
+with the size of the team, and with the situation. A useful heuristic is to
+take work that is real but not on the critical path — the unglamorous fix, the
+test harness, the spike — so that being pulled into a meeting for a day costs
+the team nothing.
 
 The level isn't fixed — it shifts with your role (a tech lead of a small team
 codes far more than an EM of two teams) and with the situation (more hands-on
-during a crunch or a critical incident, less during a period of heavy people-work
-or planning). The skill is finding *your* sustainable level for *your* situation,
+during a **crunch**[°](#w-crunch) or a critical incident, less during a period of heavy people-work
+or planning). The skill is finding *your* **sustainable**[°](#w-sustainable) level for *your* situation,
 staying technically credible without becoming a bottleneck — and adjusting it
 deliberately as things change, rather than defaulting to either extreme.
 
@@ -58,7 +52,7 @@ deliberately as things change, rather than defaulting to either extreme.
 
 ### It scales inversely with role scope
 
-The rough rule: the more people and scope you're responsible for, the less you
+The rough rule: the more people and **scope**[°](#w-scope) you're responsible for, the less you
 code, because the leverage math shifts. A **tech lead of a 4-person team** might
 code 30–50% — the team is small enough that your hands add meaningful throughput,
 and staying deep is part of the role. An **EM of an 8-person team** might code
@@ -67,7 +61,7 @@ leverage-work, your coding time is better spent elsewhere, and being on the
 critical path across a bigger team is riskier. An **EM of two teams / a senior
 EM** might code ~0% on the critical path — their leverage is entirely in people,
 direction, and cross-team work, and any coding is exploratory/learning, not
-delivery. As scope grows, the opportunity cost of your coding rises (the leverage
+delivery. As scope grows, the **opportunity cost**[°](#w-opportunity-cost) of your coding rises (the leverage
 work you're not doing is worth more) and the risk of bottlenecking grows (more
 people depend on your availability) — so coding time compresses.
 
@@ -87,7 +81,7 @@ little.
 
 Beyond review, the ways to stay technically deep off the critical path (Lesson 3):
 **spikes and prototypes** (exploring risky approaches, evaluating tools — deep
-work that blocks nobody), **incident response** (jumping into real production
+work that blocks nobody), **incident response**[°](#w-incident-response) (jumping into real production
 problems keeps you connected to how the system actually behaves and fails),
 **pairing to teach** (deep technical engagement that also grows people), and
 **tooling/DX work** (improving the team's technical foundation). These let you
@@ -98,7 +92,7 @@ trap.
 
 ### The credibility question
 
-A real consideration: technical credibility matters for a technical leader — the
+A real consideration: technical **credibility**[°](#w-credibility) matters for a technical leader — the
 team follows your technical direction partly because they respect your judgment,
 and design reviews, architecture decisions, and technical calls require you to
 genuinely understand the work. This argues for staying technical *enough* to
@@ -108,7 +102,7 @@ from *demonstrated judgment* (good calls, insightful reviews, understanding the
 system) more than from *volume of code shipped* — so you can maintain credibility
 with relatively little hands-on coding as long as you stay genuinely engaged with
 the technical substance through review, design, and staying informed. The mistake
-is thinking credibility requires being the top committer; it requires being
+is thinking credibility requires being the **top committer**[°](#w-top-committer); it requires being
 technically sharp, which review and engagement sustain.
 
 {: .note }
@@ -119,7 +113,7 @@ technically sharp, which review and engagement sustain.
 > temporarily. During a period of heavy hiring, planning, or team turmoil, coding
 > drops toward zero because the people-work is where you're needed. A new, small
 > team needs more of your hands than a mature, larger one. The failure is being on
-> autopilot at either extreme — reflexively coding because it's comfortable
+> **autopilot**[°](#w-autopilot) at either extreme — reflexively coding because it's comfortable
 > (drifting to hero), or reflexively refusing because "I'm a manager now"
 > (drifting to lost-touch). Read what the situation needs and set your level to
 > match, revisiting it as things change.
@@ -169,7 +163,7 @@ performance, hiring — real people-work), coordination, and planning, your leve
 has shifted toward people and direction, and being on the critical path across a
 bigger team is riskier (more people wait on you, more meetings pull you away
 mid-task). So the coding budget compresses and its <em>kind</em> changes:
-primarily <strong>code review</strong> as your main technical surface (staying
+primarily <strong>code review</strong> as your main **technical surface**[°](#w-technical-surface) (staying
 across the codebase and the team's work, spreading standards, growing people
 through review), plus occasional spikes/prototypes (exploring a risky approach off
 the critical path) and incident response (staying connected to how the system
@@ -399,6 +393,23 @@ work</em>, exercised increasingly through review, decisions, and direction rathe
 than through your own hands on the keyboard, calibrated to your scope and
 adjusted to your situation.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-crunch"></a>**crunch** — a period of intense deadline pressure.
+- <a id="w-scope"></a>**scope** (of a role) — how much responsibility it covers: people, teams, systems.
+- <a id="w-credibility"></a>**credibility** — being trusted because your judgment has proven good; a technical leader's currency.
+- <a id="w-top-committer"></a>**top committer** — the person who ships the most code (not what credibility requires).
+- <a id="w-technical-surface"></a>**technical surface** — the activity through which you stay in contact with the code (for leads: mostly code review).
+- <a id="w-incident-response"></a>**incident response** — jumping in on live production problems.
+- <a id="w-sustainable"></a>**sustainable** — a level you can keep up indefinitely without burning out.
+- <a id="w-autopilot"></a>**autopilot** — acting from habit instead of deliberate choice.
+- <a id="w-opportunity-cost"></a>**opportunity cost** — what the time *could* have produced instead (Lesson 11).
+- <a id="w-critical-path-hero-trap-lost-touch-trap"></a>**critical path / hero trap / lost-touch trap** — see Lesson 03; this lesson lives between those two failures.
 
 ---
 

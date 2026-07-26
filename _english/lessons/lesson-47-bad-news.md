@@ -18,19 +18,21 @@ how you do it shapes trust more than almost anything. The instinct is to hide, d
 The skill is the opposite: **deliver it early, honestly, and with ownership and a plan** — which,
 counterintuitively, builds trust rather than destroying it.
 
-```
-   DELIVERING BAD NEWS WELL:
-   ┌──────────────────────────────────────────────────────┐
-   │ • EARLY        as soon as you know (not at the deadline)│
-   │ • DIRECT       lead with it, don't bury or spin         │
-   │ • OWN it       no blame-shifting, no excuses            │
-   │ • CONTEXT      what happened & why (briefly, factual)   │
-   │ • PLAN         what you're doing about it / options     │
-   │ • (for people) acknowledge the impact on them           │
-   └──────────────────────────────────────────────────────┘
+Delivering bad news well is a learnable sequence:
 
-   Early + honest + owned + a plan → trust. Hidden/spun → broken trust.
-```
+- **Early** — as soon as you know, not at the deadline.
+- **Direct** — lead with it; don't bury it or spin it.
+- **Own it** — no blame-shifting and no excuses.
+- **Context** — what happened and why, briefly and factually.
+- **Plan** — what you are doing about it, or the options.
+- **For people news** — acknowledge the impact on them.
+
+The equation worth remembering: **early, honest, owned, with a plan → trust.
+Hidden or spun → broken trust.**
+
+The counter-intuitive part is that bad news delivered well can *increase*
+confidence in you. What damages trust is rarely the problem itself; it is
+finding out late, or finding out that you knew and shaped the telling of it.
 
 The reframe: **bad news delivered well builds trust; bad news hidden or spun destroys it.** People
 can handle bad news — what they can't handle is being blindsided, misled, or left without a plan.

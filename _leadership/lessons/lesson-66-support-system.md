@@ -10,39 +10,32 @@ parent: "Phase 12: Your Path"
 
 # Lesson 66: Building Your Support System
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **support system** — the deliberately built network of peers, mentors, and resources that keeps a leader learning and sane.
-> - **vent** — to release frustration by talking freely; you can't do it to your own team.
-> - **peer group** — fellow leads/managers facing the same problems, inside and outside your company.
-> - **LeadDev / Rands Leadership Slack** — the two best-known engineering-leadership communities (conference+site / a large Slack community).
-> - **mentor one step ahead** — someone who has already done your *next* job, not just your current one.
-> - **executive/leadership coach** — a paid professional thinking-partner for your growth; a strength, not a weakness.
-> - **stigma** — social shame attached to something (therapy, coaching) that stops people using it.
-> - **Manager Tools** — a long-running management podcast and framework.
-> - **decision journal** — recording big decisions (what, why, expected outcome, confidence) and reviewing later to improve your judgment.
-> - **derail** — to be knocked off course; what isolation does to new leaders.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Leadership is lonelier than individual contribution — you can't vent to your team, your problems are more
+Leadership is lonelier than individual contribution — you can't **vent**[°](#w-vent) to your team, your problems are more
 ambiguous, and you're expected to have answers. Trying to learn it all alone is the **slowest possible way**
-(and the loneliest). The antidote is a deliberate **support system**: peers who get it (other leads/
-managers), mentors who've done your <em>next</em> job, communities and ongoing learning, and — without stigma
+(and the loneliest). The antidote is a deliberate **support system**[°](#w-support-system): peers who get it (other leads/
+managers), mentors who've done your <em>next</em> job, communities and ongoing learning, and — without **stigma**[°](#w-stigma)
 — coaching or therapy. Building this support system is not a luxury; it's how you learn faster, stay sane,
-and avoid the isolation that derails many new leaders.
+and avoid the isolation that **derails**[°](#w-derail) many new leaders.
 
-```
-   YOUR SUPPORT SYSTEM (stop learning leadership alone)
-   ┌──────────────────────────────────────────────────────┐
-   │ • PEER GROUPS: other leads/managers (inside & outside — │
-   │   LeadDev, Rands Leadership Slack)                     │
-   │ • MENTORS who've done your NEXT job                    │
-   │ • ongoing CURRICULA (StaffEng, Manager Tools, books)   │
-   │ • COACHING / THERAPY without stigma                    │
-   │ • a DECISION JOURNAL (learn from your own calls)       │
-   └──────────────────────────────────────────────────────┘
-```
+Most people try to learn leadership alone, which is slow and unnecessarily
+painful. Five sources of support are worth deliberately assembling.
+
+- **Peer groups** — other leads and managers, both inside your company and
+  outside it. Communities like LeadDev and the Rands Leadership Slack exist
+  precisely for this.
+- **Mentors who have done your *next* job**, not your current one. The person one
+  step ahead has the most transferable advice.
+- **Ongoing curricula**: StaffEng, Manager Tools, and the books in this track's
+  further reading. Leadership has a literature; most engineers never read it.
+- **Coaching or therapy, without stigma.** The job is emotionally load-bearing
+  in a way the IC job is not.
+- **A decision journal** — write down what you decided and what you expected, so
+  that in six months you can learn from your own calls rather than from your
+  memory of them, which will have quietly rewritten itself.
 
 The reframe: **don't learn leadership alone — build a deliberate support system, because peers, mentors, and
 communities let you learn far faster (and stay saner) than figuring it all out solo.** Leadership problems
@@ -58,7 +51,7 @@ hard parts.
 ### Peer groups — other leads and managers
 
 The most valuable support: **peers who are also leads/managers** — people facing the same kinds of problems,
-who <em>get it</em> in a way your team, your manager, or non-manager friends can't. Build peer groups both
+who <em>get it</em> in a way your team, your manager, or non-manager friends can't. Build **peer groups**[°](#w-peer-group) both
 **inside** your company (other leads/EMs — a natural, valuable network) and **outside** it (communities like
 **LeadDev**, the **Rands Leadership Slack**, local manager meetups, or a personal circle of manager friends).
 Peers provide: a safe place to vent and process (you can't vent to your team), advice from people who've
@@ -79,7 +72,7 @@ next</em> job (so they can guide you forward), not just peers at your level.
 
 Leadership is a deep field with rich **ongoing learning resources** — treat them as ongoing curricula, not
 one-time reads: **books** (*The Manager's Path*, *An Elegant Puzzle*, *Staff Engineer*, *The Making of a
-Manager*, *Crucial Conversations*, etc.), **Manager Tools** (the podcast/framework), **StaffEng.com** (for
+Manager*, *Crucial Conversations*, etc.), **Manager Tools**[°](#w-manager-tools) (the podcast/framework), **StaffEng.com** (for
 the technical-leadership path), **LeadDev** (articles, talks, conferences), and more. The point is that
 leadership skills can be <em>learned</em> (this whole course is that premise), and the best leaders keep
 learning — treating the rich body of leadership knowledge as an ongoing curriculum, not something you master
@@ -98,7 +91,7 @@ support (coaching, therapy) are often the ones who sustain and grow.
 
 ### A decision journal — learn from your own calls
 
-A powerful personal practice: keep a **decision journal** — record important decisions (what you decided,
+A powerful personal practice: keep a **decision journal**[°](#w-decision-journal) — record important decisions (what you decided,
 why, what you expected, your confidence) as you make them. Later, review: how did they turn out? was your
 reasoning sound? This (1) improves your judgment over time (you learn from your actual decisions, seeing
 where your reasoning was good or flawed — vs. hindsight-biased memory), (2) counters hindsight bias (you have
@@ -354,6 +347,23 @@ your own sustainability and growth. This sets up the capstone — the final less
 EM vs. Staff decision with real information, drawing on everything you've worked through, and keep it
 revisable. The last lesson brings the whole course to a personal decision about your path.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-support-system"></a>**support system** — the deliberately built network of peers, mentors, and resources that keeps a leader learning and sane.
+- <a id="w-vent"></a>**vent** — to release frustration by talking freely; you can't do it to your own team.
+- <a id="w-peer-group"></a>**peer group** — fellow leads/managers facing the same problems, inside and outside your company.
+- <a id="w-leaddev-rands-leadership-slack"></a>**LeadDev / Rands Leadership Slack** — the two best-known engineering-leadership communities (conference+site / a large Slack community).
+- <a id="w-mentor-one-step-ahead"></a>**mentor one step ahead** — someone who has already done your *next* job, not just your current one.
+- <a id="w-executive-leadership-coach"></a>**executive/leadership coach** — a paid professional thinking-partner for your growth; a strength, not a weakness.
+- <a id="w-stigma"></a>**stigma** — social shame attached to something (therapy, coaching) that stops people using it.
+- <a id="w-manager-tools"></a>**Manager Tools** — a long-running management podcast and framework.
+- <a id="w-decision-journal"></a>**decision journal** — recording big decisions (what, why, expected outcome, confidence) and reviewing later to improve your judgment.
+- <a id="w-derail"></a>**derail** — to be knocked off course; what isolation does to new leaders.
 
 ---
 

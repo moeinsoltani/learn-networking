@@ -10,39 +10,32 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 33: Growing Seniors into Leads
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **successor** — the person who could take over your role; **succession** — deliberately preparing them.
-> - **multiply yourself** — to create more leadership capacity than one person by growing others.
-> - **leadership signals** — the real predictors of leading well: making others better, caring about the team, judgment, communication — *not* coding skill.
-> - **aptitude** (AP-tih-tood) — natural ability for something.
-> - **acting lead** — someone temporarily doing a lead's job as a bounded trial ("acting" = temporary, as in an acting manager).
-> - **bounded** — with clear limits in time and scope.
-> - **fail safely** — to make mistakes where the damage is recoverable (Lesson 31's blast radius).
-> - **over-protect** — to prevent all mistakes, and with them all learning.
-> - **hoarding your role** — clinging to responsibilities out of insecurity.
-> - **threatened** — feeling your position is endangered by someone else's ambition (the small, self-defeating reaction).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 The highest form of developing people is **growing the next generation of leaders** — turning your
-strong seniors into leads. It's also how you *multiply yourself*: giving away pieces of your own job
-develops others and frees you for higher leverage, and building successors is what lets you (and the
+strong seniors into leads. It's also how you *multiply yourself*[°](#w-multiply-yourself): giving away pieces of your own job
+develops others and frees you for higher leverage, and building **successors**[°](#w-successor) is what lets you (and the
 org) grow. But it requires overcoming a specific fear (giving away your own responsibilities) and a
 common mistake (thinking the best coder is the natural lead — leadership potential is different).
 
-```
-   GROWING LEADS = MULTIPLYING YOURSELF
-   ┌──────────────────────────────────────────────────────┐
-   │ • spot LEAD potential (NOT just the best coder)        │
-   │ • give away pieces of YOUR job deliberately            │
-   │ • let them lead — and fail safely — with support       │
-   │ • "acting lead" trials (lead something real, bounded)  │
-   │ • build successors → you can grow, team is resilient   │
-   └──────────────────────────────────────────────────────┘
-   Leadership potential ≠ coding skill. Give away your job to
-   grow people — and to free yourself for higher leverage.
-```
+Growing other leads is how you multiply yourself, and it comes down to five
+deliberate habits.
+
+- **Spot leadership potential** — which is *not* the same as being the best
+  coder, and mistaking the two is the most common way teams get bad leads.
+- **Give away pieces of your job deliberately**, not just when you are drowning.
+- **Let them lead — and fail safely — with support behind them.**
+- Run **"acting lead" trials**: something real, but bounded, that they own end
+  to end while you are still there.
+- **Build successors**, so that you can move and the team stays resilient.
+
+The point to hold on to: leadership potential and coding skill are different
+axes. Promoting your strongest engineer into a lead role by default is how you
+lose a strong engineer and gain a struggling lead. And giving your job away is
+not self-sabotage — it is the only thing that frees you for higher-leverage
+work.
 
 The reframe: **grow leaders by deliberately giving away pieces of your own job — and spot potential by
 leadership signals, not coding skill.** The instinct is to hold onto your responsibilities (they're
@@ -58,9 +51,9 @@ people out, caring about the team, judgment, communication) is different from �
 ### Spot lead potential — it's not the best coder
 
 The most common mistake: assuming the **best engineer** is the natural next lead. Coding skill and
-leadership potential are *different things* — the best coder may have no interest in or aptitude for
+leadership potential are *different things* — the best coder may have no interest in or **aptitude**[°](#w-aptitude) for
 leading (and promoting them can lose a great engineer and gain a poor lead — the classic error). Look
-instead for **leadership signals**: do they make others better (mentoring, drawing people out)? Do they
+instead for **leadership signals**[°](#w-leadership-signals): do they make others better (mentoring, drawing people out)? Do they
 care about the team, not just their own work? Do they show good judgment on ambiguous, non-technical
 problems? Do they communicate well and build trust? Do others already look to them? These — not raw
 coding ability — predict leadership. (Some strong coders have them too; the point is that coding skill
@@ -88,7 +81,7 @@ learning; letting them lead for real (with a safety net) is how leadership devel
 
 ### The "acting lead" trial
 
-A powerful, concrete tool: an **"acting lead" trial** — have the person lead something real and bounded
+A powerful, concrete tool: an **"acting lead" trial** — have the person lead something real and **bounded**[°](#w-bounded)
 (cover for you while you're out, lead a sub-project, run the team for a sprint). This gives them (and
 you) real information about their leadership — a genuine, bounded trial where they experience leading,
 you see how they do, and they learn whether they even want it (many discover leadership isn't what they
@@ -103,7 +96,7 @@ a good thing (it's your job to develop them, and their growth reflects well on y
 your position; (2) **actively develop them** — give them leadership opportunities, sponsor them, help
 them get there; (3) **be honest about the path** — what they need to develop, what opportunities exist.
 A lead who develops successors (even to their own role) is doing their job well and is more promotable
-themselves (you can't move up if no one can replace you). Hoarding your role or feeling threatened by
+themselves (you can't move up if no one can replace you). **Hoarding your role**[°](#w-hoarding-your-role) or feeling **threatened**[°](#w-threatened) by
 ambition is small and self-defeating; developing successors is how everyone grows.
 
 {: .note }
@@ -113,8 +106,8 @@ ambition is small and self-defeating; developing successors is how everyone grow
 > <em>leadership signals</em> — making others better, caring about the team, judgment, communication,
 > others looking to them — <em>not</em> raw coding skill (the best coder isn't necessarily the natural
 > lead, and promoting them can lose a great engineer and gain a poor lead). Deliberately give away pieces
-> of your own job (overcoming the fear), let people actually lead and fail safely (real ownership with a
-> safety net, not over-protection), use "acting lead" trials (real, bounded leadership), and handle
+> of your own job (overcoming the fear), let people actually lead and **fail safely**[°](#w-fail-safely) (real ownership with a
+> safety net, not over-protection), use "**acting lead**[°](#w-acting-lead)" trials (real, bounded leadership), and handle
 > ambition generously (develop successors, even to your own role — it's your job and makes you more
 > promotable). Building successors is how you, your team, and the org all grow.
 
@@ -348,6 +341,23 @@ It's the culmination of the development work in this phase. The last Phase 6 les
 side — making sure no one (including you) is irreplaceable — succession and the bus factor, de-risking the
 team's dependence on any single person.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-successor"></a>**successor** — the person who could take over your role; <a id="w-succession"></a>**succession** — deliberately preparing them.
+- <a id="w-multiply-yourself"></a>**multiply yourself** — to create more leadership capacity than one person by growing others.
+- <a id="w-leadership-signals"></a>**leadership signals** — the real predictors of leading well: making others better, caring about the team, judgment, communication — *not* coding skill.
+- <a id="w-aptitude"></a>**aptitude** (AP-tih-tood) — natural ability for something.
+- <a id="w-acting-lead"></a>**acting lead** — someone temporarily doing a lead's job as a bounded trial ("acting" = temporary, as in an acting manager).
+- <a id="w-bounded"></a>**bounded** — with clear limits in time and scope.
+- <a id="w-fail-safely"></a>**fail safely** — to make mistakes where the damage is recoverable (Lesson 31's blast radius).
+- <a id="w-over-protect"></a>**over-protect** — to prevent all mistakes, and with them all learning.
+- <a id="w-hoarding-your-role"></a>**hoarding your role** — clinging to responsibilities out of insecurity.
+- <a id="w-threatened"></a>**threatened** — feeling your position is endangered by someone else's ambition (the small, self-defeating reaction).
 
 ---
 

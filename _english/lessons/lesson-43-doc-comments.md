@@ -19,16 +19,22 @@ you're right. As a lead, your written comments carry weight and set the tone, so
 warm-and-clear matters a lot. (Code-review comments get their own lesson — 45 — this one is
 about doc/design comments.)
 
-```
-   A BLUNT COMMENT              A WARM, CLEAR COMMENT
-   ──────────────              ─────────────────────
-   "This won't scale."         "One thing I'm wondering about: how does this
-                                hold up under peak load? I'm worried the sync
-                                call might bottleneck — could we consider a
-                                queue here? What do you think?"
+The same technical concern can be a verdict or an invitation.
 
-   Clear about the concern · warm about the delivery · a question, not a verdict
-```
+> **Blunt:** "This won't scale."
+
+> **Warm and clear:** "One thing I'm wondering about: how does this hold up
+> under peak load? I'm worried the sync call might bottleneck — could we
+> consider a queue here? What do you think?"
+
+The second version is not vaguer. The concern is *more* specific — it names the
+condition (peak load), the mechanism (the synchronous call), and a possible
+remedy (a queue).
+
+Three things make it land: it is **clear about the concern**, **warm about the
+delivery**, and phrased as **a question rather than a verdict**. That last one
+matters most in a document review, where the author has usually thought about
+this more than you have and may simply have a good answer.
 
 The reframe: **a written comment lacks tone of voice, so it reads harsher than you mean** — the
 same words that would be fine said warmly in person can feel cold or critical in text. So written

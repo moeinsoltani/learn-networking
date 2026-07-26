@@ -10,18 +10,7 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 14: Explaining Technology to Non-Technical People
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **analogy** (ah-NAL-oh-jee) — explaining something unfamiliar by mapping it onto something familiar ("tech debt is like a loan").
-> - **quantify** — to put a number on something; **units** — here: the measures an audience reasons in (money, risk, time — not milliseconds).
-> - **latency** (LAY-ten-see) — delay; how long a system takes to respond.
-> - **cascading failure** — one component's failure triggering others, like dominoes.
-> - **condescending** (kon-deh-SEN-ding) — talking down to someone as if they're less intelligent.
-> - **dumb down** — to oversimplify until real meaning is lost (not the goal; clarity is).
-> - **the "so what"** — the part of an explanation that says why it matters to the listener.
-> - **diminishing returns** — each additional unit of effort produces less benefit than the last.
-> - **CFO** — Chief Financial Officer, the executive who controls the money.
-> - **two-sentence version** — this lesson's discipline: the essential *what* and *so-what* of any technical situation, compressed.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,22 +21,25 @@ situation, but they don't share your vocabulary or mental models. The skill is
 making them genuinely *understand* (or at least *feel*) the technical reality
 without the jargon — so they can make good decisions.
 
-```
-   THE WRONG WAY                          THE RIGHT WAY
-   ─────────────                          ─────────────
-   "we need to refactor the auth          "right now, every change to how
-    service because the coupling           people log in risks breaking the
-    creates cascading failures and         whole system, which is why it's slow
-    the tech debt is slowing velocity"     and risky — like a house where you
-        → they nod, understand nothing,    can't fix one room without the others
-          make a bad decision              collapsing"
-                                            → they GET it, decide well
-```
+Compare two ways of asking for the same thing.
+
+**The wrong way:** "We need to refactor the auth service because the coupling
+creates cascading failures and the tech debt is slowing velocity." Everyone
+nods, nobody understands, and a bad decision gets made — politely.
+
+**The right way:** "Right now, every change to how people log in risks breaking
+the whole system, which is why that work is slow and risky — it's like a house
+where you can't fix one room without the others collapsing."
+
+The second version contains no jargon, no loss of accuracy, and one concrete
+image. Non-engineers can weigh it, argue with it, and fund it. Note what did
+*not* happen: nothing was dumbed down. The technical claim is identical; only
+the vocabulary changed.
 
 Two moves make this work: **translate into their units** (money, risk, time,
 customer impact — the things they actually reason about), and **use analogies**
 that map the technical situation onto something they already understand. The goal
-isn't to dumb it down (which is condescending and loses real meaning) — it's to
+isn't to dumb it down (which is **condescending**[°](#w-condescending) and loses real meaning) — it's to
 convey the *essential reality* in a form they can reason with.
 
 ---
@@ -56,20 +48,20 @@ convey the *essential reality* in a form they can reason with.
 
 ### Quantify in their units
 
-Non-technical decision-makers reason in business units: money, risk, time,
+Non-technical decision-makers reason in business **units**[°](#w-units): money, risk, time,
 customer impact, competitive position. So translate technical facts into those:
-not "high latency" but "pages load in 4 seconds, and we lose ~7% of users for
+not "high **latency**[°](#w-latency)" but "pages load in 4 seconds, and we lose ~7% of users for
 every second — that's costing us [X]"; not "tech debt" but "features in this area
 take 3x longer, and it causes [N] outages a quarter" (Lesson 11's whole approach);
 not "we need better testing" but "we ship bugs to customers [N] times a month, and
 each erodes trust and costs support time." The technical fact becomes a business
-fact they can weigh against other business facts. Quantify wherever you can —
+fact they can weigh against other business facts. **Quantify**[°](#w-quantify) wherever you can —
 numbers in their units are far more persuasive and understandable than technical
 adjectives.
 
 ### Analogies that carry weight (and their limits)
 
-A good analogy maps an unfamiliar technical situation onto something the audience
+A good **analogy**[°](#w-analogy) maps an unfamiliar technical situation onto something the audience
 already understands, letting them reason about it: technical debt as financial
 debt (borrow speed now, pay interest later); a monolith's coupling as a house
 where you can't renovate one room without the others collapsing; scaling as a
@@ -89,7 +81,7 @@ question: what's going on (in their terms), what it means for them (impact,
 options, trade-offs), and what you recommend or need. "It's late because the
 integration turned out to require rebuilding a component we thought we could
 reuse — that's the [X weeks]. The options are [ship reduced scope on time /
-full scope late / add people with diminishing returns], and I recommend [Y]
+full scope late / add people with **diminishing returns**[°](#w-diminishing-returns)], and I recommend [Y]
 because [business reason]." That's what they can act on — not the technical
 details of why the component couldn't be reused.
 
@@ -124,7 +116,7 @@ core that matters to them.
 legacy database that's increasingly unreliable and expensive). The migration is
 going to need three more months than originally planned — the legacy system's data
 turned out to be messier and more entangled than anyone knew, and rushing it risks
-data corruption. You need to explain this to the CFO, who controls the budget, is
+data corruption. You need to explain this to the **CFO**[°](#w-cfo), who controls the budget, is
 frustrated about the delay, and is not technical.
 
 **Explain to the CFO why the migration needs three more months — WITHOUT using the
@@ -381,6 +373,23 @@ decision-enabling — excellent, that's a rare and valuable skill; the practice 
 maintaining it as a default rather than slipping into the technical shorthand
 that's natural among engineers but opaque to the stakeholders a lead must reach.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-analogy"></a>**analogy** (ah-NAL-oh-jee) — explaining something unfamiliar by mapping it onto something familiar ("tech debt is like a loan").
+- <a id="w-quantify"></a>**quantify** — to put a number on something; <a id="w-units"></a>**units** — here: the measures an audience reasons in (money, risk, time — not milliseconds).
+- <a id="w-latency"></a>**latency** (LAY-ten-see) — delay; how long a system takes to respond.
+- <a id="w-cascading-failure"></a>**cascading failure** — one component's failure triggering others, like dominoes.
+- <a id="w-condescending"></a>**condescending** (kon-deh-SEN-ding) — talking down to someone as if they're less intelligent.
+- <a id="w-dumb-down"></a>**dumb down** — to oversimplify until real meaning is lost (not the goal; clarity is).
+- <a id="w-the-so-what"></a>**the "so what"** — the part of an explanation that says why it matters to the listener.
+- <a id="w-diminishing-returns"></a>**diminishing returns** — each additional unit of effort produces less benefit than the last.
+- <a id="w-cfo"></a>**CFO** — Chief Financial Officer, the executive who controls the money.
+- <a id="w-two-sentence-version"></a>**two-sentence version** — this lesson's discipline: the essential *what* and *so-what* of any technical situation, compressed.
 
 ---
 

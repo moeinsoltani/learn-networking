@@ -10,20 +10,7 @@ parent: "Phase 1: The Transition"
 
 # Lesson 03: Letting Go of the Code
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **anti-pattern** — a common solution that looks right but reliably causes harm.
-> - **hero** (as a work pattern) — the person who saves every crisis personally; here, a trap, not a compliment.
-> - **critical path** — the chain of tasks that directly determines the delivery date; anything on it blocks others when it slips.
-> - **bus factor** — how many people could disappear ("be hit by a bus") before the project fails; a bus factor of one means everything depends on one person.
-> - **spike** — a short, throwaway technical investigation to answer a question or prove an approach.
-> - **proof-of-concept / prototype** — a rough working demo built to test an idea, not to ship.
-> - **DX (developer experience)** — the quality of the team's tools: build, tests, CI, dev environment.
-> - **pairing** — two people working at one screen; here, used to teach.
-> - **descope** — to cut a piece of work out of a deadline to make it achievable.
-> - **learned helplessness** — giving up trying because someone always takes over.
-> - **tribal knowledge** — important information that lives only in people's heads, never written down.
-> - **single point of failure** — the one component (or person) whose loss breaks everything.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -37,26 +24,26 @@ something is hard, urgent, or important, takes it on personally because they're
 fastest and most reliable. It feels responsible. It feels like leadership. It is
 the opposite:
 
-```
-   THE HERO TRAP                          THE MULTIPLIER
+When a hard, important task appears, you have two available reflexes — and the
+difference between them compounds over a year.
 
-   hard/important task appears            hard/important task appears
-        │                                      │
-   "I'll do it, I'm fastest"              "who should own this, and how
-        │                                  do I set them up to succeed?"
-        ▼                                      ▼
-   task done fast (once)                  task done (maybe slower once)
-   BUT:                                   AND:
-   • team never learns to do it           • someone grew and can now do
-   • you become the bottleneck              it (and the next one)
-   • bus factor = 1 (you)                 • you're free for leverage work
-   • your leverage work doesn't get       • team's ceiling rises above
-     done                                   your personal throughput
-   • team's ceiling = YOUR throughput
-```
+**The hero trap** says *"I'll do it, I'm fastest."* And that is often true: the
+task gets done fast, once. But the team never learns to do it, you become the
+bottleneck for that kind of work, the bus factor for it is one — you — and your
+own leverage work goes undone. The team's ceiling ends up set at your personal
+throughput.
+
+**The multiplier** asks a different question: *"who should own this, and how do
+I set them up to succeed?"* The task still gets done, possibly slower this
+first time. But someone grew and can now do it — and the next one like it. You
+stay free for the work only you can do. And the team's ceiling rises above what
+you could ever have produced alone.
+
+Both reflexes feel responsible in the moment. Only one of them is still working
+in six months.
 
 Every time you take the hard task, you cap your team's capability at your own —
-they never develop, you stay the single point of failure, and the high-leverage
+they never develop, you stay the **single point of failure**[°](#w-single-point-of-failure), and the high-leverage
 work only you can do (direction, growing people, unblocking) goes undone because
 you're heads-down coding. The team that depends on its lead for every hard
 problem is a fragile team with a burned-out lead.
@@ -65,7 +52,7 @@ But — and this is the balance the lesson holds — "letting go of the code"
 does *not* mean becoming a non-technical manager who hasn't touched a codebase
 in years and makes disconnected decisions. That's the opposite failure. The
 skill is staying technically engaged in the *safe* ways while getting off the
-critical path.
+**critical path**[°](#w-critical-path).
 
 ---
 
@@ -102,7 +89,7 @@ Get *off the critical path* while staying technically sharp:
 - **Code review as your primary technical surface** (Lesson 28) — you stay
   intimately connected to the codebase, spread knowledge and standards, and grow
   people, all without owning delivery of any single piece.
-- **Pairing and incident response** — pairing to teach (not to take over),
+- **Pairing and incident response** — **pairing**[°](#w-pairing) to teach (not to take over),
   and jumping in on genuine emergencies (where speed genuinely wins — Lesson
   01's exception) then making them teaching moments.
 
@@ -123,7 +110,7 @@ Lesson 05's psychology) is part of doing it well.
 > When you're tempted to take a technical task, ask: is this on the critical
 > path — does a deadline or another person's progress depend on me finishing
 > it? If yes, that's almost always a signal to delegate it (and coach), not do
-> it. If no — it's a spike, a tool, a review, an exploration that helps but
+> it. If no — it's a **spike**[°](#w-spike), a tool, a review, an exploration that helps but
 > blocks no one — go deep, enjoy it, stay sharp. Off the critical path is where
 > a lead's remaining hands-on work lives.
 
@@ -153,7 +140,7 @@ take over"; it's "understand the real trade and choose deliberately, weighting
 the second-order effects the hero-brain ignores."
 <br><br>
 <strong>The default (don't take over) and why:</strong> Taking over saves this
-feature but incurs the full hero cost — Marcus doesn't grow (he learns "when it's
+feature but incurs the full **hero**[°](#w-hero) cost — Marcus doesn't grow (he learns "when it's
 hard, the lead takes it," which makes him <em>less</em> likely to push through
 next time), you've signaled to the whole team that hard problems flow away from
 them, you've spent your leverage time on one task, and you've reinforced bus-
@@ -161,7 +148,7 @@ factor-one. And it may not even be necessary. So the first move is usually
 <em>not</em> "take over" but <strong>"help Marcus succeed"</strong>: pair with
 him on the hard part for an hour or two (teaching, not taking the keyboard),
 unblock the specific thing he's stuck on, bring in another engineer to pair, or
-descope the feature so the tricky part isn't on the critical path. This often
+**descope**[°](#w-descope) the feature so the tricky part isn't on the critical path. This often
 recovers the timeline <em>and</em> grows Marcus <em>and</em> keeps you off the
 critical path — the best outcome.
 <br><br>
@@ -354,6 +341,25 @@ that gets stronger instead of one that stays dependent. If the audit reveals you
 a sign you've internalized the shift; the ongoing discipline is just not relapsing
 under deadline pressure.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-anti-pattern"></a>**anti-pattern** — a common solution that looks right but reliably causes harm.
+- <a id="w-hero"></a>**hero** (as a work pattern) — the person who saves every crisis personally; here, a trap, not a compliment.
+- <a id="w-critical-path"></a>**critical path** — the chain of tasks that directly determines the delivery date; anything on it blocks others when it slips.
+- <a id="w-bus-factor"></a>**bus factor** — how many people could disappear ("be hit by a bus") before the project fails; a bus factor of one means everything depends on one person.
+- <a id="w-spike"></a>**spike** — a short, throwaway technical investigation to answer a question or prove an approach.
+- <a id="w-proof-of-concept-prototype"></a>**proof-of-concept / prototype** — a rough working demo built to test an idea, not to ship.
+- <a id="w-dx-developer-experience"></a>**DX (developer experience)** — the quality of the team's tools: build, tests, CI, dev environment.
+- <a id="w-pairing"></a>**pairing** — two people working at one screen; here, used to teach.
+- <a id="w-descope"></a>**descope** — to cut a piece of work out of a deadline to make it achievable.
+- <a id="w-learned-helplessness"></a>**learned helplessness** — giving up trying because someone always takes over.
+- <a id="w-tribal-knowledge"></a>**tribal knowledge** — important information that lives only in people's heads, never written down.
+- <a id="w-single-point-of-failure"></a>**single point of failure** — the one component (or person) whose loss breaks everything.
 
 ---
 

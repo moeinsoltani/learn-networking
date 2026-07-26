@@ -19,17 +19,25 @@ writing signals confusion (or hiding it). Your goal is never to sound smart — 
 understood with the least effort from the reader. This is *especially* freeing for a
 non-native speaker: plain language is easier to write correctly and lands better.
 
-```
-   TRYING TO SOUND SMART            PLAIN & CLEAR (better)
-   ────────────────────            ──────────────────────
-   "utilize"                       "use"
-   "in order to"                   "to"
-   "at this point in time"         "now"
-   "we endeavored to facilitate"   "we tried to help"
-   "It is imperative to note that" "Note that" / (just say it)
+Much bad writing comes from trying to sound clever rather than to be
+understood.
 
-   Write to be UNDERSTOOD, not to sound impressive.
-```
+| Trying to sound smart | Plain and clear (better) |
+|---|---|
+| "utilize" | "use" |
+| "in order to" | "to" |
+| "at this point in time" | "now" |
+| "we endeavored to facilitate" | "we tried to help" |
+| "It is imperative to note that" | "Note that" — or just say the thing |
+
+The instinct behind the left column is understandable, and in a second language
+it is especially strong: longer words feel more professional and more
+defensible. In English-speaking workplaces the effect is the opposite. Plain
+words read as confident; elaborate ones read as padding, or as someone hiding
+a thin argument.
+
+**Write to be understood, not to sound impressive.** The most senior people you
+work with will almost always be the ones writing most simply.
 
 The reframe: **plain writing is a sign of strength, not simplicity of mind.** The clearest
 thinkers write the most simply — they've done the work of understanding something well enough

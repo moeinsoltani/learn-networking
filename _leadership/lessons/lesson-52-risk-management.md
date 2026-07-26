@@ -10,38 +10,32 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 52: Risk Management
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **pre-mortem** — imagining the project has *already failed* and asking why; surfaces the risks optimism hides (opposite of a post-mortem).
-> - **risk register** — the maintained list of a project's risks, each with likelihood, impact, and an owner.
-> - **likelihood × impact** — how risks are prioritized: probability times damage.
-> - **owner** (of a risk) — the named person responsible for watching and mitigating it.
-> - **mitigate** (MIT-ih-gate) — to reduce a risk's likelihood or impact in advance.
-> - **theater** — activity that looks like the real thing but changes nothing ("risk theater").
-> - **risk vs issue** — something that *might* happen vs something that *has* happened; prevented vs resolved.
-> - **naysayer** — the person seen as negative for pointing out problems (the pre-mortem removes this stigma).
-> - **front-load** — to do the hard, scary parts first, not last.
-> - **the quiet risks** — the non-technical killers: people leaving, dependencies slipping, unclear ownership.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Most projects that fail are killed by a risk that was **identifiable in week one** but wasn't found (or
 was ignored) until it was too late. Good risk management is about **finding the thing that will actually
-kill the project early** — surfacing the real risks, prioritizing them (likelihood × impact), assigning
-owners, and **retiring the scariest ones first.** The most powerful tool is the **pre-mortem**: imagine
+kill the project early** — surfacing the real risks, prioritizing them (**likelihood × impact**[°](#w-likelihood-impact)), assigning
+**owners**[°](#w-owner), and **retiring the scariest ones first.** The most powerful tool is the **pre-mortem**[°](#w-pre-mortem): imagine
 the project has already failed, and ask why — which surfaces risks that optimism hides.
 
-```
-   THE PRE-MORTEM (imagine you already failed)
-   ┌──────────────────────────────────────────────────────┐
-   │ "It's six months later. The project FAILED. Why?"      │
-   │ → surfaces risks optimism hides (people say the quiet   │
-   │   fears out loud when failure is assumed)              │
-   │ RISK = likelihood × impact × OWNER (not theater)        │
-   │ DE-RISK ORDER: hardest/scariest FIRST                   │
-   │ watch the QUIET risks: people, dependencies (not tech)  │
-   └──────────────────────────────────────────────────────┘
-```
+The single most effective risk technique is the **pre-mortem**, and it takes
+twenty minutes.
+
+Gather the team and say: *"It's six months from now. The project failed. Why?"*
+Assuming the failure is the trick — it gives people permission to say the quiet
+fears out loud, which optimism and politeness normally suppress. You will hear
+things in a pre-mortem that no status meeting would ever have surfaced.
+
+Three principles for what you do with the output:
+
+- **Risk = likelihood × impact × owner.** A risk register with no owners is
+  theatre; the owner is what turns it into work.
+- **De-risk in order of scariness** — hardest and most uncertain first. Risk that
+  is retired late is risk that has had months to become expensive.
+- **Watch the quiet risks.** Teams instinctively list technical risks; the ones
+  that actually sink projects are usually people and dependencies.
 
 The reframe: **find the project-killing risk in week one, not week ten — via pre-mortems, and retire the
 scariest risks first.** Optimism and momentum hide risks (nobody wants to voice the fear that it might
@@ -58,7 +52,7 @@ early) rather than doing the easy parts first and hitting the fatal risk late.
 The most powerful risk-surfacing tool: the **pre-mortem.** Before/early in a project, gather the team and
 pose: **"It's six months from now and this project failed. What went wrong?"** Then everyone writes down
 the reasons. This works because it <em>gives permission to voice fears</em>: normally, optimism and social
-pressure suppress risk-talk (nobody wants to be the naysayer, and momentum assumes success), so real risks
+pressure suppress risk-talk (nobody wants to be the **naysayer**[°](#w-naysayer), and momentum assumes success), so real risks
 go unspoken; but by <em>assuming</em> failure, the pre-mortem makes it safe and natural to name what could
 go wrong (you're not being negative — you're doing the exercise). It surfaces the quiet fears people were
 already thinking but not saying — often the real risks. Run a pre-mortem early to surface risks while
@@ -66,7 +60,7 @@ there's time to address them (versus discovering them when they materialize).
 
 ### Risk registers that aren't theater — likelihood × impact × owner
 
-A **risk register** (a list of risks) is only useful if it's real, not theater. Make it real by: (1)
+A **risk register**[°](#w-risk-register) (a list of risks) is only useful if it's real, not **theater**[°](#w-theater). Make it real by: (1)
 prioritizing risks by **likelihood × impact** (a high-likelihood, high-impact risk matters far more than a
 remote, minor one — focus on the big ones); and crucially (2) assigning each significant risk an
 **owner** — a specific person responsible for monitoring and mitigating it. A risk register that's just a
@@ -82,7 +76,7 @@ the scary uncertain parts for later. But that's backwards: if a project has a fa
 integration won't work, the approach is infeasible), you want to find out <em>early</em> (when you can
 pivot, cut scope, or cancel cheaply), not after months of investment in the easy parts. Retiring the
 scariest risks first means: if the project is doomed, you learn it early (cheap failure); if it's viable,
-you've removed the biggest uncertainty (and the rest is more predictable). Front-load the risk, don't
+you've removed the biggest uncertainty (and the rest is more predictable). **Front-load**[°](#w-front-load) the risk, don't
 defer it. (This is why milestones retire risk hardest-first — Lesson 50.)
 
 ### Risk vs issue — different things
@@ -171,7 +165,7 @@ handle our load."</em> <br>
 roll back safely and estimate the downtime, before committing to the approach. <em>Retire "we can't cut over
 safely."</em> <br>
 • Assign each risk an owner (someone accountable for monitoring/mitigating it). <br>
-• Watch the quiet risks: ensure the old-DB knowledge isn't bus-factor-1 (Lesson 34); confirm dependent teams
+• Watch **the quiet risks**[°](#w-the-quiet-risks): ensure the old-DB knowledge isn't bus-factor-1 (Lesson 34); confirm dependent teams
 are aware and involved.
 <br><br>
 <strong>Principles:</strong> (1) <strong>Pre-mortem surfaces the real risks</strong> — assuming failure gives
@@ -356,6 +350,23 @@ real risks early prevents the late, expensive surprises that kill projects. It p
 milestones (Lesson 50) and dependency management (Lesson 53). The next lesson digs into one of the biggest
 quiet risks — dependencies — and how to keep them from being the reason projects slip.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-pre-mortem"></a>**pre-mortem** — imagining the project has *already failed* and asking why; surfaces the risks optimism hides (opposite of a post-mortem).
+- <a id="w-risk-register"></a>**risk register** — the maintained list of a project's risks, each with likelihood, impact, and an owner.
+- <a id="w-likelihood-impact"></a>**likelihood × impact** — how risks are prioritized: probability times damage.
+- <a id="w-owner"></a>**owner** (of a risk) — the named person responsible for watching and mitigating it.
+- <a id="w-mitigate"></a>**mitigate** (MIT-ih-gate) — to reduce a risk's likelihood or impact in advance.
+- <a id="w-theater"></a>**theater** — activity that looks like the real thing but changes nothing ("risk theater").
+- <a id="w-risk-vs-issue"></a>**risk vs issue** — something that *might* happen vs something that *has* happened; prevented vs resolved.
+- <a id="w-naysayer"></a>**naysayer** — the person seen as negative for pointing out problems (the pre-mortem removes this stigma).
+- <a id="w-front-load"></a>**front-load** — to do the hard, scary parts first, not last.
+- <a id="w-the-quiet-risks"></a>**the quiet risks** — the non-technical killers: people leaving, dependencies slipping, unclear ownership.
 
 ---
 

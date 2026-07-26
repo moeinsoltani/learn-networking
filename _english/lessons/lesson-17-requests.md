@@ -17,18 +17,23 @@ sounds like an order, even to a peer. English has a "politeness ladder" for
 requests, and the skill is matching the politeness level to the size of what you're
 asking. Too blunt sounds bossy; too elaborate for a tiny ask sounds odd.
 
-```
-   THE REQUEST LADDER (least → most polite):
+Requests exist on a ladder, from least to most polite:
 
-   "Do X."                          ← an order (avoid for peers)
-   "Can you do X?"                  ← casual, fine for small asks
-   "Could you do X?"                ← polite, good default
-   "Would you mind doing X?"        ← more polite (bigger ask)
-   "When you get a chance, could    ← very polite (imposition or
-    you possibly do X?"                asking a busy person)
+| Phrasing | When to use it |
+|---|---|
+| "Do X." | An order — avoid with peers |
+| "Can you do X?" | Casual; fine for small asks |
+| "Could you do X?" | Polite — a good default |
+| "Would you mind doing X?" | More polite, for a bigger ask |
+| "When you get a chance, could you possibly do X?" | Very polite — a real imposition, or a busy person |
 
-   MATCH the rung to the SIZE of the ask.
-```
+The rule is to **match the rung to the size of the ask.** Both mismatches are
+noticeable: the bottom rung for a trivial favour sounds oddly elaborate and can
+even read as sarcastic, while the top rung for a large imposition reads as
+presumptuous.
+
+If you only remember one, make it **"could you"** — it is polite enough for
+nearly everything and neutral enough never to sound strange.
 
 The core move: use "**could you**" instead of a bare command for almost any request
 (it's the polite default), and add more politeness ("would you mind," "when you get a

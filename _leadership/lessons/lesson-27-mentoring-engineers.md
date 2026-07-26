@@ -10,42 +10,31 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 27: Mentoring Engineers
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **scaffolding** — temporary support around growing skill (from construction scaffolds): a stretch task + a safety net, removed gradually.
-> - **stretch (task/assignment)** — work slightly beyond what someone can currently do alone.
-> - **safety net** — the support (check-ins, pairing, fallback) that keeps a stretch from failing badly.
-> - **by osmosis** (oz-MOH-sis) — absorbing skills passively just by being nearby (doesn't work).
-> - **the edge of ability** — the zone just past current skill where growth is fastest.
-> - **productive struggle** — difficulty that teaches, as opposed to drowning.
-> - **fade (the support)** — to withdraw scaffolding step by step as skill grows.
-> - **"I do, we do, you do"** — demonstrate → do it together → they do it while you watch.
-> - **reverse mentoring** — learning from someone junior about things they know better.
-> - **bootcamp** — an intensive months-long programming course; a "bootcamp grad" is new to professional work.
-> - **green** — inexperienced.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Growing juniors and mid-level engineers is one of a lead's highest-return investments — but it
-rarely happens well "by osmosis" (hoping people absorb skills by proximity). Deliberate mentoring —
+rarely happens well "**by osmosis**[°](#w-by-osmosis)" (hoping people absorb skills by proximity). Deliberate mentoring —
 giving people the right stretch with the right support, teaching *judgment* (not just facts), and
 tracking growth intentionally — is what actually develops engineers fast. The core technique is
-**scaffolding**: a stretch that's beyond what they can do alone, plus a safety net that keeps them
+**scaffolding**[°](#w-scaffolding): a stretch that's beyond what they can do alone, plus a **safety net**[°](#w-safety-net) that keeps them
 from failing badly, so they grow at the edge of their ability without drowning.
 
-```
-   SCAFFOLDING = STRETCH + SAFETY NET
-   ┌──────────────────────────────────────────────────────┐
-   │ too easy (no stretch)   → boredom, no growth           │
-   │ too hard (no net)       → overwhelm, failure, damage   │
-   │ STRETCH + SAFETY NET    → growth at the edge, safely   │
-   │   (a task beyond them,    (check-ins, pairing, a        │
-   │    but reachable)          fallback so it can't fail    │
-   │                            catastrophically)           │
-   └──────────────────────────────────────────────────────┘
+The mentoring idea worth stealing from teaching is **scaffolding**, which is
+simply stretch plus a safety net.
 
-   Grow judgment: "what would you do first?" not "here's what to do."
-```
+Work that is **too easy** offers no stretch, so it produces boredom and no
+growth. Work that is **too hard with no net** produces overwhelm, failure, and
+sometimes real damage — to the project and to the person's confidence. What you
+want is a task that sits beyond their current ability but is **reachable**,
+combined with a net: regular check-ins, some pairing, and a fallback so the
+thing cannot fail catastrophically.
+
+The habit that makes scaffolding work is asking rather than telling. **"What
+would you do first?"** grows judgement; **"here's what to do"** grows
+dependence. The first question also tells you exactly where their thinking
+actually is, which is the information you need to set the next task.
 
 The reframe: **deliberate scaffolding beats osmosis — grow people by giving them a stretch they
 couldn't do alone, with a safety net so they can attempt it safely.** People grow fastest at the
@@ -80,7 +69,7 @@ why") so they see expert reasoning, not just conclusions.
 ### Apprenticeship patterns
 
 Engineering skill transfers well through apprenticeship-style patterns: **pairing** (working
-together, so they see how you think and get real-time guidance), **"I do, we do, you do"** (you
+together, so they see how you think and get real-time guidance), **"I do, we do, you do"**[°](#w-i-do-we-do-you-do) (you
 demonstrate, then you do it together, then they do it with you watching — a gradual handoff),
 **reviewing their work with teaching** (Lesson 28), and **giving progressively harder real work**
 with decreasing support. The through-line is learning by *doing* with guidance, not by being
@@ -120,8 +109,8 @@ encouragement, some need challenge. Deliberate mentoring is individualized, not 
 
 ## Lab — Scenario
 
-**The situation:** A bootcamp graduate, Amir, is joining your team — his first professional
-engineering job. He's smart and eager but green: he can write code, but has never worked in a large
+**The situation:** A **bootcamp**[°](#w-bootcamp) graduate, Amir, is joining your team — his first professional
+engineering job. He's smart and eager but **green**[°](#w-green): he can write code, but has never worked in a large
 codebase, done code review, shipped to production, or handled the judgment side of engineering. You
 want to deliberately develop him over his first 90 days, not just throw him tickets and hope.
 
@@ -352,6 +341,24 @@ impact scales beyond their own hands — a team that keeps getting better outpro
 next lesson focuses on the highest-volume, most frequent mentoring channel most leads have: code review
 as teaching — turning review comments into a deliberate teaching tool.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-scaffolding"></a>**scaffolding** — temporary support around growing skill (from construction scaffolds): a stretch task + a safety net, removed gradually.
+- <a id="w-stretch-task-assignment"></a>**stretch (task/assignment)** — work slightly beyond what someone can currently do alone.
+- <a id="w-safety-net"></a>**safety net** — the support (check-ins, pairing, fallback) that keeps a stretch from failing badly.
+- <a id="w-by-osmosis"></a>**by osmosis** (oz-MOH-sis) — absorbing skills passively just by being nearby (doesn't work).
+- <a id="w-the-edge-of-ability"></a>**the edge of ability** — the zone just past current skill where growth is fastest.
+- <a id="w-productive-struggle"></a>**productive struggle** — difficulty that teaches, as opposed to drowning.
+- <a id="w-fade-the-support"></a>**fade (the support)** — to withdraw scaffolding step by step as skill grows.
+- <a id="w-i-do-we-do-you-do"></a>**"I do, we do, you do"** — demonstrate → do it together → they do it while you watch.
+- <a id="w-reverse-mentoring"></a>**reverse mentoring** — learning from someone junior about things they know better.
+- <a id="w-bootcamp"></a>**bootcamp** — an intensive months-long programming course; a "bootcamp grad" is new to professional work.
+- <a id="w-green"></a>**green** — inexperienced.
 
 ---
 

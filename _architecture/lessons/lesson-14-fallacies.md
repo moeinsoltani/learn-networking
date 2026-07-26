@@ -10,15 +10,7 @@ parent: "Phase 4: Distributed Systems"
 
 # Lesson 14: The Fallacies of Distributed Computing
 
-{: .note }
-> **Words to know**
-> - **fallacy** — a false assumption people make without realizing it; here, eight false beliefs about networks.
-> - **latency** — the time for a message to travel there and back (delay), separate from bandwidth.
-> - **bandwidth** — how much data you can push through per second (capacity).
-> - **partition** — a network split where some nodes can't reach others, though each is still running.
-> - **remote call** — invoking code on another machine over the network (vs a local, in-process call).
-> - **topology** — the arrangement of the network: which nodes, links, and routes exist (and it changes).
-> - **transport cost** — the real money and CPU/serialization overhead of moving data over a network.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -28,25 +20,31 @@ intuitions into it. In 1994–97, engineers at Sun (L. Peter Deutsch and James G
 catalogued the **eight fallacies of distributed computing**: assumptions that are false,
 that everyone makes anyway, and that each map to a real production outage.
 
-```
-   THE EIGHT FALLACIES (each one is FALSE)
-   ─────────────────────────────────────────────────────────
-   1. The network is reliable.        → calls fail; plan for it
-   2. Latency is zero.                → remote calls are ~1000x+ slower
-   3. Bandwidth is infinite.          → big payloads/chatty calls saturate
-   4. The network is secure.          → assume hostile; encrypt, authenticate
-   5. Topology doesn't change.        → nodes/routes move; don't hardcode
-   6. There is one administrator.     → many owners, many policies, no single view
-   7. Transport cost is zero.         → serialization + $$ + CPU are real
-   8. The network is homogeneous.     → mixed protocols, versions, hardware
-   ─────────────────────────────────────────────────────────
-   The one mental shift: a REMOTE call is NOTHING like a LOCAL call.
-```
+The eight fallacies of distributed computing are each stated as an assumption
+people make, and **every one of them is false**.
+
+| The fallacy | The reality |
+|---|---|
+| 1. The network is reliable | Calls fail. Plan for it |
+| 2. Latency is zero | A remote call is on the order of a thousand times slower than a local one |
+| 3. Bandwidth is infinite | Large payloads and chatty calls saturate it |
+| 4. The network is secure | Assume it is hostile: encrypt and authenticate |
+| 5. Topology doesn't change | Nodes and routes move; never hardcode them |
+| 6. There is one administrator | Many owners, many policies, no single view |
+| 7. Transport cost is zero | Serialisation, CPU, and actual money are all real |
+| 8. The network is homogeneous | Mixed protocols, versions, and hardware |
+
+Underneath all eight is a single mental shift, and it is the one worth
+installing permanently: **a remote call is nothing like a local call.** It looks
+identical in your code — that is precisely the danger — and it can be slow,
+fail, partially succeed, or arrive twice.
+
+Here is code that assumes every one of the eight:
 
 The single most expensive lie in our field is *"it's just a function call over the
 network."* A local function call is fast (nanoseconds), reliable (it doesn't "fail to
-arrive"), free (no serialization or bandwidth), and secure (no wire to sniff). A remote
-call is none of those. Every fallacy is a place where that lie bites.
+arrive"), free (no serialization or **bandwidth**[°](#w-bandwidth)), and secure (no wire to sniff). A remote
+call is none of those. Every **fallacy**[°](#w-fallacy) is a place where that lie bites.
 
 ## Going Deeper
 
@@ -54,13 +52,13 @@ Each fallacy, with the failure it causes and the mitigation it demands:
 
 - **1. The network is reliable.** Calls *will* fail — packets drop, connections reset,
   services are momentarily unreachable. Code that assumes success (no error handling on a
-  remote call) corrupts state or hangs on the first blip. *Mitigation:* explicit failure
+  **remote call**[°](#w-remote-call)) corrupts state or hangs on the first blip. *Mitigation:* explicit failure
   handling, timeouts, retries with backoff, circuit breakers (Lesson 18).
 - **2. Latency is zero.** A local call is ~nanoseconds; a same-datacenter remote call is
   ~milliseconds (thousands of times slower); cross-region is tens to hundreds of ms. The
   killer is *chattiness* — a loop that makes 100 remote calls where a monolith made 100
   in-process calls is now unusably slow. *Mitigation:* batch, coarse-grained interfaces,
-  avoid N+1 remote calls, put a latency budget on the path (Lesson 23).
+  avoid N+1 remote calls, put a **latency**[°](#w-latency) budget on the path (Lesson 23).
 - **3. Bandwidth is infinite.** Big payloads and high call volumes saturate links and
   cost money. Serializing a huge object graph on every call, or fanning out to thousands
   of consumers, hits real ceilings. *Mitigation:* send only what's needed, paginate,
@@ -99,7 +97,7 @@ Each fallacy, with the failure it causes and the mitigation it demands:
 
 **Why this is the foundation of Phase 4.** Every later distributed-systems topic is a
 response to one or more fallacies. CAP and consistency models (Lesson 15) exist because
-the network isn't reliable (partitions happen). Sagas and idempotency (Lesson 17) exist
+the network isn't reliable (**partitions**[°](#w-partition) happen). Sagas and idempotency (Lesson 17) exist
 because calls fail and retry. Resilience patterns (Lesson 18) are the systematic answer to
 fallacy 1. Communication choices (Lesson 16) trade against latency and reliability. If you
 internalize the fallacies, the rest of the phase is "here's specifically how we cope with
@@ -137,7 +135,7 @@ The skill is seeing the network the code is pretending isn't there. A strong ann
 <br><br>
 <ul>
 <li><strong>The pricing loop (40 remote calls)</strong> → <em>Fallacy 2 (latency is zero)
-and 3 (bandwidth infinite), and 7 (transport cost)</em>. In the monolith these were 40
+and 3 (bandwidth infinite), and 7 (**transport cost**[°](#w-transport-cost))</em>. In the monolith these were 40
 nanosecond in-process calls; now they're 40 network round-trips per checkout — at even 5 ms
 each that's 200 ms of pure latency for one step, and it scales with cart size and traffic
 (and every call costs CPU/serialization and possibly cross-AZ data-transfer money).
@@ -157,7 +155,7 @@ state (charged but not reserved) or the exception propagates raw. <em>Mitigation
 explicit failure handling — and because payment already succeeded, a
 <strong>compensating action / saga</strong> (Lesson 17) to refund or retry, since you can no
 longer wrap charge+reserve in one transaction.</li>
-<li><strong>Hardcoded host addresses</strong> → <em>Fallacy 5 (topology doesn't change)</em>.
+<li><strong>Hardcoded host addresses</strong> → <em>Fallacy 5 (**topology**[°](#w-topology) doesn't change)</em>.
 <em>Failure:</em> the first time a service is redeployed, scaled, or moved (new IPs,
 autoscaling), the hardcoded hosts break. <em>Mitigation:</em> service discovery / DNS / a
 load balancer, addresses from config not constants.</li>
@@ -317,6 +315,20 @@ production. That realization is exactly what makes the rest of Phase 4 (consiste
 resilience) feel <em>necessary</em> rather than academic: each is the systematic answer to one
 or more of the false assumptions this audit surfaced in your own system.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-fallacy"></a>**fallacy** — a false assumption people make without realizing it; here, eight false beliefs about networks.
+- <a id="w-latency"></a>**latency** — the time for a message to travel there and back (delay), separate from bandwidth.
+- <a id="w-bandwidth"></a>**bandwidth** — how much data you can push through per second (capacity).
+- <a id="w-partition"></a>**partition** — a network split where some nodes can't reach others, though each is still running.
+- <a id="w-remote-call"></a>**remote call** — invoking code on another machine over the network (vs a local, in-process call).
+- <a id="w-topology"></a>**topology** — the arrangement of the network: which nodes, links, and routes exist (and it changes).
+- <a id="w-transport-cost"></a>**transport cost** — the real money and CPU/serialization overhead of moving data over a network.
 
 ---
 

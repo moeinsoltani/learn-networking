@@ -10,42 +10,36 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 22: Crucial Conversations
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **crucial conversation** — one where stakes are high, opinions differ, and emotions run strong (from the book of the same name).
-> - **stakes** — what stands to be won or lost.
-> - **silence / violence** — the two failure modes under pressure: avoiding and sugar-coating vs pushing and attacking (the book's terms — "violence" here is verbal, not physical).
-> - **sugar-coat** — to soften bad news so much the truth disappears.
-> - **dialogue** — the honest two-way exchange both failure modes kill.
-> - **mutual purpose** — a goal both people genuinely share, reframing "me vs you" into "us vs the problem."
-> - **facts vs story** — what objectively happened vs the interpretation (usually assuming bad intent) you've told yourself about it.
-> - **contrasting** — a repair statement of the form "I *don't* mean X; I *do* mean Y."
-> - **tentatively** — offering your view as a possibility ("I'm starting to wonder if…"), not a certainty.
-> - **fester** — of a problem: to sit unaddressed and quietly worsen, like an untreated wound.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-A *crucial conversation* is one where the **stakes are high, opinions differ, and emotions run
+A *crucial conversation*[°](#w-crucial-conversation) is one where the **stakes are high, opinions differ, and emotions run
 strong** — a conflict with a peer, a disagreement about a decision that matters, a confrontation
 about something that went wrong. These are exactly the conversations people handle worst: under
 pressure, we default to **silence** (avoiding, withdrawing, sugar-coating) or **violence**
-(pushing, controlling, attacking) — both of which fail. The skill is staying in *dialogue* —
+(pushing, controlling, attacking) — both of which fail. The skill is staying in *dialogue*[°](#w-dialogue) —
 keeping the conversation safe and productive when everything is pulling it toward a fight or a
 freeze.
 
-```
-   UNDER PRESSURE, WE DEFAULT TO:
-   SILENCE ←─────────── DIALOGUE ───────────→ VIOLENCE
-   (avoid, withdraw,    (safe, honest,        (push, control,
-    sugar-coat,          both share, both      attack, sarcasm,
-    go along)            listen)               force)
+Under pressure, people leave dialogue in one of two directions.
 
-   THE TOOLKIT:
-   • make it SAFE first (safety enables honesty)
-   • find MUTUAL PURPOSE (a shared goal you both want)
-   • master YOUR STORY (separate facts from the story you tell)
-   • use CONTRASTING to repair misunderstanding
-```
+**Silence** is the withdrawing failure: avoiding the topic, sugar-coating,
+going along with something you disagree with. **Violence** — in the book's
+sense, not the literal one — is the pushing failure: controlling, attacking,
+sarcasm, forcing the point. **Dialogue** sits between them: safe and honest,
+both people sharing, both people listening.
+
+The toolkit for staying in the middle has four parts:
+
+- **Make it safe first.** Safety is what enables honesty; without it, you get
+  silence dressed as agreement.
+- **Find mutual purpose** — a shared goal you both actually want, which turns
+  the conversation from opposition into a joint problem.
+- **Master your story.** Separate the facts from the story you have built on
+  top of them; most of the heat comes from the story.
+- **Use contrasting** to repair a misunderstanding: "I'm *not* saying X; I *am*
+  saying Y."
 
 The reframe (from the book *Crucial Conversations*): **safety is the precondition for honesty —
 when people feel unsafe, they go silent or aggressive, so the first job is to make and keep the
@@ -63,7 +57,7 @@ Under the pressure of a high-stakes emotional disagreement, people default to on
 dysfunctional modes: **silence** (avoiding the issue, withdrawing, sugar-coating, going along to
 keep peace — you don't say the real thing) or **violence** (pushing your view, controlling,
 attacking, sarcasm, forcing — you steamroll). Both fail: silence means the truth never gets on the
-table (the problem festers); violence means the other person gets defensive or shuts down (no real
+table (the problem **festers**[°](#w-fester)); violence means the other person gets defensive or shuts down (no real
 exchange). The goal is neither — it's **dialogue**: the free flow of honest views in both
 directions, which requires the conversation to feel safe.
 
@@ -72,7 +66,7 @@ directions, which requires the conversation to feel safe.
 The central insight: **people can hear hard things when they feel safe, and go to silence/violence
 when they don't.** So before and throughout a crucial conversation, your first job is to establish
 and protect safety. Safety comes from two things the other person must believe: (1) you *respect*
-them (you're not attacking them as a person), and (2) you share a *mutual purpose* (you both want a
+them (you're not attacking them as a person), and (2) you share a *mutual purpose*[°](#w-mutual-purpose) (you both want a
 good outcome, you're on the same side). When safety breaks (they get defensive or withdrawn), stop
 the content and rebuild safety before continuing — because no productive content is possible while
 they feel unsafe.
@@ -100,7 +94,7 @@ your (possibly wrong) story.
 ### Contrasting — repairing a misunderstanding
 
 When the other person misunderstands your intent (thinks you're attacking or disrespecting them),
-use a **contrasting** statement — a don't/do that clarifies: "I *don't* think you deliberately
+use a **contrasting**[°](#w-contrasting) statement — a don't/do that clarifies: "I *don't* think you deliberately
 sabotaged us, and I'm *not* trying to blame you. I *do* want to figure out what happened so we can
 prevent it, because I value working well with you." The "don't" addresses the misunderstanding
 (what you're not saying), the "do" restates your real purpose — which repairs safety when they've
@@ -110,7 +104,7 @@ misunderstood your intent.
 ### State your path — share facts first, tentatively
 
 When sharing your view (especially something critical), lead with the **facts** (least
-controversial, hardest to dispute), then your story/conclusion tentatively ("I'm starting to
+controversial, hardest to dispute), then your story/conclusion **tentatively**[°](#w-tentatively) ("I'm starting to
 wonder if...", not "you clearly..."), and invite their view ("how do you see it?"). Sharing facts
 first (not your accusatory conclusion) and holding your story tentatively (not as certain truth)
 keeps it safe and leaves room for their perspective — versus opening with the accusation, which
@@ -118,8 +112,8 @@ triggers defensiveness immediately.
 
 {: .note }
 > **Safety is the precondition for honesty — manage safety, not the argument</br>**
-> Crucial conversations (high stakes, differing opinions, strong emotions) are where people default
-> to silence (avoid, sugar-coat) or violence (push, attack) — both of which kill honest exchange.
+> Crucial conversations (high **stakes**[°](#w-stakes), differing opinions, strong emotions) are where people default
+> to silence (avoid, **sugar-coat**[°](#w-sugar-coat)) or violence (push, attack) — both of which kill honest exchange.
 > The master skill is <em>dialogue</em>, which requires <em>safety</em>: people can hear hard things
 > when they feel respected and believe you share a mutual purpose, and they go to silence/violence
 > when they don't. So the first job is to make and protect safety — find mutual purpose (us vs. the
@@ -372,6 +366,23 @@ these conversations, handled well, resolve the issues and preserve the relations
 Lesson 47 (bad news). The next lesson zooms into the emotional dimension specifically — defusing
 emotional situations, being the calm presence that de-escalates when feelings run high.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-crucial-conversation"></a>**crucial conversation** — one where stakes are high, opinions differ, and emotions run strong (from the book of the same name).
+- <a id="w-stakes"></a>**stakes** — what stands to be won or lost.
+- <a id="w-silence-violence"></a>**silence / violence** — the two failure modes under pressure: avoiding and sugar-coating vs pushing and attacking (the book's terms — "violence" here is verbal, not physical).
+- <a id="w-sugar-coat"></a>**sugar-coat** — to soften bad news so much the truth disappears.
+- <a id="w-dialogue"></a>**dialogue** — the honest two-way exchange both failure modes kill.
+- <a id="w-mutual-purpose"></a>**mutual purpose** — a goal both people genuinely share, reframing "me vs you" into "us vs the problem."
+- <a id="w-facts-vs-story"></a>**facts vs story** — what objectively happened vs the interpretation (usually assuming bad intent) you've told yourself about it.
+- <a id="w-contrasting"></a>**contrasting** — a repair statement of the form "I *don't* mean X; I *do* mean Y."
+- <a id="w-tentatively"></a>**tentatively** — offering your view as a possibility ("I'm starting to wonder if…"), not a certainty.
+- <a id="w-fester"></a>**fester** — of a problem: to sit unaddressed and quietly worsen, like an untreated wound.
 
 ---
 

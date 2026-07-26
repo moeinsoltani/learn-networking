@@ -10,16 +10,7 @@ parent: "Phase 1: Learning to Look"
 
 # Lesson 03: How to Identify a Bird
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **field mark** — a single visible feature used to identify a bird (eye-ring, wing bar, black cap).
-> - **plumage** (PLOO-mij) — a bird's feathers, taken together; their colours and pattern.
-> - **bill** — a bird's beak. Its shape tells you what the bird eats.
-> - **GISS** or **jizz** (rhymes with "fizz") — a bird's overall "feel": size, shape, and the way it moves. Birders identify a lot by jizz before they see any detail.
-> - **raptor** (RAP-tor) — a bird of prey (hawk, eagle, owl) with a hooked bill and talons.
-> - **passerine** (PASS-er-ine) — a "perching bird" / songbird; most small birds you see.
-> - **song vs. call** — a **song** is the longer musical phrase (often to attract a mate); a **call** is a short note (alarm, contact).
-> - **eye-ring** — a ring of colour around the eye; **wing bar** — a stripe across the folded wing. Both are classic field marks.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -27,16 +18,16 @@ Birds don't hold still like trees, so you learn to read them **fast and in a
 fixed order** — the same order every experienced birder uses:
 
 1. **Size & shape** — sparrow-small? robin-medium? crow-big? Chunky or slim?
-   Long tail, long legs, long bill?
+   Long tail, long legs, long **bill**[°](#w-bill)?
 2. **Colour & pattern** — main body colour, plus any obvious marks (a black cap,
-   a red chest, a white wing bar, an eye-ring).
+   a red chest, a white **wing bar**[°](#w-wing-bar), an **eye-ring**[°](#w-eye-ring)).
 3. **Behaviour** — what is it *doing*? Creeping down a trunk head-first?
    Hovering? Bobbing its tail? Hammering wood?
 4. **Habitat** — where are you? Pond, forest, feeder, open sky?
 5. **Sound** — its song or call, often the surest clue of all.
 
 Beginners reach for **colour** first; experts reach for **size, shape, and
-behaviour** first (together called **GISS** or **jizz**). Train yourself toward
+behaviour** first (together called **GISS** or **jizz**[°](#w-jizz)). Train yourself toward
 the expert habit — colour lies (light, sex, and season change it), but a
 bird's *shape and way of moving* are steady.
 
@@ -54,6 +45,12 @@ Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Poecile-atric
 
 You can't guess centimetres in the field, so measure against three reference
 birds almost everyone knows:
+
+Rather than memorising species, learn a handful of **reference shapes** — a
+robin, a crow, a sparrow, a duck — and then place anything new against them.
+"Robin-shaped but smaller and blue" is a far more useful observation than a
+half-remembered field-guide name, and it is what an experienced birder is
+actually doing.
 
 | Reference | Length | Use it for |
 |---|---|---|
@@ -103,7 +100,7 @@ game-changer for beginners.
 ### Don't over-reach at first
 
 "A small songbird," "a duck," "a hawk of some kind" are all fine first calls.
-Group first (Is it a raptor? a duck? a songbird?), then narrow. Precision comes
+Group first (Is it a **raptor**[°](#w-raptor)? a duck? a songbird?), then narrow. Precision comes
 with repetition, exactly as with trees.
 
 ---
@@ -241,6 +238,21 @@ almost certainly a chickadee." Full marks for leading with size/shape/behaviour
 and using colour only to confirm — and for a confident *group* call even if the
 exact species is uncertain. You'll meet this bird by name in Lesson 10.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-field-mark"></a>**field mark** — a single visible feature used to identify a bird (eye-ring, wing bar, black cap).
+- <a id="w-plumage"></a>**plumage** (PLOO-mij) — a bird's feathers, taken together; their colours and pattern.
+- <a id="w-bill"></a>**bill** — a bird's beak. Its shape tells you what the bird eats.
+- **GISS** or <a id="w-jizz"></a>**jizz** (rhymes with "fizz") — a bird's overall "feel": size, shape, and the way it moves. Birders identify a lot by jizz before they see any detail.
+- <a id="w-raptor"></a>**raptor** (RAP-tor) — a bird of prey (hawk, eagle, owl) with a hooked bill and talons.
+- <a id="w-passerine"></a>**passerine** (PASS-er-ine) — a "perching bird" / songbird; most small birds you see.
+- <a id="w-song-vs-call"></a>**song vs. call** — a **song** is the longer musical phrase (often to attract a mate); a **call** is a short note (alarm, contact).
+- <a id="w-eye-ring"></a>**eye-ring** — a ring of colour around the eye; <a id="w-wing-bar"></a>**wing bar** — a stripe across the folded wing. Both are classic field marks.
 
 ---
 

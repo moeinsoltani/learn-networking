@@ -20,15 +20,24 @@ reacting**: realizing, apologizing, thinking, relieved, sympathetic, excited.
 Textbooks skip them, so non-native speakers often write without them — and that's one
 reason correct writing can still read as flat or cold (Lesson 20's problem). Compare:
 
-```
-   WITHOUT INTERJECTIONS          WITH INTERJECTIONS
-   ─────────────────────          ──────────────────
-   "I understand now."            "Ah, got it."
-   "I made a mistake. Fixed."     "Oops, my bad — fixed."
-   "I will check."                "Hmm, let me check."
-   "The tests passed."            "Phew — the tests passed."
-   "That is unfortunate."         "Oof, that's rough."
-```
+Interjections — those small noises at the start of a sentence — are one of the
+fastest ways to sound natural, and textbooks almost never teach them.
+
+| Without interjections | With interjections |
+|---|---|
+| "I understand now." | "**Ah**, got it." |
+| "I made a mistake. Fixed." | "**Oops**, my bad — fixed." |
+| "I will check." | "**Hmm**, let me check." |
+| "The tests passed." | "**Phew** — the tests passed." |
+| "That is unfortunate." | "**Oof**, that's rough." |
+
+The left column is correct and slightly robotic. The right column signals that
+you are *reacting*, not just reporting — which is what makes written English
+feel like a person rather than a status feed.
+
+They are also low-risk to adopt: each one maps to a single, obvious emotion
+(*ah* = realisation, *oops* = small mistake, *hmm* = thinking, *phew* = relief,
+*oof* = sympathy), so there is very little to get wrong.
 
 The left column is grammatically perfect and emotionally silent. The right column is
 what a native colleague actually types. One small word up front tells the reader your

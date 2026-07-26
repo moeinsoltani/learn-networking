@@ -10,19 +10,12 @@ parent: "Phase 2: Trees of Canada"
 
 # Lesson 08: Iconic & Provincial Trees
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **arboreal emblem** (ar-BORE-ee-ul) — the official tree symbol of a province, territory, or country. "Arboreal" means "of trees."
-> - **provincial / territorial** — belonging to one of Canada's 10 provinces or 3 territories.
-> - **national tree** — Canada's official tree, the **maple**, declared in 1996.
-> - **lodgepole pine** — a tall, straight western pine (Alberta's tree); "lodgepole" because Indigenous peoples used the poles for dwellings.
-> - **tamarack / larch** — a conifer that drops its needles each fall (the NWT's tree).
-> - **treeless** — having no trees; most of Nunavut is tundra, north of where trees can grow.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Canada loves its trees enough to make them official. The country has a **national
-tree** — the **maple** (declared the national arboreal emblem in **1996**) —
+tree** — the **maple** (declared the national **arboreal emblem**[°](#w-arboreal-emblem) in **1996**) —
 behind the leaf on the flag, and **every province and most territories have their
 own official tree**, usually one that shaped local life. Learning these is a
 delightful shortcut: it ties the species from Lessons 05–07 to the map of Canada,
@@ -30,7 +23,7 @@ and half of them are trees you can already identify.
 
 ![Canada's flag, centred on the red maple leaf](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/960px-Flag_of_Canada_%28Pantone%29.svg.png)
 
-*The **maple** is Canada's national tree (1996) and the source of the flag's leaf.
+*The **maple** is Canada's **national tree**[°](#w-national-tree) (1996) and the source of the flag's leaf.
 No single maple species is named in law, but the **sugar maple** is the popular
 face of the emblem. Image:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Canada_%28Pantone%29.svg).*
@@ -39,13 +32,21 @@ face of the emblem. Image:
 
 ### The provincial & territorial trees
 
+Every province and territory has an official tree, and the list is worth more
+than trivia: each one was chosen because that species genuinely defines the
+place, so the table doubles as a map of which forest you are standing in.
+
+A few are on the citizenship-test radar, and several connect directly to
+Lesson 09's forest regions — the Pacific coast's redcedar, the boreal's spruces,
+and the eastern hardwood's maple.
+
 | Province / Territory | Official tree | Already met? |
 |---|---|---|
 | **Canada (national)** | **Maple** (sugar maple, popularly) | Lesson 06 |
 | Ontario | **Eastern white pine** | Lesson 05 |
 | Quebec | Yellow birch | (birch family — Lesson 07) |
 | British Columbia | **Western redcedar** | Lesson 05 |
-| Alberta | Lodgepole pine | (a pine — Lesson 05) |
+| Alberta | **Lodgepole pine**[°](#w-lodgepole-pine) | (a pine — Lesson 05) |
 | Saskatchewan | **Paper (white) birch** | Lesson 07 |
 | Manitoba | **White spruce** | Lesson 05 |
 | Nova Scotia | Red spruce | (a spruce — Lesson 05) |
@@ -228,6 +229,19 @@ for building. It's fire-adapted, like the jack pine." Full marks for naming the
 species, classifying it (conifer/broadleaf), giving a real field mark, and
 connecting it to the region's forests or history.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-arboreal-emblem"></a>**arboreal emblem** (ar-BORE-ee-ul) — the official tree symbol of a province, territory, or country. "Arboreal" means "of trees."
+- <a id="w-provincial-territorial"></a>**provincial / territorial** — belonging to one of Canada's 10 provinces or 3 territories.
+- <a id="w-national-tree"></a>**national tree** — Canada's official tree, the **maple**, declared in 1996.
+- <a id="w-lodgepole-pine"></a>**lodgepole pine** — a tall, straight western pine (Alberta's tree); "lodgepole" because Indigenous peoples used the poles for dwellings.
+- <a id="w-tamarack-larch"></a>**tamarack / larch** — a conifer that drops its needles each fall (the NWT's tree).
+- <a id="w-treeless"></a>**treeless** — having no trees; most of Nunavut is tundra, north of where trees can grow.
 
 ---
 

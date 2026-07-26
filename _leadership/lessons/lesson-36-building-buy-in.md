@@ -10,38 +10,33 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 36: Building Buy-In for Ideas
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **buy-in** — genuine support for an idea, not just permission (Lesson 10).
-> - **socialize (an idea)** — to discuss it informally with key people one at a time, *before* any official meeting.
-> - **groundwork** — the preparatory work done before the visible event.
-> - **win the room** — to persuade a whole group live in a meeting (the amateur's plan).
-> - **blindside** — to surprise someone with something they should have known was coming; never do it to a decision-maker.
-> - **ratify** — to formally confirm a decision that's effectively already made.
-> - **co-ownership** — others having shaped the idea enough to feel it's partly theirs — and champion it.
-> - **pilot / experiment framing** — proposing a small, reversible trial instead of a permanent commitment.
-> - **objection inventory** — the per-person list of likely concerns, prepared in advance.
-> - **over-selling** — continuing to persuade after you've already won, which re-opens doubt.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Getting an idea adopted isn't about making a brilliant pitch in the big meeting — it's about the
 **groundwork you do before that meeting**, so that by the time the decision happens, the key people
 are already on board. The most common mistake is bringing a fully-formed idea to a group cold and
-hoping to win the room; the skilled move is **socializing the idea 1:1 first**, addressing concerns,
-building co-ownership, and arriving at the decision meeting with the "yes" already secured.
+hoping to **win the room**[°](#w-win-the-room); the skilled move is **socializing the idea 1:1 first**, addressing concerns,
+building **co-ownership**[°](#w-co-ownership), and arriving at the decision meeting with the "yes" already secured.
 
-```
-   THE AMATEUR WAY                  THE SKILLED WAY
-   ──────────────                   ───────────────
-   bring the finished idea to        socialize 1:1 FIRST (get input,
-   the big meeting cold →            address concerns, build co-ownership)
-   surprise the decision-makers →    → by the meeting, key people are
-   face objections in public →         already on board
-   often lose                        → the meeting confirms, not decides
+There is an amateur way to get a decision made and a skilled way, and the
+difference is almost entirely about timing.
 
-   Get to "yes" BEFORE the meeting where "yes" happens.
-```
+**The amateur way:** bring the finished idea to the big meeting cold. The
+decision-makers are surprised, objections surface in public where positions
+harden, and you often lose — sometimes on the merits, more often on the
+staging.
+
+**The skilled way:** socialise it one-to-one *first*. You collect input, hear
+and address concerns while they are still cheap to address, and build
+co-ownership in the people whose support you need. By the time the meeting
+happens, the key people are already on board, and the meeting **confirms** a
+decision rather than making one.
+
+Stated as a rule: **get to "yes" before the meeting where "yes" happens.** This
+is not manipulation — it is giving people time to think, and letting them shape
+the thing rather than react to it in public.
 
 The reframe: **win the "yes" before the meeting, not in it — by socializing the idea 1:1 first.**
 Decision meetings are where decisions get <em>ratified</em>, not usually where minds get changed;
@@ -100,12 +95,12 @@ inventory is per-person, and addressing each person's specific concern is what w
 A subtle skill: **recognize when you've got the "yes" and stop selling.** Once someone's on board,
 continuing to push and over-justify can backfire — it can re-open doubts ("why are they still
 selling? is there a catch?"), annoy them, or seem pushy. When you've won, move to action ("great —
-let's do it"), don't keep persuading. Over-selling past the yes is a common mistake; read when the
+let's do it"), don't keep persuading. **Over-selling**[°](#w-over-selling) past the yes is a common mistake; read when the
 decision is made and close, rather than continuing to argue a point that's already conceded.
 
 {: .note }
 > **Win the "yes" before the meeting — socialize 1:1, build co-ownership, address objections</br>**
-> Ideas get adopted through groundwork before the decision meeting, not a brilliant cold pitch in it.
+> Ideas get adopted through **groundwork**[°](#w-groundwork) before the decision meeting, not a brilliant cold pitch in it.
 > Socialize the idea 1:1 first (people are honest individually, you address concerns privately, and you
 > never surprise a decision-maker in public — which makes them defensive and prone to no). Build
 > co-ownership (incorporate people's input so it's partly theirs — co-owned ideas get championed,
@@ -124,7 +119,7 @@ feature branches). You believe it'll improve integration and delivery speed. But
 skeptical, for three *different* reasons: **Raj** (staff engineer) worries it'll cause more broken
 builds and instability; **Mia** (a team lead) worries her team isn't disciplined enough with testing
 to make it safe; and **the eng director** worries about the disruption/cost of changing everyone's
-workflow. You can't mandate this — you need to build buy-in.
+workflow. You can't mandate this — you need to build **buy-in**[°](#w-buy-in).
 
 **Plan the buy-in campaign** — how you'd build support given these three different objections. Then
 note the principles and mistakes to avoid.
@@ -166,7 +161,7 @@ blessing. By any 'decision meeting,' the key people are already on board."
 <br><br>
 <strong>Principles:</strong> (1) <strong>Socialize 1:1 first, per person</strong> — each key person
 individually, addressing their <em>specific</em> objection (Raj's builds, Mia's readiness, director's
-disruption — three different concerns, three different responses). (2) <strong>Objection inventory</strong>
+disruption — three different concerns, three different responses). (2) <strong>**Objection inventory**[°](#w-objection-inventory)</strong>
 — knowing the three different objections lets you address each specifically (not one generic pitch). (3)
 <strong>Co-ownership</strong> — make Raj a co-owner of the safety design (his input shapes it, so he
 champions it). (4) <strong>Pilot framing</strong> — the low-stakes, reversible, evidence-gathering pilot
@@ -341,6 +336,23 @@ usually loses; the skilled move (win the yes beforehand) usually wins. This appl
 lesson addresses a different influence challenge — resolving conflict — moving disputes from people-vs-
 people to people-vs-problem, including mediating conflicts within your team.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-buy-in"></a>**buy-in** — genuine support for an idea, not just permission (Lesson 10).
+- <a id="w-socialize-an-idea"></a>**socialize (an idea)** — to discuss it informally with key people one at a time, *before* any official meeting.
+- <a id="w-groundwork"></a>**groundwork** — the preparatory work done before the visible event.
+- <a id="w-win-the-room"></a>**win the room** — to persuade a whole group live in a meeting (the amateur's plan).
+- <a id="w-blindside"></a>**blindside** — to surprise someone with something they should have known was coming; never do it to a decision-maker.
+- <a id="w-ratify"></a>**ratify** — to formally confirm a decision that's effectively already made.
+- <a id="w-co-ownership"></a>**co-ownership** — others having shaped the idea enough to feel it's partly theirs — and champion it.
+- <a id="w-pilot-experiment-framing"></a>**pilot / experiment framing** — proposing a small, reversible trial instead of a permanent commitment.
+- <a id="w-objection-inventory"></a>**objection inventory** — the per-person list of likely concerns, prepared in advance.
+- <a id="w-over-selling"></a>**over-selling** — continuing to persuade after you've already won, which re-opens doubt.
 
 ---
 

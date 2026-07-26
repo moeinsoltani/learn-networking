@@ -18,18 +18,24 @@ the trade-offs quickly, and find the part they care about without reading everyt
 structureless wall of text buries a good idea and exhausts reviewers. The good news:
 engineering docs follow a **reusable skeleton** you can lean on every time.
 
-```
-   THE DESIGN DOC SKELETON:
-   ┌────────────────────────────────────────────────────┐
-   │ 1. SUMMARY / TL;DR   what & why, in a few lines     │
-   │ 2. CONTEXT / PROBLEM what's the situation & problem  │
-   │ 3. GOALS / NON-GOALS what we are (and aren't) solving│
-   │ 4. PROPOSAL          the design / approach           │
-   │ 5. ALTERNATIVES      what else we considered & why not│
-   │ 6. RISKS / TRADE-OFFS what could go wrong / costs     │
-   │ 7. (rollout, open questions, appendix)               │
-   └────────────────────────────────────────────────────┘
-```
+Design docs have a conventional skeleton, and following it means readers can
+find what they need without reading the whole thing.
+
+| Section | What goes in it |
+|---|---|
+| **1. Summary / TL;DR** | What and why, in a few lines |
+| **2. Context / problem** | The situation, and the problem |
+| **3. Goals / non-goals** | What we are — and explicitly are *not* — solving |
+| **4. Proposal** | The design or approach |
+| **5. Alternatives** | What else you considered, and why not |
+| **6. Risks / trade-offs** | What could go wrong, and the costs |
+| **7. Rollout, open questions, appendix** | The remainder |
+
+Two sections punch above their weight. **Non-goals** prevent most scope
+arguments before they start, by stating in writing what is out of bounds. And
+**alternatives** is what makes reviewers trust the proposal — a design with no
+rejected options reads as the first idea somebody had, whether or not that is
+true.
 
 The reframe: **you don't invent structure from scratch — you fill in a known skeleton.** The
 sections above answer the questions any reviewer has (what, why, what are we solving, how,

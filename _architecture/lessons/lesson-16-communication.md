@@ -10,39 +10,38 @@ parent: "Phase 4: Distributed Systems"
 
 # Lesson 16: Communication Styles (Sync, Async, REST, gRPC, Messaging)
 
-{: .note }
-> **Words to know**
-> - **synchronous** — the caller sends a request and *waits* for the response before continuing.
-> - **asynchronous** — the caller sends a message and continues; the response (if any) comes later, or not at all.
-> - **temporal coupling** — the callee must be up *at the same moment* as the caller; sync calls have it, async messaging removes it.
-> - **REST** — resource-oriented HTTP APIs; ubiquitous, human-readable, loosely typed.
-> - **gRPC** — a high-performance, strongly-typed RPC framework over HTTP/2 with schemas (protobuf).
-> - **message queue vs pub/sub** — a queue delivers each message to one consumer; pub/sub broadcasts to many.
-> - **broker** — the middleware (Kafka, RabbitMQ, SQS/SNS) that carries and buffers asynchronous messages.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Once you have multiple services, *how* they talk is one of your biggest coupling decisions.
 The first fork is **synchronous vs asynchronous**, and the difference isn't just style — it
-determines **temporal coupling**: whether the callee must be alive at the exact moment the
+determines **temporal coupling**[°](#w-temporal-coupling): whether the callee must be alive at the exact moment the
 caller needs it.
 
-```
-   SYNCHRONOUS (request/response)         ASYNCHRONOUS (messaging)
-   A ──request──▶ B                       A ──message──▶ [ broker ] ──▶ B
-   A  ⏳ waits...                          A continues immediately.
-   A ◀─response── B                        B processes when it can (even later).
-   ✓ simple, immediate answer             ✓ temporal decoupling (B can be down now)
-   ✓ easy to reason about, one flow       ✓ buffering / load leveling, fan-out
-   ✗ TEMPORAL COUPLING: B must be UP now  ✗ eventual consistency, no direct answer
-   ✗ A's latency = A + B + network        ✗ harder to trace; new failure modes
-   ✗ B down or slow → A blocked/fails      (Lesson 12's costs)
-```
+The choice between synchronous and asynchronous communication is the choice
+between two kinds of coupling.
 
-**Synchronous** (REST, gRPC): the caller waits for an answer. Simple, gives an immediate
+**Synchronous (request/response):** A sends a request to B and waits for the
+response.
+
+**Asynchronous (messaging):** A sends a message to a broker and continues
+immediately. B processes it when it can — possibly much later.
+
+| | **Synchronous** | **Asynchronous** |
+|---|---|---|
+| **Advantages** | Simple; you get an immediate answer; one flow, easy to reason about | Temporal decoupling — B can be down right now; buffering and load levelling; fan-out to many consumers |
+| **Costs** | **Temporal coupling**: B must be up *now*. A's latency is A plus B plus the network. If B is slow or down, A blocks or fails | Eventual consistency, and no direct answer; harder to trace; new failure modes (Lesson 12's costs) |
+
+The phrase worth remembering is **temporal coupling** — the hidden dependency
+that synchronous calls create on *when* the other service is healthy. It is
+invisible in the code and it is what turns one service's bad afternoon into
+everyone's outage.
+
+**Synchronous**[°](#w-synchronous) (**REST**[°](#w-rest), **gRPC**[°](#w-grpc)): the caller waits for an answer. Simple, gives an immediate
 result, easy to follow — but it *couples the caller to the callee's availability and
 latency*: if B is down or slow, A is blocked or fails, and A's response time is the sum of
-its own plus B's plus the network. **Asynchronous** (messaging via a broker): the caller
+its own plus B's plus the network. **Asynchronous**[°](#w-asynchronous) (messaging via a **broker**[°](#w-broker)): the caller
 fires a message and moves on. It removes temporal coupling (B can be down and catch up
 later) and enables buffering and fan-out — at the cost of eventual consistency and the
 absence of a direct answer (Lesson 12's trade-offs). The heuristic: **prefer async where
@@ -342,6 +341,20 @@ which shows up as either fragile over-synchronous chains or over-complicated asy
 one concrete instance of each to fix, and (for the sync chains that must stay) the resilience
 patterns to add, turns the audit into an action list.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-synchronous"></a>**synchronous** — the caller sends a request and *waits* for the response before continuing.
+- <a id="w-asynchronous"></a>**asynchronous** — the caller sends a message and continues; the response (if any) comes later, or not at all.
+- <a id="w-temporal-coupling"></a>**temporal coupling** — the callee must be up *at the same moment* as the caller; sync calls have it, async messaging removes it.
+- <a id="w-rest"></a>**REST** — resource-oriented HTTP APIs; ubiquitous, human-readable, loosely typed.
+- <a id="w-grpc"></a>**gRPC** — a high-performance, strongly-typed RPC framework over HTTP/2 with schemas (protobuf).
+- <a id="w-message-queue-vs-pub-sub"></a>**message queue vs pub/sub** — a queue delivers each message to one consumer; pub/sub broadcasts to many.
+- <a id="w-broker"></a>**broker** — the middleware (Kafka, RabbitMQ, SQS/SNS) that carries and buffers asynchronous messages.
 
 ---
 

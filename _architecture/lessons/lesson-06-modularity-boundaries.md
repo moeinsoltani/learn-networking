@@ -10,39 +10,32 @@ parent: "Phase 2: Foundations of Structure"
 
 # Lesson 06: Modularity & Component Boundaries
 
-{: .note }
-> **Words to know**
-> - **module / component** — a named unit of the system with a clear responsibility and a boundary; the building block you draw lines around.
-> - **boundary** — the line separating what's inside a module from what's outside; where the interface (contract) lives.
-> - **change axis** — the direction along which requirements evolve; good boundaries align with the things that change together.
-> - **seam** — a place where you can alter behavior without editing in place; a natural point to split.
-> - **leak** — when a module's internals escape across its boundary, so outsiders depend on them.
-> - **runtime-enforced vs convention** — a boundary the system actually prevents crossing vs one that's just a team agreement (easy to erode).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-If coupling and cohesion (Lesson 5) are the *forces*, drawing **boundaries** is the
+If coupling and cohesion (Lesson 5) are the *forces*, drawing **boundaries**[°](#w-boundary) is the
 *act*. Deciding where the lines go — what's a module, where one component ends and the
 next begins — is the single highest-leverage thing an architect does, because a
-boundary in the wrong place leaks everywhere and every future change fights it, while
+boundary in the wrong place **leaks**[°](#w-leak) everywhere and every future change fights it, while
 a boundary in the right place makes change local and cheap.
 
-```
-   The boundary is a promise:
+The essential idea: **a boundary is a promise.**
 
-   ┌───────────────── Orders ─────────────────┐
-   │  (high cohesion inside: everything about   │
-   │   the lifecycle of an order)               │
-   │                                            │
-   │   internals ──── HIDDEN ───┐               │
-   │                            │               │
-   └──────── public interface ──┴───────────────┘
-                     ▲
-                     │  everyone outside depends ONLY on this
-                     │  narrow, stable contract — never the internals
-             ┌───────┴───────┐
-          Inventory       Notifications
-```
+Inside the boundary sits everything about one thing — for an `Orders` module,
+everything concerning the lifecycle of an order. That is the cohesion half of
+Lesson 05. The internals are **hidden**: the data structures, the tables, the
+helper classes, the sequence of steps.
+
+Crossing the boundary is a **narrow, stable public interface**, and this is the
+promise: everyone outside — `Inventory`, `Notifications`, anyone else — depends
+**only** on that contract, and never on the internals.
+
+The promise buys you exactly one thing, and it is the thing that makes large
+systems survivable: **you can change the inside without asking anyone.** The
+moment another module reaches past the interface — reading your tables,
+importing your internal classes — the promise is void, and you have a
+distributed monolith regardless of what the architecture diagram says.
 
 A good boundary means: **high cohesion inside** (everything within changes together,
 for the same reasons, owned by the same people) and **a narrow, stable interface
@@ -327,6 +320,19 @@ deeper structural work of Phases 3–5. A good answer names whether the fix is a
 enforcement addition, a boundary re-draw, or the harder job of untangling shared data —
 and is honest that the last is a real project, not a refactor.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-module-component"></a>**module / component** — a named unit of the system with a clear responsibility and a boundary; the building block you draw lines around.
+- <a id="w-boundary"></a>**boundary** — the line separating what's inside a module from what's outside; where the interface (contract) lives.
+- <a id="w-change-axis"></a>**change axis** — the direction along which requirements evolve; good boundaries align with the things that change together.
+- <a id="w-seam"></a>**seam** — a place where you can alter behavior without editing in place; a natural point to split.
+- <a id="w-leak"></a>**leak** — when a module's internals escape across its boundary, so outsiders depend on them.
+- <a id="w-runtime-enforced-vs-convention"></a>**runtime-enforced vs convention** — a boundary the system actually prevents crossing vs one that's just a team agreement (easy to erode).
 
 ---
 

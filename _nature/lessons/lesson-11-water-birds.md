@@ -10,16 +10,7 @@ parent: "Phase 3: Birds of Canada"
 
 # Lesson 11: Water & Shore Birds
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **waterfowl** (WAH-ter-fowl) — swimming birds: ducks, geese, and swans.
-> - **dabbling duck** — a duck that tips forward ("bottoms up") to feed at the surface, like a mallard.
-> - **diving bird** — one that dives fully underwater to feed, like a loon.
-> - **wader** — a long-legged bird that stands in shallow water to hunt, like a heron.
-> - **drake** — a male duck; the **hen** is the female.
-> - **loon** — a heavy diving bird of northern lakes with a haunting call; on the Canadian $1 coin ("loonie").
-> - **plumage** (PLOO-mij) — feather colours; ducks show strong male/female differences.
-> - **V-formation** — the flying line geese form to save energy.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -27,13 +18,13 @@ Any pond, lake, river, or shoreline adds a whole new set of birds — and they'r
 **easy to watch** because they're out in the open on the water. Four cover most
 of what a beginner meets in Canada: the **Canada goose**, the **mallard**, the
 **common loon**, and the **great blue heron**. Sort them first by *what they do on
-the water*: geese graze and swim, dabbling ducks tip forward, loons dive right
+the water*: geese graze and swim, **dabbling ducks**[°](#w-dabbling-duck) tip forward, **loons**[°](#w-loon) dive right
 under, and herons stand and stab.
 
 ![A Canada goose: black head and neck, white chin-strap, brown body](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canada_goose.jpg/960px-Canada_goose.jpg)
 
 ***Canada goose** — the national icon you already know: **black head and neck with
-a white "chin-strap,"** brown body, honking loudly in **V-formation** overhead.
+a white "chin-strap,"** brown body, honking loudly in **V-formation**[°](#w-v-formation) overhead.
 Grazes on grass (parks, fields), swims, and is fiercely protective of its young.
 Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canada_goose.jpg).*
 
@@ -43,7 +34,7 @@ Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canada_goose.
 
 ![A pair of mallards: the green-headed drake and the mottled brown hen](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/960px-Anas_platyrhynchos_male_female_quadrat.jpg)
 
-***Mallard** — the default duck. The **drake** has a glossy **green head**, yellow
+***Mallard** — the default duck. The **drake**[°](#w-drake) has a glossy **green head**, yellow
 bill, and white neck-ring; the **hen** is mottled brown (both show a blue wing
 patch). A **dabbling** duck: it tips "bottoms-up" to feed at the surface rather
 than diving. Photo:
@@ -59,13 +50,22 @@ yodelling call is unforgettable — and it's on the **$1 "loonie" coin**. Photo:
 
 ![A great blue heron standing tall in a river, long neck and dagger bill](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GreatBlueHeronInARiver.jpg/960px-GreatBlueHeronInARiver.jpg)
 
-***Great blue heron** — the tall, statue-still **wader**: long legs, long S-curved
+***Great blue heron** — the tall, statue-still **wader**[°](#w-wader): long legs, long S-curved
 neck, blue-grey body, and a heavy **dagger bill** for spearing fish and frogs. It
 stalks the shallows slowly, then strikes. In flight it folds its neck into an "S"
 and trails its legs. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GreatBlueHeronInARiver.jpg).*
 
 ### Goose vs. duck vs. loon vs. heron — the quick sort
+
+On the water, four silhouettes cover most of what you will see, and they are
+distinguishable at a distance where no plumage detail is visible at all.
+
+Watch **posture and feeding style** first: a heron *stands* in the shallows on
+long legs; a goose rides high with a long neck; a mallard floats and tips
+forward to dabble; a loon rides strikingly low and simply disappears
+underwater. How a bird gets its food separates these four faster than any
+field mark.
 
 | Bird | Sits on water? | Feeds by… | Best mark |
 |---|---|---|---|
@@ -128,7 +128,7 @@ different species. Explain in 2 sentences.
 Model: "They're one species — mallards — just male and female. The green-headed
 one is the <strong>drake</strong> (male) and the mottled brown one is the
 <strong>hen</strong> (female); both share a blue wing patch." Full marks for
-recognising strong male/female plumage differences within a single species, a
+recognising strong male/female **plumage**[°](#w-plumage) differences within a single species, a
 theme that runs through ducks.
 </details>
 
@@ -230,6 +230,21 @@ stood frozen in the shallows, then stabbed down — a <strong>great blue heron</
 Full marks for using behaviour (dabble / dive / graze / stalk-and-stab) to reach
 the ID and then confirming with one visible mark.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-waterfowl"></a>**waterfowl** (WAH-ter-fowl) — swimming birds: ducks, geese, and swans.
+- <a id="w-dabbling-duck"></a>**dabbling duck** — a duck that tips forward ("bottoms up") to feed at the surface, like a mallard.
+- <a id="w-diving-bird"></a>**diving bird** — one that dives fully underwater to feed, like a loon.
+- <a id="w-wader"></a>**wader** — a long-legged bird that stands in shallow water to hunt, like a heron.
+- <a id="w-drake"></a>**drake** — a male duck; the **hen** is the female.
+- <a id="w-loon"></a>**loon** — a heavy diving bird of northern lakes with a haunting call; on the Canadian $1 coin ("loonie").
+- <a id="w-plumage"></a>**plumage** (PLOO-mij) — feather colours; ducks show strong male/female differences.
+- <a id="w-v-formation"></a>**V-formation** — the flying line geese form to save energy.
 
 ---
 

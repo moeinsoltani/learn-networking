@@ -18,15 +18,25 @@ constantly in office communication — and using them makes your English sound
 natural, while avoiding them (using only formal single words) can make writing
 sound stiff or textbook-like.
 
-```
-   FORMAL / STIFF              NATURAL (phrasal verb)
-   ─────────────              ─────────────────────
-   "I will investigate it"    "I'll look into it"
-   "I will contact you"       "I'll reach out to you"
-   "We will deploy it"        "We'll roll it out"
-   "I disagree with the plan" "I want to push back on the plan"
-   "Please continue"          "Please go ahead"
-```
+Phrasal verbs — a verb plus a small word — are what make English sound natural
+rather than translated. The formal single-word version is usually correct and
+usually sounds stiff.
+
+| Formal / stiff | Natural (phrasal verb) |
+|---|---|
+| "I will investigate it" | "I'll **look into** it" |
+| "I will contact you" | "I'll **reach out to** you" |
+| "We will deploy it" | "We'll **roll** it **out**" |
+| "I disagree with the plan" | "I want to **push back on** the plan" |
+| "Please continue" | "Please **go ahead**" |
+
+The left column is not wrong; it is simply not what colleagues say to each
+other. Using it consistently in chat creates a small distance that people
+notice without being able to name.
+
+One warning worth carrying: phrasal verbs are the most idiomatic part of the
+language, so **learn them as whole units** — "push back on," not "push" plus a
+rule about "back."
 
 You don't need hundreds — about 25 phrasal verbs dominate office English, and
 learning those makes you sound natural in most work situations. The tricky part is

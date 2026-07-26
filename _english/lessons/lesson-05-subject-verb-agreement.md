@@ -17,14 +17,20 @@ verb, a *plural* subject takes a plural verb. Simple in short sentences — "the
 **is** fixed," "the bugs **are** fixed" — but it goes wrong when words come between
 the subject and the verb, or when the real subject is hard to spot.
 
-```
-   "The list of open issues IS long."     ← subject is "list" (singular) → is
-                     ↑
-        "of open issues" is just describing the list — IGNORE it
-        when choosing the verb. The verb matches "list," not "issues."
+The verb must match the **subject**, and the trouble is that English loves to
+put describing words between the two.
 
-   ✗ "The list of open issues ARE long."  ← wrong: matched "issues," not "list"
-```
+> ✓ "The **list** of open issues **is** long."
+> ✗ "The list of open issues **are** long."
+
+The subject here is **list**, which is singular, so the verb is **is**. The
+phrase *of open issues* is only describing the list — and the reliable trick is
+to **ignore everything between the subject and the verb** when choosing the
+verb form. The wrong version happens because the ear matches the nearest noun,
+*issues*, instead of the actual subject.
+
+A quick test: cover the middle phrase with your finger. "The list … is long."
+The sentence should still work.
 
 This lesson connects directly to one of your most common error patterns — writing
 "the content **are**" instead of "the content **is**." The fix is a reliable habit:

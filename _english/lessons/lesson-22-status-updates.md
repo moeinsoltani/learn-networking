@@ -17,17 +17,21 @@ questions before they ask them*. The classic shape is **done / doing / blocked**
 the key skill (beyond the shape) is being **specific** rather than vague, so the reader
 knows exactly where things are.
 
-```
-   VAGUE (raises more questions)      SPECIFIC (answers them)
-   ────────────────────────────      ───────────────────────
-   "Making progress on the API."      "API: 3 of 5 endpoints done. Working on
-                                       the last two, should finish tomorrow."
+A status update has one job: to stop people needing to ask follow-up questions.
 
-   "Almost done."                     "Done except for the tests — ~2 hours left."
+| Vague (raises more questions) | Specific (answers them) |
+|---|---|
+| "Making progress on the API." | "API: 3 of 5 endpoints done. Working on the last two, should finish tomorrow." |
+| "Almost done." | "Done except for the tests — about 2 hours left." |
+| "Working on the bug." | "Fixed the root cause; now verifying it doesn't break the payment flow." |
 
-   "Working on the bug."              "Fixed the root cause; now verifying it
-                                       doesn't break the payment flow."
-```
+The pattern in the right-hand column is always the same three things: **where
+it stands, what is left, and when it will land.** "Almost done" contains none
+of them, which is why it reliably produces the reply "great — when?"
+
+There is a second benefit that matters more over time. Specific updates make it
+obvious when something is slipping, early, while it can still be helped —
+whereas "making progress" can be said every day for two weeks.
 
 Vague updates ("making progress," "almost done," "working on it") force the reader to
 ask follow-up questions — how much progress? how close? what's the ETA? A specific

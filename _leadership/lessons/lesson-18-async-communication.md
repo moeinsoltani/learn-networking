@@ -10,18 +10,7 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 18: Async and Written Communication
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **async / sync** — communication read whenever convenient (messages, docs) vs everyone present at once (meetings, calls).
-> - **negativity bias** — the brain's habit of reading ambiguous signals as slightly negative; why neutral text lands cold.
-> - **terse** — so short it feels cold; **curt** — rudely brief.
-> - **over-signal** — deliberately adding *more* warmth than speech would need, because text subtracts it.
-> - **softeners** — cushioning words ("just," "when you get a chance") — the English track's Phase 3.
-> - **scheduled send** — writing a message now but delivering it during work hours.
-> - **FYI** — "for your information": no action needed; **DM** — direct (private) message; **thread** — a chain of replies on one topic.
-> - **runaway thread** — a discussion going in circles with no convergence.
-> - **to land a decision** — to close a debate firmly and fairly: summarize, decide with reasons, name next steps.
-> - **always-on** — the unhealthy expectation of being reachable at all hours.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -32,17 +21,20 @@ a distinct skill from talking. The stakes are high because text has a property t
 speech doesn't: **tone is far easier to misread**, and a message that would be fine
 spoken can land as cold, harsh, or dismissive in writing.
 
-```
-   WRITTEN/ASYNC LEADERSHIP — the surfaces:
-     Slack messages  ·  design docs  ·  code review comments
-     ·  written decisions  ·  status updates  ·  announcements
+Most of your leadership now happens in writing, across a handful of surfaces:
+Slack messages, design docs, code-review comments, written decisions, status
+updates, and announcements.
 
-   THE TEXT-TONE PROBLEM:
-     spoken: tone, warmth, and intent carried by voice + face
-     written: NONE of that — the reader supplies the tone,
-              and under ambiguity they often supply a WORSE one
-        → over-signal warmth; write decisions where they'll be found
-```
+Which runs you into the **text-tone problem**. In speech, tone, warmth, and
+intent are carried by your voice and face without any effort on your part. In
+writing, none of that is present — so **the reader supplies the tone**, and
+under ambiguity, tired or anxious readers reliably supply a worse one than you
+intended. "Can we talk?" is a neutral sentence that has ruined many evenings.
+
+Two habits follow. **Over-signal warmth** in writing, past the point that feels
+natural to you — what reads as slightly effusive to the writer usually reads as
+normal to the reader. And **write decisions where they will be found later**,
+not in the middle of a thread that scrolls away.
 
 Two ideas anchor written leadership. **When async beats sync** (and vice versa) —
 knowing which channel a communication belongs in is itself a skill: async (written,
@@ -51,7 +43,7 @@ respecting focus (Lesson 4/15); sync (meeting, call) is better for real-time
 discussion, sensitive/emotional matters, and building trust. **Tone in text
 requires deliberate warmth** — because text strips the warmth that voice and face
 carry, and readers under ambiguity often assume the worse interpretation, a lead
-must *over-signal* warmth and clarity in writing to land as they intend. This
+must *over-signal*[°](#w-over-signal) warmth and clarity in writing to land as they intend. This
 pairs directly with the [English for Work]({{ '/english/learning-plan.html' | relative_url }})
 track (Phase 3: Tone & Warmth, Phase 4: Slack), which teaches the *language*; this
 lesson is the leadership *judgment*.
@@ -80,11 +72,11 @@ what genuinely benefits from it.
 
 The core hazard: text carries no vocal tone or facial warmth, so the reader
 supplies the tone — and under ambiguity, people tend to read neutral text as
-slightly negative and terse text as cold or annoyed (the brain's negativity bias).
-A message you'd say warmly ("can you take a look at this?") can read as a curt
+slightly negative and **terse**[°](#w-terse) text as cold or annoyed (the brain's **negativity bias**[°](#w-negativity-bias)).
+A message you'd say warmly ("can you take a look at this?") can read as a **curt**[°](#w-curt)
 command in text. So a lead must *deliberately over-signal* warmth and good intent
 in writing: a bit more warmth than feels necessary (because it'll read as less than
-you put in), softeners and human touches where appropriate (Phase 3 of English
+you put in), **softeners**[°](#w-softeners) and human touches where appropriate (Phase 3 of English
 track), explicit positive framing, and care especially in feedback and disagreement
 (where cold text does real damage). This isn't fluff — it's compensating for the
 information (tone) that the medium strips, so your message lands as you intend
@@ -94,12 +86,12 @@ because the medium subtracts it.
 ### Write decisions and context where they'll be found
 
 A specific high-value practice: when a decision is made or important context
-established (in a meeting, a thread, a call), *write it down where people will find
+established (in a meeting, a **thread**[°](#w-thread), a call), *write it down where people will find
 it* — because knowledge that lives only in someone's head, a call, or a buried
 Slack thread effectively doesn't exist for the team (it can't be referenced, gets
 forgotten, and has to be re-derived). The lead who documents decisions (the ADR-
 style record, Lesson 7), writes down the "why" behind context, and puts these in
-findable places (the repo, a docs system, a pinned channel — not a random DM)
+findable places (the repo, a docs system, a pinned channel — not a random **DM**[°](#w-dm))
 creates durable, referenceable alignment. This is especially important async and
 at scale: written, findable decisions are how a distributed team stays aligned
 without everyone being in every conversation.
@@ -122,7 +114,7 @@ that's warm enough not to feel like a heavy-handed shutdown.
 > Two async-etiquette points that matter for leads. (1) <em>Set and honor
 > response-time norms</em> — teams work better when it's clear that not everything
 > needs an instant reply (async means read-when-convenient); a lead who expects or
-> models instant responses destroys focus and creates always-on pressure (Lesson
+> models instant responses destroys focus and creates **always-on**[°](#w-always-on) pressure (Lesson
 > 4). (2) <em>The after-hours message</em> — when you (as the lead) send messages
 > at night or on weekends, even without expecting a response, it signals an
 > always-on expectation and pressures people to be on; use scheduled-send to
@@ -159,7 +151,7 @@ decision and reasoning clearly, closes the debate firmly, and does it warmly —
 in text, where tone must be over-signaled. Example:
 <br><br>
 "Thanks everyone for the thoughtful discussion on this — I've read through the whole
-thread and want to land a decision so we can move forward.
+thread and want **to land a decision**[°](#w-to-land-a-decision) so we can move forward.
 <br><br>
 Here's what I'm hearing: there's a real case for [new framework] — [names] make
 good points about the better developer experience and the features we'd gain, and I
@@ -420,6 +412,23 @@ uncommon strength; the ongoing practice is maintaining it (the terseness-drift u
 time pressure is constant) and modeling the norms (response-time expectations, the
 after-hours boundary) that shape the whole team's async culture.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-async-sync"></a>**async / sync** — communication read whenever convenient (messages, docs) vs everyone present at once (meetings, calls).
+- <a id="w-negativity-bias"></a>**negativity bias** — the brain's habit of reading ambiguous signals as slightly negative; why neutral text lands cold.
+- <a id="w-terse"></a>**terse** — so short it feels cold; <a id="w-curt"></a>**curt** — rudely brief.
+- <a id="w-over-signal"></a>**over-signal** — deliberately adding *more* warmth than speech would need, because text subtracts it.
+- <a id="w-softeners"></a>**softeners** — cushioning words ("just," "when you get a chance") — the English track's Phase 3.
+- <a id="w-scheduled-send"></a>**scheduled send** — writing a message now but delivering it during work hours.
+- <a id="w-fyi"></a>**FYI** — "for your information": no action needed; <a id="w-dm"></a>**DM** — direct (private) message; <a id="w-thread"></a>**thread** — a chain of replies on one topic.
+- <a id="w-runaway-thread"></a>**runaway thread** — a discussion going in circles with no convergence.
+- <a id="w-to-land-a-decision"></a>**to land a decision** — to close a debate firmly and fairly: summarize, decide with reasons, name next steps.
+- <a id="w-always-on"></a>**always-on** — the unhealthy expectation of being reachable at all hours.
 
 ---
 

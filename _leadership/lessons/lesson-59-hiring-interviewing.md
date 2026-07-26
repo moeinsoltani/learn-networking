@@ -10,40 +10,33 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 59: Hiring and Interviewing
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **structured interview** — every candidate gets the same questions, scored against the same rubric.
-> - **rubric** (ROO-brik) — a written scoring guide; **anchored** — with concrete descriptions of what weak/good/strong answers look like.
-> - **vibes / gut feel** — unstructured impressions; feels insightful, predicts poorly.
-> - **work sample** — an exercise resembling the actual job (the best predictor); **brain-teaser** — an abstract puzzle ("how many golf balls fit in a bus") that predicts nothing.
-> - **shadowing** — new interviewers observing experienced ones to learn the bar.
-> - **"culture fit" as mirror test** — rejecting candidates for not resembling you, disguised as fit; the fix is **values fit + culture add**.
-> - **monoculture** — a team of similar people; worse at problems than a diverse one.
-> - **similarity bias** — favouring people like yourself.
-> - **candidate experience** — how the process feels to candidates; your hiring brand.
-> - **above the bar** — good enough to raise the team's average, not just fill the seat.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Hiring is one of the highest-leverage things you do — a great hire multiplies the team, a bad one costs
 enormously (the wrong hire is worse than no hire). The craft is building a process that reliably hires
-**above your current bar**, using **structured interviews** (same questions, anchored rubrics) rather than
-gut-feel "vibes," focusing on **what actually predicts performance** (work samples over puzzles), and
+**above your current bar**, using **structured interviews**[°](#w-structured-interview) (same questions, **anchored**[°](#w-anchored) **rubrics**[°](#w-rubric)) rather than
+gut-feel "vibes," focusing on **what actually predicts performance** (**work samples**[°](#w-work-sample) over puzzles), and
 avoiding the **bias traps** (especially "culture fit" as a mirror test). Interviewing well is a learnable
 discipline, not an innate talent.
 
-```
-   STRUCTURED HIRING (reliable, above your bar, fair)
-   ┌──────────────────────────────────────────────────────┐
-   │ • STRUCTURED interviews: same questions + anchored      │
-   │   rubrics (not "vibes" / gut feel)                     │
-   │ • WHAT PREDICTS: work samples > brain-teasers/puzzles   │
-   │ • CALIBRATE interviewers (shadowing, rubrics)           │
-   │ • BIAS traps: "culture fit" = "like me" (mirror test);  │
-   │   hire for VALUES/skills, add diversity not sameness   │
-   │ • CANDIDATE EXPERIENCE is your brand                    │
-   └──────────────────────────────────────────────────────┘
-```
+Structured hiring is what makes interviewing reliable rather than a coin flip
+with extra steps.
+
+- **Structure the interviews**: the same questions for every candidate, scored
+  against anchored rubrics. The alternative — vibes and gut feel — is where bias
+  lives and where reliability goes to die.
+- **Use work samples.** They predict job performance far better than
+  brain-teasers or puzzle questions, which mostly measure whether someone has
+  seen that puzzle.
+- **Calibrate your interviewers** through shadowing and shared rubrics, so a
+  "yes" means roughly the same thing from any of them.
+- **Watch the bias traps.** "Culture fit" quietly becomes "like me" — the mirror
+  test. Hire for **values and skills**, and aim to add range rather than
+  sameness.
+- **Treat candidate experience as your brand.** Every candidate, including the
+  ones you reject, talks to other engineers.
 
 The reframe: **hire with structure (same questions, anchored rubrics) for what actually predicts
 performance — not gut-feel vibes and "culture fit" as a mirror test.** Unstructured, vibes-based
@@ -63,7 +56,7 @@ questions** and evaluate against **anchored rubrics** (clear criteria describing
 answer looks like), rather than freeform conversations judged by gut feel. Structure works because: (1) it
 makes candidates **comparable** (same questions → you compare like with like, not "I liked chatting with
 this one"); (2) rubrics make evaluation **objective and consistent** (anchored on what a good answer
-demonstrates, not vibes); and (3) it **reduces bias** (structure limits the halo/similarity biases that
+demonstrates, not vibes); and (3) it **reduces bias** (structure limits the halo/**similarity biases**[°](#w-similarity-bias) that
 freewheeling interviews amplify). Research consistently shows structured interviews predict performance far
 better than unstructured ones. Vibes-based interviewing feels insightful but is unreliable and bias-prone;
 structure is the fix.
@@ -82,7 +75,7 @@ work, assessing the skills the role genuinely needs — that's what predicts, no
 
 Interviewers need **calibration** — a shared understanding of the bar and how to evaluate — or different
 interviewers apply wildly different standards (one's "strong" is another's "weak"). Achieve it through:
-**anchored rubrics** (a shared standard), **shadowing** (new interviewers observe experienced ones before
+**anchored rubrics** (a shared standard), **shadowing**[°](#w-shadowing) (new interviewers observe experienced ones before
 interviewing solo, learning the bar and technique), and **debrief discussions** (comparing evaluations
 calibrates people over time). Uncalibrated interviewers make hiring a lottery (outcome depends on who
 happened to interview); calibrated interviewers apply a consistent bar. Interviewing is a skill that must be
@@ -93,7 +86,7 @@ trained (via shadowing and calibration), not assumed.
 A dangerous bias trap: **"culture fit" used as a mirror test** — rejecting/accepting candidates based on
 whether they're <em>like you</em> (similar background, style, interests) dressed up as "culture fit" or
 "not a fit." This: (1) is **biased** (it selects for sameness — people like the existing team — which
-correlates with excluding underrepresented groups); (2) **harms the team** (a monoculture — everyone
+correlates with excluding underrepresented groups); (2) **harms the team** (a **monoculture**[°](#w-monoculture) — everyone
 similar — is worse at problem-solving and innovation than a diverse team; you want diversity of thought and
 background, not clones); and (3) **isn't real culture fit** (which should be about shared <em>values</em>
 and working well together, not similarity). The fix: hire for genuine **values alignment and the skills/
@@ -103,7 +96,7 @@ other biases too (halo, similarity, first-impression) — structure is the main 
 
 ### Candidate experience is your brand
 
-How you treat candidates (whether they're hired or not) **is your brand** — a good candidate experience
+How you treat candidates (whether they're hired or not) **is your brand** — a good **candidate experience**[°](#w-candidate-experience)
 (respectful, clear, timely, well-run) reflects well on the company and makes people want to join (and speak
 well of you); a bad one (disorganized, disrespectful, ghosting, a grueling process) damages your reputation
 and loses candidates. Every candidate — including rejected ones — is a person who talks to others and forms
@@ -116,7 +109,7 @@ afterthought.
 > **Hire with structure and predictive signals, not vibes and "culture fit" mirror tests</br>**
 > Hiring is high-leverage (a bad hire is worse than none), so build a reliable process: <em>structured
 > interviews</em> (same questions + anchored rubrics — comparable, objective, less biased than gut-feel
-> vibes), focused on <em>what actually predicts</em> (work samples like the real job, not brain-teasers/
+> vibes), focused on <em>what actually predicts</em> (work samples like the real job, not **brain-teasers**[°](#w-brain-teaser)/
 > puzzles). <em>Calibrate interviewers</em> (rubrics, shadowing, debriefs — so the bar is consistent, not a
 > lottery). Avoid the <em>bias traps</em>, especially "culture fit" as a mirror test (hiring people like you
 > — biased and monoculture-building); hire for values alignment and culture <em>add</em> (diversity), not
@@ -369,6 +362,23 @@ team-building, and it pairs with the next lesson (evaluating and closing candida
 the person). The next lesson covers the decision and the close — running a good debrief and actually landing
 the candidate you want.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-structured-interview"></a>**structured interview** — every candidate gets the same questions, scored against the same rubric.
+- <a id="w-rubric"></a>**rubric** (ROO-brik) — a written scoring guide; <a id="w-anchored"></a>**anchored** — with concrete descriptions of what weak/good/strong answers look like.
+- <a id="w-vibes-gut-feel"></a>**vibes / gut feel** — unstructured impressions; feels insightful, predicts poorly.
+- <a id="w-work-sample"></a>**work sample** — an exercise resembling the actual job (the best predictor); <a id="w-brain-teaser"></a>**brain-teaser** — an abstract puzzle ("how many golf balls fit in a bus") that predicts nothing.
+- <a id="w-shadowing"></a>**shadowing** — new interviewers observing experienced ones to learn the bar.
+- <a id="w-culture-fit-as-mirror-test"></a>**"culture fit" as mirror test** — rejecting candidates for not resembling you, disguised as fit; the fix is **values fit + culture add**.
+- <a id="w-monoculture"></a>**monoculture** — a team of similar people; worse at problems than a diverse one.
+- <a id="w-similarity-bias"></a>**similarity bias** — favouring people like yourself.
+- <a id="w-candidate-experience"></a>**candidate experience** — how the process feels to candidates; your hiring brand.
+- <a id="w-above-the-bar"></a>**above the bar** — good enough to raise the team's average, not just fill the seat.
 
 ---
 

@@ -10,15 +10,7 @@ parent: "Phase 7: Documenting, Evaluating & Evolving Architecture"
 
 # Lesson 28: Documenting Architecture — the C4 Model & Views
 
-{: .note }
-> **Words to know**
-> - **view** — a diagram or document that shows the system from *one* audience's angle (a developer's, an operator's, an exec's) rather than everything at once.
-> - **4+1** — a classic idea: describe an architecture through several complementary views (logical, process, development, physical) tied together by scenarios.
-> - **C4 model** — Context → Container → Component → Code: four zoom levels for describing software structure, most-zoomed-out first.
-> - **container (in C4)** — *not* a Docker container; a separately deployable/runnable thing (an app, a service, a database, a single-page app). A unit of deployment.
-> - **diagram-as-code** — diagrams written as text (so they can be versioned and diffed) rather than drawn in a tool.
-> - **arc42 / views-and-beyond** — templates for a full architecture documentation package (not just diagrams).
-> - **legend** — the key that says what each shape, line, and colour means; a diagram without one is guesswork.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -33,34 +25,41 @@ The fix is the single most important idea in architecture documentation: **diffe
 different views.** You don't draw *the* diagram; you draw a small set of diagrams, each at one level of
 abstraction, each answering the questions of one audience.
 
-```
-   ONE GIANT DIAGRAM (serves no one)      vs.     VIEWS AT ZOOM LEVELS (C4)
-   ┌───────────────────────────────┐            L1 CONTEXT   ▢ our system + users + externals
-   │ ▢▢▢─▢▢  ▢──▢▢▢  ▢▢▢─▢          │                        (audience: everyone, incl. non-tech)
-   │  │  ╳╳╳╲ │  ╱▢▢▢╳ │  ▢▢        │            L2 CONTAINER  zoom in: the apps/services/DBs
-   │ ▢▢▢▢─╳──▢▢──╳╲▢▢──▢▢▢          │                        (audience: devs + ops — the big picture)
-   │   too much detail for the exec │            L3 COMPONENT  zoom into ONE container's parts
-   │   too little context for the   │                        (audience: devs on that container)
-   │   developer; readable by no one│            L4 CODE      (rarely drawn; the IDE shows this)
-   └───────────────────────────────┘            zoom OUT → IN, one abstraction level per diagram
-```
+The usual failure is **one giant diagram** — every box and line in the estate on
+a single canvas. It carries far too much detail for an executive and far too
+little context for a developer, and the honest description is that it is
+readable by nobody.
 
-The **C4 model** operationalizes this as four zoom levels — Context, Container, Component, Code —
+The **C4 model** fixes this by drawing several diagrams, each at one zoom level
+and each for one audience:
+
+| Level | What it shows | Who it is for |
+|---|---|---|
+| **L1 — Context** | Our system, its users, and the external systems it talks to | Everyone, including non-technical stakeholders |
+| **L2 — Container** | Zoom in: the applications, services, and databases that make it up | Developers and operations — the big picture |
+| **L3 — Component** | Zoom into *one* container's internal parts | Developers working on that container |
+| **L4 — Code** | Classes and their relationships | Rarely drawn — your IDE already shows this |
+
+The discipline that makes it work is **one abstraction level per diagram**, and
+zooming outward-in. A diagram that mixes a load balancer, a Java class, and a
+business capability has no audience, which is why nobody updates it.
+
+The **C4 model**[°](#w-c4-model) operationalizes this as four zoom levels — Context, Container, Component, Code —
 where each level *zooms in* on the previous, adding detail one layer at a time. It's not "more boxes";
 it's a **map metaphor**: a country map, then a city map, then a street map, then a building plan — same
 territory, chosen level of detail for the reader. Do this, keep each diagram to one abstraction level,
-give it a legend, and document the *why* (not just the what), and your architecture becomes something
+give it a **legend**[°](#w-legend), and document the *why* (not just the what), and your architecture becomes something
 people can actually build, review, and remember.
 
 ## Going Deeper
 
 **Why one diagram fails: the 4+1 insight.** The classic
-[4+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model) view model (Kruchten) made the
+[4+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model) **view**[°](#w-view) model (Kruchten) made the
 point decades ago: a single diagram can't serve the *logical* structure (what a developer wants), the
 *process/runtime* behavior (what an operator wants), the *development* structure (modules/teams), and
 the *physical* deployment (infrastructure) all at once — so you describe the architecture through
 several complementary views, tied together by a few key **scenarios** (the "+1"). You don't have to use
-4+1 by name, but internalize its lesson: **pick views by audience and by the question each answers.**
+**4+1**[°](#w-4-1) by name, but internalize its lesson: **pick views by audience and by the question each answers.**
 A deployment diagram answers "where does it run?"; a sequence diagram answers "what happens when a user
 checks out?"; a component diagram answers "how is this service built?" Trying to answer all of them in
 one picture answers none.
@@ -311,6 +310,20 @@ answer reaches: documentation is the deliverable that outlives you, its whole ar
 audience and keeping each at one abstraction level, and the highest-leverage, most-neglected content is
 the reasoning — the <em>why</em> a diagram can never show.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-view"></a>**view** — a diagram or document that shows the system from *one* audience's angle (a developer's, an operator's, an exec's) rather than everything at once.
+- <a id="w-4-1"></a>**4+1** — a classic idea: describe an architecture through several complementary views (logical, process, development, physical) tied together by scenarios.
+- <a id="w-c4-model"></a>**C4 model** — Context → Container → Component → Code: four zoom levels for describing software structure, most-zoomed-out first.
+- <a id="w-container-in-c4"></a>**container (in C4)** — *not* a Docker container; a separately deployable/runnable thing (an app, a service, a database, a single-page app). A unit of deployment.
+- <a id="w-diagram-as-code"></a>**diagram-as-code** — diagrams written as text (so they can be versioned and diffed) rather than drawn in a tool.
+- <a id="w-arc42-views-and-beyond"></a>**arc42 / views-and-beyond** — templates for a full architecture documentation package (not just diagrams).
+- <a id="w-legend"></a>**legend** — the key that says what each shape, line, and colour means; a diagram without one is guesswork.
 
 ---
 

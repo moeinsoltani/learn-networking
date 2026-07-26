@@ -10,15 +10,7 @@ parent: "Phase 5: Data & Scale"
 
 # Lesson 20: Event Sourcing & CQRS
 
-{: .note }
-> **Words to know**
-> - **CQRS** — Command Query Responsibility Segregation: separate the *write* model from the *read* model.
-> - **command** — an operation that changes state (a write); **query** — an operation that reads state.
-> - **event sourcing** — store the sequence of state-changing *events* as the source of truth, instead of just the current state.
-> - **projection / read model** — a view built by processing events, shaped for a specific query.
-> - **fold / replay** — deriving current state by applying all past events in order.
-> - **snapshot** — a saved current-state checkpoint so you don't replay from the beginning every time.
-> - **audit trail** — a complete, immutable history of what happened and when.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -26,27 +18,36 @@ Two powerful patterns, frequently confused with each other and frequently over-a
 They're *independent* (you can use either alone), and each trades significant complexity for
 significant capability — so the architect's job is knowing when that trade is worth it.
 
-**CQRS** separates the model you use to *change* data (commands/writes) from the model you use
-to *read* it (queries). Instead of one model serving both, you have a write model optimized for
+**CQRS**[°](#w-cqrs) separates the model you use to *change* data (**commands**[°](#w-command)/writes) from the model you use
+to *read* it (**queries**[°](#w-query)). Instead of one model serving both, you have a write model optimized for
 consistency and validation, and one or more read models optimized for specific queries — often
 in different shapes, even different stores, scaled independently.
 
-**Event sourcing** stores the *sequence of events* that happened, as the source of truth,
+**Event sourcing**[°](#w-event-sourcing) stores the *sequence of events* that happened, as the source of truth,
 rather than just the current state. Current state is *derived* by replaying the events.
 
-```
-   TRADITIONAL (state-oriented)        EVENT SOURCING (event-oriented)
-   account: { balance: 80 }            events: [ Opened,
-   (you see 80; the history            +100 Deposited,
-    of how it got there is lost)        -30 Withdrawn,
-                                         +10 Deposited ]
-   UPDATE overwrites the past.          → current balance = fold = 80
-                                         → the full history IS the data;
-   CQRS: one WRITE model (validate,       nothing is overwritten.
-   commit events/state) + separate     
-   READ models (shaped per query),     Often paired with CQRS: events are the
-   kept in sync.                        write side; projections build read models.
-```
+Two ways to store the same account.
+
+**Traditional, state-oriented**: the row says `{ balance: 80 }`. You can see the
+80, and the history of how it got there is gone — each `UPDATE` overwrites the
+past.
+
+**Event-sourced, event-oriented**: you store the events instead — `Opened`,
+`Deposited +100`, `Withdrawn −30`, `Deposited +10` — and the current balance is
+derived by folding over them, arriving at 80. **The full history *is* the data**,
+and nothing is ever overwritten.
+
+That buys you a complete audit trail for free, the ability to ask what the
+state was at any past moment, and the ability to build a new view of old
+behaviour that nobody thought to record. It costs you complexity everywhere:
+versioning events, replaying them, and explaining all of it to the next team.
+
+Event sourcing is often paired with **CQRS** — Command Query Responsibility
+Segregation — which separates one **write model** (validate, then commit events
+or state) from separate **read models** shaped per query and kept in sync. The
+two ideas are independent; each is useful without the other, and adopting both
+at once on a system that needed neither is a well-documented way to lose a
+year.
 
 They pair naturally (event sourcing is a write model; CQRS projections turn events into read
 models), which is why they're taught together — but you can do CQRS with a normal database and
@@ -88,7 +89,7 @@ are hard or impossible otherwise:
 > handle <em>every historical version</em> of every event forever (upcasting, versioning
 > strategies) — a real, permanent tax. (3) <strong>You can't easily "just query the table"</strong>
 > — answering an ad-hoc question means building a projection, not writing a SQL query; the
-> flexibility of relational querying is gone from the write side. (4) <strong>Replay & snapshot
+> flexibility of relational querying is gone from the write side. (4) <strong>Replay & **snapshot**[°](#w-snapshot)
 > complexity</strong> — replaying millions of events is slow, so you need snapshots, which add
 > machinery. (5) <strong>A steep learning curve</strong> — most engineers haven't built this way,
 > and mistakes (e.g., putting behavior/validation in the wrong place, or events that are really
@@ -122,7 +123,7 @@ whether CQRS), and defend the yes/no strictly from the trade-offs — the audit/
 value on one side, the eventual-consistency / versioning / learning-curve costs on the other:
 
 1. A **bank account ledger** — records deposits, withdrawals, transfers; must have a complete,
-   provable, immutable audit trail for regulators; "what was the balance on date X" is a real
+   provable, immutable **audit trail**[°](#w-audit-trail) for regulators; "what was the balance on date X" is a real
    question; correctness of history is paramount.
 2. A **CMS (content management system)** — editors create and edit articles; the current
    published version is what matters; occasional "who changed this and can we revert" is nice but
@@ -349,6 +350,20 @@ calibrated conclusion is often "event-source this one ledger, add a read project
 leave everything else as simple CRUD," which is a far more sophisticated answer than either "adopt
 CQRS+ES everywhere" or "never use them."
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-cqrs"></a>**CQRS** — Command Query Responsibility Segregation: separate the *write* model from the *read* model.
+- <a id="w-command"></a>**command** — an operation that changes state (a write); <a id="w-query"></a>**query** — an operation that reads state.
+- <a id="w-event-sourcing"></a>**event sourcing** — store the sequence of state-changing *events* as the source of truth, instead of just the current state.
+- <a id="w-projection-read-model"></a>**projection / read model** — a view built by processing events, shaped for a specific query.
+- <a id="w-fold-replay"></a>**fold / replay** — deriving current state by applying all past events in order.
+- <a id="w-snapshot"></a>**snapshot** — a saved current-state checkpoint so you don't replay from the beginning every time.
+- <a id="w-audit-trail"></a>**audit trail** — a complete, immutable history of what happened and when.
 
 ---
 

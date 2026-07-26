@@ -17,16 +17,24 @@ help you and how professional you look. A good help request makes it easy to hel
 (you've given the right information) and shows you tried first (you look capable, not
 lost). A bad one dumps a vague problem and makes the helper do all the work.
 
-```
-   BAD ASK (vague, effortless)         GOOD ASK (easy to help)
-   ───────────────────────────         ───────────────────────
-   "the deploy isn't working,           "Deploy failing with a timeout error.
-    can you help?"                       What I've tried: restarted (failed
-                                         again), checked the DB (fine). Any
-                                         idea what else to look at? 🙏"
+How you ask for help largely determines how quickly you get it.
 
-   THE SHAPE:  goal · what I tried · exact error · specific question
-```
+**A bad ask** — vague, and puts all the effort on the helper:
+
+> "the deploy isn't working, can you help?"
+
+**A good ask** — easy to help with:
+
+> "Deploy failing with a timeout error. What I've tried: restarted (failed
+> again), checked the DB (fine). Any idea what else to look at? 🙏"
+
+The shape to reuse: **goal · what I tried · the exact error · a specific
+question.**
+
+Notice what "what I've tried" does. It stops the helper suggesting things you
+have already done, which is where most of the wasted back-and-forth lives — and
+it quietly shows you made a genuine attempt, which makes people considerably
+more willing to spend time on you.
 
 The good-ask shape: state your **goal** (what you're trying to do), **what you've
 tried** (shows effort + saves the helper suggesting things you did), the **exact

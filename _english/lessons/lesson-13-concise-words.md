@@ -18,17 +18,26 @@ makes writing clearer and more confident. This is a skill that helps everyone, b
 it especially helps non-native writers, because shorter and plainer is easier to get
 right (fewer words = fewer chances for error) and reads better.
 
-```
-   WORDY                                CONCISE
-   ─────                                ───────
-   "at this point in time"              "now"
-   "in order to"                        "to"
-   "due to the fact that"               "because"
-   "I wanted to reach out to let         "Quick question: …"
-    you know that I had a question"
-   "make a decision"                    "decide"  (sometimes)
-   "in the event that"                  "if"
-```
+English at work rewards brevity, and a handful of stock phrases can almost
+always be shortened.
+
+| Wordy | Concise |
+|---|---|
+| "at this point in time" | "now" |
+| "in order to" | "to" |
+| "due to the fact that" | "because" |
+| "I wanted to reach out to let you know that I had a question" | "Quick question: …" |
+| "make a decision" | "decide" *(sometimes)* |
+| "in the event that" | "if" |
+
+The fourth row is the one worth studying, because it is the shape most
+non-native writers produce under politeness pressure: a long, apologetic
+approach before the actual message. The short version is not ruder — in English
+it reads as *more* considerate, because it respects the reader's time.
+
+"Sometimes" on the fifth row is deliberate. "Make a decision" is occasionally
+the better choice when you want to emphasise the act of deciding as an event.
+Concision is a default, not a law.
 
 Two moves do most of the work: **cut filler** (words that add length but no meaning
 — very, really, actually, basically, just; and wordy phrases like "at this point in

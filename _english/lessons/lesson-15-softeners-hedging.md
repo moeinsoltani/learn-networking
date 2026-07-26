@@ -18,17 +18,24 @@ speakers use them constantly, and non-native writers often *under*-use them, whi
 is why correct English can still sound blunt or harsh. This is the most direct fix
 for your central goal.
 
-```
-   BLUNT (correct but harsh)          SOFTENED (same meaning, warm)
-   ─────────────────────────          ─────────────────────────────
-   "This is wrong."                   "I think this might not be right."
-   "You forgot the tests."            "It looks like the tests might be missing?"
-   "Do it by Friday."                 "Could you do it by Friday if possible?"
-   "That won't work."                 "I'm not sure that would work — my worry is…"
+The same accurate statement can land as an attack or as a note, and the
+difference is a handful of small words.
 
-   softeners:  I think · might · maybe · could · a bit ·
-               just · seems · probably · I'm not sure · perhaps
-```
+| Blunt (correct but harsh) | Softened (same meaning, warm) |
+|---|---|
+| "This is wrong." | "I think this might not be right." |
+| "You forgot the tests." | "It looks like the tests might be missing?" |
+| "Do it by Friday." | "Could you do it by Friday if possible?" |
+| "That won't work." | "I'm not sure that would work — my worry is…" |
+
+The words doing the work are the **softeners**: *I think · might · maybe ·
+could · a bit · just · seems · probably · I'm not sure · perhaps.*
+
+Two things worth understanding about them. They are not dishonesty or
+weakness — English-speaking colleagues read them as normal professional
+courtesy, and their absence as unusual force. And note the shift in the second
+row from "you forgot" to "the tests might be missing": moving from the *person*
+to the *thing* is often the single most effective softener available.
 
 The softener toolkit — *I think, might, maybe, could, seems, probably, a bit, just,
 perhaps, I'm not sure* — lets you say the same thing more gently. But there's a

@@ -10,15 +10,7 @@ parent: "Phase 4: Seasons, Habitats & Field Skills"
 
 # Lesson 15: Birds Through the Seasons
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **migration** (my-GRAY-shun) — the seasonal journey many birds make between summer breeding grounds and warmer winter homes.
-> - **migrant** — a bird that migrates; **resident** — a bird that stays year-round.
-> - **breeding grounds** — where a bird nests and raises young (for many, the Canadian summer).
-> - **irruption** (ih-RUP-shun) — an unusual mass movement of a bird south in some winters (e.g. snowy owls) when food is scarce up north.
-> - **flyway** — a broad highway in the sky that migrating birds follow.
-> - **plumage** (PLOO-mij) — feather colours, which for some birds change between summer and winter.
-> - **overwinter** — to survive through the winter in place.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,7 +21,7 @@ month into a set of expectations: you know roughly *what you'll see* and *when*.
 
 ![A Canada goose — geese in V-formation are Canada's clearest migration signal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canada_goose.jpg/960px-Canada_goose.jpg)
 
-***Canada goose** — the migration you can't miss. Honking **V-formations** heading
+***Canada goose** — the **migration**[°](#w-migration) you can't miss. Honking **V-formations** heading
 **south** in autumn and **north** in spring are Canada's loudest seasonal clock.
 (Some urban geese now stay all winter where food and open water allow — a modern
 twist.) Photo:
@@ -48,6 +40,16 @@ days and an explosion of insects** to feed hungry chicks. The boreal forest
 fall.
 
 ### Who leaves, who stays
+
+The single most useful seasonal fact for a new birdwatcher: **the cast changes
+completely twice a year.** Roughly a third of Canada's breeding birds leave
+entirely, a smaller group arrives *for* the winter from further north, and a
+core group tough it out year-round.
+
+That matters practically, because it means a bird you cannot identify in
+January is drawn from a much shorter list than the same bird in June — and it
+explains why the feeder outside your window looks like a different place in
+different seasons.
 
 | Strategy | Examples (from this course) | Why |
 |---|---|---|
@@ -68,12 +70,12 @@ your winter feeder. Photo:
 Not all winter change is about birds leaving. Some winters, **snowy owls irrupt**
 south from the Arctic in numbers (often when Arctic prey like lemmings crash),
 appearing in southern fields and along shorelines. So a Canadian winter *subtracts*
-the migrants but can *add* northern visitors — winter isn't empty, it's a
+the **migrants**[°](#w-migrant) but can *add* northern visitors — winter isn't empty, it's a
 different cast.
 
 ![A snowy owl — an Arctic bird that can appear in the south in winter](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bubo_scandiacus_%28Linnaeus%2C_1758%29_Male.jpg/960px-Bubo_scandiacus_%28Linnaeus%2C_1758%29_Male.jpg)
 
-***Snowy owl** — in "irruption" winters, this Arctic hunter shows up in southern
+***Snowy owl** — in "**irruption**[°](#w-irruption)" winters, this Arctic hunter shows up in southern
 Canadian fields, a prize sighting that only the cold season offers. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bubo_scandiacus_%28Linnaeus%2C_1758%29_Male.jpg).*
 
@@ -85,7 +87,7 @@ Canadian fields, a prize sighting that only the cold season offers. Photo:
   young; the boreal is packed.
 - **Autumn (Sep–Nov):** migration south; geese in V's; leaves turn (Lesson 06);
   last chance for departing species.
-- **Winter (Dec–Feb):** residents at feeders (chickadee, cardinal, nuthatch,
+- **Winter (Dec–Feb):** **residents**[°](#w-resident) at feeders (chickadee, cardinal, nuthatch,
   woodpeckers) plus possible northern visitors (snowy owl, winter finches).
 
 ### Feeding birds in winter
@@ -237,6 +239,20 @@ these are the winter residents, food-switchers that stay when the migrants have
 gone." Full marks for connecting a real, dated sighting to the seasonal strategy
 (migrating vs. resident vs. northern visitor) it illustrates.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-migration"></a>**migration** (my-GRAY-shun) — the seasonal journey many birds make between summer breeding grounds and warmer winter homes.
+- <a id="w-migrant"></a>**migrant** — a bird that migrates; <a id="w-resident"></a>**resident** — a bird that stays year-round.
+- <a id="w-breeding-grounds"></a>**breeding grounds** — where a bird nests and raises young (for many, the Canadian summer).
+- <a id="w-irruption"></a>**irruption** (ih-RUP-shun) — an unusual mass movement of a bird south in some winters (e.g. snowy owls) when food is scarce up north.
+- <a id="w-flyway"></a>**flyway** — a broad highway in the sky that migrating birds follow.
+- <a id="w-plumage"></a>**plumage** (PLOO-mij) — feather colours, which for some birds change between summer and winter.
+- <a id="w-overwinter"></a>**overwinter** — to survive through the winter in place.
 
 ---
 

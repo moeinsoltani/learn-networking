@@ -10,41 +10,34 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 48: Connecting Technical Decisions to Business Outcomes
 
-{: .note }
-> **Words to know** *(simple definitions for this lesson's jargon)*
-> - **translation table** — the mental mapping from technical properties (latency, uptime, debt) to business outcomes (conversion, churn, cost).
-> - **conversion** — the share of visitors who become paying users.
-> - **uptime** — the fraction of time a service works ("99.9%"); its opposite is **downtime**.
-> - **time-to-market** — how fast an idea becomes a shipped product.
-> - **loaded cost** — an employee's true cost: salary plus benefits, equipment, office, taxes.
-> - **engineer-month / engineer-quarter** — units of effort: one engineer working one month/quarter; convertible to dollars.
-> - **expected value** — probability × impact; how to price a risk rationally.
-> - **business case** — the numbers-and-assumptions argument for an investment (Lesson 11).
-> - **labeled assumptions** — stating openly which numbers are estimates, so the case is honest and checkable.
-> - **payback** — how long until an investment has returned its cost.
-> - **gold-plating** — polish beyond what pays off (Lesson 11).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 To get engineering investments approved and to make good decisions, you must **justify significant
 technical work in business language** — because leadership decides in terms of business impact (revenue,
 cost, risk, time), not technical merit. The skill is the **translation**: connecting technical things
-(latency, reliability, tech debt) to their business consequences (conversion, churn, velocity/time-to-
+(latency, reliability, tech debt) to their business consequences (**conversion**[°](#w-conversion), churn, velocity/time-to-
 market), treating engineering time as a real cost, and being honest — including when the honest answer is
 "this doesn't pay off."
 
-```
-   THE TRANSLATION TABLE (technical → business)
-   ┌──────────────────────────────────────────────────────┐
-   │ latency          → conversion / user satisfaction       │
-   │ reliability/uptime → churn / trust / revenue            │
-   │ tech debt        → velocity → time-to-market / cost     │
-   │ security         → risk (breach cost, compliance)       │
-   │ observability    → incident cost / time-to-resolve      │
-   │ ENG TIME = a real $ cost (salaries × time)              │
-   │ RISK in expected-value terms (probability × impact)     │
-   └──────────────────────────────────────────────────────┘
-```
+Most technical concerns have a business translation, and learning the mapping
+is what lets you fund them.
+
+| Technical concern | What it means to the business |
+|---|---|
+| Latency | Conversion, and user satisfaction |
+| Reliability and uptime | Churn, trust, revenue |
+| Tech debt | Velocity — and therefore time-to-market and cost |
+| Security | Risk: breach cost, compliance exposure |
+| Observability | Incident cost, and time-to-resolve |
+
+Two habits complete the translation. Treat **engineering time as a real
+monetary cost** — salaries multiplied by time, which is how everyone outside
+engineering already sees it. And express **risk in expected-value terms**:
+probability times impact. "There's a chance this breaks" is easy to defer; "a
+20% chance of a week-long outage in the next year" is a number that can be
+compared with other numbers, which is the only way it competes for budget.
 
 The reframe: **translate technical work into business impact — leadership funds business outcomes, not
 technical elegance — and be honest, including when the answer is "it doesn't pay off."** An engineer
@@ -59,7 +52,7 @@ prioritized correctly.
 
 ### The translation table — technical to business
 
-The core skill is a mental **translation table** from technical properties to business outcomes: (1)
+The core skill is a mental **translation table**[°](#w-translation-table) from technical properties to business outcomes: (1)
 **latency → conversion / satisfaction** (slower = fewer conversions, less satisfaction — often
 quantifiable: "every 100ms costs X% conversion"); (2) **reliability/uptime → churn / trust / revenue**
 (outages and bugs drive churn and erode trust, directly hitting revenue in a subscription business); (3)
@@ -72,7 +65,7 @@ consequence is what lets you justify it in the terms leadership weighs.
 ### Engineering time as a real cost
 
 A crucial reframe: **engineering time is a real, quantifiable cost** — engineers' salaries are large, so a
-"2-engineer-quarter" project is a real dollar amount (2 engineers × 3 months × loaded cost). Treating
+"2-engineer-quarter" project is a real dollar amount (2 engineers × 3 months × **loaded cost**[°](#w-loaded-cost)). Treating
 engineering time as the significant cost it is (not free) lets you do real cost-benefit analysis: is this
 investment (X engineer-months = $Y) worth its benefit (the business value it creates)? This grounds
 engineering decisions in economics — you're spending real money (engineering time), so the return should
@@ -96,16 +89,16 @@ assumptions: state the cost (engineering time as $), the benefit (the business i
 translation table), and the assumptions behind the numbers (labeled as assumptions, so they're honest and
 checkable). "This observability investment costs 2 engineer-quarters (~$X); it should cut our incident
 resolution time by ~50%, saving ~Y engineer-hours and ~$Z in incident impact per year [assuming current
-incident rate and cost]; payback in ~N months." Numbers (even estimated) make it concrete and comparable;
+incident rate and cost]; **payback**[°](#w-payback) in ~N months." Numbers (even estimated) make it concrete and comparable;
 labeling assumptions makes it honest (you're not pretending precision you don't have) and lets others
-engage with the reasoning. A business case with real numbers and honest assumptions is far more persuasive
+engage with the reasoning. A **business case**[°](#w-business-case) with real numbers and honest assumptions is far more persuasive
 than "we should invest in observability because it's good practice."
 
 ### When the honest answer is "it doesn't pay off"
 
 Crucially, the translation is **honest** — sometimes the analysis shows a technical investment **doesn't
 pay off**, and you should say so. Not every technically-appealing thing is worth the business cost (a
-rewrite that costs 6 engineer-months for marginal benefit, gold-plating with no business return, a
+rewrite that costs 6 engineer-months for marginal benefit, **gold-plating**[°](#w-gold-plating) with no business return, a
 premature optimization). Being willing to conclude "this doesn't pay off — the cost exceeds the benefit"
 (and not doing it) is part of business-honest engineering leadership. It builds credibility (you're not
 just advocating for engineering's wish list; you apply honest cost-benefit even against engineering's
@@ -116,9 +109,9 @@ The translation cuts both ways: it justifies worthwhile investments AND rules ou
 > **Translate technical work into business impact — with real numbers, honest assumptions, both ways</br>**
 > Leadership funds business outcomes, not technical elegance, so justify significant technical work in
 > business language via the translation table: latency → conversion, reliability → churn/revenue, tech debt
-> → velocity → time-to-market, security → risk, observability → incident cost. Treat <em>engineering time
+> → velocity → **time-to-market**[°](#w-time-to-market), security → risk, observability → incident cost. Treat <em>engineering time
 > as a real dollar cost</em> (enabling genuine cost-benefit analysis), frame <em>risk in expected-value</em>
-> terms (probability × impact), and build a <em>business case with real numbers and labeled assumptions</em>
+> terms (probability × impact), and build a <em>business case with real numbers and **labeled assumptions**[°](#w-labeled-assumptions)</em>
 > (concrete and honest). Crucially, the translation is honest and cuts both ways — sometimes the answer is
 > "this doesn't pay off," and saying so builds credibility and is the right call. Justifying engineering in
 > business terms is what gets worthwhile investments funded and prioritized correctly (and rules out the
@@ -367,6 +360,24 @@ lesson, "should we build this?", which applies this business lens to the fundame
 build something at all. The next lesson covers that shift — from "how do we build it" to "should we, and is
 this the best way" — the lead's constant opportunity-cost lens.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-translation-table"></a>**translation table** — the mental mapping from technical properties (latency, uptime, debt) to business outcomes (conversion, churn, cost).
+- <a id="w-conversion"></a>**conversion** — the share of visitors who become paying users.
+- <a id="w-uptime"></a>**uptime** — the fraction of time a service works ("99.9%"); its opposite is **downtime**.
+- <a id="w-time-to-market"></a>**time-to-market** — how fast an idea becomes a shipped product.
+- <a id="w-loaded-cost"></a>**loaded cost** — an employee's true cost: salary plus benefits, equipment, office, taxes.
+- <a id="w-engineer-month-engineer-quarter"></a>**engineer-month / engineer-quarter** — units of effort: one engineer working one month/quarter; convertible to dollars.
+- <a id="w-expected-value"></a>**expected value** — probability × impact; how to price a risk rationally.
+- <a id="w-business-case"></a>**business case** — the numbers-and-assumptions argument for an investment (Lesson 11).
+- <a id="w-labeled-assumptions"></a>**labeled assumptions** — stating openly which numbers are estimates, so the case is honest and checkable.
+- <a id="w-payback"></a>**payback** — how long until an investment has returned its cost.
+- <a id="w-gold-plating"></a>**gold-plating** — polish beyond what pays off (Lesson 11).
 
 ---
 

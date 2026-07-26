@@ -10,16 +10,7 @@ parent: "Phase 2: Trees of Canada"
 
 # Lesson 09: The Forests of Canada
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **forest region** — a large area named for the mix of trees that dominate it.
-> - **boreal** (BORE-ee-ul) — the vast northern evergreen forest belt; the biggest in Canada.
-> - **taiga** (TIE-gah) — another word for the boreal forest, especially its thin northern edge.
-> - **temperate rainforest** — a mild, very wet coastal forest of giant trees (BC coast).
-> - **Carolinian** (kair-oh-LIN-ee-un) — the warm, southernmost deciduous forest of Ontario, with species found nowhere else in Canada.
-> - **Acadian** (uh-KAY-dee-un) — the mixed forest of the Maritime provinces.
-> - **deciduous / mixed / coniferous forest** — dominated by leaf-droppers, a blend, or evergreens.
-> - **old-growth** — ancient forest never logged, with very large old trees.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -29,7 +20,7 @@ north to south and coast to coast:
 
 - **Boreal forest** — the giant. Spruce, fir, pine, tamarack, birch, aspen, and
   endless lakes, wrapping the country from Yukon to Newfoundland. Canada holds
-  much of the world's boreal.
+  much of the world's **boreal**[°](#w-boreal).
 - **Great Lakes–St. Lawrence forest** — a **mixed** forest (conifers + broadleaf)
   through central Ontario, Quebec, and the St. Lawrence: white pine, hemlock,
   sugar maple, oak, birch. Where most Canadians live.
@@ -57,12 +48,21 @@ amounts of carbon and hosts billions of nesting birds each summer. Photo:
 
 ### The regions, and how to recognise which one you're in
 
+Canada's forests are not one thing. They form broad bands that follow climate
+and geology — the same physical regions from Canada Lesson 02 — and each band
+has a signature mix of species.
+
+The practical use of this is that **the trees tell you where you are**. A stand
+of black spruce and jack pine puts you in the boreal; sugar maple and beech put
+you in the eastern hardwoods; Douglas-fir and western redcedar put you on the
+Pacific slope. Learn the signature species and the region announces itself.
+
 | Region | Where | Signature trees | You can tell because… |
 |---|---|---|---|
 | **Boreal** | Across the north, coast to coast | White/black spruce, jack pine, balsam fir, tamarack, aspen, birch | Endless dark conifers + lakes; few tree *species*, vast numbers |
 | **Great Lakes–St. Lawrence** | Central ON, QC, St. Lawrence | White pine, hemlock, sugar maple, red oak, yellow birch | A **mix** of tall conifers and colourful hardwoods |
 | **Deciduous (Carolinian)** | Southernmost ON (Windsor–Toronto) | Oak, maple, hickory, sassafras, tulip-tree, black walnut | Warm, broadleaf-dominated, unusual "southern" species |
-| **Acadian** | NB, NS, PEI | Red spruce, balsam fir, sugar maple, yellow birch | Maritime mixed forest, often near the sea |
+| **Acadian**[°](#w-acadian) | NB, NS, PEI | Red spruce, balsam fir, sugar maple, yellow birch | Maritime mixed forest, often near the sea |
 | **Coastal rainforest** | BC coast, Vancouver Island | Western redcedar, Douglas-fir, Sitka spruce, western hemlock | Giant mossy trees, ferns, constant damp |
 | **Montane/subalpine** | BC & AB mountains | Lodgepole pine, Engelmann spruce, subalpine fir | Forests stacked in belts up the mountainside |
 
@@ -72,7 +72,7 @@ amounts of carbon and hosts billions of nesting birds each summer. Photo:
 
 *The **coastal temperate rainforest** of British Columbia (here on Haida Gwaii) —
 some of the largest and oldest trees in Canada grow here: western redcedars and
-Douglas-firs centuries old, in **old-growth** stands. Pacific rain and mild
+Douglas-firs centuries old, in **old-growth**[°](#w-old-growth) stands. Pacific rain and mild
 winters make this rare, globally significant forest. Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Windy_Bay_forest.jpg).*
 
@@ -105,7 +105,7 @@ forestry, mining, and Indigenous stewardship all share it.
 
 ## Lab — Look & Identify
 
-**Exercise 1 — name the region.** From the description, name the forest region:
+**Exercise 1 — name the region.** From the description, name the **forest region**[°](#w-forest-region):
 (a) endless dark spruce and countless lakes across the north; (b) giant mossy
 redcedars and Douglas-firs in a constantly wet coast; (c) a mix of white pine,
 hemlock, sugar maple and oak in cottage country; (d) grassland with trees only
@@ -116,7 +116,7 @@ along the rivers.
 <details>
 <summary>Show Model Answer</summary>
 <br>
-(a) <strong>Boreal forest</strong>; (b) <strong>coastal temperate rainforest</strong>
+(a) <strong>Boreal forest</strong>; (b) <strong>coastal **temperate rainforest**[°](#w-temperate-rainforest)</strong>
 (BC); (c) <strong>Great Lakes–St. Lawrence (mixed) forest</strong>; (d)
 <strong>Prairie grassland/parkland</strong> (too dry for closed forest, so trees
 cluster along watercourses). You're reading the *mix* of trees + the moisture to
@@ -135,7 +135,7 @@ thing that makes each different.
 Model: "It's actually several very different forests. The <strong>boreal</strong>
 is a cold northern belt of spruce, fir, and pine with few species but enormous
 size; the <strong>coastal rainforest</strong> of BC is the opposite — mild, soaking
-wet, with some of the biggest trees on Earth; and the tiny <strong>Carolinian</strong>
+wet, with some of the biggest trees on Earth; and the tiny <strong>**Carolinian**[°](#w-carolinian)</strong>
 strip in southern Ontario is warm and broadleaf, holding species found nowhere else
 in the country. Between them sit mixed forests, mountain forests, prairie, and
 treeless Arctic tundra. Same word, 'forest,' completely different worlds." Full
@@ -239,6 +239,21 @@ that fits the region well." Full marks for matching local species to the predict
 region, and for noting where planted street trees might mislead you versus the
 natural forest in a ravine or park.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-forest-region"></a>**forest region** — a large area named for the mix of trees that dominate it.
+- <a id="w-boreal"></a>**boreal** (BORE-ee-ul) — the vast northern evergreen forest belt; the biggest in Canada.
+- <a id="w-taiga"></a>**taiga** (TIE-gah) — another word for the boreal forest, especially its thin northern edge.
+- <a id="w-temperate-rainforest"></a>**temperate rainforest** — a mild, very wet coastal forest of giant trees (BC coast).
+- <a id="w-carolinian"></a>**Carolinian** (kair-oh-LIN-ee-un) — the warm, southernmost deciduous forest of Ontario, with species found nowhere else in Canada.
+- <a id="w-acadian"></a>**Acadian** (uh-KAY-dee-un) — the mixed forest of the Maritime provinces.
+- <a id="w-deciduous-mixed-coniferous-forest"></a>**deciduous / mixed / coniferous forest** — dominated by leaf-droppers, a blend, or evergreens.
+- <a id="w-old-growth"></a>**old-growth** — ancient forest never logged, with very large old trees.
 
 ---
 

@@ -10,16 +10,7 @@ parent: "Phase 5: Data & Scale"
 
 # Lesson 22: Scaling Data (Partitioning, Sharding, Replication)
 
-{: .note }
-> **Words to know**
-> - **vertical scaling (scale up)** — a bigger machine (more CPU/RAM/disk); simple, but has a ceiling and gets costly.
-> - **horizontal scaling (scale out)** — more machines working together; harder, but scales far.
-> - **replication** — keeping copies of the same data on multiple nodes (for read scaling and availability).
-> - **replication lag** — the delay before a write on the primary appears on the replicas.
-> - **partitioning / sharding** — splitting data across nodes so each holds a subset (for write scaling).
-> - **shard key** — the field used to decide which shard a row goes to; the single most important sharding choice.
-> - **hot spot** — a shard that gets disproportionate load because of a bad shard key.
-> - **cross-shard query** — a query that must touch many shards; slow and complex, to be avoided.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
@@ -28,26 +19,37 @@ a great many systems actually break, because scaling *data* is far harder than s
 stateless compute (you can't just run more copies; the data has to live somewhere). There's a
 ladder of techniques, each solving a different bottleneck and charging a different tax.
 
-```
-   THE SCALING LADDER (climb only as far as you must)
+Data scaling is a ladder, and the rule is to climb only as far as you must —
+each rung solves a problem and charges a tax.
 
-   1. VERTICAL (scale up)      bigger box.   Simple. Ceiling + cost. Try first.
-        │  (hit the ceiling / read load too high)
-        ▼
-   2. READ REPLICAS            copies for READS. Scales reads + availability.
-        │   ↳ tax: REPLICATION LAG (reads may be stale — consistency returns)
-        │  (WRITES are now the bottleneck — replicas don't help writes)
-        ▼
-   3. PARTITION / SHARD        split data across nodes. Scales WRITES + storage.
-            ↳ tax: the SHARD KEY decides everything. Bad key → HOT SPOTS +
-              CROSS-SHARD QUERIES. Cross-shard transactions ≈ gone (Lesson 17).
-```
+**1. Vertical — scale up.** A bigger box. It is simple, requires no
+architectural change, and should genuinely be tried first. Its limits are a
+hard ceiling and a price curve that turns unpleasant near the top.
 
-The crucial distinctions: **replication** (copies of the *same* data) scales **reads** and
+*You climb when:* you hit the ceiling, or read load alone is too high.
+
+**2. Read replicas.** Copies of the database that serve reads, which scales
+reads and improves availability. *The tax:* **replication lag** — replicas are
+behind the primary, so reads may be stale, and Lesson 15's consistency question
+returns in a new place.
+
+*You climb when:* writes are now the bottleneck, since replicas do nothing for
+writes.
+
+**3. Partitioning, or sharding.** Split the data across nodes, which finally
+scales **writes** and storage. *The tax is the largest of the three:* the
+**shard key decides everything**. A bad key gives you hot spots and queries that
+must hit every shard, and cross-shard transactions are essentially gone —
+straight back to Lesson 17.
+
+The ladder is worth respecting in order. A great deal of premature sharding
+exists in the world because step one was skipped.
+
+The crucial distinctions: **replication**[°](#w-replication) (copies of the *same* data) scales **reads** and
 buys availability, but every replica still holds *all* the data and every write must propagate
 to all of them — so it does *nothing* for write throughput or storage limits.
 **Partitioning/sharding** (each node holds a *different subset*) scales **writes** and storage,
-but it's much harder and the **shard key** choice makes or breaks it.
+but it's much harder and the **shard key**[°](#w-shard-key) choice makes or breaks it.
 
 ## Going Deeper
 
@@ -80,10 +82,10 @@ manage.
 > <code>user_id</code>, <code>tenant_id</code>, <code>region</code>). This one choice determines
 > whether sharding <em>helps</em> or <em>ruins</em> you, and it's brutally expensive to change
 > later (re-sharding means moving huge amounts of data). Two ways a bad key destroys you: (1)
-> <strong>Hot spots</strong> — if the key distributes load unevenly, one shard gets hammered
+> <strong>**Hot spots**[°](#w-hot-spot)</strong> — if the key distributes load unevenly, one shard gets hammered
 > while others idle (sharding by <code>country</code> when 80% of users are in one country; or a
 > low-cardinality/sequential key that funnels writes to one shard), so you've added complexity
-> <em>without</em> gaining balanced capacity. (2) <strong>Cross-shard queries</strong> — if your
+> <em>without</em> gaining balanced capacity. (2) <strong>**Cross-shard queries**[°](#w-cross-shard-query)</strong> — if your
 > common queries need data from many shards (you sharded by <code>user_id</code> but constantly
 > query "all orders in this date range across all users"), every such query must fan out to all
 > shards and combine results — slow, complex, and it defeats the point. A <em>good</em> shard key
@@ -352,6 +354,21 @@ to shard), and if sharding does loom, the shard key is a high-stakes, near-irrev
 should be reasoned out from the real access pattern — ideally long before the emergency that would
 otherwise force a rushed, wrong choice.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-vertical-scaling-scale-up"></a>**vertical scaling (scale up)** — a bigger machine (more CPU/RAM/disk); simple, but has a ceiling and gets costly.
+- <a id="w-horizontal-scaling-scale-out"></a>**horizontal scaling (scale out)** — more machines working together; harder, but scales far.
+- <a id="w-replication"></a>**replication** — keeping copies of the same data on multiple nodes (for read scaling and availability).
+- <a id="w-replication-lag"></a>**replication lag** — the delay before a write on the primary appears on the replicas.
+- <a id="w-partitioning-sharding"></a>**partitioning / sharding** — splitting data across nodes so each holds a subset (for write scaling).
+- <a id="w-shard-key"></a>**shard key** — the field used to decide which shard a row goes to; the single most important sharding choice.
+- <a id="w-hot-spot"></a>**hot spot** — a shard that gets disproportionate load because of a bad shard key.
+- <a id="w-cross-shard-query"></a>**cross-shard query** — a query that must touch many shards; slow and complex, to be avoided.
 
 ---
 

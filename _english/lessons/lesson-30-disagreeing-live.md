@@ -18,16 +18,24 @@ person is right there. Yet a lead has to do it — push back on a bad plan, offe
 view — and doing it warmly and clearly, in the moment, is a high-value skill. The good news:
 there's a reliable structure you can reach for even under time pressure.
 
-```
-   THE LIVE-DISAGREEMENT STRUCTURE:
+Disagreeing out loud, in real time, has a four-step structure that keeps it
+warm:
 
-   1. ACKNOWLEDGE   "That makes sense / I see the appeal of that —"
-   2. BRIDGE        "one thing I'd want to think about is…"  (not "but")
-   3. YOUR VIEW     "…what happens to latency when the cache misses?"
-   4. INVITE        "What do you think? Am I missing something?"
+1. **Acknowledge** — "That makes sense / I see the appeal of that —"
+2. **Bridge** — "one thing I'd want to think about is…" (*not* "but")
+3. **Your view** — "…what happens to latency when the cache misses?"
+4. **Invite** — "What do you think? Am I missing something?"
 
-   Disagree with the IDEA, warmly, while respecting the PERSON.
-```
+The bridge is the step that earns its place. **"But" deletes everything before
+it** — the listener hears the acknowledgement as a formality and braces. "One
+thing I'd want to think about" keeps the door open, and the disagreement
+arrives as a contribution to a shared problem.
+
+Step four matters too: ending on a genuine question turns a verdict into a
+conversation, and occasionally reveals that you *were* missing something.
+
+The whole aim in one line: **disagree with the idea, warmly, while respecting
+the person.**
 
 The core principle (from Phase 3, now live): **disagree with the idea, not the person, and
 lead with acknowledgment.** Separating "I have a concern about this approach" from "you're

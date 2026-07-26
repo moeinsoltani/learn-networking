@@ -19,16 +19,24 @@ lost?). Both have graceful, standard phrasings. Knowing them means you can parti
 fully instead of staying silent because you're unsure how to interject or admit you didn't
 follow.
 
-```
-   INTERRUPTING GRACEFULLY          CLARIFYING GRACEFULLY
-   ──────────────────────           ─────────────────────
-   "Can I jump in here?"            "Sorry, can you say that again?"
-   "Building on that —"            "Just to make sure I follow —"
-   "Quick thought —"               "When you say X, do you mean…?"
-   "Before we move on —"           "Can you give an example?"
+Two things non-native speakers avoid in meetings, both of which are completely
+normal:
 
-   Interjecting is normal. Asking to clarify is SMART, not weak.
-```
+| Interrupting gracefully | Clarifying gracefully |
+|---|---|
+| "Can I jump in here?" | "Sorry, can you say that again?" |
+| "Building on that —" | "Just to make sure I follow —" |
+| "Quick thought —" | "When you say X, do you mean…?" |
+| "Before we move on —" | "Can you give an example?" |
+
+Two things worth believing. **Interjecting is normal** in English-language
+meetings — waiting for a clean pause often means waiting forever, and the
+phrases on the left exist precisely so that interrupting can be done politely.
+
+And **asking someone to clarify is smart, not weak.** It is read as engagement
+and care about getting it right. The person who sat silently through a
+misunderstanding is not perceived as having been more competent — only as
+having been quiet.
 
 The key reframe: **interrupting politely is normal and expected** in meetings (you're not
 being rude — everyone does it with the right phrasing), and **asking someone to repeat or

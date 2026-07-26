@@ -10,43 +10,39 @@ parent: "Phase 2: Foundations of Structure"
 
 # Lesson 07: Domain-Driven Design Essentials
 
-{: .note }
-> **Words to know**
-> - **domain** — the business problem space the software serves (e.g., "e-commerce," "insurance claims").
-> - **ubiquitous language** — one shared vocabulary, used identically by developers and domain experts and in the code.
-> - **bounded context** — a boundary within which a model and its language are consistent; the same word can mean different things in different contexts.
-> - **subdomain** — a part of the domain; classified as **core** (your competitive edge), **supporting** (needed but not special), or **generic** (a solved commodity).
-> - **context map** — a diagram of how bounded contexts relate and integrate.
-> - **anti-corruption layer (ACL)** — a translation layer that stops another context's model from leaking into and polluting yours.
-> - **aggregate** — a cluster of objects treated as one unit for consistency (tactical DDD).
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 Where do good boundaries (Lesson 6) actually come from? Domain-Driven Design's answer:
 **from the business domain itself, expressed in a shared language.** Not from the
 database schema, not from the framework's layers — from how the business actually
-thinks and talks about its work. DDD is the discipline of letting the domain drive the
+thinks and talks about its work. DDD is the discipline of letting the **domain**[°](#w-domain) drive the
 model, the boundaries, and even the code's vocabulary.
 
-The load-bearing idea is the **bounded context**: a boundary within which a model and
+The load-bearing idea is the **bounded context**[°](#w-bounded-context): a boundary within which a model and
 its terms mean exactly one thing. The revelation that makes DDD click: **the same word
 means different things in different parts of the business, and that's not a problem to
 resolve — it's a boundary to respect.**
 
-```
-   "Customer" is not one thing:
+Start with the observation that unlocks domain-driven design: **"Customer" is
+not one thing.**
 
-   ┌──── SALES context ────┐   ┌──── SUPPORT context ───┐   ┌──── BILLING context ──┐
-   │ Customer =            │   │ Customer =             │   │ Customer =            │
-   │  a lead, pipeline,    │   │  a ticket history,     │   │  an account, invoices,│
-   │  deal size, contact   │   │  entitlements, SLA     │   │  payment method, tax  │
-   └───────────────────────┘   └────────────────────────┘   └───────────────────────┘
-          same WORD, different MODEL in each context
+| In the **Sales** context | In the **Support** context | In the **Billing** context |
+|---|---|---|
+| A lead, a pipeline stage, a deal size, a contact | A ticket history, entitlements, an SLA | An account, invoices, a payment method, tax status |
 
-   Trying to build ONE "Customer" object that serves all three
-   → a bloated, low-cohesion model coupling three unrelated concerns.
-   DDD says: three contexts, three "Customer" models, translated at the seams.
-```
+Same word, three genuinely different models. Nothing is wrong here — each team
+means something real and specific by "customer," and each is right within its
+own context.
+
+The mistake is trying to build **one** `Customer` object that serves all three.
+What you get is a bloated, low-cohesion model that couples three unrelated
+concerns, so that a change to tax handling can break the sales pipeline.
+
+DDD's answer is to stop fighting it: **three contexts, three `Customer` models,
+translated at the seams.** The translation between them is real work, and it is
+much less work than the alternative.
 
 Bounded contexts are the *natural seams* of a system — and, not coincidentally, the
 right size for a module or a service. When people ask "how do I know where to split
@@ -65,10 +61,10 @@ language is *scoped to a context* (that's why "Customer" can differ across conte
 ubiquitous *within* a bounded context, not globally.
 
 **Strategic vs tactical DDD — start strategic.** DDD has two halves. **Strategic**
-DDD is about the big picture: identifying subdomains, drawing bounded contexts,
+DDD is about the big picture: identifying **subdomains**[°](#w-subdomain), drawing bounded contexts,
 mapping how they relate — this is the architecturally significant part and where you
 should focus. **Tactical** DDD is the in-context building blocks: entities,
-value objects, *aggregates* (a cluster of objects with one consistency boundary and
+value objects, *aggregates*[°](#w-aggregate) (a cluster of objects with one consistency boundary and
 one "root"), repositories, domain events. Tactical patterns are useful but optional
 and often over-applied; the strategic part is what earns DDD its place in an
 architecture track. If you take one thing from DDD, take *bounded contexts*.
@@ -93,7 +89,7 @@ relationships, because integration is where coupling sneaks back in. The key pat
 *partnership* (two contexts succeed or fail together, coordinate closely);
 *customer-supplier* (upstream provides, downstream consumes, with the downstream's
 needs given weight); *conformist* (downstream just accepts the upstream's model as-is
-— cheap but couples you to it); and the crucial **anti-corruption layer (ACL)** — a
+— cheap but couples you to it); and the crucial **anti-corruption layer (ACL)**[°](#w-anti-corruption-layer-acl) — a
 translation layer that converts an external/upstream model into *your* context's
 terms, so their model (and their changes) can't leak in and corrupt yours. The ACL is
 the DDD tool you reach for whenever you integrate with a legacy system or a third party
@@ -328,6 +324,20 @@ engineers and our custom-build effort go?" as a strategic question with a clear 
 reconsideration (Lesson 33). A good answer names at least one concrete reallocation it
 implies — something to stop building and buy, or something core to invest more in.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-domain"></a>**domain** — the business problem space the software serves (e.g., "e-commerce," "insurance claims").
+- <a id="w-ubiquitous-language"></a>**ubiquitous language** — one shared vocabulary, used identically by developers and domain experts and in the code.
+- <a id="w-bounded-context"></a>**bounded context** — a boundary within which a model and its language are consistent; the same word can mean different things in different contexts.
+- <a id="w-subdomain"></a>**subdomain** — a part of the domain; classified as **core** (your competitive edge), **supporting** (needed but not special), or **generic** (a solved commodity).
+- <a id="w-context-map"></a>**context map** — a diagram of how bounded contexts relate and integrate.
+- <a id="w-anti-corruption-layer-acl"></a>**anti-corruption layer (ACL)** — a translation layer that stops another context's model from leaking into and polluting yours.
+- <a id="w-aggregate"></a>**aggregate** — a cluster of objects treated as one unit for consistency (tactical DDD).
 
 ---
 

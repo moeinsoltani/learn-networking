@@ -10,39 +10,36 @@ parent: "Phase 3: Architectural Styles"
 
 # Lesson 09: Monoliths & the Modular Monolith
 
-{: .note }
-> **Words to know**
-> - **monolith** — a system deployed as a single unit; all its code runs in one process.
-> - **modular monolith** — a monolith with *enforced* internal module boundaries; one deployable, many well-separated modules.
-> - **rot / decay** — the gradual loss of internal structure until a monolith becomes a big ball of mud.
-> - **in-process call** — a normal function call within one program (fast, reliable) vs a network call between services (slow, can fail).
-> - **"monolith first"** — Fowler's advice to start with a monolith and extract services only when a driver forces it.
-> - **deployable unit** — the thing you ship and run as one; a monolith has one, microservices have many.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-The internet says monoliths are legacy and microservices are the future. The truth an
+The internet says **monoliths**[°](#w-monolith) are legacy and microservices are the future. The truth an
 architect must hold: **the monolith is the right default far more often than the
 discourse admits.** A monolith isn't a failure state — it's a deliberate style that
 optimizes for simplicity, and simplicity is a feature, not an embarrassment.
 
-```
-   MONOLITH                         The problem isn't "monolith."
-   ┌─────────────────────────┐      The problem is "monolith with no
-   │  Orders  Payments        │      internal boundaries" → rots into:
-   │  Inventory  Shipping      │
-   │  (all in ONE process,     │      BIG BALL OF MUD
-   │   ONE deployable,         │      ┌─────────────────────────┐
-   │   ONE database)           │      │ everything ↔ everything  │
-   └─────────────────────────┘      │  no boundaries, tangled  │
-   ✓ simple  ✓ fast calls           └─────────────────────────┘
-   ✓ transactions  ✓ easy refactor
-                                     MODULAR MONOLITH (the fix)
-   ✗ one deploy for everyone         ┌───────┬───────┬─────────┐
-   ✗ scales as one blob              │Orders │Paymnts│Inventory│  ← enforced
-   ✗ tempts internal rot             │ [api] │ [api] │  [api]  │    boundaries,
-                                     └───────┴───────┴─────────┘    one deployable
-```
+A **monolith** is one process, one deployable, one database, containing
+everything — orders, payments, inventory, shipping.
+
+It has real advantages, and they are routinely forgotten in the rush to split
+things up: it is **simple**, calls between parts are **fast** and cannot fail
+over a network, **transactions across the whole system just work**, and
+refactoring across module boundaries is a rename rather than a migration.
+
+Its costs are equally real: **one deploy for everyone**, so every team's release
+is coupled to every other's; it **scales as one blob**, so you buy capacity for
+the whole thing to serve the hot 5%; and it **tempts internal rot**.
+
+That last point is the one that matters, because **the problem is not
+"monolith" — it is "monolith with no internal boundaries."** Left unenforced, it
+degenerates into a **big ball of mud** where everything reaches into everything
+and no change is local.
+
+The fix is not necessarily distribution. It is the **modular monolith**:
+enforced boundaries between Orders, Payments, and Inventory, each exposing an
+explicit internal API, all still shipping as **one deployable**. You get
+Lesson 06's promise without paying Lesson 14's distributed tax.
 
 A monolith's real strengths are substantial: **one deployment** (no orchestration,
 versioning, or distributed rollout), **normal function calls** (fast, reliable — no
@@ -79,7 +76,7 @@ topology" (Lesson 6) produces.
 > start you *don't yet know the right boundaries* — the domain is still being
 > discovered, and drawing service boundaries early (when you understand least) tends to
 > put them in the wrong places, which is brutally expensive to fix once they're
-> physical. Build a modular monolith, let the boundaries prove themselves as the domain
+> physical. Build a **modular monolith**[°](#w-modular-monolith), let the boundaries prove themselves as the domain
 > clarifies, and *if* a driver later demands it (a module needs independent scaling,
 > a team needs autonomy), extract that module into a service — cheaply, because it's
 > already a clean module with its own data and a narrow interface. The modular monolith
@@ -323,6 +320,19 @@ both over-distribution (distributed monolith) and under-structuring (mud-ball mo
 are failures to match the deployment topology to the actual boundaries and drivers — and
 naming which one your system suffers from is the first step to fixing it.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-monolith"></a>**monolith** — a system deployed as a single unit; all its code runs in one process.
+- <a id="w-modular-monolith"></a>**modular monolith** — a monolith with *enforced* internal module boundaries; one deployable, many well-separated modules.
+- <a id="w-rot-decay"></a>**rot / decay** — the gradual loss of internal structure until a monolith becomes a big ball of mud.
+- <a id="w-in-process-call"></a>**in-process call** — a normal function call within one program (fast, reliable) vs a network call between services (slow, can fail).
+- <a id="w-monolith-first"></a>**"monolith first"** — Fowler's advice to start with a monolith and extract services only when a driver forces it.
+- <a id="w-deployable-unit"></a>**deployable unit** — the thing you ship and run as one; a monolith has one, microservices have many.
 
 ---
 

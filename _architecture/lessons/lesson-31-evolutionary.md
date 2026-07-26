@@ -10,46 +10,45 @@ parent: "Phase 7: Documenting, Evaluating & Evolving Architecture"
 
 # Lesson 31: Evolutionary Architecture & Managing Change
 
-{: .note }
-> **Words to know**
-> - **evolutionary architecture** — a design built to support *guided, incremental change* as a first-class property, rather than a fixed blueprint.
-> - **architecture as a verb** — treating "architecting" as an ongoing activity of guided change, not a one-time noun (a blueprint) you produce and freeze.
-> - **last responsible moment (LRM)** — decide as late as you responsibly can, so you decide with the most information — but not so late that it costs you.
-> - **reversible / irreversible decision** — two-way vs one-way door (Lesson 2); keeping decisions reversible keeps options open.
-> - **accidental vs essential complexity** — complexity the problem forces on you (essential) vs complexity you added yourself (accidental); defer/avoid the accidental.
-> - **YAGNI** — "You Aren't Gonna Need It": don't build for imagined future needs; the future rarely matches the guess.
-> - **big rewrite trap** — the recurring, usually-doomed urge to throw it all away and rebuild from scratch.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
 The one certainty about your requirements is that they will **change** — the business pivots, the load
 grows, the assumptions you designed against turn out wrong. A traditional architecture treats itself as
 a *noun*: a blueprint you produce, freeze, and defend against change, so every change fights the design.
-**Evolutionary architecture** inverts this: it treats architecture as a **verb** — an ongoing practice
+**Evolutionary architecture**[°](#w-evolutionary-architecture) inverts this: it treats architecture as a **verb** — an ongoing practice
 of *guided, incremental change* — and makes "supports change" a first-class quality attribute you
 design *for*, exactly like performance or security. The goal isn't to predict the future (you can't);
 it's to build a system that can *absorb* a future you didn't predict, cheaply.
 
-```
-   ARCHITECTURE AS A NOUN (blueprint)      ARCHITECTURE AS A VERB (guided change)
-   ┌──────────────────────────┐            ┌────────────────────────────────────┐
-   │ design it ONCE, freeze it │            │ design for CHANGE as a requirement  │
-   │ every change fights it    │            │ ┌ loose coupling / good boundaries  │
-   │ options close over time   │            │ │  → options stay OPEN              │
-   │ → eventually: rewrite     │            │ ├ last responsible moment           │
-   │   (the big-bang trap)     │            │ │  → decide with MOST info          │
-   └──────────────────────────┘            │ ├ defer accidental complexity (YAGNI)│
-                                            │ └ fitness functions                 │
-       predict the future (fails)          │    → change SAFELY (guardrails)     │
-                                            └────────────────────────────────────┘
-                                              absorb a future you didn't predict
-```
+There are two ways to hold the word "architecture," and only one of them
+survives contact with a real system.
+
+**Architecture as a noun** treats the design as a blueprint: design it once,
+freeze it, and every subsequent change fights it. Options close over time, and
+the endgame is the big-bang rewrite. Its hidden premise is that you can predict
+the future, which nobody can.
+
+**Architecture as a verb** treats change itself as a requirement and guides it:
+
+- **Loose coupling and good boundaries** (Lessons 05–06) keep options **open**.
+- **The last responsible moment** — decide when you have the most information,
+  not the least.
+- **Defer accidental complexity** — YAGNI, so you are not maintaining
+  flexibility you never needed.
+- **Fitness functions** (Lesson 30) let you change **safely**, because guardrails
+  catch what a rewrite would otherwise break.
+
+The difference in ambition is the point. The first tries to *predict* a future
+and fails. The second aims to **absorb a future you did not predict**, which is
+a target you can actually hit.
 
 Four disciplines make this real. **Keep options open** — the value of loose coupling and good
 boundaries (Lessons 5–6) is precisely that they let you change one thing without changing everything, so
 they're not academic tidiness, they're *optionality*. **Decide at the last responsible moment** — defer
 irreversible decisions until you have the most information, without deferring so long it costs you.
-**Postpone accidental complexity** — don't build for imagined futures (YAGNI); the speculative
+**Postpone accidental complexity** — don't build for imagined futures (**YAGNI**[°](#w-yagni)); the speculative
 generality you add "just in case" is usually wrong and always a cost. And **change safely with fitness
 functions** (Lesson 30) — the guardrails that let you evolve boldly because a violation trips the build.
 Together they let you avoid the trap this all guards against: the **big-bang rewrite**, which almost
@@ -301,6 +300,20 @@ evolutionary architecture — boundaries as optionality, last responsible moment
 and the two biggest, most common self-inflicted wounds are leaking a dependency that should have stayed
 behind a boundary, and pre-building flexibility for a future that never comes.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-evolutionary-architecture"></a>**evolutionary architecture** — a design built to support *guided, incremental change* as a first-class property, rather than a fixed blueprint.
+- <a id="w-architecture-as-a-verb"></a>**architecture as a verb** — treating "architecting" as an ongoing activity of guided change, not a one-time noun (a blueprint) you produce and freeze.
+- <a id="w-last-responsible-moment-lrm"></a>**last responsible moment (LRM)** — decide as late as you responsibly can, so you decide with the most information — but not so late that it costs you.
+- <a id="w-reversible-irreversible-decision"></a>**reversible / irreversible decision** — two-way vs one-way door (Lesson 2); keeping decisions reversible keeps options open.
+- <a id="w-accidental-vs-essential-complexity"></a>**accidental vs essential complexity** — complexity the problem forces on you (essential) vs complexity you added yourself (accidental); defer/avoid the accidental.
+- <a id="w-yagni"></a>**YAGNI** — "You Aren't Gonna Need It": don't build for imagined future needs; the future rarely matches the guess.
+- <a id="w-big-rewrite-trap"></a>**big rewrite trap** — the recurring, usually-doomed urge to throw it all away and rebuild from scratch.
 
 ---
 

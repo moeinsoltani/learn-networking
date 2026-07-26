@@ -10,24 +10,15 @@ parent: "Phase 2: Trees of Canada"
 
 # Lesson 07: Broadleaf Trees
 
-{: .note }
-> **Words to know** *(simple definitions + how to say the names)*
-> - **broadleaf** — a tree with wide flat leaves (as opposed to needles); most are deciduous.
-> - **oak** — a broadleaf tree with lobed leaves and **acorns** for seeds.
-> - **acorn** — the nut of an oak, sitting in a little cup.
-> - **birch** — a slender tree with papery, often white, peeling bark.
-> - **aspen / poplar** — fast-growing trees with leaves that flutter in the slightest breeze.
-> - **beech** — a tree with smooth grey bark and toothed oval leaves; seeds are "beechnuts."
-> - **catkin** (KAT-kin) — a dangling, caterpillar-shaped cluster of tiny flowers (birch, aspen, oak).
-> - **deciduous** (deh-SIH-joo-us) — dropping all leaves each autumn.
+*Words marked ° are explained in plain English in [Words to Know](#words-to-know) at the end of the lesson.*
 
 ## Concept
 
-Beyond the maples, four broadleaf trees show up constantly across Canada — the
-**oaks**, **birches**, **aspens/poplars**, and **beeches**. Each has one
+Beyond the maples, four **broadleaf**[°](#w-broadleaf) trees show up constantly across Canada — the
+**oaks**[°](#w-oak), **birches**[°](#w-birch), **aspens/poplars**, and **beeches**[°](#w-beech). Each has one
 signature you can spot from across a field:
 
-- **Oak** → **lobed** leaves and **acorns**. Strong, heavy, long-lived.
+- **Oak** → **lobed** leaves and **acorns**[°](#w-acorn). Strong, heavy, long-lived.
 - **Birch** → **white papery bark** that peels in horizontal strips.
 - **Aspen** → leaves that **tremble** in the faintest breeze, on smooth
   greenish-white bark.
@@ -67,7 +58,7 @@ the oak that ventures farthest into the dry Canadian Prairies. Photo:
 ***Paper birch** (white birch) — chalk-**white bark** that peels in papery
 horizontal strips, with dark horizontal dashes (lenticels). The classic canoe
 bark of the northern forest and the provincial tree of Saskatchewan. Small
-toothed oval leaves; dangling catkins. Photo:
+toothed oval leaves; dangling **catkins**[°](#w-catkin). Photo:
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:White_birch_at_Acadia_National_Park,_ME_IMG_2177.JPG).*
 
 Not every birch is white (yellow birch has shiny bronze, curling bark), but the
@@ -232,6 +223,21 @@ white-oak group (leaf-lobe shape + acorn)." Full marks for using the strongest
 single field mark and, for the oak, correctly reading pointed vs rounded lobes to
 place it in a group.
 </details>
+
+---
+
+## Words to Know
+
+*Simple definitions and pronunciations for the terms marked ° above.*
+
+- <a id="w-broadleaf"></a>**broadleaf** — a tree with wide flat leaves (as opposed to needles); most are deciduous.
+- <a id="w-oak"></a>**oak** — a broadleaf tree with lobed leaves and **acorns** for seeds.
+- <a id="w-acorn"></a>**acorn** — the nut of an oak, sitting in a little cup.
+- <a id="w-birch"></a>**birch** — a slender tree with papery, often white, peeling bark.
+- <a id="w-aspen-poplar"></a>**aspen / poplar** — fast-growing trees with leaves that flutter in the slightest breeze.
+- <a id="w-beech"></a>**beech** — a tree with smooth grey bark and toothed oval leaves; seeds are "beechnuts."
+- <a id="w-catkin"></a>**catkin** (KAT-kin) — a dangling, caterpillar-shaped cluster of tiny flowers (birch, aspen, oak).
+- <a id="w-deciduous"></a>**deciduous** (deh-SIH-joo-us) — dropping all leaves each autumn.
 
 ---
 
